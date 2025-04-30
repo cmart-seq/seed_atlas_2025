@@ -138,3 +138,14 @@ sbatch -p 20  --dependency=afterok:7361923 --mem=64gb --mail-type=ALL --job-name
 cd ../11_protein_catabolism_enrichment
 sbatch -p 20 --dependency=afterok:7361924 --mem=64gb --mail-type=ALL --job-name procat --wrap "Rscript protein_catabolism_enrichment.R"
 ```
+### dN/dS analysis ###
+
+### genome-wide codeml ###
+see the ```orthofinder_to_codeml.sh``` script for generating alignments and gene trees for codeml analysis
+
+
+
+
+
+
+
