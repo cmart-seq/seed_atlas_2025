@@ -111,7 +111,7 @@ Rscript clusterprofiler_intermediate.R --mks ../07_differential_expression/outpu
 
 Rscript clusterprofiler_intermediate.R --mks ../07_differential_expression/outputs/ATLAS/ATLAS_level_2_annotation_timed_final_markers.csv --sample ATLAS_level_2_timed_intermediate --wd .
 ```
-### Step 11: Pseudotime, identify root after merging 
+### Step 11: Pseudotime, identify root after merging (step 3)
 ```
 #for MCE, CZE, EMB
 cd ../05_across_timepoints/02_pseudotime
