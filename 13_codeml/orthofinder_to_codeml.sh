@@ -1,4 +1,4 @@
-#this bash script outlines the steps to perform genome-wide codeml in four Arabidopsis species
+#this bash script outlines the steps to perform genome-wide codeml in four species
 
 #get the arabidopsis lyrata, arabidopsis thaliana, brassica rapa, and Capsella grandiflora proteins
 cd 13_codeml
