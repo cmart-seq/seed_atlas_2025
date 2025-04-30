@@ -78,7 +78,7 @@ Rscript manual_annotation.R  --wd . --dataset DAP5_wcze_subs  --harmony TRUE --s
 ```
 #peforming integration by timepoint and regressing out cell cycle genes
 cd ../05_across_timepoints/01_merging
-sbatch -p 20 --mem=180gb --mail-type=ALL --job-name l2merging --wrap "Rscript level_2_merging_harmony.R"
+Rscript level_2_merging_harmony.R
 ```
 ### Step 5b: Pseudotime, identify root after merging (step 5a)
 ```
