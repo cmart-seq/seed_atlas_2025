@@ -138,13 +138,13 @@ Rscript peptide_enrichment.R
 cd ../11_protein_catabolism_enrichment
 Rscript protein_catabolism_enrichment.R
 ```
-### dN/dS analysis ###
+### Step 12: dN/dS analysis ###
 ```
 cd ../12_orthologr
 Rscript orthologr.R
 
 ```
-### genome-wide codeml ###
+### Step 13: genome-wide codeml ###
 see the ```orthofinder_to_codeml.sh``` script for generating alignments and gene trees for codeml analysis
 
 
