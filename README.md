@@ -128,18 +128,22 @@ Rscript clusterprofiler_intermediate.R --mks ../07_differential_expression/outpu
 ```
 #Signalling GO term enrichment
 cd ../../09_signalling_transport_gene_enrichment
-sbatch -p 20 --mem=64gb --mail-type=ALL --job-name signalling_enrichment --wrap "Rscript signalling_transport_gene_enrichment.R"
+Rscript signalling_transport_gene_enrichment.R
 
 #Peptide enrichment
 cd ../10_peptide_enrichment
-sbatch -p 20  --dependency=afterok:7361923 --mem=64gb --mail-type=ALL --job-name proten --wrap "Rscript peptide_enrichment.R"
+Rscript peptide_enrichment.R
 
 #Protein catabolism enrichment
 cd ../11_protein_catabolism_enrichment
-sbatch -p 20 --dependency=afterok:7361924 --mem=64gb --mail-type=ALL --job-name procat --wrap "Rscript protein_catabolism_enrichment.R"
+Rscript protein_catabolism_enrichment.R
 ```
 ### dN/dS analysis ###
+```
+cd ../12_orthologr
+Rscript orthologr.R
 
+```
 ### genome-wide codeml ###
 see the ```orthofinder_to_codeml.sh``` script for generating alignments and gene trees for codeml analysis
 
