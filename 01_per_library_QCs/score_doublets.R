@@ -1,3 +1,7 @@
+#this script is run on individual libraries after per_library_QCs.R is run to give each profile a doublet score and filter out those which exceed the doublet threshold
+#example usage:
+#Rscript score_doublets.R --wd . --seu_path outputs/DAP3_2/DAP3_2soupx.rds --sample DAP3_2
+
 library(Seurat)
 library(scDblFinder)
 library(dplyr)
@@ -12,7 +16,6 @@ library(stringr)
 set.seed(123)
 
 
-#cd /lab/solexa_gehring/carly/snRNA_seed_dev/clean_analysis/01_per_library_QCs
 #sbatch -p 20 --mem=24gb --mail-type=ALL --wrap 'Rscript score_doublets.R --wd . --seu_path outputs/DAP3_1a/DAP3_1asoupx.rds --sample DAP3_1a --rm_clusters'
 
 

@@ -1,7 +1,7 @@
 #this code performs the initial QCs and filtering steps of individual libraries after alignment with CellRanger
 
 #example usage: 
-#sbatch -p 20 --mem=24gb --mail-type=ALL --wrap 'Rscript per_library_QCs.R --wd . --sample DAP3_2 --tenXlibname DAP3_colcol_3 --ccGenes inputs/Menges2005_Mphase_Sphase.csv'
+#Rscript per_library_QCs.R --wd . --sample DAP3_2 --tenXlibname DAP3_colcol_3 --ccGenes inputs/Menges2005_Mphase_Sphase.csv
 
 library(Seurat)
 library(dplyr)
