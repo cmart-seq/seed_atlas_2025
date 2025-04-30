@@ -1,7 +1,7 @@
 ## snRNA-seq and evolutionary analysis code for Martin et al. 2025, _"A transcriptional atlas of early Arabidopsis seed development suggests mechanisms for inter-tissue coordination"_
 
 Below are the command line arguments for running all of the scripts implemented in Martin et al 2025.
-Steps 1-11 are for snRNA-seq data preprocessing analysis, while step 12 and 13 are for genome-wide dN/dS and codeml analysis. 
+Steps 1-11 are for snRNA-seq data preprocessing and analysis, while step 12 and 13 are for genome-wide dN/dS and codeml analysis. 
 Steps 1-11 have to be run sequentially, and all of the scripts assume a file structure like the one in this repository. This repository is under active development.
 
 ### Step 1a: perform initial SoupX background correction, low quality cell removal, and clustering
@@ -25,7 +25,7 @@ Rscript score_doublets.R --wd . --seu_path outputs/DAP5_3/DAP5_3soupx.rds --samp
 Rscript score_doublets.R --wd . --seu_path outputs/DAP7_2/DAP7_2soupx.rds --sample DAP7_2 --rm_clusters 16
 Rscript score_doublets.R --wd . --seu_path outputs/DAP7_3/DAP7_3soupx.rds --sample DAP7_3
 ```
-### Step 2: merge libraries into timepoint datasets and determine an appropriate # PCs and whether they should be integrated by timepoint 
+### Step 2: merge libraries into timepoint datasets and determine an appropriate # PCs and whether they should be integrated by replicate 
 ```
 cd ../02_merge_libraries_filtering_and_batch_effects
 
@@ -74,11 +74,11 @@ cd  ../
 Rscript manual_annotation.R  --wd . --dataset DAP3_wcze_subs  --harmony FALSE --seupath subclustering_for_CZE_subtypes/DAP3_clustered_wcze_subs.rds --mpath inputs/DAP3_level_3_wcze_subs.csv
 Rscript manual_annotation.R  --wd . --dataset DAP5_wcze_subs  --harmony TRUE --seupath subclustering_for_CZE_subtypes/DAP5_clustered_wcze_subs.rds --mpath inputs/DAP5_level_3_wcze_subs.csv
 ```
-### Step 5a: merge tissues across timepoints to enable pseudotime analysis
+### Step 5a: merge L2 clusters across timepoints to enable pseudotime analysis
 ```
 #peforming integration by timepoint and regressing out cell cycle genes
 cd ../05_across_timepoints/01_merging
-sbatch -p 20 --mem=180gb --mail-type=ALL --job-name l2merging --wrap "Rscript level_2_merging_harmony.R"
+Rscript level_2_merging_harmony.R
 ```
 ### Step 5b: Pseudotime, identify root after merging (step 5a)
 ```
