@@ -1,0 +1,111 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length	Gene Names (synonym)	TAIR
+O22765	reviewed	TRPA1_ARATH	Tryptophan synthase alpha chain (EC 4.2.1.20) (Indole synthase) (Indole-3-glycerol-phosphate lyase) (EC 4.1.2.8)	TRPA1 INS TSA At4g02610 T10P11.11	Arabidopsis thaliana (Mouse-ear cress)	275	INS TSA	AT4G02610;
+O65517	reviewed	SRS2_ARATH	Protein SHI RELATED SEQUENCE 2 (Protein STYLISH 2)	SRS2 STY2 At4g36260 F23E13.150	Arabidopsis thaliana (Mouse-ear cress)	322	STY2	AT4G36260;
+O65782	reviewed	C83B1_ARATH	Cytochrome P450 83B1 (EC 1.14.14.45) (Protein ALTERED TRYPTOPHAN REGULATION 4) (Protein RED ELONGATED 1) (Protein SUPERROOT 2)	CYP83B1 ATR4 RED1 RNT1 RUNT1 SUR2 At4g31500 F3L17.70	Arabidopsis thaliana (Mouse-ear cress)	499	ATR4 RED1 RNT1 RUNT1 SUR2	AT4G31500;
+O81346	reviewed	C79B2_ARATH	Tryptophan N-monooxygenase 1 (EC 1.14.14.156) (Cytochrome P450 79B2) (Tryptophan N-hydroxylase 1)	CYP79B2 At4g39950 T5J17.120	Arabidopsis thaliana (Mouse-ear cress)	541		AT4G39950;
+P14671	reviewed	TRPB1_ARATH	Tryptophan synthase beta chain 1, chloroplastic (EC 4.2.1.20)	TSB1 At5g54810 MBG8.7	Arabidopsis thaliana (Mouse-ear cress)	470		AT5G54810;
+P32961	reviewed	NRL1_ARATH	Nitrilase 1 (EC 3.5.5.1)	NIT1 At3g44310 T10D17_100	Arabidopsis thaliana (Mouse-ear cress)	346		AT3G44310;
+Q42529	reviewed	TRPA2_ARATH	Tryptophan synthase alpha chain, chloroplastic (EC 4.2.1.20) (Indole-3-glycerol-phosphate lyase, chloroplastic) (EC 4.1.2.8) (Protein TRYPTOPHAN-REQUIRING 3)	TSA1 TRP3 TSA2 At3g54640 T14E10.210	Arabidopsis thaliana (Mouse-ear cress)	312	TRP3 TSA2	AT3G54640;
+Q501D8	reviewed	C79B3_ARATH	Tryptophan N-monooxygenase 2 (EC 1.14.14.156) (Cytochrome P450 79B3) (Tryptophan N-hydroxylase 2)	CYP79B3 At2g22330 T26C19.1	Arabidopsis thaliana (Mouse-ear cress)	543		AT2G22330;
+Q7G191	reviewed	ALDO4_ARATH	Aldehyde oxidase 4 (AO-4) (AtAO-4) (AtAO2) (EC 1.2.3.1) (Benzaldehyde oxidase) (Indole-3-acetaldehyde oxidase) (IAA oxidase) (EC 1.2.3.7)	AAO4 AO2 At1g04580 T1G11.17	Arabidopsis thaliana (Mouse-ear cress)	1337	AO2	AT1G04580;
+Q7G192	reviewed	ALDO2_ARATH	Indole-3-acetaldehyde oxidase (IAA oxidase) (EC 1.2.3.7) (Aldehyde oxidase 2) (AO-2) (AtAO-2) (AtAO3)	AAO2 AO3 At3g43600 F22J12.40	Arabidopsis thaliana (Mouse-ear cress)	1321	AO3	AT3G43600;
+Q7G193	reviewed	ALDO1_ARATH	Indole-3-acetaldehyde oxidase (IAA oxidase) (EC 1.2.3.7) (Aldehyde oxidase 1) (AO-1) (AtAO-1) (AtAO1)	AAO1 AO1 At5g20960 F22D1.130	Arabidopsis thaliana (Mouse-ear cress)	1368	AO1	AT5G20960;
+Q7G9P4	reviewed	ALDO3_ARATH	Abscisic-aldehyde oxidase (EC 1.2.3.14) (Aldehyde oxidase 3) (AO-3) (AtAO-3) (AtAO4) (Indole-3-acetaldehyde oxidase) (IAA oxidase) (EC 1.2.3.7)	AAO3 AO4 At2g27150 F20F1.2	Arabidopsis thaliana (Mouse-ear cress)	1332	AO4	AT2G27150;
+Q8VZ59	reviewed	YUC6_ARATH	Indole-3-pyruvate monooxygenase YUCCA6 (EC 1.14.13.168) (Flavin-containing monooxygenase YUCCA6) (Protein HYPERTALL1)	YUC6 HYT1 YUCCA6 At5g25620 T14C9.160	Arabidopsis thaliana (Mouse-ear cress)	417	HYT1 YUCCA6	AT5G25620;
+Q94A02	reviewed	TAR2_ARATH	Tryptophan aminotransferase-related protein 2 (EC 2.6.1.27) (EC 2.6.1.99)	TAR2 At4g24670 F22K18.130	Arabidopsis thaliana (Mouse-ear cress)	440		AT4G24670;
+Q94AP3	reviewed	WAT1_ARATH	Protein WALLS ARE THIN 1	WAT1 At1g75500 F10A5.28 F1B16.19	Arabidopsis thaliana (Mouse-ear cress)	389		AT1G75500;
+Q94CK9	reviewed	LRP1_ARATH	Protein LATERAL ROOT PRIMORDIUM 1	LRP1 At5g12330 T2L20	Arabidopsis thaliana (Mouse-ear cress)	320		AT5G12330;
+Q9C969	reviewed	ISS1_ARATH	Aromatic aminotransferase ISS1 (EC 2.6.1.27) (EC 2.6.1.5) (EC 2.6.1.88) (Methionine aminotransferase ISS1) (Phenylalanine aminotransferase ISS1) (Protein INDOLE SEVERE SENSITIVE 1) (Protein REVERSAL OF SAV3 PHENOTYPE 1) (Tryptophan aminotransferase ISS1) (Tyrosine aminotransferase ISS1)	ISS1 VAS1 At1g80360 F5I6.11	Arabidopsis thaliana (Mouse-ear cress)	394	VAS1	AT1G80360;
+Q9FLN8	reviewed	IAMT1_ARATH	Indole-3-acetate O-methyltransferase 1 (EC 2.1.1.278) (IAA carboxylmethyltransferase 1) (S-adenosyl-L-methionine:(indol-3-yl) acetate carboxylmethyltransferase 1)	IAMT1 At5g55250 MCO15.20	Arabidopsis thaliana (Mouse-ear cress)	386		AT5G55250;
+Q9FR37	reviewed	AMI1_ARATH	Amidase 1 (AtAMI1) (EC 3.5.1.4) (Translocon at the outer membrane of chloroplasts 64-I) (AtTOC64-I)	AMI1 TOC64-I At1g08980 F7G19.15	Arabidopsis thaliana (Mouse-ear cress)	425	TOC64-I	AT1G08980;
+Q9FXH7	reviewed	SRS7_ARATH	Protein SHI RELATED SEQUENCE 7	SRS7 At1g19790 F6F9.16	Arabidopsis thaliana (Mouse-ear cress)	345		AT1G19790;
+Q9LFM5	reviewed	YUC4_ARATH	Probable indole-3-pyruvate monooxygenase YUCCA4 (EC 1.14.13.168) (Flavin-containing monooxygenase YUCCA4)	YUC4 THREAD YUCCA4 At5g11320 F2I11_210	Arabidopsis thaliana (Mouse-ear cress)	411	THREAD YUCCA4	AT5G11320;
+Q9LQZ5	reviewed	SRS5_ARATH	Protein SHI RELATED SEQUENCE 5	SRS5 At1g75520 F1B16.17	Arabidopsis thaliana (Mouse-ear cress)	346		AT1G75520;
+Q9LR29	reviewed	TAR1_ARATH	Tryptophan aminotransferase-related protein 1 (EC 2.6.1.27) (EC 2.6.1.99)	TAR1 At1g23320 F26F24.17	Arabidopsis thaliana (Mouse-ear cress)	388		AT1G23320;
+Q9S7N2	reviewed	TAA1_ARATH	L-tryptophan--pyruvate aminotransferase 1 (EC 2.6.1.27) (EC 2.6.1.99) (Protein CYTOKININ INDUCED ROOT CURLING 1) (Protein SHADE AVOIDANCE 3) (Protein TRANSPORT INHIBITOR RESPONSE 2) (Protein TRYPTOPHAN AMINOTRANSFERASE OF ARABIDOPSIS 1) (Protein WEAK ETHYLENE INSENSITIVE 8) (Tryptophan transaminase)	TAA1 CKRC1 SAV3 TIR2 WEI8 At1g70560 F24J13.13 F5A18.26	Arabidopsis thaliana (Mouse-ear cress)	391	CKRC1 SAV3 TIR2 WEI8	AT1G70560;
+Q9SD40	reviewed	SRS1_ARATH	Protein SHI RELATED SEQUENCE 1 (Protein STYLISH 1)	SRS1 STY1 At3g51060 F24M12.100	Arabidopsis thaliana (Mouse-ear cress)	370	STY1	AT3G51060;
+Q9SI19	reviewed	SRS4_ARATH	Protein SHI RELATED SEQUENCE 4	SRS4 At2g18120 F8D23.10	Arabidopsis thaliana (Mouse-ear cress)	222		AT2G18120;
+Q9SIV0	reviewed	SUR1_ARATH	S-alkyl-thiohydroximate lyase SUR1 (EC 4.4.1.-) (Protein ABERRANT LATERAL ROOT FORMATION 1) (Protein HOOKLESS 3) (Protein ROOTY) (Protein ROOTY 1) (Protein SUPERROOT 1)	SUR1 ALF1 HLS3 RTY RTY1 At2g20610 F23N11.7	Arabidopsis thaliana (Mouse-ear cress)	462	ALF1 HLS3 RTY RTY1	AT2G20610;
+Q9SZY8	reviewed	YUC1_ARATH	Probable indole-3-pyruvate monooxygenase YUCCA1 (EC 1.14.13.168) (Flavin-containing monooxygenase YUCCA1)	YUC1 YUC YUCCA YUCCA1 At4g32540 L23H3.20	Arabidopsis thaliana (Mouse-ear cress)	414	YUC YUCCA YUCCA1	AT4G32540;
+Q9XGX0	reviewed	SHI_ARATH	Protein SHORT INTERNODES	SHI At5g66350	Arabidopsis thaliana (Mouse-ear cress)	331		AT5G66350;
+F4K0T5	unreviewed	F4K0T5_ARATH	anthranilate synthase (EC 4.1.3.27)	ASA1 AMT1 JDL1 MJJ3.14 MJJ3_14 TRP5 TRYPTOPHAN BIOSYNTHESIS 5 WEAK ETHYLENE INSENSITIVE 2 WEI2 At5g05730	Arabidopsis thaliana (Mouse-ear cress)	624	AMT1 JDL1 MJJ3.14 MJJ3_14 TRP5 TRYPTOPHAN BIOSYNTHESIS 5 WEAK ETHYLENE INSENSITIVE 2 WEI2	AT5G05730;
+O49312	reviewed	YUC7_ARATH	Probable indole-3-pyruvate monooxygenase YUCCA7 (EC 1.14.13.168) (Flavin-containing monooxygenase YUCCA7)	YUC7 YUCCA7 At2g33230 F25I18.3	Arabidopsis thaliana (Mouse-ear cress)	431	YUCCA7	AT2G33230;
+P32962	reviewed	NRL2_ARATH	Nitrilase 2 (EC 3.5.5.1)	NIT2 At3g44300 T10D17_90	Arabidopsis thaliana (Mouse-ear cress)	339		AT3G44300;
+Q9LKC0	reviewed	YUC5_ARATH	Probable indole-3-pyruvate monooxygenase YUCCA5 (EC 1.14.13.168) (Flavin-containing monooxygenase YUCCA5) (Protein SUPPRESSOR OF ER 1)	YUC5 SUPER1 YUCCA5 At5g43890 F6B6.3	Arabidopsis thaliana (Mouse-ear cress)	424	SUPER1 YUCCA5	AT5G43890;
+Q9SVQ1	reviewed	YUC2_ARATH	Indole-3-pyruvate monooxygenase YUCCA2 (EC 1.14.13.168) (Flavin-containing monooxygenase YUCCA2)	YUC2 YUCCA2 At4g13260 F17N18.150	Arabidopsis thaliana (Mouse-ear cress)	415	YUCCA2	AT4G13260;
+Q9SVU0	reviewed	YUC8_ARATH	Probable indole-3-pyruvate monooxygenase YUCCA8 (EC 1.14.13.168) (Flavin-containing monooxygenase YUCCA8)	YUC8 BAS3 YUCCA8 At4g28720 F16A16.170	Arabidopsis thaliana (Mouse-ear cress)	426	BAS3 YUCCA8	AT4G28720;
+F4IAW5	unreviewed	F4IAW5_ARATH	anthranilate synthase (EC 4.1.3.27)	ASB1 TRP4 TRYPTOPHAN BIOSYNTHESIS 4 WEAK ETHYLENE INSENSITIVE7 WEI7 At1g25220 F4F7.39 F4F7_39	Arabidopsis thaliana (Mouse-ear cress)	289	TRP4 TRYPTOPHAN BIOSYNTHESIS 4 WEAK ETHYLENE INSENSITIVE7 WEI7	AT1G25220;
+F4JY69	unreviewed	F4JY69_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	YUC6 AtYUC6 YUCCA6 At5g25620 T14C9.160 T14C9_160	Arabidopsis thaliana (Mouse-ear cress)	434	AtYUC6 YUCCA6	AT5G25620;
+F4KH89	reviewed	SRS8_ARATH	Protein SHI RELATED SEQUENCE 8	SRS8 At5g33210	Arabidopsis thaliana (Mouse-ear cress)	173		AT5G33210;
+O23024	reviewed	YUC3_ARATH	Probable indole-3-pyruvate monooxygenase YUCCA3 (EC 1.14.13.168) (Flavin-containing monooxygenase YUCCA3)	YUC3 YUCCA3 At1g04610 T1G11.14	Arabidopsis thaliana (Mouse-ear cress)	437	YUCCA3	AT1G04610;
+O64489	reviewed	YUC9_ARATH	Probable indole-3-pyruvate monooxygenase YUCCA9 (EC 1.14.13.168) (Flavin-containing monooxygenase YUCCA9)	YUC9 YUCCA9 At1g04180 F20D22.5	Arabidopsis thaliana (Mouse-ear cress)	421	YUCCA9	AT1G04180;
+Q9FVQ0	reviewed	YUC10_ARATH	Probable indole-3-pyruvate monooxygenase YUCCA10 (EC 1.14.13.168) (Flavin-containing monooxygenase YUCCA10)	YUC10 YUCCA10 At1g48910 F27K7.7	Arabidopsis thaliana (Mouse-ear cress)	383	YUCCA10	AT1G48910;
+Q9LPL3	reviewed	YUC11_ARATH	Probable indole-3-pyruvate monooxygenase YUCCA11 (EC 1.14.13.168) (Flavin-containing monooxygenase YUCCA11)	YUC11 YUCCA11 At1g21430 F24J8.6	Arabidopsis thaliana (Mouse-ear cress)	391	YUCCA11	AT1G21430;
+Q9M2U4	reviewed	SRS6_ARATH	Protein SHI RELATED SEQUENCE 6	SRS6 At3g54430 T12E18.120	Arabidopsis thaliana (Mouse-ear cress)	183		AT3G54430;
+Q9SJT8	reviewed	SRS3_ARATH	Protein SHI RELATED SEQUENCE 3	SRS3 At2g21400 F3K23.16	Arabidopsis thaliana (Mouse-ear cress)	174		AT2G21400;
+A0A178UD30	unreviewed	A0A178UD30_ARATH	indole-3-pyruvate monooxygenase (EC 1.14.13.168)	AXX17_At5g25620	Arabidopsis thaliana (Mouse-ear cress)	260		
+A0A178UDI7	unreviewed	A0A178UDI7_ARATH	indole-3-pyruvate monooxygenase (EC 1.14.13.168)	AXX17_At5g25620	Arabidopsis thaliana (Mouse-ear cress)	180		
+A0A178UES9	unreviewed	A0A178UES9_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	AXX17_At5g25620 AN1_LOCUS23319 C24_LOCUS23197	Arabidopsis thaliana (Mouse-ear cress)	409		
+A0A178UJ31	unreviewed	A0A178UJ31_ARATH	indole-3-pyruvate monooxygenase (EC 1.14.13.168)	AXX17_At5g11020 AN1_LOCUS21926	Arabidopsis thaliana (Mouse-ear cress)	411		
+A0A178UK83	unreviewed	A0A178UK83_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	AXX17_At5g41980 AN1_LOCUS24588 C24_LOCUS24421	Arabidopsis thaliana (Mouse-ear cress)	424		
+A0A178UY51	unreviewed	A0A178UY51_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	AXX17_At4g15030 C24_LOCUS17823	Arabidopsis thaliana (Mouse-ear cress)	415		
+A0A178V2K9	unreviewed	A0A178V2K9_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	AXX17_At4g33060 AN1_LOCUS19660 AT9943_LOCUS16978 C24_LOCUS19553	Arabidopsis thaliana (Mouse-ear cress)	426		
+A0A178V2T1	unreviewed	A0A178V2T1_ARATH	STY2	AXX17_At4g41410 AN1_LOCUS20476	Arabidopsis thaliana (Mouse-ear cress)	322		
+A0A178V499	unreviewed	A0A178V499_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	AXX17_At4g37330 C24_LOCUS19968	Arabidopsis thaliana (Mouse-ear cress)	414		
+A0A178VZZ0	unreviewed	A0A178VZZ0_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	AXX17_At2g29670 AT9943_LOCUS8358	Arabidopsis thaliana (Mouse-ear cress)	431		
+A0A178W9B5	unreviewed	A0A178W9B5_ARATH	(thale cress) hypothetical protein (SRS5)	AXX17_At1g69990 AT9943_LOCUS5574 C24_LOCUS6479	Arabidopsis thaliana (Mouse-ear cress)	346		
+A0A178WB22	unreviewed	A0A178WB22_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	AXX17_At1g03470	Arabidopsis thaliana (Mouse-ear cress)	421		
+A0A178WD04	unreviewed	A0A178WD04_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	AXX17_At1g22480	Arabidopsis thaliana (Mouse-ear cress)	391		
+A0A178WFU2	unreviewed	A0A178WFU2_ARATH	indole-3-pyruvate monooxygenase (EC 1.14.13.168)	AXX17_At1g43020	Arabidopsis thaliana (Mouse-ear cress)	383		
+A0A178WNT4	unreviewed	A0A178WNT4_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	AXX17_At1g03920 AN1_LOCUS506 AT9943_LOCUS327 C24_LOCUS418	Arabidopsis thaliana (Mouse-ear cress)	437		
+A0A1P8AXA0	unreviewed	A0A1P8AXA0_ARATH	SHI-related sequence 4	SRS4 SHI-related sequence 4 At2g18120 F8D23.10 F8D23_10	Arabidopsis thaliana (Mouse-ear cress)	220	SHI-related sequence 4	AT2G18120;
+A0A1P8B4G2	unreviewed	A0A1P8B4G2_ARATH	indole-3-pyruvate monooxygenase (EC 1.14.13.168)	YUC2 AtYUC2 YUCCA2 At4g13260	Arabidopsis thaliana (Mouse-ear cress)	311	AtYUC2 YUCCA2	AT4G13260;
+A0A1P8B4H6	unreviewed	A0A1P8B4H6_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	YUC2 AtYUC2 YUCCA2 At4g13260	Arabidopsis thaliana (Mouse-ear cress)	312	AtYUC2 YUCCA2	AT4G13260;
+A0A1P8B730	unreviewed	A0A1P8B730_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	YUC1 YUC YUCCA YUCCA 1 At4g32540 L23H3.20 L23H3_20	Arabidopsis thaliana (Mouse-ear cress)	416	YUC YUCCA YUCCA 1	AT4G32540;
+A0A1P8BC69	unreviewed	A0A1P8BC69_ARATH	Lateral root primordium (LRP) protein-like protein	SHI SHORT INTERNODES At5g66350 K1L20.13 K1L20_13	Arabidopsis thaliana (Mouse-ear cress)	331	SHORT INTERNODES	AT5G66350;
+A0A1P8BC81	unreviewed	A0A1P8BC81_ARATH	Lateral root primordium (LRP) protein-like protein	SHI SHORT INTERNODES At5g66350 K1L20.13 K1L20_13	Arabidopsis thaliana (Mouse-ear cress)	326	SHORT INTERNODES	AT5G66350;
+A0A5S9VG74	unreviewed	A0A5S9VG74_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	C24_LOCUS2192	Arabidopsis thaliana (Mouse-ear cress)	391		
+A0A5S9WMV0	unreviewed	A0A5S9WMV0_ARATH	indole-3-pyruvate monooxygenase (EC 1.14.13.168)	C24_LOCUS3889	Arabidopsis thaliana (Mouse-ear cress)	383		
+A0A5S9X3G2	unreviewed	A0A5S9X3G2_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	C24_LOCUS9602	Arabidopsis thaliana (Mouse-ear cress)	431		
+A0A5S9XKI8	unreviewed	A0A5S9XKI8_ARATH	Protein SHI RELATED SEQUENCE 1	C24_LOCUS15349	Arabidopsis thaliana (Mouse-ear cress)	372		
+A0A5S9XKR3	unreviewed	A0A5S9XKR3_ARATH	Protein SHI RELATED SEQUENCE 6	C24_LOCUS15698	Arabidopsis thaliana (Mouse-ear cress)	183		
+A0A5S9XZ40	unreviewed	A0A5S9XZ40_ARATH	Protein SHI RELATED SEQUENCE 2	C24_LOCUS20371	Arabidopsis thaliana (Mouse-ear cress)	322		
+A0A5S9Y3I7	unreviewed	A0A5S9Y3I7_ARATH	Protein LATERAL ROOT PRIMORDIUM 1	C24_LOCUS21923	Arabidopsis thaliana (Mouse-ear cress)	411		
+A0A5S9Y3W9	unreviewed	A0A5S9Y3W9_ARATH	indole-3-pyruvate monooxygenase (EC 1.14.13.168)	C24_LOCUS21816	Arabidopsis thaliana (Mouse-ear cress)	411		
+A0A654E6M0	unreviewed	A0A654E6M0_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	AN1_LOCUS460 AT9943_LOCUS285 C24_LOCUS372	Arabidopsis thaliana (Mouse-ear cress)	421		
+A0A654EBG3	unreviewed	A0A654EBG3_ARATH	Protein SHI RELATED SEQUENCE 7	AN1_LOCUS2115	Arabidopsis thaliana (Mouse-ear cress)	345		
+A0A654ECV8	unreviewed	A0A654ECV8_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	AN1_LOCUS2280	Arabidopsis thaliana (Mouse-ear cress)	391		
+A0A654EI72	unreviewed	A0A654EI72_ARATH	indole-3-pyruvate monooxygenase (EC 1.14.13.168)	AN1_LOCUS4006	Arabidopsis thaliana (Mouse-ear cress)	383		
+A0A654EYE7	unreviewed	A0A654EYE7_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	AN1_LOCUS9753	Arabidopsis thaliana (Mouse-ear cress)	417		
+A0A654FGT0	unreviewed	A0A654FGT0_ARATH	Protein SHI RELATED SEQUENCE 6	AN1_LOCUS15814	Arabidopsis thaliana (Mouse-ear cress)	183		
+A0A654FNT9	unreviewed	A0A654FNT9_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	AN1_LOCUS17936	Arabidopsis thaliana (Mouse-ear cress)	415		
+A0A654FUX5	unreviewed	A0A654FUX5_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	AN1_LOCUS20073	Arabidopsis thaliana (Mouse-ear cress)	414		
+A0A654G0H4	unreviewed	A0A654G0H4_ARATH	Protein LATERAL ROOT PRIMORDIUM 1	AN1_LOCUS22034	Arabidopsis thaliana (Mouse-ear cress)	407		
+A0A654GEM0	unreviewed	A0A654GEM0_ARATH	Uncharacterized protein	AN1_LOCUS26968	Arabidopsis thaliana (Mouse-ear cress)	331		
+A0A7G2DWD9	unreviewed	A0A7G2DWD9_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	AT9943_LOCUS1862	Arabidopsis thaliana (Mouse-ear cress)	391		
+A0A7G2E2K8	unreviewed	A0A7G2E2K8_ARATH	indole-3-pyruvate monooxygenase (EC 1.14.13.168)	AT9943_LOCUS3394	Arabidopsis thaliana (Mouse-ear cress)	383		
+A0A7G2EWV8	unreviewed	A0A7G2EWV8_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	AT9943_LOCUS15458	Arabidopsis thaliana (Mouse-ear cress)	402		
+A0A7G2F7J5	unreviewed	A0A7G2F7J5_ARATH	indole-3-pyruvate monooxygenase (EC 1.14.13.168)	AT9943_LOCUS18879	Arabidopsis thaliana (Mouse-ear cress)	405		
+A0A7G2F7R9	unreviewed	A0A7G2F7R9_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	AT9943_LOCUS17322	Arabidopsis thaliana (Mouse-ear cress)	414		
+A0A7G2FDZ6	unreviewed	A0A7G2FDZ6_ARATH	Flavin-containing monooxygenase (EC 1.-.-.-)	AT9943_LOCUS20084	Arabidopsis thaliana (Mouse-ear cress)	390		
+A0A178UL82	unreviewed	A0A178UL82_ARATH	(thale cress) hypothetical protein (SHI)	AXX17_At5g66280 AT9943_LOCUS23223 C24_LOCUS26793	Arabidopsis thaliana (Mouse-ear cress)	331		
+A0A178URJ4	unreviewed	A0A178URJ4_ARATH	LRP1	AXX17_At5g12070	Arabidopsis thaliana (Mouse-ear cress)	320		
+A0A178VAS7	unreviewed	A0A178VAS7_ARATH	SRS6	AXX17_At3g48860	Arabidopsis thaliana (Mouse-ear cress)	121		
+A0A178VCM3	unreviewed	A0A178VCM3_ARATH	SRS6	AXX17_At3g48860	Arabidopsis thaliana (Mouse-ear cress)	183		
+A0A178VGX9	unreviewed	A0A178VGX9_ARATH	STY1	AXX17_At3g45340 AN1_LOCUS15466	Arabidopsis thaliana (Mouse-ear cress)	372		
+A0A178VPX2	unreviewed	A0A178VPX2_ARATH	SRS3	AXX17_At2g16880 C24_LOCUS8367	Arabidopsis thaliana (Mouse-ear cress)	175		
+A0A178VVS9	unreviewed	A0A178VVS9_ARATH	SRS4	AXX17_At2g13440 AN1_LOCUS8173	Arabidopsis thaliana (Mouse-ear cress)	222		
+A0A178VX85	unreviewed	A0A178VX85_ARATH	SRS4	AXX17_At2g13440	Arabidopsis thaliana (Mouse-ear cress)	220		
+A0A178VZW5	unreviewed	A0A178VZW5_ARATH	SRS7	AXX17_At1g20760 C24_LOCUS2028	Arabidopsis thaliana (Mouse-ear cress)	345		
+A0A1P8AZ09	unreviewed	A0A1P8AZ09_ARATH	SHI-related sequence3	SRS3 SHI-related sequence3 At2g21400 F3K23.16 F3K23_16	Arabidopsis thaliana (Mouse-ear cress)	190	SHI-related sequence3	AT2G21400;
+A0A1P8AZ48	unreviewed	A0A1P8AZ48_ARATH	SHI-related sequence3	SRS3 SHI-related sequence3 At2g21400 F3K23.16 F3K23_16	Arabidopsis thaliana (Mouse-ear cress)	175	SHI-related sequence3	AT2G21400;
+A0A1P8AZ68	unreviewed	A0A1P8AZ68_ARATH	SHI-related sequence3	SRS3 SHI-related sequence3 At2g21400 F3K23.16 F3K23_16	Arabidopsis thaliana (Mouse-ear cress)	189	SHI-related sequence3	AT2G21400;
+A0A5S9WZ67	unreviewed	A0A5S9WZ67_ARATH	Uncharacterized protein	C24_LOCUS8018	Arabidopsis thaliana (Mouse-ear cress)	222		
+A0A654EP89	unreviewed	A0A654EP89_ARATH	Uncharacterized protein	AN1_LOCUS6593	Arabidopsis thaliana (Mouse-ear cress)	346		
+A0A654EUT5	unreviewed	A0A654EUT5_ARATH	SHI-related	AN1_LOCUS8517	Arabidopsis thaliana (Mouse-ear cress)	185		
+A0A7G2DU58	unreviewed	A0A7G2DU58_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS1715	Arabidopsis thaliana (Mouse-ear cress)	272		
+A0A7G2EBG5	unreviewed	A0A7G2EBG5_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS7017	Arabidopsis thaliana (Mouse-ear cress)	162		
+A0A7G2ERW1	unreviewed	A0A7G2ERW1_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS13301	Arabidopsis thaliana (Mouse-ear cress)	292		
+A0A7G2F766	unreviewed	A0A7G2F766_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS18966	Arabidopsis thaliana (Mouse-ear cress)	423		
+A0A7G2F8M0	unreviewed	A0A7G2F8M0_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS17662	Arabidopsis thaliana (Mouse-ear cress)	271		
+F4KH88	unreviewed	F4KH88_ARATH	SHI-related sequence 8	SRS8 SHI-related sequence 8 At5g33210 T29A4.20 T29A4_20	Arabidopsis thaliana (Mouse-ear cress)	106	SHI-related sequence 8	AT5G33210;

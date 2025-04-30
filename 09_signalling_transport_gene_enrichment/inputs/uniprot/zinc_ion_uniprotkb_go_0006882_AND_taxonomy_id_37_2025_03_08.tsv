@@ -1,0 +1,23 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length	Gene Names (synonym)	TAIR
+Q39253	reviewed	CAX1_ARATH	Vacuolar cation/proton exchanger 1 (Ca(2+)/H(+) antiporter CAX1) (Ca(2+)/H(+) exchanger 1) (Protein CATION EXCHANGER 1) (Protein RARE COLD INDUCIBLE 4)	CAX1 RCI4 At2g38170 F16M14.10	Arabidopsis thaliana (Mouse-ear cress)	463	RCI4	AT2G38170;
+Q8W4S4	reviewed	VHAA3_ARATH	V-type proton ATPase subunit a3 (V-ATPase subunit a3) (V-type proton ATPase 95 kDa subunit a isoform 3) (V-ATPase 95 kDa isoform a3) (Vacuolar H(+)-ATPase subunit a isoform 3) (Vacuolar proton pump subunit a3) (Vacuolar proton translocating ATPase 95 kDa subunit a isoform 3)	VHA-a3 At4g39080 F19H22.180	Arabidopsis thaliana (Mouse-ear cress)	821		AT4G39080;
+Q93Z81	reviewed	CAX3_ARATH	Vacuolar cation/proton exchanger 3 (Ca(2+)/H(+) antiporter CAX3) (Ca(2+)/H(+) exchanger 3) (Protein CATION EXCHANGER 3)	CAX3 At3g51860 ATEM1.11	Arabidopsis thaliana (Mouse-ear cress)	459		AT3G51860;
+Q9LIC2	reviewed	TMN7_ARATH	Transmembrane 9 superfamily member 7 (Endomembrane protein 5) (Transmembrane nine protein 7) (AtTMN7)	TMN7 EMP5 At3g13772 MMM17.20	Arabidopsis thaliana (Mouse-ear cress)	641	EMP5	AT3G13772;
+Q9SJT7	reviewed	VHAA2_ARATH	V-type proton ATPase subunit a2 (V-ATPase subunit a2) (V-type proton ATPase 95 kDa subunit a isoform 2) (V-ATPase 95 kDa isoform a2) (Vacuolar H(+)-ATPase subunit a isoform 2) (Vacuolar proton pump subunit a2) (Vacuolar proton translocating ATPase 95 kDa subunit a isoform 2)	VHA-a2 At2g21410 F3K23.17	Arabidopsis thaliana (Mouse-ear cress)	821		AT2G21410;
+Q9ZT63	reviewed	MTP1_ARATH	Metal tolerance protein 1 (AtMTP1) (Protein OVERLY ZINC SENSITIVE 1) (Zinc transporter of Arabidopsis thaliana 1) (ZAT1p) (Zn transporter ZAT-1) [Cleaved into: Metal tolerance protein 1 short form]	MTP1 OZS1 ZAT ZAT1 At2g46800 F19D11.8	Arabidopsis thaliana (Mouse-ear cress)	398	OZS1 ZAT ZAT1	AT2G46800;
+Q6ICY4	reviewed	MTPC2_ARATH	Metal tolerance protein C2 (AtMTPc2) (AtMTP5)	MTPC2 MTP5 At3g12100 T21B14.8	Arabidopsis thaliana (Mouse-ear cress)	393	MTP5	AT3G12100;
+Q9SI03	reviewed	MTP12_ARATH	Metal tolerance protein 12 (AtMTP12)	MTP12 At2g04620 F7D11.2	Arabidopsis thaliana (Mouse-ear cress)	300		AT2G04620;
+A0A0A8IL98	unreviewed	A0A0A8IL98_ARATH	Metal tolerance protein 12	AtMTP12 At2g04620	Arabidopsis thaliana (Mouse-ear cress)	798		AT2G04620;
+A0A1P8B2X9	unreviewed	A0A1P8B2X9_ARATH	Zinc transporter-like protein	MTP12 At2g04620 F7D11.2 F7D11_2	Arabidopsis thaliana (Mouse-ear cress)	618		AT2G04620;
+F4J8M5	unreviewed	F4J8M5_ARATH	Cation efflux family protein	MTP5 metal transport protein 5 At3g12100	Arabidopsis thaliana (Mouse-ear cress)	268	metal transport protein 5	AT3G12100;
+A0A178VAT8	unreviewed	A0A178VAT8_ARATH	MTP5	AXX17_At3g12080	Arabidopsis thaliana (Mouse-ear cress)	202		
+A0A178VC51	unreviewed	A0A178VC51_ARATH	MTP5	AXX17_At3g12080	Arabidopsis thaliana (Mouse-ear cress)	250		
+A0A178VP41	unreviewed	A0A178VP41_ARATH	Uncharacterized protein	AXX17_At2g03740	Arabidopsis thaliana (Mouse-ear cress)	797		
+A0A5S9WX67	unreviewed	A0A5S9WX67_ARATH	Uncharacterized protein	C24_LOCUS7373	Arabidopsis thaliana (Mouse-ear cress)	800		
+A0A654ETH5	unreviewed	A0A654ETH5_ARATH	Uncharacterized protein	AN1_LOCUS7501	Arabidopsis thaliana (Mouse-ear cress)	798		
+A0A654F6B2	unreviewed	A0A654F6B2_ARATH	(thale cress) hypothetical protein	AN1_LOCUS12535 AT9943_LOCUS10779 C24_LOCUS12365	Arabidopsis thaliana (Mouse-ear cress)	393		
+A0A7G2E5F0	unreviewed	A0A7G2E5F0_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS6356	Arabidopsis thaliana (Mouse-ear cress)	630		
+A0A7G2ELS1	unreviewed	A0A7G2ELS1_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS10779	Arabidopsis thaliana (Mouse-ear cress)	399		
+B9DHR2	unreviewed	B9DHR2_ARATH	AT3G12100 protein	At3g12100	Arabidopsis thaliana (Mouse-ear cress)	218		
+C0Z294	unreviewed	C0Z294_ARATH	AT3G12100 protein	At3g12100	Arabidopsis thaliana (Mouse-ear cress)	202		
+Q0WSX7	unreviewed	Q0WSX7_ARATH	Uncharacterized protein At3g12100	At3g12100	Arabidopsis thaliana (Mouse-ear cress)	393		AT3G12100;

@@ -1,0 +1,247 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length	Gene Names (synonym)	TAIR
+B9DFX7	reviewed	HMA8_ARATH	Copper-transporting ATPase PAA2, chloroplastic (EC 7.2.2.9) (Protein HEAVY METAL ATPASE 8)	PAA2 HMA8 At5g21930 F13M11 T6G21	Arabidopsis thaliana (Mouse-ear cress)	883	HMA8	AT5G21930;
+F4HVS0	reviewed	BTSL2_ARATH	Zinc finger protein BRUTUS-like At1g74770	At1g74770 F25A4.26 F25A4.27	Arabidopsis thaliana (Mouse-ear cress)	1259		AT1G74770;
+F4IDY5	reviewed	BTSL1_ARATH	Zinc finger protein BRUTUS-like At1g18910	At1g18910 F14D16.3	Arabidopsis thaliana (Mouse-ear cress)	1254		AT1G18910;
+F4KFS7	reviewed	MEB2_ARATH	Membrane protein of ER body 2	MEB2 At5g24290 MOP9.11	Arabidopsis thaliana (Mouse-ear cress)	550		AT5G24290;
+F4KGN5	reviewed	S40A2_ARATH	Solute carrier family 40 member 2 (Ferroportin-2) (Iron-regulated transporter 2) (AtIREG2)	IREG2 FPN2 At5g03570 F12E4.370	Arabidopsis thaliana (Mouse-ear cress)	512	FPN2	AT5G03570;
+O64474	reviewed	HMA4_ARATH	Putative cadmium/zinc-transporting ATPase HMA4 (EC 7.2.2.12) (EC 7.2.2.21) (Protein HEAVY METAL ATPASE 4) (Putative cadmium/zinc-transporting ATPase 2)	HMA4 At2g19110 T20K24.12	Arabidopsis thaliana (Mouse-ear cress)	1172		AT2G19110;
+O80632	reviewed	MTP11_ARATH	Metal tolerance protein 11 (AtMTP11)	MTP11 At2g39450 F12L6.11	Arabidopsis thaliana (Mouse-ear cress)	394		AT2G39450;
+P0CW78	reviewed	HMA3B_ARATH	Cadmium/zinc-transporting ATPase HMA3 (EC 7.2.2.12) (EC 7.2.2.21) (Cadmium/zinc-transporting ATPase 4) (Protein HEAVY METAL ATPASE 3)	HMA3	Arabidopsis thaliana (Mouse-ear cress)	760		
+P92949	reviewed	FRO2_ARATH	Ferric reduction oxidase 2 (AtFRO2) (EC 1.16.1.7) (Ferric-chelate reductase 2) (Protein FERRIC CHELATE REDUCTASE DEFECTIVE 1)	FRO2 FRD1 At1g01580 F22L4.12	Arabidopsis thaliana (Mouse-ear cress)	725	FRD1	AT1G01580;
+Q33884	reviewed	CCMF2_ARATH	Cytochrome c biogenesis CcmF N-terminal-like mitochondrial protein 2 (Cytochrome c biogenesis orf203)	CCMFN2 CC6BN2 CCB203 AtMg00960	Arabidopsis thaliana (Mouse-ear cress)	203	CC6BN2 CCB203	ATMG00960;
+Q38856	reviewed	IRT1_ARATH	Fe(2+) transport protein 1 (Fe(II) transport protein 1) (Iron-regulated transporter 1)	IRT1 At4g19690 T16H5.50	Arabidopsis thaliana (Mouse-ear cress)	347		AT4G19690;
+Q39101	reviewed	FRI1_ARATH	Ferritin-1, chloroplastic (AtFer1) (EC 1.16.3.1)	FER1 At5g01600 F7A7.120	Arabidopsis thaliana (Mouse-ear cress)	255		AT5G01600;
+Q8W4E7	reviewed	S40A3_ARATH	Solute carrier family 40 member 3, chloroplastic (Ferroportin-3) (Iron-regulated transporter 3) (AtIREG3) (Protein MULTIPLE ANTIBIOTIC RESISTANCE 1)	IREG3 FPN3 MAR1 RTS3 At5g26820 F2P16.6	Arabidopsis thaliana (Mouse-ear cress)	598	FPN3 MAR1 RTS3	AT5G26820;
+Q8W4P8	reviewed	MEB1_ARATH	Membrane protein of ER body 1	MEB1 At4g27860 T27E11.100	Arabidopsis thaliana (Mouse-ear cress)	611		AT4G27860;
+Q94AX5	reviewed	PAM71_ARATH	Protein PAM71, chloroplastic (CA(2+)/H(+) ANTIPORTER 1) (GDT1-like protein 1) (PHOTOSYNTHESIS AFFECTED MUTANT71)	PAM71 CCHA1 At1g64150 F22C12.9	Arabidopsis thaliana (Mouse-ear cress)	370	CCHA1	AT1G64150;
+Q9FN18	reviewed	NRAM4_ARATH	Metal transporter Nramp4 (AtNramp4)	NRAMP4 At5g67330 K8K14.5	Arabidopsis thaliana (Mouse-ear cress)	512		AT5G67330;
+Q9FUT3	reviewed	AB23B_ARATH	ABC transporter B family member 23, mitochondrial (ABC transporter ABCB.23) (AtABCB23) (ABC transporter of the mitochondrion 1) (AtATM1) (Iron-sulfur clusters transporter ATM1) (Protein STARIK 2)	ABCB23 ATM1 STA2 At4g28630 T5F17.80	Arabidopsis thaliana (Mouse-ear cress)	678	ATM1 STA2	AT4G28630;
+Q9LJI2	reviewed	CCX3_ARATH	Cation/calcium exchanger 3 (AtCCX3) (Protein CATION CALCIUM EXCHANGER 3) (Protein CATION EXCHANGER 9)	CCX3 CAX9 At3g14070 MAG2.9	Arabidopsis thaliana (Mouse-ear cress)	643	CAX9	AT3G14070;
+Q9LSF6	reviewed	VTH21_ARATH	Vacuolar iron transporter homolog 2.1 (Protein NODULIN-LIKE 21) (Vacuolar iron transporter-like 5) (AtVTL5)	VTL5 At3g25190 MJL12.26	Arabidopsis thaliana (Mouse-ear cress)	219		AT3G25190;
+Q9LVM1	reviewed	AB25B_ARATH	ABC transporter B family member 25, mitochondrial (ABC transporter ABCB.25) (AtABCB25) (ABC transporter of the mitochondrion 3) (AtATM3) (Iron-sulfur clusters transporter ATM3) (Protein STARIK 1)	ABCB25 ATM3 STA1 At5g58270 MCK7.14	Arabidopsis thaliana (Mouse-ear cress)	728	ATM3 STA1	AT5G58270;
+Q9LYN2	reviewed	FRI3_ARATH	Ferritin-3, chloroplastic (EC 1.16.3.1)	FER3 At3g56090 F18O21_50	Arabidopsis thaliana (Mouse-ear cress)	259		AT3G56090;
+Q9M0G9	reviewed	AB24B_ARATH	ABC transporter B family member 24, mitochondrial (ABC transporter ABCB.24) (AtABCB24) (ABC transporter of the mitochondrion 2) (AtATM2) (Iron-sulfur clusters transporter ATM2) (Protein STARIK 3)	ABCB24 ATM2 STA3 At4g28620 T5F17.70	Arabidopsis thaliana (Mouse-ear cress)	680	ATM2 STA3	AT4G28620;
+Q9M3H5	reviewed	HMA1_ARATH	Probable cadmium/zinc-transporting ATPase HMA1, chloroplastic (EC 7.2.2.12) (EC 7.2.2.21) (Protein HEAVY METAL ATPASE 1)	HMA1 At4g37270 AP22.4 C7A10.90	Arabidopsis thaliana (Mouse-ear cress)	819		AT4G37270;
+Q9S756	reviewed	FRI4_ARATH	Ferritin-4, chloroplastic (EC 1.16.3.1)	FER4 At2g40300 T07M07.18 T3G21.7	Arabidopsis thaliana (Mouse-ear cress)	259		AT2G40300;
+Q9S7J8	reviewed	HMA7_ARATH	Copper-transporting ATPase RAN1 (EC 7.2.2.8) (Protein HEAVY METAL ATPASE 7) (Protein RESPONSIVE TO ANTAGONIST 1)	RAN1 HMA7 At5g44790 K23L20.14 T19K24.18	Arabidopsis thaliana (Mouse-ear cress)	1001	HMA7	AT5G44790;
+Q9SAH8	reviewed	NRAM1_ARATH	Metal transporter Nramp1 (AtNramp1)	NRAMP1 PMIT1 At1g80830 F23A5.18	Arabidopsis thaliana (Mouse-ear cress)	532	PMIT1	AT1G80830;
+Q9SFB0	reviewed	DTX43_ARATH	Protein DETOXIFICATION 43 (AtDTX43) (Multidrug and toxic compound extrusion protein 43) (MATE protein 43) (Protein FERRIC REDUCTASE DEFECTIVE 3) (AtFRD3) (Protein MANGANESE ACCUMULATOR 1)	DTX43 FRD3 MAN1 At3g08040 F17A17.38 T8G24.8	Arabidopsis thaliana (Mouse-ear cress)	526	FRD3 MAN1	AT3G08040;
+Q9SH30	reviewed	HMA5_ARATH	Probable copper-transporting ATPase HMA5 (EC 7.2.2.8) (Probable copper-transporting ATPase 3) (Protein HEAVY METAL ATPASE 5)	HMA5 At1g63440 F2K11.18	Arabidopsis thaliana (Mouse-ear cress)	995		AT1G63440;
+Q9SHU7	reviewed	TIC21_ARATH	Protein TIC 21, chloroplastic (Protein CHLOROPLAST IMPORT APPARATUS 5) (AtCIA5) (Protein PERMEASE IN CHLOROPLASTS 1) (AtPIC1) (Translocon at the inner envelope membrane of chloroplasts 21) (AtTIC21)	TIC21 CIA5 PIC1 At2g15290 F27O10.6	Arabidopsis thaliana (Mouse-ear cress)	296	CIA5 PIC1	AT2G15290;
+Q9SLV0	reviewed	DTX48_ARATH	Protein DETOXIFICATION 48 (AtDTX48) (Multidrug and toxic compound extrusion protein 48) (MATE protein 48) (Protein ABNORMAL SHOOT 4) (Protein BUSH-AND-CHLOROTIC-DWARF 1) (Protein BCD1) (Protein ZRIZI)	DTX48 ABS4 BCD1 ZF14 ZRZ At1g58340 F19C14.5	Arabidopsis thaliana (Mouse-ear cress)	532	ABS4 BCD1 ZF14 ZRZ	AT1G58340;
+Q9SNV9	reviewed	NRAM3_ARATH	Metal transporter Nramp3 (AtNramp3)	NRAMP3 At2g23150 F21P24.21	Arabidopsis thaliana (Mouse-ear cress)	509		AT2G23150;
+Q9SY55	reviewed	ECA3_ARATH	Calcium-transporting ATPase 3, endoplasmic reticulum-type (AtECA3) (EC 7.2.2.10)	ECA3 ACA6 At1g10130 F14N23.1 T27I1.16	Arabidopsis thaliana (Mouse-ear cress)	998	ACA6	AT1G10130;
+Q9SZC9	reviewed	HMA6_ARATH	Copper-transporting ATPase PAA1, chloroplastic (EC 7.2.2.8) (Protein HEAVY METAL ATPASE 6) (Protein glucose insensitive root 1)	PAA1 GIR1 HMA6 At4g33520 F17M5.280 T16L1.10	Arabidopsis thaliana (Mouse-ear cress)	949	GIR1 HMA6	AT4G33520;
+Q9SZW4	reviewed	HMA2_ARATH	Cadmium/zinc-transporting ATPase HMA2 (EC 7.2.2.12) (EC 7.2.2.21) (Cadmium/zinc-transporting ATPase 3) (Protein HEAVY METAL ATPASE 2)	HMA2 At4g30110 F6G3.140	Arabidopsis thaliana (Mouse-ear cress)	951		AT4G30110;
+Q9XIE2	reviewed	AB36G_ARATH	ABC transporter G family member 36 (ABC transporter ABCG.36) (AtABCG36) (Pleiotropic drug resistance protein 8) (AtPDR8) (Protein PENETRATION 3)	ABCG36 PDR8 PEN3 At1g59870 F23H11.19	Arabidopsis thaliana (Mouse-ear cress)	1469	PDR8 PEN3	AT1G59870;
+Q9ZR07	reviewed	FRDA_ARATH	Frataxin, mitochondrial (Fxn) (EC 1.16.3.1)	FH At4g03240 F4C21.17	Arabidopsis thaliana (Mouse-ear cress)	187		AT4G03240;
+Q9ZT63	reviewed	MTP1_ARATH	Metal tolerance protein 1 (AtMTP1) (Protein OVERLY ZINC SENSITIVE 1) (Zinc transporter of Arabidopsis thaliana 1) (ZAT1p) (Zn transporter ZAT-1) [Cleaved into: Metal tolerance protein 1 short form]	MTP1 OZS1 ZAT ZAT1 At2g46800 F19D11.8	Arabidopsis thaliana (Mouse-ear cress)	398	OZS1 ZAT ZAT1	AT2G46800;
+Q9ZUA5	reviewed	VIT1_ARATH	Vacuolar iron transporter 1 (AtVIT1)	VIT1 At2g01770 T8O11.6	Arabidopsis thaliana (Mouse-ear cress)	250		AT2G01770;
+O23482	reviewed	OPT3_ARATH	Oligopeptide transporter 3 (AtOPT3)	OPT3 At4g16370 dl4215c FCAALL.72	Arabidopsis thaliana (Mouse-ear cress)	737		AT4G16370;
+O82089	reviewed	CCH_ARATH	Copper transport protein CCH (Copper chaperone CCH)	CCH At3g56240 F18O21.200	Arabidopsis thaliana (Mouse-ear cress)	121		AT3G56240;
+P92527	reviewed	CCMC_ARATH	Putative cytochrome c biosynthesis ccmC-like mitochondrial protein (ABC transporter I family member 3) (ABC transporter ABCI.3) (AtABCI3)	CCMC ABCI3 ABCI4 ABCI5 CCB256 CCB3 AtMg00900	Arabidopsis thaliana (Mouse-ear cress)	256	ABCI3 ABCI4 ABCI5 CCB256 CCB3	ATMG00900;
+Q2EF88	reviewed	YSL3_ARATH	Metal-nicotianamine transporter YSL3 (Protein YELLOW STRIPE LIKE 3) (AtYSL3)	YSL3 At5g53550 MNC6.9	Arabidopsis thaliana (Mouse-ear cress)	675		AT5G53550;
+Q39065	reviewed	COPT1_ARATH	Copper transporter 1 (AtCOPT1)	COPT1 At5g59030 K18B18.10 K18B18.2	Arabidopsis thaliana (Mouse-ear cress)	170		AT5G59030;
+Q42377	reviewed	MT4B_ARATH	Metallothionein-like protein 4B (MT-4B) (EC protein homolog 2)	MT4B At2g23240 T20D16.13	Arabidopsis thaliana (Mouse-ear cress)	85		AT2G23240;
+Q6R3L0	reviewed	YSL1_ARATH	Metal-nicotianamine transporter YSL1 (Protein YELLOW STRIPE LIKE 1) (AtYSL1)	YSL1 At4g24120 T19F6.110 T19F6.8	Arabidopsis thaliana (Mouse-ear cress)	673		AT4G24120;
+Q8LE59	reviewed	IRT3_ARATH	Fe(2+) transport protein 3, chloroplastic (Fe(II) transport protein 3) (Iron-regulated transporter 3)	IRT3 At1g60960 T7P1.10	Arabidopsis thaliana (Mouse-ear cress)	425		AT1G60960;
+Q93VM8	reviewed	COPT5_ARATH	Copper transporter 5 (AtCOPT5)	COPT5 At5g20650 T1M15.50	Arabidopsis thaliana (Mouse-ear cress)	146		AT5G20650;
+Q944H5	reviewed	MTM1_ARATH	Mitochondrial carrier protein MTM1 (Manganese tracking factor for mitochondrial SOD2)	MTM1 At4g27940 T13J8.50	Arabidopsis thaliana (Mouse-ear cress)	413		AT4G27940;
+Q94BT9	reviewed	ATOX1_ARATH	Copper transport protein ATX1 (Copper chaperone ATX1)	ATX1 At1g66240 T6J19.6	Arabidopsis thaliana (Mouse-ear cress)	76		AT1G66240;
+Q9C6B2	reviewed	NRAM2_ARATH	Metal transporter Nramp2 (AtNramp2)	NRAMP2 At1g47240 F8G22.4	Arabidopsis thaliana (Mouse-ear cress)	530		AT1G47240;
+Q9FHX2	reviewed	MFL1_ARATH	Protein MITOFERRINLIKE 1, chloroplastic (AtMFL1)	MFL1 At5g42130 MJC20.24	Arabidopsis thaliana (Mouse-ear cress)	412		AT5G42130;
+Q9LPU9	reviewed	VITH1_ARATH	Vacuolar iron transporter homolog 1 (Protein NODULIN-LIKE 1) (Vacuolar iron transporter-like 1) (AtVTL1)	VTL1; At1g21140 T22I11.3	Arabidopsis thaliana (Mouse-ear cress)	200	; 	AT1G21140;
+Q9M2P2	reviewed	MTPC3_ARATH	Putative metal tolerance protein C3 (AtMTPc3) (AtMTP8)	MTPC3 MTP8 At3g58060 T10K17.270	Arabidopsis thaliana (Mouse-ear cress)	411	MTP8	AT3G58060;
+Q9S9N8	reviewed	NRAM6_ARATH	Metal transporter Nramp6 (AtNramp6)	NRAMP6 At1g15960 T24D18.6	Arabidopsis thaliana (Mouse-ear cress)	527		AT1G15960;
+Q9SIA5	reviewed	DTX1_ARATH	Protein DETOXIFICATION 1 (AtDTX1) (Multidrug and toxic compound extrusion protein 1) (MATE protein 1)	DTX1 TX1 At2g04040 F3L12.13	Arabidopsis thaliana (Mouse-ear cress)	476	TX1	AT2G04040;
+Q9SRD3	reviewed	VITH2_ARATH	Vacuolar iron transporter homolog 2 (Protein NODULIN-LIKE 2) (Vacuolar iron transporter-like 2) (AtVTL2)	VTL2 At1g76800 F28O16.17	Arabidopsis thaliana (Mouse-ear cress)	196		AT1G76800;
+Q9SRL5	reviewed	FRI2_ARATH	Ferritin-2, chloroplastic (EC 1.16.3.1)	FER2 At3g11050 F11B9.26 F9F8.13	Arabidopsis thaliana (Mouse-ear cress)	253		AT3G11050;
+Q9T0H9	reviewed	PA71H_ARATH	Protein PAM71-homolog, chloroplastic (GDT1-like protein 2) (PHOTOSYNTHESIS AFFECTED MUTANT71-homolog)	PAM71-HL At4g13590 T6G15.140	Arabidopsis thaliana (Mouse-ear cress)	359		AT4G13590;
+Q9T6H8	reviewed	CCMF1_ARATH	Cytochrome c biogenesis CcmF N-terminal-like mitochondrial protein 1 (Cytochrome c biogenesis orf382)	CCMFN1 CC6BN1 CCB382 AtMg00830; At2g07783	Arabidopsis thaliana (Mouse-ear cress)	382	CC6BN1 CCB382; 	AT2G07783;ATMG00830;
+O04089	reviewed	ZIP4_ARATH	Zinc transporter 4, chloroplastic (ZRT/IRT-like protein 4)	ZIP4 At1g10970 T19D16.11	Arabidopsis thaliana (Mouse-ear cress)	374		AT1G10970;
+O80905	reviewed	S40A1_ARATH	Solute carrier family 40 member 1 (Ferroportin-1) (Iron-regulated transporter 1) (AtIREG1)	IREG1 FPN1 At2g38460 T19C21.5	Arabidopsis thaliana (Mouse-ear cress)	524	FPN1	AT2G38460;
+O81123	reviewed	ZIP1_ARATH	Zinc transporter 1 (ZRT/IRT-like protein 1)	ZIP1 At3g12750 MBK21.13	Arabidopsis thaliana (Mouse-ear cress)	355		AT3G12750;
+O81850	reviewed	IRT2_ARATH	Fe(2+) transport protein 2 (Fe(II) transport protein 2) (Iron-regulated transporter 2)	IRT2 At4g19680 T16H5.40	Arabidopsis thaliana (Mouse-ear cress)	350		AT4G19680;
+O82643	reviewed	ZIP9_ARATH	Zinc transporter 9 (ZRT/IRT-like protein 9)	ZIP9 At4g33020 F26P21.140	Arabidopsis thaliana (Mouse-ear cress)	344		AT4G33020;
+P93280	reviewed	CCMB_ARATH	Putative cytochrome c biogenesis ccmB-like mitochondrial protein (ABC transporter I family member 2) (ABC transporter ABCI.2) (AtABCI2)	CCMB ABCI2 CCB2 CCB206 AtMg00110	Arabidopsis thaliana (Mouse-ear cress)	206	ABCI2 CCB2 CCB206	ATMG00110;
+Q3EAH9	unreviewed	Q3EAH9_ARATH	Metal tolerance protein A2	MTPA2 ATMTP3 ATMTPA2 METAL TOLERANCE PROTEIN 3 metal tolerance protein A2 MTP3 At3g58810	Arabidopsis thaliana (Mouse-ear cress)	432	ATMTP3 ATMTPA2 METAL TOLERANCE PROTEIN 3 metal tolerance protein A2 MTP3	AT3G58810;
+Q6ICY4	reviewed	MTPC2_ARATH	Metal tolerance protein C2 (AtMTPc2) (AtMTP5)	MTPC2 MTP5 At3g12100 T21B14.8	Arabidopsis thaliana (Mouse-ear cress)	393	MTP5	AT3G12100;
+Q6R3K6	reviewed	YSL6_ARATH	Probable metal-nicotianamine transporter YSL6 (Protein YELLOW STRIPE LIKE 6) (AtYSL6)	YSL6 At3g27020 MOJ10.9	Arabidopsis thaliana (Mouse-ear cress)	676		AT3G27020;
+Q6R3K8	reviewed	YSL4_ARATH	Probable metal-nicotianamine transporter YSL4 (Protein YELLOW STRIPE LIKE 4) (AtYSL4)	YSL4 At5g41000 MEE6.7	Arabidopsis thaliana (Mouse-ear cress)	670		AT5G41000;
+Q8L6Z2	unreviewed	Q8L6Z2_ARATH	At1g07030 (Mitochondrial carrier protein, putative) (Mitochondrial substrate carrier family protein)	MIT2 At1g07030 F10K1.26 F10K1_26	Arabidopsis thaliana (Mouse-ear cress)	326		AT1G07030;
+Q940Q3	reviewed	ZTP29_ARATH	Zinc transporter ZTP29 (Zinc transporter 29)	ZTP29 At3g20870 MOE17.18	Arabidopsis thaliana (Mouse-ear cress)	276		AT3G20870;
+Q94EG9	reviewed	ZIP11_ARATH	Zinc transporter 11 (ZRT/IRT-like protein 11)	ZIP11 At1g55910 F14J16.16	Arabidopsis thaliana (Mouse-ear cress)	326		AT1G55910;
+Q9C8T1	reviewed	AB1I_ARATH	ABC transporter I family member 1 (ABC transporter ABCI.1) (AtABCI1) (Cytochrome c biogenesis ATP-binding export protein ccmA-like) (MRP-related protein 3) (Putative non-intrinsic ABC protein 10) (EC 7.6.2.5)	ABCI1 CCMA NAP10 At1g63270 F9N12.11	Arabidopsis thaliana (Mouse-ear cress)	229	CCMA NAP10	AT1G63270;
+Q9FIS2	reviewed	ZIP12_ARATH	Probable zinc transporter 12 (ZRT/IRT-like protein 12)	ZIP12 At5g62160 MTG10.19	Arabidopsis thaliana (Mouse-ear cress)	355		AT5G62160;
+Q9LTH9	reviewed	ZIP2_ARATH	Zinc transporter 2 (ZRT/IRT-like protein 2)	ZIP2 At5g59520 F2O15.19	Arabidopsis thaliana (Mouse-ear cress)	353		AT5G59520;
+Q9LXS1	reviewed	MTPA2_ARATH	Metal tolerance protein A2 (AtMTP3) (AtMTPa2)	MTPA2 MTP3 At3g58810 T20N10_160	Arabidopsis thaliana (Mouse-ear cress)	393	MTP3	AT3G58810;
+Q9M271	reviewed	MTPA1_ARATH	Metal tolerance protein A1 (AtMTP2) (AtMTPa1)	MTPA1 MTP2 At3g61940 F21F14.110	Arabidopsis thaliana (Mouse-ear cress)	334	MTP2	AT3G61940;
+Q9M2C3	reviewed	VITH3_ARATH	Vacuolar iron transporter homolog 3 (Protein NODULIN-LIKE 3)	At3g43630 F22J12.3	Arabidopsis thaliana (Mouse-ear cress)	200		AT3G43630;
+Q9SI03	reviewed	MTP12_ARATH	Metal tolerance protein 12 (AtMTP12)	MTP12 At2g04620 F7D11.2	Arabidopsis thaliana (Mouse-ear cress)	300		AT2G04620;
+Q9SLG3	reviewed	ZIP3_ARATH	Zinc transporter 3 (ZRT/IRT-like protein 3)	ZIP3 At2g32270 T32F6.21	Arabidopsis thaliana (Mouse-ear cress)	339		AT2G32270;
+Q9STG2	reviewed	COPT2_ARATH	Copper transporter 2 (AtCOPT2)	COPT2 At3g46900 T6H20.70	Arabidopsis thaliana (Mouse-ear cress)	158		AT3G46900;
+A0A0A8IL98	unreviewed	A0A0A8IL98_ARATH	Metal tolerance protein 12	AtMTP12 At2g04620	Arabidopsis thaliana (Mouse-ear cress)	798		AT2G04620;
+A0A178U5R5	unreviewed	A0A178U5R5_ARATH	Auxin response factor	AXX17_ATUG03540	Arabidopsis thaliana (Mouse-ear cress)	776		
+A0A178U678	unreviewed	A0A178U678_ARATH	Putative cytochrome c biosynthesis ccmC-like mitochondrial protein	CCMC AXX17_ATUG03530	Arabidopsis thaliana (Mouse-ear cress)	495		
+A0A178U933	unreviewed	A0A178U933_ARATH	Putative cytochrome c biosynthesis ccmC-like mitochondrial protein	CCMC AXX17_ATUG03970	Arabidopsis thaliana (Mouse-ear cress)	427		
+A0A178UJL5	unreviewed	A0A178UJL5_ARATH	Solute carrier family 40 member	AXX17_At5g02870	Arabidopsis thaliana (Mouse-ear cress)	509		
+A0A178V3B4	unreviewed	A0A178V3B4_ARATH	ferroxidase (EC 1.16.3.1)	AXX17_At4g04030 AN1_LOCUS17131 C24_LOCUS17004	Arabidopsis thaliana (Mouse-ear cress)	187		
+A0A178VAT5	unreviewed	A0A178VAT5_ARATH	Vacuolar iron transporter	AXX17_At3g27210 AN1_LOCUS13988	Arabidopsis thaliana (Mouse-ear cress)	219		
+A0A178VFK7	unreviewed	A0A178VFK7_ARATH	Ferritin (EC 1.16.3.1)	AXX17_At3g10950 C24_LOCUS12255	Arabidopsis thaliana (Mouse-ear cress)	253		
+A0A178VKJ4	unreviewed	A0A178VKJ4_ARATH	Vacuolar iron transporter	AXX17_At3g37060	Arabidopsis thaliana (Mouse-ear cress)	198		
+A0A178VRP6	unreviewed	A0A178VRP6_ARATH	Vacuolar iron transporter (VIT)	AXX17_At2g00770	Arabidopsis thaliana (Mouse-ear cress)	250		
+A0A178VU42	unreviewed	A0A178VU42_ARATH	Solute carrier family 40 member	AXX17_At2g35320	Arabidopsis thaliana (Mouse-ear cress)	524		
+A0A178VW64	unreviewed	A0A178VW64_ARATH	Ferritin (EC 1.16.3.1)	AXX17_At2g37370 AT9943_LOCUS9030	Arabidopsis thaliana (Mouse-ear cress)	259		
+A0A178W9M6	unreviewed	A0A178W9M6_ARATH	Vacuolar iron transporter	AXX17_At1g22170 AN1_LOCUS2252 AT9943_LOCUS1837	Arabidopsis thaliana (Mouse-ear cress)	200		
+A0A1P8ARJ0	unreviewed	A0A1P8ARJ0_ARATH	Iron regulated transporter 3	IRT3 ATIRT3 IRON REGULATED TRANSPORTER 3 iron regulated transporter 3 At1g60960 T7P1.10 T7P1_10	Arabidopsis thaliana (Mouse-ear cress)	415	ATIRT3 IRON REGULATED TRANSPORTER 3 iron regulated transporter 3	AT1G60960;
+A0A1P8AXC7	unreviewed	A0A1P8AXC7_ARATH	Solute carrier family 40 member	IREG1 ATIREG1 FERROPORTIN 1 FPN1 iron regulated 1 At2g38460 T19C21.5 T19C21_5	Arabidopsis thaliana (Mouse-ear cress)	379	ATIREG1 FERROPORTIN 1 FPN1 iron regulated 1	AT2G38460;
+A0A1P8B2X9	unreviewed	A0A1P8B2X9_ARATH	Zinc transporter-like protein	MTP12 At2g04620 F7D11.2 F7D11_2	Arabidopsis thaliana (Mouse-ear cress)	618		AT2G04620;
+A0A1P8BGU8	unreviewed	A0A1P8BGU8_ARATH	Solute carrier family 40 member	IREG2 ATIREG2 FERROPORTIN 2 FPN2 iron regulated 2 At5g03570 F12E4.370 F12E4_370	Arabidopsis thaliana (Mouse-ear cress)	467	ATIREG2 FERROPORTIN 2 FPN2 iron regulated 2	AT5G03570;
+A0A1P8BGV1	unreviewed	A0A1P8BGV1_ARATH	Solute carrier family 40 member	IREG2 ATIREG2 FERROPORTIN 2 FPN2 iron regulated 2 At5g03570 F12E4.370 F12E4_370	Arabidopsis thaliana (Mouse-ear cress)	538	ATIREG2 FERROPORTIN 2 FPN2 iron regulated 2	AT5G03570;
+A0A2P2CLH5	unreviewed	A0A2P2CLH5_ARATH	Cytochrome c biogenesis FN1	CCB382 cb6n1 ccb382 ccmFN1	Arabidopsis thaliana (Mouse-ear cress)	382	cb6n1 ccb382 ccmFN1	ATMG00830;
+A0A384KHN9	unreviewed	A0A384KHN9_ARATH	Ferritin (EC 1.16.3.1)	AXX17_At5g00670 C24_LOCUS20845	Arabidopsis thaliana (Mouse-ear cress)	255		
+A0A384KQ30	unreviewed	A0A384KQ30_ARATH	Ferritin (EC 1.16.3.1)	AXX17_At3g50730 AN1_LOCUS15988 AT9943_LOCUS13762 C24_LOCUS15870	Arabidopsis thaliana (Mouse-ear cress)	259		
+A0A5S9SQI7	unreviewed	A0A5S9SQI7_ARATH	Zinc transporter 5	C24_LOCUS495	Arabidopsis thaliana (Mouse-ear cress)	360		
+A0A5S9VE67	unreviewed	A0A5S9VE67_ARATH	Vacuolar iron transporter	C24_LOCUS2164	Arabidopsis thaliana (Mouse-ear cress)	200		
+A0A5S9WJK0	unreviewed	A0A5S9WJK0_ARATH	Zinc transporter 10	C24_LOCUS3091	Arabidopsis thaliana (Mouse-ear cress)	364		
+A0A5S9WWP4	unreviewed	A0A5S9WWP4_ARATH	Vacuolar iron transporter (VIT)	C24_LOCUS7108	Arabidopsis thaliana (Mouse-ear cress)	250		
+A0A5S9X567	unreviewed	A0A5S9X567_ARATH	Solute carrier family 40 member	C24_LOCUS10153	Arabidopsis thaliana (Mouse-ear cress)	524		
+A0A5S9X5R6	unreviewed	A0A5S9X5R6_ARATH	Ferritin (EC 1.16.3.1)	C24_LOCUS10351	Arabidopsis thaliana (Mouse-ear cress)	259		
+A0A5S9XC30	unreviewed	A0A5S9XC30_ARATH	Zinc transporter 1	AN1_LOCUS12602 C24_LOCUS12433	Arabidopsis thaliana (Mouse-ear cress)	344		
+A0A5S9XFF4	unreviewed	A0A5S9XFF4_ARATH	Vacuolar iron transporter	AT9943_LOCUS12007 C24_LOCUS13832	Arabidopsis thaliana (Mouse-ear cress)	219		
+A0A5S9XHH3	unreviewed	A0A5S9XHH3_ARATH	Vacuolar iron transporter	C24_LOCUS14556	Arabidopsis thaliana (Mouse-ear cress)	197		
+A0A5S9XHM0	unreviewed	A0A5S9XHM0_ARATH	Vacuolar iron transporter	C24_LOCUS14555	Arabidopsis thaliana (Mouse-ear cress)	200		
+A0A5S9Y1W6	unreviewed	A0A5S9Y1W6_ARATH	Solute carrier family 40 member	C24_LOCUS21054	Arabidopsis thaliana (Mouse-ear cress)	535		
+A0A5S9Y7G1	unreviewed	A0A5S9Y7G1_ARATH	Solute carrier family 40 member	C24_LOCUS23296	Arabidopsis thaliana (Mouse-ear cress)	598		
+A0A5S9YI60	unreviewed	A0A5S9YI60_ARATH	Cytochrome c assembly protein domain-containing protein	At2g07771 Atmg00900 C24_LOCUS27001	Arabidopsis thaliana (Mouse-ear cress)	256		
+A0A654E804	unreviewed	A0A654E804_ARATH	Zinc transporter 5	AN1_LOCUS579	Arabidopsis thaliana (Mouse-ear cress)	360		
+A0A654EG30	unreviewed	A0A654EG30_ARATH	Zinc transporter 10	AN1_LOCUS3177	Arabidopsis thaliana (Mouse-ear cress)	364		
+A0A654ESP7	unreviewed	A0A654ESP7_ARATH	Vacuolar iron transporter (VIT)	AN1_LOCUS7225 AT9943_LOCUS6131	Arabidopsis thaliana (Mouse-ear cress)	250		
+A0A654F014	unreviewed	A0A654F014_ARATH	Solute carrier family 40 member	AN1_LOCUS10309	Arabidopsis thaliana (Mouse-ear cress)	524		
+A0A654F0B1	unreviewed	A0A654F0B1_ARATH	Vacuolar iron transporter	AN1_LOCUS6721 C24_LOCUS6607	Arabidopsis thaliana (Mouse-ear cress)	196		
+A0A654F5U8	unreviewed	A0A654F5U8_ARATH	Ferritin (EC 1.16.3.1)	AN1_LOCUS10507	Arabidopsis thaliana (Mouse-ear cress)	259		
+A0A654F7Q1	unreviewed	A0A654F7Q1_ARATH	Ferritin (EC 1.16.3.1)	AN1_LOCUS12426	Arabidopsis thaliana (Mouse-ear cress)	253		
+A0A654FCL8	unreviewed	A0A654FCL8_ARATH	Vacuolar iron transporter	AN1_LOCUS14676	Arabidopsis thaliana (Mouse-ear cress)	181		
+A0A654FEB5	unreviewed	A0A654FEB5_ARATH	Vacuolar iron transporter	AN1_LOCUS14677	Arabidopsis thaliana (Mouse-ear cress)	198		
+A0A654FQZ2	unreviewed	A0A654FQZ2_ARATH	Fe(2+) transport protein 2	AN1_LOCUS18688	Arabidopsis thaliana (Mouse-ear cress)	350		
+A0A654FXB8	unreviewed	A0A654FXB8_ARATH	Ferritin (EC 1.16.3.1)	AN1_LOCUS20947	Arabidopsis thaliana (Mouse-ear cress)	255		
+A0A654FXX9	unreviewed	A0A654FXX9_ARATH	Solute carrier family 40 member	AN1_LOCUS21158	Arabidopsis thaliana (Mouse-ear cress)	538		
+A0A654G577	unreviewed	A0A654G577_ARATH	Solute carrier family 40 member	AN1_LOCUS23419	Arabidopsis thaliana (Mouse-ear cress)	598		
+A0A654GF74	unreviewed	A0A654GF74_ARATH	Cytochrome c assembly protein domain-containing protein	AN1_LOCUS27166	Arabidopsis thaliana (Mouse-ear cress)	704		
+A0A654GF79	unreviewed	A0A654GF79_ARATH	Cytochrome c assembly protein domain-containing protein	AN1_LOCUS27166	Arabidopsis thaliana (Mouse-ear cress)	256		
+A0A7G2E5H2	unreviewed	A0A7G2E5H2_ARATH	Vacuolar iron transporter	AT9943_LOCUS5685	Arabidopsis thaliana (Mouse-ear cress)	187		
+A0A7G2EC77	unreviewed	A0A7G2EC77_ARATH	Solute carrier family 40 member	AT9943_LOCUS8851	Arabidopsis thaliana (Mouse-ear cress)	452		
+A0A7G2ECJ4	unreviewed	A0A7G2ECJ4_ARATH	Solute carrier family 40 member	AT9943_LOCUS8851	Arabidopsis thaliana (Mouse-ear cress)	524		
+A0A7G2EQ00	unreviewed	A0A7G2EQ00_ARATH	Vacuolar iron transporter	AT9943_LOCUS12661	Arabidopsis thaliana (Mouse-ear cress)	197		
+A0A7G2ETP4	unreviewed	A0A7G2ETP4_ARATH	Vacuolar iron transporter	AT9943_LOCUS12660	Arabidopsis thaliana (Mouse-ear cress)	200		
+A0A7G2EUP7	unreviewed	A0A7G2EUP7_ARATH	ferroxidase (EC 1.16.3.1)	AT9943_LOCUS14722	Arabidopsis thaliana (Mouse-ear cress)	180		
+A0A7G2F6Z4	unreviewed	A0A7G2F6Z4_ARATH	Solute carrier family 40 member	AT9943_LOCUS18231	Arabidopsis thaliana (Mouse-ear cress)	509		
+A0A7G2FBG2	unreviewed	A0A7G2FBG2_ARATH	Ferritin (EC 1.16.3.1)	AT9943_LOCUS18052	Arabidopsis thaliana (Mouse-ear cress)	241		
+A0A7G2FFA2	unreviewed	A0A7G2FFA2_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS20164	Arabidopsis thaliana (Mouse-ear cress)	824		
+A0A7G2FLD5	unreviewed	A0A7G2FLD5_ARATH	Putative cytochrome c biosynthesis ccmC-like mitochondrial protein	CCMC AT9943_LOCUS23416	Arabidopsis thaliana (Mouse-ear cress)	839		
+A0A7G2FQG9	unreviewed	A0A7G2FQG9_ARATH	Putative cytochrome c biosynthesis ccmC-like mitochondrial protein	CCMC AT9943_LOCUS23384	Arabidopsis thaliana (Mouse-ear cress)	806		
+F4I8P9	unreviewed	F4I8P9_ARATH	Zinc transporter 5	ZIP5 YUP8H12.8 YUP8H12_8 zinc transporter 5 precursor At1g05300	Arabidopsis thaliana (Mouse-ear cress)	267	YUP8H12.8 YUP8H12_8 zinc transporter 5 precursor	AT1G05300;
+F4IL76	unreviewed	F4IL76_ARATH	Putative cytochrome c biosynthesis ccmC-like mitochondrial protein	ABCI5 ATP-binding cassette I5 ccb256 CCMC ccmC At2g07771	Arabidopsis thaliana (Mouse-ear cress)	256	ATP-binding cassette I5 ccb256 CCMC ccmC	AT2G07771;ATMG00900;
+F4ILY7	unreviewed	F4ILY7_ARATH	Plant EC metallothionein family protein	ATMT4A AtMT4a At2g42000 T6D20.11 T6D20_11	Arabidopsis thaliana (Mouse-ear cress)	120	AtMT4a	AT2G42000;
+F4IMA2	unreviewed	F4IMA2_ARATH	Cytochrome C assembly protein	ABCI4 ATP-binding cassette I4 At2g07681	Arabidopsis thaliana (Mouse-ear cress)	736	ATP-binding cassette I4	AT2G07681;
+F4J8M5	unreviewed	F4J8M5_ARATH	Cation efflux family protein	MTP5 metal transport protein 5 At3g12100	Arabidopsis thaliana (Mouse-ear cress)	268	metal transport protein 5	AT3G12100;
+G1C2W9	unreviewed	G1C2W9_ARATH	CcmB	ccb206 ccmB Atmg00110	Arabidopsis thaliana (Mouse-ear cress)	206	ccmB	ATMG00110;
+O23039	reviewed	ZIP5_ARATH	Zinc transporter 5 (ZRT/IRT-like protein 5)	ZIP5 At1g05300 YUP8H12.8	Arabidopsis thaliana (Mouse-ear cress)	360		AT1G05300;
+O64731	unreviewed	O64731_ARATH	Mitochondrial substrate carrier family protein (Putative mitochondrial carrier protein)	MIT1 At2g30160 T27E13.10 T27E13_10	Arabidopsis thaliana (Mouse-ear cress)	331		AT2G30160;
+O64738	reviewed	ZIP6_ARATH	Zinc transporter 6, chloroplastic (ZRT/IRT-like protein 6)	ZIP6 At2g30080 T27E13.18	Arabidopsis thaliana (Mouse-ear cress)	341		AT2G30080;
+P93051	reviewed	ERDL7_ARATH	Sugar transporter ERD6-like 7	At2g48020 T9J23.17	Arabidopsis thaliana (Mouse-ear cress)	463		AT2G48020;
+Q0WWC2	unreviewed	Q0WWC2_ARATH	Ferritin (EC 1.16.3.1)	At5g01600	Arabidopsis thaliana (Mouse-ear cress)	255		AT5G01600;
+Q0WWR6	unreviewed	Q0WWR6_ARATH	Ferritin (EC 1.16.3.1)	At3g56090	Arabidopsis thaliana (Mouse-ear cress)	259		AT3G56090;
+Q56ZR9	unreviewed	Q56ZR9_ARATH	Ferritin (EC 1.16.3.1)	At5g01600	Arabidopsis thaliana (Mouse-ear cress)	50		
+Q681H8	unreviewed	Q681H8_ARATH	Ferritin (EC 1.16.3.1)	At3g11050	Arabidopsis thaliana (Mouse-ear cress)	215		
+Q6DBM8	reviewed	MTPB_ARATH	Metal tolerance protein B (AtMTP4) (AtMTPb)	MTPB MTP4 At2g29410 F16P2.21	Arabidopsis thaliana (Mouse-ear cress)	375	MTP4	AT2G29410;
+Q8GWP3	reviewed	COPT6_ARATH	Copper transporter 6 (AtCOPT6)	COPT6 At2g26975 T20P8	Arabidopsis thaliana (Mouse-ear cress)	145		AT2G26975;
+Q8H1G3	reviewed	MTPC4_ARATH	Metal tolerance protein C4 (AtMTPc4) (AtMTP7)	MTPC4 MTP7 At1g51610 F19C24.16 F5D21.21	Arabidopsis thaliana (Mouse-ear cress)	457	MTP7	AT1G51610;
+Q8S3W4	reviewed	ZIP8_ARATH	Probable zinc transporter 8 (ZRT/IRT-like protein 8)	ZIP8 At5g45105 K17O22.10	Arabidopsis thaliana (Mouse-ear cress)	347		AT5G45105;
+Q8SAA5	reviewed	COPT4_ARATH	Copper transporter 4 (AtCOPT4)	COPT4 At2g37925 T8P21.17	Arabidopsis thaliana (Mouse-ear cress)	145		AT2G37925;
+Q8W245	reviewed	ZIP10_ARATH	Probable zinc transporter 10 (ZRT/IRT-like protein 10)	ZIP10 At1g31260 T19E23.6	Arabidopsis thaliana (Mouse-ear cress)	364		AT1G31260;
+Q8W246	reviewed	ZIP7_ARATH	Zinc transporter 7 (ZRT/IRT-like protein 7)	ZIP7 At2g04032 F3C11.15	Arabidopsis thaliana (Mouse-ear cress)	365		AT2G04032;
+Q9C9Z1	reviewed	ZTP50_ARATH	Putative zinc transporter At3g08650	At3g08650 F17O14.12	Arabidopsis thaliana (Mouse-ear cress)	619		AT3G08650;
+Q9FGU8	reviewed	COPT3_ARATH	Copper transporter 3 (AtCOPT3)	COPT3 At5g59040 K18B18.3	Arabidopsis thaliana (Mouse-ear cress)	151		AT5G59040;
+Q9FPI8	unreviewed	Q9FPI8_ARATH	Ferritin (EC 1.16.3.1)	At3g56090/F18O21_50	Arabidopsis thaliana (Mouse-ear cress)	160		AT3G56090;
+Q9M2C0	reviewed	VITH4_ARATH	Vacuolar iron transporter homolog 4 (Protein NODULIN-LIKE 4)	At3g43660 F23N14.40	Arabidopsis thaliana (Mouse-ear cress)	198		AT3G43660;
+Q9SN36	reviewed	NRAM5_ARATH	Metal transporter Nramp5 (AtNramp5)	NRAMP5 At4g18790 F28A21.200	Arabidopsis thaliana (Mouse-ear cress)	530		AT4G18790;
+A0A178UA71	unreviewed	A0A178UA71_ARATH	ZIP8	AXX17_At5g43310	Arabidopsis thaliana (Mouse-ear cress)	347		
+A0A178UFP2	unreviewed	A0A178UFP2_ARATH	Solute carrier family 40 member	AXX17_At5g26790	Arabidopsis thaliana (Mouse-ear cress)	598		
+A0A178UGP0	unreviewed	A0A178UGP0_ARATH	ZIP12	AXX17_At5g61650 AN1_LOCUS26523	Arabidopsis thaliana (Mouse-ear cress)	355		
+A0A178UI29	unreviewed	A0A178UI29_ARATH	Copper transport protein	AXX17_At5g58430 AT9943_LOCUS22566	Arabidopsis thaliana (Mouse-ear cress)	148		
+A0A178UL13	unreviewed	A0A178UL13_ARATH	Copper transport protein	AXX17_At5g20630 AN1_LOCUS22864 C24_LOCUS22750	Arabidopsis thaliana (Mouse-ear cress)	146		
+A0A178UQV5	unreviewed	A0A178UQV5_ARATH	Copper transport protein	AXX17_At5g58420	Arabidopsis thaliana (Mouse-ear cress)	169		
+A0A178UTD9	unreviewed	A0A178UTD9_ARATH	IRT1	AXX17_At4g23150 AN1_LOCUS18689 C24_LOCUS18583	Arabidopsis thaliana (Mouse-ear cress)	347		
+A0A178UWY3	unreviewed	A0A178UWY3_ARATH	ZIP metal ion transporter family	ZIP9 ATZIP9 At4g33020 F4I10.1	Arabidopsis thaliana (Mouse-ear cress)	391	ATZIP9	AT4G33020;
+A0A178UYS5	unreviewed	A0A178UYS5_ARATH	IRT2	AXX17_At4g23140 C24_LOCUS18582	Arabidopsis thaliana (Mouse-ear cress)	350		
+A0A178VAT8	unreviewed	A0A178VAT8_ARATH	MTP5	AXX17_At3g12080	Arabidopsis thaliana (Mouse-ear cress)	202		
+A0A178VC51	unreviewed	A0A178VC51_ARATH	MTP5	AXX17_At3g12080	Arabidopsis thaliana (Mouse-ear cress)	250		
+A0A178VCX7	unreviewed	A0A178VCX7_ARATH	Copper transport protein	AXX17_At3g40810 AN1_LOCUS15027 C24_LOCUS14902	Arabidopsis thaliana (Mouse-ear cress)	158		
+A0A178VJ43	unreviewed	A0A178VJ43_ARATH	MTPA2	AXX17_At3g53360	Arabidopsis thaliana (Mouse-ear cress)	89		
+A0A178VKA8	unreviewed	A0A178VKA8_ARATH	MTPA1	AXX17_At3g56240	Arabidopsis thaliana (Mouse-ear cress)	260		
+A0A178VKZ8	unreviewed	A0A178VKZ8_ARATH	MTPA2	AXX17_At3g53360 AN1_LOCUS16261	Arabidopsis thaliana (Mouse-ear cress)	378		
+A0A178VN05	unreviewed	A0A178VN05_ARATH	ZIP6	AXX17_At2g26150 AN1_LOCUS9412 C24_LOCUS9262	Arabidopsis thaliana (Mouse-ear cress)	341		
+A0A178VP41	unreviewed	A0A178VP41_ARATH	Uncharacterized protein	AXX17_At2g03740	Arabidopsis thaliana (Mouse-ear cress)	797		
+A0A178VT56	unreviewed	A0A178VT56_ARATH	ZIP7	AXX17_At2g02990	Arabidopsis thaliana (Mouse-ear cress)	701		
+A0A178VTP1	unreviewed	A0A178VTP1_ARATH	MTPB1	AXX17_At2g25490	Arabidopsis thaliana (Mouse-ear cress)	375		
+A0A178VTR5	unreviewed	A0A178VTR5_ARATH	Copper transport protein	AXX17_At2g22860 C24_LOCUS8942	Arabidopsis thaliana (Mouse-ear cress)	145		
+A0A178VYG0	unreviewed	A0A178VYG0_ARATH	Copper transport protein	AXX17_At2g34750 AN1_LOCUS10252 AT9943_LOCUS8797	Arabidopsis thaliana (Mouse-ear cress)	145		
+A0A178VZB1	unreviewed	A0A178VZB1_ARATH	ZIP3	AXX17_At2g28590	Arabidopsis thaliana (Mouse-ear cress)	339		
+A0A178W7Z5	unreviewed	A0A178W7Z5_ARATH	(thale cress) hypothetical protein (NAP10)	AXX17_At1g56710 AN1_LOCUS5334 AT9943_LOCUS4494 C24_LOCUS5141	Arabidopsis thaliana (Mouse-ear cress)	229		
+A0A178WA23	unreviewed	A0A178WA23_ARATH	(thale cress) hypothetical protein (ZIP4)	AXX17_At1g11210 AT9943_LOCUS922	Arabidopsis thaliana (Mouse-ear cress)	408		
+A0A178WCX4	unreviewed	A0A178WCX4_ARATH	ZIP10	AXX17_At1g31900	Arabidopsis thaliana (Mouse-ear cress)	364		
+A0A178WFF7	unreviewed	A0A178WFF7_ARATH	ZIP5	AXX17_At1g04720	Arabidopsis thaliana (Mouse-ear cress)	360		
+A0A178WHL0	unreviewed	A0A178WHL0_ARATH	IRT3	AXX17_At1g54050	Arabidopsis thaliana (Mouse-ear cress)	425		
+A0A178WIV9	unreviewed	A0A178WIV9_ARATH	Metal tolerance protein C4	AXX17_At1g45820 AN1_LOCUS4270 C24_LOCUS4154	Arabidopsis thaliana (Mouse-ear cress)	457		
+A0A384KM83	unreviewed	A0A384KM83_ARATH	(thale cress) hypothetical protein (ZAT1)	AXX17_At2g44500 AN1_LOCUS11209 AT9943_LOCUS9644 C24_LOCUS11045	Arabidopsis thaliana (Mouse-ear cress)	398		
+A0A384L3U2	unreviewed	A0A384L3U2_ARATH	(thale cress) hypothetical protein (ZIP9)	AXX17_At4g37840 AN1_LOCUS20124 AT9943_LOCUS17369 C24_LOCUS20019	Arabidopsis thaliana (Mouse-ear cress)	391		
+A0A384LIN1	unreviewed	A0A384LIN1_ARATH	ZIP1	AXX17_At3g12800	Arabidopsis thaliana (Mouse-ear cress)	355		
+A0A5S9WN65	unreviewed	A0A5S9WN65_ARATH	Fe(2+) transport protein 3, chloroplastic	C24_LOCUS4948	Arabidopsis thaliana (Mouse-ear cress)	425		
+A0A5S9WWZ3	unreviewed	A0A5S9WWZ3_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS6311 C24_LOCUS7319	Arabidopsis thaliana (Mouse-ear cress)	365		
+A0A5S9WX67	unreviewed	A0A5S9WX67_ARATH	Uncharacterized protein	C24_LOCUS7373	Arabidopsis thaliana (Mouse-ear cress)	800		
+A0A5S9X2T8	unreviewed	A0A5S9X2T8_ARATH	Metal tolerance protein B	C24_LOCUS9191	Arabidopsis thaliana (Mouse-ear cress)	375		
+A0A5S9X520	unreviewed	A0A5S9X520_ARATH	Copper transport protein	C24_LOCUS10098	Arabidopsis thaliana (Mouse-ear cress)	145		
+A0A5S9XM48	unreviewed	A0A5S9XM48_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS14000 C24_LOCUS16142	Arabidopsis thaliana (Mouse-ear cress)	378		
+A0A5S9XN77	unreviewed	A0A5S9XN77_ARATH	Uncharacterized protein	C24_LOCUS16452	Arabidopsis thaliana (Mouse-ear cress)	260		
+A0A5S9YB45	unreviewed	A0A5S9YB45_ARATH	Uncharacterized protein	AN1_LOCUS24724 C24_LOCUS24558	Arabidopsis thaliana (Mouse-ear cress)	347		
+A0A5S9YFE6	unreviewed	A0A5S9YFE6_ARATH	Copper transport protein	AT9943_LOCUS22565 C24_LOCUS26027	Arabidopsis thaliana (Mouse-ear cress)	169		
+A0A5S9YGB0	unreviewed	A0A5S9YGB0_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS22834 C24_LOCUS26345	Arabidopsis thaliana (Mouse-ear cress)	355		
+A0A5S9YHQ4	unreviewed	A0A5S9YHQ4_ARATH	Copper transport protein	AN1_LOCUS26203 C24_LOCUS26028	Arabidopsis thaliana (Mouse-ear cress)	151		
+A0A654EJH3	unreviewed	A0A654EJH3_ARATH	Uncharacterized protein	AN1_LOCUS1192 C24_LOCUS1103	Arabidopsis thaliana (Mouse-ear cress)	374		
+A0A654EPY4	unreviewed	A0A654EPY4_ARATH	Fe(2+) transport protein 3, chloroplastic	AN1_LOCUS5069	Arabidopsis thaliana (Mouse-ear cress)	425		
+A0A654ETH5	unreviewed	A0A654ETH5_ARATH	Uncharacterized protein	AN1_LOCUS7501	Arabidopsis thaliana (Mouse-ear cress)	798		
+A0A654EWI0	unreviewed	A0A654EWI0_ARATH	Copper transport protein	AN1_LOCUS9092	Arabidopsis thaliana (Mouse-ear cress)	145		
+A0A654EWQ0	unreviewed	A0A654EWQ0_ARATH	Uncharacterized protein	AN1_LOCUS7445	Arabidopsis thaliana (Mouse-ear cress)	365		
+A0A654EX78	unreviewed	A0A654EX78_ARATH	(thale cress) hypothetical protein	AN1_LOCUS9341 AT9943_LOCUS8006	Arabidopsis thaliana (Mouse-ear cress)	375		
+A0A654EZ87	unreviewed	A0A654EZ87_ARATH	(thale cress) hypothetical protein	AN1_LOCUS9652 AT9943_LOCUS8272 C24_LOCUS9500	Arabidopsis thaliana (Mouse-ear cress)	339		
+A0A654F6B2	unreviewed	A0A654F6B2_ARATH	(thale cress) hypothetical protein	AN1_LOCUS12535 AT9943_LOCUS10779 C24_LOCUS12365	Arabidopsis thaliana (Mouse-ear cress)	393		
+A0A654FJY8	unreviewed	A0A654FJY8_ARATH	Metal tolerance protein A2	AN1_LOCUS16573	Arabidopsis thaliana (Mouse-ear cress)	260		
+A0A654GCD4	unreviewed	A0A654GCD4_ARATH	Copper transport protein	AN1_LOCUS26202	Arabidopsis thaliana (Mouse-ear cress)	170		
+A0A654GFI9	unreviewed	A0A654GFI9_ARATH	Transmembrane protein	AN1_LOCUS27161 C24_LOCUS26995	Arabidopsis thaliana (Mouse-ear cress)	121		
+A0A7G2DS06	unreviewed	A0A7G2DS06_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS389	Arabidopsis thaliana (Mouse-ear cress)	723		
+A0A7G2DX47	unreviewed	A0A7G2DX47_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS2635	Arabidopsis thaliana (Mouse-ear cress)	354		
+A0A7G2E090	unreviewed	A0A7G2E090_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS3629	Arabidopsis thaliana (Mouse-ear cress)	685		
+A0A7G2E258	unreviewed	A0A7G2E258_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS4291	Arabidopsis thaliana (Mouse-ear cress)	425		
+A0A7G2E5F0	unreviewed	A0A7G2E5F0_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS6356	Arabidopsis thaliana (Mouse-ear cress)	630		
+A0A7G2EC63	unreviewed	A0A7G2EC63_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS8070	Arabidopsis thaliana (Mouse-ear cress)	352		
+A0A7G2EE56	unreviewed	A0A7G2EE56_ARATH	Copper transport protein	AT9943_LOCUS7793	Arabidopsis thaliana (Mouse-ear cress)	124		
+A0A7G2EKE9	unreviewed	A0A7G2EKE9_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS10843	Arabidopsis thaliana (Mouse-ear cress)	331		
+A0A7G2ELS1	unreviewed	A0A7G2ELS1_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS10779	Arabidopsis thaliana (Mouse-ear cress)	399		
+A0A7G2ES15	unreviewed	A0A7G2ES15_ARATH	Copper transport protein	AT9943_LOCUS12917	Arabidopsis thaliana (Mouse-ear cress)	132		
+A0A7G2EWU7	unreviewed	A0A7G2EWU7_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS14259	Arabidopsis thaliana (Mouse-ear cress)	244		
+A0A7G2EZF9	unreviewed	A0A7G2EZF9_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS16111	Arabidopsis thaliana (Mouse-ear cress)	339		
+A0A7G2F0X8	unreviewed	A0A7G2F0X8_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS16110	Arabidopsis thaliana (Mouse-ear cress)	350		
+A0A7G2FIB5	unreviewed	A0A7G2FIB5_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS21327	Arabidopsis thaliana (Mouse-ear cress)	308		
+A0A7G2FNH9	unreviewed	A0A7G2FNH9_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS23382	Arabidopsis thaliana (Mouse-ear cress)	297		
+B9DHR2	unreviewed	B9DHR2_ARATH	AT3G12100 protein	At3g12100	Arabidopsis thaliana (Mouse-ear cress)	218		
+C0Z294	unreviewed	C0Z294_ARATH	AT3G12100 protein	At3g12100	Arabidopsis thaliana (Mouse-ear cress)	202		
+F4IL90	unreviewed	F4IL90_ARATH	Cytochrome C assembly protein	At2g07768	Arabidopsis thaliana (Mouse-ear cress)	154		AT2G07768;
+G1C2S2	unreviewed	G1C2S2_ARATH	CcmFN1	ccmFN1 Atmg00830	Arabidopsis thaliana (Mouse-ear cress)	382		ATMG00830;
+G1C2S4	unreviewed	G1C2S4_ARATH	CcmFN2	ccmFN2	Arabidopsis thaliana (Mouse-ear cress)	203		
+Q0WSX7	unreviewed	Q0WSX7_ARATH	Uncharacterized protein At3g12100	At3g12100	Arabidopsis thaliana (Mouse-ear cress)	393		AT3G12100;
+Q0WT11	unreviewed	Q0WT11_ARATH	Zinc transporter-like protein	At3g58810	Arabidopsis thaliana (Mouse-ear cress)	386		
+Q0WW28	unreviewed	Q0WW28_ARATH	Putative zinc transporter	At3g12750	Arabidopsis thaliana (Mouse-ear cress)	355		AT3G12750;
+Q0WW73	unreviewed	Q0WW73_ARATH	AT2G46800 protein (Putative zinc transporter)	At2g46800	Arabidopsis thaliana (Mouse-ear cress)	398		AT2G46800;
+Q56X44	unreviewed	Q56X44_ARATH	Putative root iron transporter protein	At2g04032	Arabidopsis thaliana (Mouse-ear cress)	365		
+Q9LEX4	unreviewed	Q9LEX4_ARATH	Uncharacterized protein T27I15_90	T27I15_90	Arabidopsis thaliana (Mouse-ear cress)	217		

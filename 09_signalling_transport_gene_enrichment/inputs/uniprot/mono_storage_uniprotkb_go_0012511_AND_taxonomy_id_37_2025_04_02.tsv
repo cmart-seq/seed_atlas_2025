@@ -1,0 +1,94 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length	Gene Names (synonym)	TAIR
+O22788	reviewed	PXG3_ARATH	Probable peroxygenase 3 (AtPXG3) (EC 1.11.2.3) (Caleosin-3) (Protein RESPONSIVE TO DESICCATION 20)	PXG3 CLO3 RD20 At2g33380 F4P9.15	Arabidopsis thaliana (Mouse-ear cress)	236	CLO3 RD20	AT2G33380;
+O81270	reviewed	PXG1_ARATH	Peroxygenase 1 (AtPXG1) (EC 1.11.2.3) (Caleosin-1) (Embryo-specific protein 1 (ATS1))	PXG1 ATS1 CLO1 At4g26740 F10M23.80	Arabidopsis thaliana (Mouse-ear cress)	245	ATS1 CLO1	AT4G26740;
+Q9LY09	reviewed	GRP17_ARATH	Tapetal oleosin GRP-17 (T-oleosin GRP-17) (Glycine rich protein 17) (AtGRP-17) (Glycine rich protein 7) (AtGRP-7) (Oleopollenin GRP-17)	GRP17 GRP7 At5g07530 T2I1.240	Arabidopsis thaliana (Mouse-ear cress)	543	GRP7	AT5G07530;
+Q9LZA6	reviewed	SDP1_ARATH	Triacylglycerol lipase SDP1 (EC 3.1.1.3) (Protein SUGAR-DEPENDENT 1)	SDP1 At5g04040 F8F6.10 F8F6_250	Arabidopsis thaliana (Mouse-ear cress)	825		AT5G04040;
+Q9SGH6	reviewed	DOX1_ARATH	Alpha-dioxygenase 1 (Alpha DOX1) (EC 1.13.11.92) (Fatty acid dioxygenase AlphaDOX1) (Pathogen-induced oxygenase) (Plant alpha dioxygenase 1)	DOX1 DIOX1 PADOX-1 PIOX At3g01420 T13O15.6	Arabidopsis thaliana (Mouse-ear cress)	639	DIOX1 PADOX-1 PIOX	AT3G01420;
+P29525	reviewed	OLEO1_ARATH	Oleosin 18.5 kDa	At4g25140 F13M23.280	Arabidopsis thaliana (Mouse-ear cress)	173		AT4G25140;
+Q39165	reviewed	OLEO2_ARATH	Oleosin 21.2 kDa (Oleosin type 2)	At5g40420 MPO12.17	Arabidopsis thaliana (Mouse-ear cress)	199		AT5G40420;
+Q42574	reviewed	GRP19_ARATH	Tapetal oleosin GRP-19 (T-oleosin GRP-19) (Glycine-rich protein 19) (AtGRP19) (Oleopollenin GRP-19) (Putative glycine-rich protein 1) (PutG-1)	GRP19 PUTG1 At5g07550 T2I1.260	Arabidopsis thaliana (Mouse-ear cress)	106	PUTG1	AT5G07550;
+Q9LY08	reviewed	GRP16_ARATH	Tapetal oleosin GRP-16 (T-oleosin GRP-16) (Glycine-rich protein 16) (AtGRP-16) (Glycine-rich protein 6) (AtGRP-6) (Oleopollenin GRP-16)	GRP16 GRP6 At5g07540 T2I1.250	Arabidopsis thaliana (Mouse-ear cress)	244	GRP6	AT5G07540;
+Q42431	reviewed	OLEO4_ARATH	Oleosin 20.3 kDa (Oleosin type 4)	OL2 At3g27660 MGF10.7	Arabidopsis thaliana (Mouse-ear cress)	191		AT3G27660;
+Q43284	reviewed	OLEO3_ARATH	Oleosin 14.9 kDa	OL3 At5g51210 MWD22.16	Arabidopsis thaliana (Mouse-ear cress)	141		AT5G51210;
+A0A178U6L8	unreviewed	A0A178U6L8_ARATH	Oleosin	AXX17_At5g07260 AN1_LOCUS21577 C24_LOCUS21471	Arabidopsis thaliana (Mouse-ear cress)	106		
+A0A178UA73	unreviewed	A0A178UA73_ARATH	(thale cress) hypothetical protein (OLEO2)	AXX17_At5g38150 AN1_LOCUS24214 AT9943_LOCUS20920 C24_LOCUS24037	Arabidopsis thaliana (Mouse-ear cress)	199		
+A0A178UC12	unreviewed	A0A178UC12_ARATH	Oleosin	AXX17_At5g07240	Arabidopsis thaliana (Mouse-ear cress)	232		
+A0A178UEU9	unreviewed	A0A178UEU9_ARATH	Oleosin	At5g07571 AXX17_At5g07290 AN1_LOCUS21580 C24_LOCUS21474	Arabidopsis thaliana (Mouse-ear cress)	129		
+A0A178UG17	unreviewed	A0A178UG17_ARATH	Oleosin	At5g56100 AXX17_At5g55270 C24_LOCUS25718	Arabidopsis thaliana (Mouse-ear cress)	150		
+A0A178UIH4	unreviewed	A0A178UIH4_ARATH	Oleosin	AXX17_At5g07220	Arabidopsis thaliana (Mouse-ear cress)	446		
+A0A178UJG1	unreviewed	A0A178UJG1_ARATH	Oleosin	AXX17_At5g61110	Arabidopsis thaliana (Mouse-ear cress)	231		
+A0A178UNX0	unreviewed	A0A178UNX0_ARATH	Pollen coat oleosin-glycine rich protein	AXX17_At5g07330	Arabidopsis thaliana (Mouse-ear cress)	241		
+A0A178V1V3	unreviewed	A0A178V1V3_ARATH	Oleosin	AXX17_At4g29040 AN1_LOCUS19257 AT9943_LOCUS16608	Arabidopsis thaliana (Mouse-ear cress)	173		
+A0A178V6F1	unreviewed	A0A178V6F1_ARATH	Oleosin	AXX17_At3g30190 AN1_LOCUS14272 C24_LOCUS14111	Arabidopsis thaliana (Mouse-ear cress)	191		
+A0A178V7U7	unreviewed	A0A178V7U7_ARATH	Oleosin	AXX17_At3g30190 AT9943_LOCUS12222	Arabidopsis thaliana (Mouse-ear cress)	142		
+A0A178VDK3	unreviewed	A0A178VDK3_ARATH	Oleosin	AXX17_At3g00700 AN1_LOCUS11420 AT9943_LOCUS9822 C24_LOCUS11259	Arabidopsis thaliana (Mouse-ear cress)	183		
+A0A178VRV6	unreviewed	A0A178VRV6_ARATH	Oleosin	At2g25890 AXX17_At2g21730 C24_LOCUS8832	Arabidopsis thaliana (Mouse-ear cress)	149		
+A0A1P8B9H9	unreviewed	A0A1P8B9H9_ARATH	Glycine-rich protein 18	GRP18 ATGRP-8 ATGRP18 glycine-rich protein 18 At5g07520 T2I1.230 T2I1_230	Arabidopsis thaliana (Mouse-ear cress)	226	ATGRP-8 ATGRP18 glycine-rich protein 18	AT5G07520;
+A0A1P8BDM8	unreviewed	A0A1P8BDM8_ARATH	Oleosin	GRP17 ATGRP-7 ATGRP17 glycine rich protein 17 At5g07530 T2I1.240 T2I1_240	Arabidopsis thaliana (Mouse-ear cress)	521	ATGRP-7 ATGRP17 glycine rich protein 17	AT5G07530;
+A0A384KI27	unreviewed	A0A384KI27_ARATH	Oleosin	At3g18570 AXX17_At3g19730 C24_LOCUS13100	Arabidopsis thaliana (Mouse-ear cress)	166		
+A0A384LN43	unreviewed	A0A384LN43_ARATH	Oleosin	AXX17_At5g50000 AN1_LOCUS25367 AT9943_LOCUS21872 C24_LOCUS25198	Arabidopsis thaliana (Mouse-ear cress)	141		
+A0A5S9XVN0	unreviewed	A0A5S9XVN0_ARATH	Oleosin	C24_LOCUS19157	Arabidopsis thaliana (Mouse-ear cress)	173		
+A0A5S9Y283	unreviewed	A0A5S9Y283_ARATH	Oleosin	C24_LOCUS21468	Arabidopsis thaliana (Mouse-ear cress)	489		
+A0A5S9Y2A1	unreviewed	A0A5S9Y2A1_ARATH	Pollen coat oleosin-glycine rich protein	C24_LOCUS21478	Arabidopsis thaliana (Mouse-ear cress)	234		
+A0A5S9Y2K6	unreviewed	A0A5S9Y2K6_ARATH	Glycine-rich protein	C24_LOCUS21466	Arabidopsis thaliana (Mouse-ear cress)	235		
+A0A5S9Y2Y7	unreviewed	A0A5S9Y2Y7_ARATH	Pollen coat oleosin-glycine rich protein	C24_LOCUS21467	Arabidopsis thaliana (Mouse-ear cress)	216		
+A0A5S9Y4F8	unreviewed	A0A5S9Y4F8_ARATH	Oleosin	C24_LOCUS21470	Arabidopsis thaliana (Mouse-ear cress)	224		
+A0A654F166	unreviewed	A0A654F166_ARATH	Oleosin	AN1_LOCUS8980	Arabidopsis thaliana (Mouse-ear cress)	149		
+A0A654FZ52	unreviewed	A0A654FZ52_ARATH	Oleosin	AN1_LOCUS21574	Arabidopsis thaliana (Mouse-ear cress)	489		
+A0A654FZ60	unreviewed	A0A654FZ60_ARATH	Pollen coat oleosin-glycine rich protein	At5g07600 AN1_LOCUS21584	Arabidopsis thaliana (Mouse-ear cress)	230		
+A0A654FZ62	unreviewed	A0A654FZ62_ARATH	Pollen coat oleosin-glycine rich protein	At5g07520 AN1_LOCUS21573	Arabidopsis thaliana (Mouse-ear cress)	228		
+A0A654FZB9	unreviewed	A0A654FZB9_ARATH	Glycine-rich protein	At5g07510 AN1_LOCUS21572	Arabidopsis thaliana (Mouse-ear cress)	193		
+A0A654FZL6	unreviewed	A0A654FZL6_ARATH	Oleosin	AN1_LOCUS21576	Arabidopsis thaliana (Mouse-ear cress)	244		
+A0A654GBM4	unreviewed	A0A654GBM4_ARATH	Oleosin	AN1_LOCUS25888	Arabidopsis thaliana (Mouse-ear cress)	150		
+A0A654GD35	unreviewed	A0A654GD35_ARATH	Oleosin	AN1_LOCUS26470 C24_LOCUS26292	Arabidopsis thaliana (Mouse-ear cress)	245		
+A0A7G2EDA7	unreviewed	A0A7G2EDA7_ARATH	Oleosin	AT9943_LOCUS7701	Arabidopsis thaliana (Mouse-ear cress)	149		
+A0A7G2F5V9	unreviewed	A0A7G2F5V9_ARATH	Oleosin	AT9943_LOCUS18581	Arabidopsis thaliana (Mouse-ear cress)	86		
+A0A7G2FP90	unreviewed	A0A7G2FP90_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS22788	Arabidopsis thaliana (Mouse-ear cress)	388		
+A0MFE5	unreviewed	A0MFE5_ARATH	Glycine-rich protein		Arabidopsis thaliana (Mouse-ear cress)	194		
+A0MFE6	unreviewed	A0MFE6_ARATH	Pollen coat oleosin-glycine rich protein		Arabidopsis thaliana (Mouse-ear cress)	229		
+A8MSB7	unreviewed	A8MSB7_ARATH	Oleosin	GRP19 ATGRP19 glycine-rich protein 19 At5g07550 T2I1.260 T2I1_260	Arabidopsis thaliana (Mouse-ear cress)	95	ATGRP19 glycine-rich protein 19	AT5G07550;
+B3H6L6	unreviewed	B3H6L6_ARATH	Oleosin	GRP19 ATGRP19 glycine-rich protein 19 At5g07550 T2I1.260 T2I1_260	Arabidopsis thaliana (Mouse-ear cress)	71	ATGRP19 glycine-rich protein 19	AT5G07550;
+F4K3K4	unreviewed	F4K3K4_ARATH	Oleosin family protein	At5g61610 K11J9.14 K11J9_14	Arabidopsis thaliana (Mouse-ear cress)	294		AT5G61610;
+F4K817	unreviewed	F4K817_ARATH	Glycine-rich protein 14	GRP14 ATGRP-4 ATGRP14 glycine-rich protein 14 GLYCINE-RICH PROTEIN 4 GRP-4 At5g07510 T2I1.220 T2I1_220	Arabidopsis thaliana (Mouse-ear cress)	181	ATGRP-4 ATGRP14 glycine-rich protein 14 GLYCINE-RICH PROTEIN 4 GRP-4	AT5G07510;
+F4K823	unreviewed	F4K823_ARATH	Oleosin	GRP16 ATGRP-6 ATGRP16 glycine-rich protein 16 At5g07540 T2I1.250 T2I1_250	Arabidopsis thaliana (Mouse-ear cress)	190	ATGRP-6 ATGRP16 glycine-rich protein 16	AT5G07540;
+O82308	unreviewed	O82308_ARATH	Oleosin	At2g25890 F17H15.8 F17H15_8	Arabidopsis thaliana (Mouse-ear cress)	174		AT2G25890;
+Q1PDZ0	unreviewed	Q1PDZ0_ARATH	Glycine-rich protein	GRP14 ATGRP-4 ATGRP14 glycine-rich protein 14 GLYCINE-RICH PROTEIN 4 GRP-4 At5g07510 T2I1.220 T2I1_220	Arabidopsis thaliana (Mouse-ear cress)	193	ATGRP-4 ATGRP14 glycine-rich protein 14 GLYCINE-RICH PROTEIN 4 GRP-4	AT5G07510;
+Q494N8	unreviewed	Q494N8_ARATH	Oleosin	At2g25890 F17H15.8 F17H15_8	Arabidopsis thaliana (Mouse-ear cress)	149		AT2G25890;
+Q5HZ52	unreviewed	Q5HZ52_ARATH	Oleosin		Arabidopsis thaliana (Mouse-ear cress)	141		AT5G51210;
+Q6IMG0	unreviewed	Q6IMG0_ARATH	GRP21	GRP21 At5g07565	Arabidopsis thaliana (Mouse-ear cress)	1193		AT5G07571;
+Q84WN2	unreviewed	Q84WN2_ARATH	Oleosin	At2g25890	Arabidopsis thaliana (Mouse-ear cress)	167		
+Q84WT0	unreviewed	Q84WT0_ARATH	Oleosin	At5g51210	Arabidopsis thaliana (Mouse-ear cress)	141		
+Q94FP9	unreviewed	Q94FP9_ARATH	Oleosin		Arabidopsis thaliana (Mouse-ear cress)	543		AT5G07530;
+Q94FQ0	unreviewed	Q94FQ0_ARATH	Oleosin		Arabidopsis thaliana (Mouse-ear cress)	543		AT5G07530;
+Q94FQ4	unreviewed	Q94FQ4_ARATH	Oleosin		Arabidopsis thaliana (Mouse-ear cress)	543		AT5G07530;
+Q94FQ6	unreviewed	Q94FQ6_ARATH	Oleosin		Arabidopsis thaliana (Mouse-ear cress)	106		
+Q94FR0	unreviewed	Q94FR0_ARATH	Oleosin		Arabidopsis thaliana (Mouse-ear cress)	543		
+Q9FKG0	unreviewed	Q9FKG0_ARATH	Oleosin		Arabidopsis thaliana (Mouse-ear cress)	219		
+Q9FKT7	unreviewed	Q9FKT7_ARATH	Glycine-rich protein / oleosin	MDA7.16 MDA7_16 At5g56100 At5g56100/MDA7.16	Arabidopsis thaliana (Mouse-ear cress)	150	MDA7_16	AT5G56100;
+Q9FLS1	unreviewed	Q9FLS1_ARATH	Oleosin family protein	MBK20.3 MBK20_3 At5g07600	Arabidopsis thaliana (Mouse-ear cress)	230	MBK20_3	AT5G07600;
+Q9LY07	unreviewed	Q9LY07_ARATH	Glycine-rich protein 20 (Glycine-rich protein GRP20) (Oleosin-like protein)	GRP20 ATGRP20 glycine-rich protein 20 At5g07560 T2I1.270 T2I1_270	Arabidopsis thaliana (Mouse-ear cress)	153	ATGRP20 glycine-rich protein 20	AT5G07560;
+Q9LY10	unreviewed	Q9LY10_ARATH	Glycine-rich protein (Glycine-rich protein atGRP)	GRP18 ATGRP-8 ATGRP18 glycine-rich protein 18 At5g07520 T2I1.230 T2I1_230	Arabidopsis thaliana (Mouse-ear cress)	228	ATGRP-8 ATGRP18 glycine-rich protein 18	AT5G07520;
+Q9LY11	unreviewed	Q9LY11_ARATH	Glycine-rich protein	GRP14 ATGRP-4 ATGRP14 glycine-rich protein 14 GLYCINE-RICH PROTEIN 4 GRP-4 At5g07510 T2I1.220 T2I1_220	Arabidopsis thaliana (Mouse-ear cress)	185	ATGRP-4 ATGRP14 glycine-rich protein 14 GLYCINE-RICH PROTEIN 4 GRP-4	AT5G07510;
+Q9M9A1	unreviewed	Q9M9A1_ARATH	F27J15.22 (Oleosin family protein) (Putative oleosin)	At1g48990 At1g48990/F27J15_22 F27J15.22 F27J15_22	Arabidopsis thaliana (Mouse-ear cress)	169		AT1G48990;
+Q9SS98	reviewed	OLEO5_ARATH	Oleosin 5	At3g01570 F4P13.12	Arabidopsis thaliana (Mouse-ear cress)	183		AT3G01570;
+A0A178UEY7	unreviewed	A0A178UEY7_ARATH	GRP18	AXX17_At5g07210	Arabidopsis thaliana (Mouse-ear cress)	228		
+A0A178UJU8	unreviewed	A0A178UJU8_ARATH	(thale cress) hypothetical protein (GRP20)	AXX17_At5g07270 AN1_LOCUS21578 AT9943_LOCUS18584	Arabidopsis thaliana (Mouse-ear cress)	153		
+A0A178UQ80	unreviewed	A0A178UQ80_ARATH	GRP14	AXX17_At5g07200	Arabidopsis thaliana (Mouse-ear cress)	181		
+A0A178WF26	unreviewed	A0A178WF26_ARATH	(thale cress) hypothetical protein	AXX17_At1g43100 AN1_LOCUS4018 AT9943_LOCUS3401 C24_LOCUS3899	Arabidopsis thaliana (Mouse-ear cress)	169		
+A0A5S9Y288	unreviewed	A0A5S9Y288_ARATH	Uncharacterized protein	C24_LOCUS21472	Arabidopsis thaliana (Mouse-ear cress)	149		
+A0A654F8G2	unreviewed	A0A654F8G2_ARATH	(thale cress) hypothetical protein	AN1_LOCUS13266 AT9943_LOCUS11402	Arabidopsis thaliana (Mouse-ear cress)	166		
+A0A7G2FB24	unreviewed	A0A7G2FB24_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS18587	Arabidopsis thaliana (Mouse-ear cress)	599		
+F4K829	unreviewed	F4K829_ARATH	Oleosin family protein	At5g07571	Arabidopsis thaliana (Mouse-ear cress)	129		AT5G07571;
+Q42458	unreviewed	Q42458_ARATH	Glycine rich protein	GRP	Arabidopsis thaliana (Mouse-ear cress)	222		
+Q8GXG4	unreviewed	Q8GXG4_ARATH	Putative glycine-rich protein	At5g07510/T2I1_220	Arabidopsis thaliana (Mouse-ear cress)	193		
+Q93WI3	unreviewed	Q93WI3_ARATH	Glycine-rich protein GRP18 (Glycine-rich protein atGRP)	At5g07520	Arabidopsis thaliana (Mouse-ear cress)	216		
+Q94FP5	unreviewed	Q94FP5_ARATH	Glycine-rich protein GRP14		Arabidopsis thaliana (Mouse-ear cress)	193		
+Q94FP6	unreviewed	Q94FP6_ARATH	Glycine-rich protein GRP14		Arabidopsis thaliana (Mouse-ear cress)	229		
+Q94FQ1	unreviewed	Q94FQ1_ARATH	Glycine-rich protein GRP18		Arabidopsis thaliana (Mouse-ear cress)	216		
+Q94FQ2	unreviewed	Q94FQ2_ARATH	Glycine-rich protein GRP20		Arabidopsis thaliana (Mouse-ear cress)	149		
+Q94FQ3	unreviewed	Q94FQ3_ARATH	Glycine-rich protein GRP14		Arabidopsis thaliana (Mouse-ear cress)	235		
+Q94FQ7	unreviewed	Q94FQ7_ARATH	Glycine-rich protein GRP20		Arabidopsis thaliana (Mouse-ear cress)	147		
+Q94FQ8	unreviewed	Q94FQ8_ARATH	Glycine-rich protein GRP14		Arabidopsis thaliana (Mouse-ear cress)	181		
+Q94FQ9	unreviewed	Q94FQ9_ARATH	Glycine-rich protein GRP18		Arabidopsis thaliana (Mouse-ear cress)	228		
+Q94FR2	unreviewed	Q94FR2_ARATH	Glycine-rich protein GRP20		Arabidopsis thaliana (Mouse-ear cress)	153		AT5G07560;
+Q9LII2	unreviewed	Q9LII2_ARATH	Oleosin family protein (Putative oleosin)	At3g18570	Arabidopsis thaliana (Mouse-ear cress)	166		AT3G18570;

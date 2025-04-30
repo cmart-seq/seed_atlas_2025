@@ -1,0 +1,64 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length	Gene Names (synonym)	TAIR
+Q3B724	reviewed	CALS5_ARATH	Callose synthase 5 (EC 2.4.1.34) (1,3-beta-glucan synthase) (Protein GLUCAN SYNTHASE-LIKE 2) (Protein LESS ADHERENT POLLEN 1)	CALS5 GSL2 LAP1 At2g13680 F13J11.3 T10F5.22	Arabidopsis thaliana (Mouse-ear cress)	1923	GSL2 LAP1	AT2G13680;
+Q9AUE0	reviewed	CALS1_ARATH	Callose synthase 1 (EC 2.4.1.34) (1,3-beta-glucan synthase) (Protein GLUCAN SYNTHASE-LIKE 6)	CALS1 GSL6 At1g05570 F3F20.1 T25N20.22	Arabidopsis thaliana (Mouse-ear cress)	1950	GSL6	AT1G05570;
+Q9SFU6	reviewed	CALS9_ARATH	Callose synthase 9 (EC 2.4.1.34) (1,3-beta-glucan synthase) (Protein GLUCAN SYNTHASE-LIKE 10)	CALS9 GSL10 At3g07160 T1B9.18	Arabidopsis thaliana (Mouse-ear cress)	1890	GSL10	AT3G07160;
+Q9SJM0	reviewed	CALSA_ARATH	Callose synthase 10 (EC 2.4.1.34) (1,3-beta-glucan synthase) (Protein CHORUS) (Protein GLUCAN SYNTHASE-LIKE 8)	CALS10 GSL8 At2g36850 T1J8.3	Arabidopsis thaliana (Mouse-ear cress)	1904	GSL8	AT2G36850;
+Q9ZT82	reviewed	CALSC_ARATH	Callose synthase 12 (EC 2.4.1.34) (1,3-beta-glucan synthase) (Protein GLUCAN SYNTHASE-LIKE 5) (Protein POWDERY MILDEW RESISTANT 4)	CALS12 GSL5 PMR4 At4g03550 F9H3.18 T5L23.4	Arabidopsis thaliana (Mouse-ear cress)	1780	GSL5 PMR4	AT4G03550;
+Q9S9U0	reviewed	CALSB_ARATH	Callose synthase 11 (EC 2.4.1.34) (1,3-beta-glucan synthase) (Protein GLUCAN SYNTHASE-LIKE 1)	CALS11 GSL1 At4g04970 T32N4.8	Arabidopsis thaliana (Mouse-ear cress)	1768	GSL1	AT4G04970;
+Q9SHJ3	reviewed	CALS7_ARATH	Callose synthase 7 (EC 2.4.1.34) (1,3-beta-glucan synthase) (Protein GLUCAN SYNTHASE-LIKE 7)	CALS7 GSL7 At1g06490 F12K11.17	Arabidopsis thaliana (Mouse-ear cress)	1958	GSL7	AT1G06490;
+A0A178V7F9	unreviewed	A0A178V7F9_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	GSL10 ATGSL10 CALS9 glucan synthase-like 10 gsl10 At3g07160	Arabidopsis thaliana (Mouse-ear cress)	1892	ATGSL10 CALS9 glucan synthase-like 10 gsl10	AT3G07160;
+A0A1I9LPR4	unreviewed	A0A1I9LPR4_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	GSL11 ATGSL11 glucan synthase-like 11 gsl11 At3g59100	Arabidopsis thaliana (Mouse-ear cress)	1624	ATGSL11 glucan synthase-like 11 gsl11	AT3G59100;
+A0A1I9LQE8	unreviewed	A0A1I9LQE8_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	GSL04 ATGSL04 atgsl4 glucan synthase-like 4 gsl04 GSL4 At3g14570	Arabidopsis thaliana (Mouse-ear cress)	1960	ATGSL04 atgsl4 glucan synthase-like 4 gsl04 GSL4	AT3G14570;
+A0A1P8AXZ6	unreviewed	A0A1P8AXZ6_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	GSL03 ATGSL03 ATGSL3 glucan synthase-like 3 At2g31960 F22D22.29 F22D22_29	Arabidopsis thaliana (Mouse-ear cress)	1909	ATGSL03 ATGSL3 glucan synthase-like 3	AT2G31960;
+A0A1P8B9B7	unreviewed	A0A1P8B9B7_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	GSL09 ATGSL09 atgsl9 glucan synthase-like 9 gsl09 At5g36870 F5H8.14 F5H8_14	Arabidopsis thaliana (Mouse-ear cress)	1863	ATGSL09 atgsl9 glucan synthase-like 9 gsl09	AT5G36870;
+A0A1P8B9D3	unreviewed	A0A1P8B9D3_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	GSL09 ATGSL09 atgsl9 glucan synthase-like 9 gsl09 At5g36870 F5H8.14 F5H8_14	Arabidopsis thaliana (Mouse-ear cress)	1870	ATGSL09 atgsl9 glucan synthase-like 9 gsl09	AT5G36870;
+A0A1P8B9E7	unreviewed	A0A1P8B9E7_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	GSL09 ATGSL09 atgsl9 glucan synthase-like 9 gsl09 At5g36870 F5H8.14 F5H8_14	Arabidopsis thaliana (Mouse-ear cress)	1752	ATGSL09 atgsl9 glucan synthase-like 9 gsl09	AT5G36870;
+E9KSP0	unreviewed	E9KSP0_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	CALS7 ATGSL07 atgsl7 callose synthase 7 CalS7 glucan synthase-like 7 GSL07 gsl07 GSL7 At1g06490 F12K11.17 F12K11_17	Arabidopsis thaliana (Mouse-ear cress)	1933	ATGSL07 atgsl7 callose synthase 7 CalS7 glucan synthase-like 7 GSL07 gsl07 GSL7	AT1G06490;
+F4I8T3	unreviewed	F4I8T3_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	CALS1 ATGSL06 ATGSL6 callose synthase 1 GLUCAN SYNTHASE-LIKE 6 GSL06 GSL6 At1g05570 F3F20.1 F3F20_1	Arabidopsis thaliana (Mouse-ear cress)	1909	ATGSL06 ATGSL6 callose synthase 1 GLUCAN SYNTHASE-LIKE 6 GSL06 GSL6	AT1G05570;
+F4IW73	unreviewed	F4IW73_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	GSL04 ATGSL04 atgsl4 glucan synthase-like 4 gsl04 GSL4 At3g14570	Arabidopsis thaliana (Mouse-ear cress)	1950	ATGSL04 atgsl4 glucan synthase-like 4 gsl04 GSL4	AT3G14570;
+F4K116	unreviewed	F4K116_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	GSL12 ATGSL12 callose synthase 3 CALS3 glucan synthase-like 12 gsl12 At5g13000 T24H18.170 T24H18_170	Arabidopsis thaliana (Mouse-ear cress)	1914	ATGSL12 callose synthase 3 CALS3 glucan synthase-like 12 gsl12	AT5G13000;
+Q9LTG5	reviewed	CALS4_ARATH	Callose synthase 4 (EC 2.4.1.34) (1,3-beta-glucan synthase) (Protein GLUCAN SYNTHASE-LIKE 9)	CALS4 GSL9 At5g36870 F5H8.14	Arabidopsis thaliana (Mouse-ear cress)	1871	GSL9	AT5G36870;
+Q9LUD7	reviewed	CALS8_ARATH	Putative callose synthase 8 (EC 2.4.1.34) (1,3-beta-glucan synthase) (Protein GLUCAN SYNTHASE-LIKE 4)	CALS8 GSL4 At3g14570 MIE1.7	Arabidopsis thaliana (Mouse-ear cress)	1976	GSL4	AT3G14570;
+Q9LXT9	reviewed	CALS3_ARATH	Callose synthase 3 (EC 2.4.1.34) (1,3-beta-glucan synthase) (Protein GLUCAN SYNTHASE-LIKE 12)	CALS3 GSL12 At5g13000 T24H18.170	Arabidopsis thaliana (Mouse-ear cress)	1955	GSL12	AT5G13000;
+Q9LYS6	reviewed	CALS6_ARATH	Putative callose synthase 6 (EC 2.4.1.34) (1,3-beta-glucan synthase) (Protein GLUCAN SYNTHASE-LIKE 11)	CALS6 GSL11 At3g59100 F17J16.150	Arabidopsis thaliana (Mouse-ear cress)	1921	GSL11	AT3G59100;
+Q9SL03	reviewed	CALS2_ARATH	Callose synthase 2 (EC 2.4.1.34) (1,3-beta-glucan synthase) (Protein GLUCAN SYNTHASE-LIKE 3)	CALS2 GSL3 At2g31960 F22D22.29	Arabidopsis thaliana (Mouse-ear cress)	1950	GSL3	AT2G31960;
+A0A178UM94	unreviewed	A0A178UM94_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AXX17_At5g12420	Arabidopsis thaliana (Mouse-ear cress)	1976		
+A0A178UW31	unreviewed	A0A178UW31_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AXX17_At4g04490	Arabidopsis thaliana (Mouse-ear cress)	1780		
+A0A178UZT8	unreviewed	A0A178UZT8_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AXX17_At4g05240 AT9943_LOCUS14812 C24_LOCUS17109	Arabidopsis thaliana (Mouse-ear cress)	1768		
+A0A178V9R0	unreviewed	A0A178V9R0_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AXX17_At3g15200	Arabidopsis thaliana (Mouse-ear cress)	2014		
+A0A178VC58	unreviewed	A0A178VC58_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AXX17_At3g15200	Arabidopsis thaliana (Mouse-ear cress)	1976		
+A0A178VKU8	unreviewed	A0A178VKU8_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AXX17_At3g53610	Arabidopsis thaliana (Mouse-ear cress)	1914		
+A0A178VPS0	unreviewed	A0A178VPS0_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AXX17_At2g33580	Arabidopsis thaliana (Mouse-ear cress)	1904		
+A0A178VYD1	unreviewed	A0A178VYD1_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AXX17_At2g28250 AT9943_LOCUS8242 C24_LOCUS9467	Arabidopsis thaliana (Mouse-ear cress)	1950		
+A0A178W960	unreviewed	A0A178W960_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AXX17_At1g05010 AN1_LOCUS606	Arabidopsis thaliana (Mouse-ear cress)	1950		
+A0A384KXN3	unreviewed	A0A384KXN3_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AXX17_At3g07070 AN1_LOCUS12048 C24_LOCUS11881	Arabidopsis thaliana (Mouse-ear cress)	1892		
+A0A384L982	unreviewed	A0A384L982_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AXX17_At1g06110 AN1_LOCUS710 C24_LOCUS626	Arabidopsis thaliana (Mouse-ear cress)	1933		
+A0A5S9SRG4	unreviewed	A0A5S9SRG4_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	C24_LOCUS522	Arabidopsis thaliana (Mouse-ear cress)	1950		
+A0A5S9WXV2	unreviewed	A0A5S9WXV2_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	C24_LOCUS7639	Arabidopsis thaliana (Mouse-ear cress)	1923		
+A0A5S9XC44	unreviewed	A0A5S9XC44_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AN1_LOCUS12827 C24_LOCUS12658	Arabidopsis thaliana (Mouse-ear cress)	1976		
+A0A5S9XMX0	unreviewed	A0A5S9XMX0_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AN1_LOCUS16289 C24_LOCUS16171	Arabidopsis thaliana (Mouse-ear cress)	1921		
+A0A5S9XQD8	unreviewed	A0A5S9XQD8_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AT9943_LOCUS14756 C24_LOCUS17039	Arabidopsis thaliana (Mouse-ear cress)	1780		
+A0A5S9Y413	unreviewed	A0A5S9Y413_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	C24_LOCUS21955	Arabidopsis thaliana (Mouse-ear cress)	1955		
+A0A5S9Y8I9	unreviewed	A0A5S9Y8I9_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	C24_LOCUS23665	Arabidopsis thaliana (Mouse-ear cress)	1901		
+A0A654ESN5	unreviewed	A0A654ESN5_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AN1_LOCUS7779	Arabidopsis thaliana (Mouse-ear cress)	1923		
+A0A654EZK1	unreviewed	A0A654EZK1_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AN1_LOCUS10139 C24_LOCUS9986	Arabidopsis thaliana (Mouse-ear cress)	1904		
+A0A654F340	unreviewed	A0A654F340_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AN1_LOCUS9620	Arabidopsis thaliana (Mouse-ear cress)	1950		
+A0A654FLJ4	unreviewed	A0A654FLJ4_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AN1_LOCUS17161	Arabidopsis thaliana (Mouse-ear cress)	1780		
+A0A654FLX9	unreviewed	A0A654FLX9_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AN1_LOCUS17233	Arabidopsis thaliana (Mouse-ear cress)	1768		
+A0A654G0Z6	unreviewed	A0A654G0Z6_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AN1_LOCUS22065	Arabidopsis thaliana (Mouse-ear cress)	1955		
+A0A7G2DQ67	unreviewed	A0A7G2DQ67_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AT9943_LOCUS412	Arabidopsis thaliana (Mouse-ear cress)	1905		
+A0A7G2DRM5	unreviewed	A0A7G2DRM5_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AT9943_LOCUS500	Arabidopsis thaliana (Mouse-ear cress)	1892		
+A0A7G2EAJ0	unreviewed	A0A7G2EAJ0_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AT9943_LOCUS6680	Arabidopsis thaliana (Mouse-ear cress)	1924		
+A0A7G2EG06	unreviewed	A0A7G2EG06_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AT9943_LOCUS8693	Arabidopsis thaliana (Mouse-ear cress)	1904		
+A0A7G2EG91	unreviewed	A0A7G2EG91_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AT9943_LOCUS10356	Arabidopsis thaliana (Mouse-ear cress)	1879		
+A0A7G2EKP7	unreviewed	A0A7G2EKP7_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AT9943_LOCUS11036	Arabidopsis thaliana (Mouse-ear cress)	1957		
+A0A7G2ESE3	unreviewed	A0A7G2ESE3_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AT9943_LOCUS14018	Arabidopsis thaliana (Mouse-ear cress)	1893		
+A0A7G2F790	unreviewed	A0A7G2F790_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AT9943_LOCUS18996	Arabidopsis thaliana (Mouse-ear cress)	1983		
+C8C9X3	unreviewed	C8C9X3_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	CalS5 At2g13680	Arabidopsis thaliana (Mouse-ear cress)	1923		
+I6LM38	unreviewed	I6LM38_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)		Arabidopsis thaliana (Mouse-ear cress)	1947		
+W8PV73	unreviewed	W8PV73_ARATH	1,3-beta-glucan synthase (EC 2.4.1.34) (1,3-beta-glucan synthase)	AT4G03550	Arabidopsis thaliana (Mouse-ear cress)	1780		AT4G03550;
+A0A178UJ29	unreviewed	A0A178UJ29_ARATH	Uncharacterized protein	AXX17_At5g33770	Arabidopsis thaliana (Mouse-ear cress)	889		
+A0A178VX03	unreviewed	A0A178VX03_ARATH	Uncharacterized protein	AXX17_At2g04260	Arabidopsis thaliana (Mouse-ear cress)	697		
+A0A7G2E7K7	unreviewed	A0A7G2E7K7_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS6390	Arabidopsis thaliana (Mouse-ear cress)	1224		
+Q56Z18	unreviewed	Q56Z18_ARATH	Putative glucan synthase	At3g07160	Arabidopsis thaliana (Mouse-ear cress)	283		AT3G07160;
+Q8LPI6	unreviewed	Q8LPI6_ARATH	Putative glucan synthase	At3g07160	Arabidopsis thaliana (Mouse-ear cress)	436		AT3G07160;

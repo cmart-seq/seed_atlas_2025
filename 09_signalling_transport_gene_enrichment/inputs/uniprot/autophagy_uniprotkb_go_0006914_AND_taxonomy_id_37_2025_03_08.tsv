@@ -1,0 +1,160 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length	Gene Names (synonym)	TAIR
+A8MQL1	reviewed	TRF1B_ARATH	TNF receptor-associated factor homolog 1b (Protein MUTANT SNC1-ENHANCING 13)	TRAF1B MUSE13 At1g04300 F19P19.26	Arabidopsis thaliana (Mouse-ear cress)	1082	MUSE13	AT1G04300;
+F8S296	reviewed	ATG2_ARATH	Autophagy-related protein 2 (AtAPG2) (Protein PEROXISOME UNUSUAL POSITIONING 1)	ATG2 APG2 PEUP1 At3g19190 MVI11.10/MVI11.11	Arabidopsis thaliana (Mouse-ear cress)	1892	APG2 PEUP1	AT3G19190;
+O82345	reviewed	BAG6_ARATH	BAG family molecular chaperone regulator 6 (Bcl-2-associated athanogene 6) (CaM-binding protein 1) [Cleaved into: Cleaved BAG6]	BAG6 CAMBP1 At2g46240 T3F17.11	Arabidopsis thaliana (Mouse-ear cress)	1043	CAMBP1	AT2G46240;
+Q0WQ75	reviewed	VPS51_ARATH	Vacuolar protein sorting-associated protein 51 homolog (Protein UNHINGED)	VPS51 UNH At4g02030 T10M13.4	Arabidopsis thaliana (Mouse-ear cress)	780	UNH	AT4G02030;
+Q8L5Y0	reviewed	VPS39_ARATH	Vacuolar sorting protein 39 (Protein EMBRYO DEFECTIVE 2754)	VPS39 EMB2754 At4g36630 AP22.59 C7A10.730	Arabidopsis thaliana (Mouse-ear cress)	1000	EMB2754	AT4G36630;
+Q8LE58	reviewed	CHM1A_ARATH	ESCRT-related protein CHMP1A (Protein CHARGED MULTIVESICULAR BODY PROTEIN 1A) (Protein CHROMATIN MODIFYING PROTEIN 1A) (Vacuolar protein-sorting-associated protein 46.1)	CHMP1A VPS46.1 At1g17730 F11A6.7	Arabidopsis thaliana (Mouse-ear cress)	203	VPS46.1	AT1G17730;
+Q8RUS5	reviewed	ATG9_ARATH	Autophagy-related protein 9 (AtAPG9)	ATG9 APG9 At2g31260	Arabidopsis thaliana (Mouse-ear cress)	866	APG9	AT2G31260;
+Q8RY18	reviewed	TRF1A_ARATH	TNF receptor-associated factor homolog 1a (MATH domain-containing protein At5g43560) (Protein MUTANT SNC1-ENHANCING 14)	TRAF1A MUSE14 At5g43560 K9D7.6	Arabidopsis thaliana (Mouse-ear cress)	1055	MUSE14	AT5G43560;
+Q8S926	reviewed	ATG8E_ARATH	Autophagy-related protein 8e (Autophagy-related ubiquitin-like modifier ATG8e) (AtAPG8e) (Protein autophagy 8e)	ATG8E APG8E At2g45170 F4L23 T14P1.2	Arabidopsis thaliana (Mouse-ear cress)	122	APG8E	AT2G45170;
+Q8VZ52	reviewed	ATG10_ARATH	Ubiquitin-like-conjugating enzyme ATG10 (EC 2.3.2.-) (Autophagy-related protein 10) (AtATG10)	ATG10 At3g07525 F21O3	Arabidopsis thaliana (Mouse-ear cress)	225		AT3G07525;
+Q93VB2	reviewed	AT18A_ARATH	Autophagy-related protein 18a (AtATG18a) (Protein PEROXISOME UNUSUAL POSITIONING 2)	ATG18A PEUP2 At3g62770 F26K9_200	Arabidopsis thaliana (Mouse-ear cress)	425	PEUP2	AT3G62770;
+Q93VJ2	reviewed	IRE1B_ARATH	Serine/threonine-protein kinase/endoribonuclease IRE1b (Endoplasmic reticulum-to-nucleus signaling 1-1) (Inositol-requiring protein 1-1) (AtIRE1-1) (Serine/threonine-protein kinase/endoribonuclease IRE1-1) [Includes: Serine/threonine-protein kinase (EC 2.7.11.1); Endoribonuclease (EC 3.1.26.-)]	IRE1B IRE1-1 At5g24360 K16H17.7	Arabidopsis thaliana (Mouse-ear cress)	881	IRE1-1	AT5G24360;
+Q94C95	reviewed	ATG1A_ARATH	Serine/threonine-protein kinase ATG1a (EC 2.7.11.-) (Autophagy-related protein 1a) (AtAPG1a)	ATG1A At3g61960 F21F14.130	Arabidopsis thaliana (Mouse-ear cress)	626		AT3G61960;
+Q94CD5	reviewed	ATG7_ARATH	Ubiquitin-like modifier-activating enzyme atg7 (ATG12-activating enzyme E1 atg7) (Autophagy-related protein 7) (AtAPG7) (Protein PEROXISOME UNUSUAL POSITIONING 4)	ATG7 APG7 PEUP4 At5g45900 K15I22.10	Arabidopsis thaliana (Mouse-ear cress)	697	APG7 PEUP4	AT5G45900;
+Q94IB9	reviewed	ACER_ARATH	Alkaline ceramidase (AlkCDase) (Alkaline CDase) (AtACER) (EC 3.5.1.-) (Acyl-CoA independent ceramide synthase 1) (AtCES1) (Alkaline ceramidase YPC1) (AtYPC1) (Alkaline dihydroceramidase ACER) (Alkaline phytoceramidase) (aPHC)	ACER CES1 YPC1 At4g22330 T10I14.160	Arabidopsis thaliana (Mouse-ear cress)	255	CES1 YPC1	AT4G22330;
+Q9M0E5	reviewed	VPS15_ARATH	Serine/threonine-protein kinase VPS15 (EC 2.7.11.1) (Vacuolar protein sorting-associated protein 15) (AtVPS15)	VPS15 At4g29380 F17A13.200	Arabidopsis thaliana (Mouse-ear cress)	1494		AT4G29380;
+Q9M367	reviewed	BECN1_ARATH	Beclin-1-like protein (AtBECLIN 1) (Autophagy protein 6) (AtATG6) (Protein VPS30 homolog) (AtVPS30)	ATG6 VPS30 At3g61710 F15G16.100	Arabidopsis thaliana (Mouse-ear cress)	517	VPS30	AT3G61710;
+Q9SB64	reviewed	NBR1_ARATH	Protein NBR1 homolog (AtNBR1) (At4g24690)	NBR1 At4g24690 F22K18.110	Arabidopsis thaliana (Mouse-ear cress)	704		AT4G24690;
+Q9SCK0	reviewed	AT13A_ARATH	Autophagy-related protein 13a (AtAPG13a)	ATG13A At3g49590 T9C5.180	Arabidopsis thaliana (Mouse-ear cress)	603		AT3G49590;
+Q9SUG7	reviewed	ATG11_ARATH	Autophagy-related protein 11	ATG11 At4g30790 T10C21.140	Arabidopsis thaliana (Mouse-ear cress)	1148		AT4G30790;
+A0A178UW36	unreviewed	A0A178UW36_ARATH	non-specific serine/threonine protein kinase (EC 2.7.11.1)	AXX17_At4g33760 AN1_LOCUS19729	Arabidopsis thaliana (Mouse-ear cress)	1494		
+A0A178UXY8	unreviewed	A0A178UXY8_ARATH	non-specific serine/threonine protein kinase (EC 2.7.11.1)	AXX17_At4g33760	Arabidopsis thaliana (Mouse-ear cress)	1273		
+A0A1P8B6X9	unreviewed	A0A1P8B6X9_ARATH	non-specific serine/threonine protein kinase (EC 2.7.11.1)	VPS15 AtVPS15 vacuolar protein sorting 15 At4g29380 F17A13.200 F17A13_200	Arabidopsis thaliana (Mouse-ear cress)	1273	AtVPS15 vacuolar protein sorting 15	AT4G29380;
+A0A7G2F6K4	unreviewed	A0A7G2F6K4_ARATH	non-specific serine/threonine protein kinase (EC 2.7.11.1)	AT9943_LOCUS17028	Arabidopsis thaliana (Mouse-ear cress)	1488		
+F4JBP3	reviewed	ATG1B_ARATH	Serine/threonine-protein kinase ATG1b (EC 2.7.11.-) (Autophagy-related protein 1b) (AtAPG1b)	ATG1B At3g53930 F5K20_230	Arabidopsis thaliana (Mouse-ear cress)	711		AT3G53930;
+O82775	reviewed	ATI1_ARATH	ATG8-interacting protein 1	ATI1 At2g45980	Arabidopsis thaliana (Mouse-ear cress)	256		AT2G45980;
+P26587	reviewed	TIP31_ARATH	Aquaporin TIP3-1 (Alpha-tonoplast intrinsic protein) (Alpha-TIP) (Tonoplast intrinsic protein 3-1) (AtTIP3;1) [Cleaved into: Aquaporin TIP3-1, N-terminally processed]	TIP3-1 At1g73190 T18K17.14	Arabidopsis thaliana (Mouse-ear cress)	268		AT1G73190;
+Q8LEM4	reviewed	ATG8A_ARATH	Autophagy-related protein 8a (Autophagy-related ubiquitin-like modifier ATG8a) (AtAPG8a) (Protein autophagy 8a)	ATG8A APG8A At4g21980 F1N20.80	Arabidopsis thaliana (Mouse-ear cress)	122	APG8A	AT4G21980;
+Q8S925	reviewed	ATG8H_ARATH	Autophagy-related protein 8h (Autophagy-related ubiquitin-like modifier ATG8h) (AtAPG8h) (Protein autophagy 8h)	ATG8H APG8H At3g06420 F24P17.11	Arabidopsis thaliana (Mouse-ear cress)	119	APG8H	AT3G06420;
+Q8S927	reviewed	ATG8C_ARATH	Autophagy-related protein 8c (Autophagy-related ubiquitin-like modifier ATG8c) (AtAPG8c) (Protein autophagy 8c)	ATG8C APG8C At1g62040 F8K4.23	Arabidopsis thaliana (Mouse-ear cress)	119	APG8C	AT1G62040;
+Q8S929	reviewed	ATG4A_ARATH	Cysteine protease ATG4a (EC 3.4.22.-) (Autophagy-related protein 4 homolog a) (AtAPG4a) (Protein autophagy 4a)	ATG4A APG4A At2g44140 F6E13.27	Arabidopsis thaliana (Mouse-ear cress)	467	APG4A	AT2G44140;
+Q8VY98	reviewed	ATI2_ARATH	ATG8-interacting protein 2	ATI2 At4g00355 A_IG005I10.20 F5I10.20	Arabidopsis thaliana (Mouse-ear cress)	266		AT4G00355;
+Q8VYK7	reviewed	ATG8F_ARATH	Autophagy-related protein 8f (Autophagy-related ubiquitin-like modifier ATG8f) (AtAPG8f) (Protein autophagy 8f)	ATG8F APG8F At4g16520 dl4285c FCAALL.383	Arabidopsis thaliana (Mouse-ear cress)	121	APG8F	AT4G16520;
+Q9FFI2	reviewed	ATG5_ARATH	Autophagy protein 5 (Protein autophagy 5) (AtAPG5)	ATG5 APG5 At5g17290 MKP11_14	Arabidopsis thaliana (Mouse-ear cress)	337	APG5	AT5G17290;
+Q9LRP7	reviewed	ATG8I_ARATH	Autophagy-related protein 8i (Autophagy-related ubiquitin-like modifier ATG8i) (AtAPG8i) (Protein autophagy 8i)	ATG8I APG8I At3g15580 MQD17.3	Arabidopsis thaliana (Mouse-ear cress)	115	APG8I	AT3G15580;
+Q9M1Y0	reviewed	ATG4B_ARATH	Cysteine protease ATG4b (EC 3.4.22.-) (Autophagy-related protein 4 homolog b) (AtAPG4b) (Protein autophagy 4b)	ATG4B APG4B At3g59950 F24G16.220	Arabidopsis thaliana (Mouse-ear cress)	477	APG4B	AT3G59950;
+Q9SL04	reviewed	ATG8D_ARATH	Autophagy-related protein 8d (Autophagy-related ubiquitin-like modifier ATG8d) (AtAPG8d) (Protein autophagy 8d)	ATG8D APG8D At2g05630 T20G20.2	Arabidopsis thaliana (Mouse-ear cress)	120	APG8D	AT2G05630;
+Q9XEB5	reviewed	ATG8B_ARATH	Autophagy-related protein 8b (Autophagy-related ubiquitin-like modifier ATG8b) (AtAPG8b) (Protein autophagy 8b)	ATG8B APG8B At4g04620 F4H6.14	Arabidopsis thaliana (Mouse-ear cress)	122	APG8B	AT4G04620;
+Q9XGU0	reviewed	RAC9_ARATH	Rac-like GTP-binding protein ARAC9 (GTPase protein ROP8)	ARAC9 ROP8 At2g44690 F16B22.18	Arabidopsis thaliana (Mouse-ear cress)	209	ROP8	AT2G44690;
+A0A178VZ47	unreviewed	A0A178VZ47_ARATH	Cysteine protease (EC 3.4.22.-)	ATG4A At2g44140 F6E13.27	Arabidopsis thaliana (Mouse-ear cress)	384		AT2G44140;
+A8MS84	unreviewed	A8MS84_ARATH	Autophagy-related protein	APG8A ATG8A AUTOPHAGY 8A AUTOPHAGY-RELATED 8A At4g21980 F1N20.80 F1N20_80	Arabidopsis thaliana (Mouse-ear cress)	137	ATG8A AUTOPHAGY 8A AUTOPHAGY-RELATED 8A	AT4G21980;
+F4I1N8	reviewed	ATG1T_ARATH	Serine/threonine-protein kinase ATG1t (EC 2.7.11.-) (Autophagy-related protein 1t)	At1g49180 F27J15.5	Arabidopsis thaliana (Mouse-ear cress)	408		AT1G49180;
+F4IRW0	reviewed	ATG1C_ARATH	Serine/threonine-protein kinase ATG1c (EC 2.7.11.-) (Autophagy-related protein 1c) (AtAPG1c)	ATG1C At2g37840	Arabidopsis thaliana (Mouse-ear cress)	733		AT2G37840;
+F4J8V5	reviewed	AT13B_ARATH	Autophagy-related protein 13b (AtAPG13b)	ATG13B At3g18770 MVE11.13	Arabidopsis thaliana (Mouse-ear cress)	625		AT3G18770;
+F4K265	reviewed	AT101_ARATH	Autophagy-related protein 101	ATG101 At5g66930 MUD21.19	Arabidopsis thaliana (Mouse-ear cress)	215		AT5G66930;
+Q0WPK3	reviewed	AT18D_ARATH	Autophagy-related protein 18d (AtATG18d)	ATG18D At3g56440 T5P19_90	Arabidopsis thaliana (Mouse-ear cress)	391		AT3G56440;
+Q0WWQ1	reviewed	ATG3_ARATH	Autophagy-related protein 3 (Autophagy-related E2-like conjugation enzyme ATG3) (AtAPG3) (Protein autophagy 3)	ATG3 APG3 At5g61500 K11J9.3	Arabidopsis thaliana (Mouse-ear cress)	313	APG3	AT5G61500;
+Q8GUL1	reviewed	AT18G_ARATH	Autophagy-related protein 18g (AtATG18g)	ATG18G At1g03380 F15K9.1 F21B7.1	Arabidopsis thaliana (Mouse-ear cress)	959		AT1G03380;
+Q8H1Q5	reviewed	AT18H_ARATH	Autophagy-related protein 18h (AtATG18h)	ATG18H At1g54710 T22H22.14	Arabidopsis thaliana (Mouse-ear cress)	927		AT1G54710;
+Q8H1Q8	reviewed	AT18B_ARATH	Autophagy-related protein 18b (AtATG18b)	ATG18B At4g30510 F17I23.150	Arabidopsis thaliana (Mouse-ear cress)	366		AT4G30510;
+Q8S924	reviewed	AT12A_ARATH	Ubiquitin-like protein ATG12A (Autophagy-related protein 12a) (APG12-like protein a) (AtAPG12a)	ATG12A APG12A At1g54210 F20D21.38	Arabidopsis thaliana (Mouse-ear cress)	96	APG12A	AT1G54210;
+Q9FH32	reviewed	AT18F_ARATH	Autophagy-related protein 18f (AtATG18f)	ATG18F At5g54730 K5F14.9	Arabidopsis thaliana (Mouse-ear cress)	763		AT5G54730;
+Q9LVK3	reviewed	AT12B_ARATH	Ubiquitin-like protein ATG12B (Autophagy-related protein 12b) (APG12-like protein b) (AtAPG12b)	ATG12B APG12 APG12B At3g13970 MDC16.9	Arabidopsis thaliana (Mouse-ear cress)	94	APG12 APG12B	AT3G13970;
+Q9LZZ9	reviewed	ATG8G_ARATH	Autophagy-related protein 8g (Autophagy-related ubiquitin-like modifier ATG8g) (AtAPG8g) (Protein autophagy 8g)	ATG8G APG8G At3g60640 T4C21_50	Arabidopsis thaliana (Mouse-ear cress)	121	APG8G	AT3G60640;
+A0A178UBX8	unreviewed	A0A178UBX8_ARATH	Autophagy protein 5	AXX17_At5g16940	Arabidopsis thaliana (Mouse-ear cress)	337		
+A0A178UF73	unreviewed	A0A178UF73_ARATH	Ubiquitin-like modifier-activating enzyme ATG7 (Autophagy-related protein 7)	AXX17_At5g44300 AN1_LOCUS24818 AT9943_LOCUS21402	Arabidopsis thaliana (Mouse-ear cress)	697		
+A0A178UVA3	unreviewed	A0A178UVA3_ARATH	Autophagy-related protein	AXX17_At4g25510 AN1_LOCUS18914 AT9943_LOCUS16305 C24_LOCUS18811	Arabidopsis thaliana (Mouse-ear cress)	122		
+A0A178UXI2	unreviewed	A0A178UXI2_ARATH	(thale cress) hypothetical protein (ATCES1)	AXX17_At4g25960 AN1_LOCUS18958 AT9943_LOCUS16345 C24_LOCUS18855	Arabidopsis thaliana (Mouse-ear cress)	255		
+A0A178V3P6	unreviewed	A0A178V3P6_ARATH	Autophagy-related protein	AXX17_At4g05720 AN1_LOCUS17274 AT9943_LOCUS14846 C24_LOCUS17148	Arabidopsis thaliana (Mouse-ear cress)	122		
+A0A178V3P9	unreviewed	A0A178V3P9_ARATH	Autophagy-related protein	AXX17_At4g19390 AN1_LOCUS18343 AT9943_LOCUS15798 C24_LOCUS18230	Arabidopsis thaliana (Mouse-ear cress)	121		
+A0A178V901	unreviewed	A0A178V901_ARATH	Autophagy-related protein 2	AXX17_At3g20390	Arabidopsis thaliana (Mouse-ear cress)	1892		
+A0A178VBL7	unreviewed	A0A178VBL7_ARATH	Autophagy-related protein	AXX17_At3g16340 AN1_LOCUS12939 C24_LOCUS12771	Arabidopsis thaliana (Mouse-ear cress)	115		
+A0A178VJJ3	unreviewed	A0A178VJJ3_ARATH	Cysteine protease (EC 3.4.22.-)	AXX17_At3g54350 AN1_LOCUS16375	Arabidopsis thaliana (Mouse-ear cress)	477		
+A0A178VL35	unreviewed	A0A178VL35_ARATH	Autophagy-related protein	AXX17_At3g55030 AN1_LOCUS16445 C24_LOCUS16327	Arabidopsis thaliana (Mouse-ear cress)	121		
+A0A178VRR4	unreviewed	A0A178VRR4_ARATH	Autophagy-related protein	AXX17_At2g04700	Arabidopsis thaliana (Mouse-ear cress)	120		
+A0A178VZA0	unreviewed	A0A178VZA0_ARATH	Autophagy-related protein	AXX17_At2g42740 AN1_LOCUS11037 C24_LOCUS10876	Arabidopsis thaliana (Mouse-ear cress)	122		
+A0A178VZU7	unreviewed	A0A178VZU7_ARATH	Ubiquitin-like protein ATG12	AXX17_At1g48650 AN1_LOCUS4545 AT9943_LOCUS3876 C24_LOCUS4433	Arabidopsis thaliana (Mouse-ear cress)	96		
+A0A178VZV2	unreviewed	A0A178VZV2_ARATH	Cysteine protease (EC 3.4.22.-)	AXX17_At2g41690	Arabidopsis thaliana (Mouse-ear cress)	467		
+A0A178W047	unreviewed	A0A178W047_ARATH	Autophagy-related protein 9	AXX17_At2g27460 C24_LOCUS9390	Arabidopsis thaliana (Mouse-ear cress)	866		
+A0A178W309	unreviewed	A0A178W309_ARATH	Autophagy-related protein	AXX17_At1g55290 AN1_LOCUS5196 C24_LOCUS5072	Arabidopsis thaliana (Mouse-ear cress)	119		
+A0A1I9LMQ8	unreviewed	A0A1I9LMQ8_ARATH	Cysteine protease (EC 3.4.22.-)	At3g59950	Arabidopsis thaliana (Mouse-ear cress)	393		AT3G59950;
+A0A1I9LMQ9	unreviewed	A0A1I9LMQ9_ARATH	Cysteine protease (EC 3.4.22.-)	At3g59950	Arabidopsis thaliana (Mouse-ear cress)	391		AT3G59950;
+A0A1I9LNQ2	unreviewed	A0A1I9LNQ2_ARATH	Ubiquitin-like protein ATG12	APG12B APG12 ATG12B AUTOPHAGY 12 AUTOPHAGY 12 B AUTOPHAGY 12B At3g13970	Arabidopsis thaliana (Mouse-ear cress)	87	APG12 ATG12B AUTOPHAGY 12 AUTOPHAGY 12 B AUTOPHAGY 12B	AT3G13970;
+A0A1I9LNQ3	unreviewed	A0A1I9LNQ3_ARATH	Ubiquitin-like protein ATG12	APG12B APG12 ATG12B AUTOPHAGY 12 AUTOPHAGY 12 B AUTOPHAGY 12B At3g13970	Arabidopsis thaliana (Mouse-ear cress)	67	APG12 ATG12B AUTOPHAGY 12 AUTOPHAGY 12 B AUTOPHAGY 12B	AT3G13970;
+A0A1I9LT68	unreviewed	A0A1I9LT68_ARATH	AUTOPHAGY 6	ATG6 ATATG6 AtBECLIN1 AUTOPHAGY 6 BECLIN1 At3g61710 F21F14.6	Arabidopsis thaliana (Mouse-ear cress)	467	ATATG6 AtBECLIN1 AUTOPHAGY 6 BECLIN1	AT3G61710;
+A0A1P8B129	unreviewed	A0A1P8B129_ARATH	Cysteine protease (EC 3.4.22.-)	ATG4A At2g44140 F6E13.27	Arabidopsis thaliana (Mouse-ear cress)	389		AT2G44140;
+A0A1P8B738	unreviewed	A0A1P8B738_ARATH	Autophagy-related protein	ATG8F autophagy 8f DL4285C At4g16520 FCAALL.383	Arabidopsis thaliana (Mouse-ear cress)	121	autophagy 8f DL4285C	AT4G16520;
+A0A1P8BCL3	unreviewed	A0A1P8BCL3_ARATH	Autophagy 3 (APG3)	ATG3 ATATG3 At5g61500 K11J9.1 K11J9_1	Arabidopsis thaliana (Mouse-ear cress)	306	ATATG3	AT5G61500;
+A0A384L0G3	unreviewed	A0A384L0G3_ARATH	Cysteine protease (EC 3.4.22.-)	AXX17_At2g41690 AT9943_LOCUS9392	Arabidopsis thaliana (Mouse-ear cress)	384		
+A0A5S9WXE6	unreviewed	A0A5S9WXE6_ARATH	Autophagy-related protein	AN1_LOCUS7577 AT9943_LOCUS6422 C24_LOCUS7452	Arabidopsis thaliana (Mouse-ear cress)	120		
+A0A5S9X6V6	unreviewed	A0A5S9X6V6_ARATH	Cysteine protease (EC 3.4.22.-)	C24_LOCUS10768	Arabidopsis thaliana (Mouse-ear cress)	467		
+A0A5S9X9N9	unreviewed	A0A5S9X9N9_ARATH	Autophagy-related protein	AN1_LOCUS11962 C24_LOCUS11797	Arabidopsis thaliana (Mouse-ear cress)	119		
+A0A5S9XE61	unreviewed	A0A5S9XE61_ARATH	Autophagy-related protein 2	AN1_LOCUS13334 C24_LOCUS13168	Arabidopsis thaliana (Mouse-ear cress)	1892		
+A0A5S9XMD2	unreviewed	A0A5S9XMD2_ARATH	Cysteine protease (EC 3.4.22.-)	C24_LOCUS16256	Arabidopsis thaliana (Mouse-ear cress)	477		
+A0A5S9XWY0	unreviewed	A0A5S9XWY0_ARATH	non-specific serine/threonine protein kinase (EC 2.7.11.1)	C24_LOCUS19623	Arabidopsis thaliana (Mouse-ear cress)	1494		
+A0A5S9Y4X3	unreviewed	A0A5S9Y4X3_ARATH	Autophagy protein 5	C24_LOCUS22397	Arabidopsis thaliana (Mouse-ear cress)	337		
+A0A5S9YBG1	unreviewed	A0A5S9YBG1_ARATH	Ubiquitin-like modifier-activating enzyme ATG7 (Autophagy-related protein 7)	C24_LOCUS24654	Arabidopsis thaliana (Mouse-ear cress)	697		
+A0A654EXS8	unreviewed	A0A654EXS8_ARATH	Autophagy-related protein 9	AN1_LOCUS9542	Arabidopsis thaliana (Mouse-ear cress)	866		
+A0A654F344	unreviewed	A0A654F344_ARATH	Cysteine protease (EC 3.4.22.-)	AN1_LOCUS10930	Arabidopsis thaliana (Mouse-ear cress)	467		
+A0A654G212	unreviewed	A0A654G212_ARATH	Autophagy protein 5	AN1_LOCUS22507	Arabidopsis thaliana (Mouse-ear cress)	337		
+A0A7G2E1W1	unreviewed	A0A7G2E1W1_ARATH	Autophagy-related protein	AT9943_LOCUS4388	Arabidopsis thaliana (Mouse-ear cress)	49		
+A0A7G2EGB9	unreviewed	A0A7G2EGB9_ARATH	Autophagy-related protein 9	AT9943_LOCUS8176	Arabidopsis thaliana (Mouse-ear cress)	866		
+A0A7G2EIT2	unreviewed	A0A7G2EIT2_ARATH	Autophagy-related protein	AT9943_LOCUS11138	Arabidopsis thaliana (Mouse-ear cress)	172		
+A0A7G2EJC8	unreviewed	A0A7G2EJC8_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS11421	Arabidopsis thaliana (Mouse-ear cress)	760		
+A0A7G2EJM0	unreviewed	A0A7G2EJM0_ARATH	Autophagy-related protein 2	AT9943_LOCUS11459	Arabidopsis thaliana (Mouse-ear cress)	1892		
+A0A7G2EMW9	unreviewed	A0A7G2EMW9_ARATH	Autophagy-related protein	AT9943_LOCUS10285	Arabidopsis thaliana (Mouse-ear cress)	73		
+A0A7G2EU98	unreviewed	A0A7G2EU98_ARATH	Autophagy-related protein	AT9943_LOCUS14147	Arabidopsis thaliana (Mouse-ear cress)	107		
+A0A7G2EWD4	unreviewed	A0A7G2EWD4_ARATH	Cysteine protease (EC 3.4.22.-)	AT9943_LOCUS14083	Arabidopsis thaliana (Mouse-ear cress)	355		
+A0A7G2FEJ8	unreviewed	A0A7G2FEJ8_ARATH	Autophagy protein 5	AT9943_LOCUS19378	Arabidopsis thaliana (Mouse-ear cress)	337		
+F4HX35	unreviewed	F4HX35_ARATH	Autophagy-related protein	ATG8C autophagy 8c At1g62040 F8K4.23 F8K4_23	Arabidopsis thaliana (Mouse-ear cress)	94	autophagy 8c	AT1G62040;
+F4IHC1	unreviewed	F4IHC1_ARATH	Autophagy-related protein	ATG8D At2g05630 T20G20.2 T20G20_2	Arabidopsis thaliana (Mouse-ear cress)	164		AT2G05630;
+F4J0P2	unreviewed	F4J0P2_ARATH	Transducin/WD40 repeat-like superfamily protein	TWD40-1 At3g50590 At3g50600	Arabidopsis thaliana (Mouse-ear cress)	1614		AT3G50590;
+F4J9I3	unreviewed	F4J9I3_ARATH	Cysteine protease (EC 3.4.22.-)	At3g59950	Arabidopsis thaliana (Mouse-ear cress)	360		AT3G59950;
+F4K264	unreviewed	F4K264_ARATH	Autophagy-related protein 101	ATG101 AUTOPHAGY-RELATED 101 MUD21.19 MUD21_19 At5g66930	Arabidopsis thaliana (Mouse-ear cress)	251	AUTOPHAGY-RELATED 101 MUD21.19 MUD21_19	AT5G66930;
+Q6NNP0	reviewed	ATG16_ARATH	Autophagy-related protein 16	ATG16 At5g50230 K6A12.9	Arabidopsis thaliana (Mouse-ear cress)	509		AT5G50230;
+Q8GYD7	reviewed	AT18C_ARATH	Autophagy-related protein 18c (AtATG18c)	ATG18C At2g40810 T20B5.1	Arabidopsis thaliana (Mouse-ear cress)	393		AT2G40810;
+Q9FHK8	reviewed	AT18E_ARATH	Autophagy-related protein 18e (AtATG18e)	ATG18E At5g05150 K2A11.2	Arabidopsis thaliana (Mouse-ear cress)	374		AT5G05150;
+Q9LX73	reviewed	UFL1_ARATH	E3 UFM1-protein ligase 1 homolog (EC 2.3.2.-) (E3 UFM1-protein transferase 1 homolog)	At3g46220 F12M12.190	Arabidopsis thaliana (Mouse-ear cress)	804		AT3G46220;
+A0A178UAE6	unreviewed	A0A178UAE6_ARATH	(thale cress) hypothetical protein	AXX17_At5g49080 AT9943_LOCUS21796	Arabidopsis thaliana (Mouse-ear cress)	502		
+A0A178UAS0	unreviewed	A0A178UAS0_ARATH	Autophagy-related protein 101	AXX17_At5g66970	Arabidopsis thaliana (Mouse-ear cress)	215		
+A0A178UH72	unreviewed	A0A178UH72_ARATH	Uncharacterized protein	AXX17_At5g53820	Arabidopsis thaliana (Mouse-ear cress)	598		
+A0A178UI62	unreviewed	A0A178UI62_ARATH	G18F	AXX17_At5g53840	Arabidopsis thaliana (Mouse-ear cress)	763		
+A0A178UM04	unreviewed	A0A178UM04_ARATH	(thale cress) hypothetical protein (ATG3)	AXX17_At5g60990 AT9943_LOCUS22779	Arabidopsis thaliana (Mouse-ear cress)	313		
+A0A178UUU2	unreviewed	A0A178UUU2_ARATH	Uncharacterized protein	AXX17_At4g35280	Arabidopsis thaliana (Mouse-ear cress)	1148		
+A0A178UYI0	unreviewed	A0A178UYI0_ARATH	VPS15	AXX17_At4g33760	Arabidopsis thaliana (Mouse-ear cress)	203		
+A0A178V6B2	unreviewed	A0A178V6B2_ARATH	Uncharacterized protein	AXX17_At3g44830	Arabidopsis thaliana (Mouse-ear cress)	1606		
+A0A178V6V0	unreviewed	A0A178V6V0_ARATH	Ubiquitin-like-conjugating enzyme ATG10 (Autophagy-related protein 10)	AXX17_At3g07500 AN1_LOCUS12088	Arabidopsis thaliana (Mouse-ear cress)	225		
+A0A178V757	unreviewed	A0A178V757_ARATH	ATG13	AXX17_At3g43720	Arabidopsis thaliana (Mouse-ear cress)	603		
+A0A178V865	unreviewed	A0A178V865_ARATH	Ubiquitin-like-conjugating enzyme ATG10 (Autophagy-related protein 10)	At3g07525 AXX17_At3g07500 C24_LOCUS11920	Arabidopsis thaliana (Mouse-ear cress)	226		
+A0A178VAK8	unreviewed	A0A178VAK8_ARATH	Autophagy-related protein 13 N-terminal domain-containing protein	AXX17_At3g19930 AN1_LOCUS13287	Arabidopsis thaliana (Mouse-ear cress)	625		
+A0A178VDM5	unreviewed	A0A178VDM5_ARATH	Ubiquitin-like protein ATG12	AXX17_At3g14470 AN1_LOCUS12756 AT9943_LOCUS10975 C24_LOCUS12588	Arabidopsis thaliana (Mouse-ear cress)	94		
+A0A178VJR4	unreviewed	A0A178VJR4_ARATH	BECLIN1	AXX17_At3g56000	Arabidopsis thaliana (Mouse-ear cress)	282		
+A0A178W2B3	unreviewed	A0A178W2B3_ARATH	Ubiquitin-like protein ATG12	AXX17_At1g48650	Arabidopsis thaliana (Mouse-ear cress)	67		
+A0A178W5N1	unreviewed	A0A178W5N1_ARATH	ATG18G	AXX17_At1g02630 AN1_LOCUS380	Arabidopsis thaliana (Mouse-ear cress)	959		
+A0A178W703	unreviewed	A0A178W703_ARATH	(thale cress) hypothetical protein (ATG18H)	AXX17_At1g49210 AT9943_LOCUS3927	Arabidopsis thaliana (Mouse-ear cress)	927		
+A0A1I9LNN0	unreviewed	A0A1I9LNN0_ARATH	Transducin/WD40 repeat-like superfamily protein	TWD40-1 At3g50590 At3g50600	Arabidopsis thaliana (Mouse-ear cress)	1606		AT3G50590;
+A0A1P8AW11	unreviewed	A0A1P8AW11_ARATH	Autophagy 18h-like protein	ATG18H ATATG18H At1g54710 T22H22.14 T22H22_14	Arabidopsis thaliana (Mouse-ear cress)	806	ATATG18H	AT1G54710;
+A0A1R7T3J2	unreviewed	A0A1R7T3J2_ARATH	Autophagy 18 F-like protein	G18F ATATG18F ATG18F At5g54730 K5F14.9 K5F14_9	Arabidopsis thaliana (Mouse-ear cress)	651	ATATG18F ATG18F	AT5G54730;
+A0A5S9SDW3	unreviewed	A0A5S9SDW3_ARATH	Uncharacterized protein	C24_LOCUS292	Arabidopsis thaliana (Mouse-ear cress)	959		
+A0A5S9XDF5	unreviewed	A0A5S9XDF5_ARATH	Autophagy-related protein 13 N-terminal domain-containing protein	C24_LOCUS13121	Arabidopsis thaliana (Mouse-ear cress)	653		
+A0A5S9XJF5	unreviewed	A0A5S9XJF5_ARATH	Autophagy-related protein 13 N-terminal domain-containing protein	C24_LOCUS15190	Arabidopsis thaliana (Mouse-ear cress)	603		
+A0A5S9XJR2	unreviewed	A0A5S9XJR2_ARATH	Transducin/WD40 repeat-like superfamily protein	C24_LOCUS15300	Arabidopsis thaliana (Mouse-ear cress)	1584		
+A0A5S9XZK9	unreviewed	A0A5S9XZK9_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS17154 C24_LOCUS19772	Arabidopsis thaliana (Mouse-ear cress)	1148		
+A0A5S9YDU6	unreviewed	A0A5S9YDU6_ARATH	Autophagy-related protein 16 domain-containing protein	C24_LOCUS25106	Arabidopsis thaliana (Mouse-ear cress)	515		
+A0A5S9YF71	unreviewed	A0A5S9YF71_ARATH	Uncharacterized protein	C24_LOCUS25572	Arabidopsis thaliana (Mouse-ear cress)	763		
+A0A5S9YHN9	unreviewed	A0A5S9YHN9_ARATH	Autophagy-related protein 101	At5g66930 C24_LOCUS26857	Arabidopsis thaliana (Mouse-ear cress)	251		
+A0A654EIG3	unreviewed	A0A654EIG3_ARATH	Uncharacterized protein	AN1_LOCUS4595 C24_LOCUS4483	Arabidopsis thaliana (Mouse-ear cress)	935		
+A0A654FEF7	unreviewed	A0A654FEF7_ARATH	Autophagy-related protein 13 N-terminal domain-containing protein	AN1_LOCUS15310	Arabidopsis thaliana (Mouse-ear cress)	603		
+A0A654FHP1	unreviewed	A0A654FHP1_ARATH	Transducin/WD40 repeat-like superfamily protein	AN1_LOCUS15418	Arabidopsis thaliana (Mouse-ear cress)	1584		
+A0A654FJW7	unreviewed	A0A654FJW7_ARATH	(thale cress) hypothetical protein	AN1_LOCUS16546 AT9943_LOCUS14239 C24_LOCUS16425	Arabidopsis thaliana (Mouse-ear cress)	517		
+A0A654FU92	unreviewed	A0A654FU92_ARATH	Autophagy-related protein 18b	AN1_LOCUS19849	Arabidopsis thaliana (Mouse-ear cress)	366		
+A0A654FUE9	unreviewed	A0A654FUE9_ARATH	Uncharacterized protein	AN1_LOCUS19878	Arabidopsis thaliana (Mouse-ear cress)	1148		
+A0A654G9M3	unreviewed	A0A654G9M3_ARATH	Autophagy-related protein 16 domain-containing protein	AN1_LOCUS25274	Arabidopsis thaliana (Mouse-ear cress)	515		
+A0A654GB86	unreviewed	A0A654GB86_ARATH	Uncharacterized protein	AN1_LOCUS25744	Arabidopsis thaliana (Mouse-ear cress)	763		
+A0A654GD50	unreviewed	A0A654GD50_ARATH	Uncharacterized protein	AN1_LOCUS26458 C24_LOCUS26280	Arabidopsis thaliana (Mouse-ear cress)	334		
+A0A654GFX2	unreviewed	A0A654GFX2_ARATH	Autophagy-related protein 101	AN1_LOCUS27029	Arabidopsis thaliana (Mouse-ear cress)	215		
+A0A7G2EPZ0	unreviewed	A0A7G2EPZ0_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS13163	Arabidopsis thaliana (Mouse-ear cress)	603		
+A0A7G2ERR8	unreviewed	A0A7G2ERR8_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS13262	Arabidopsis thaliana (Mouse-ear cress)	1578		
+A0A7G2FKM8	unreviewed	A0A7G2FKM8_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS22183	Arabidopsis thaliana (Mouse-ear cress)	822		
+A0A7G2FQ74	unreviewed	A0A7G2FQ74_ARATH	Autophagy-related protein 101	AT9943_LOCUS23279	Arabidopsis thaliana (Mouse-ear cress)	270		
+B0FZE0	unreviewed	B0FZE0_ARATH	Beclin 1		Arabidopsis thaliana (Mouse-ear cress)	226		
+C0Z2U5	unreviewed	C0Z2U5_ARATH	Autophagy-related protein 101	At5g66930	Arabidopsis thaliana (Mouse-ear cress)	81		AT5G66930;
+F4IXZ6	unreviewed	F4IXZ6_ARATH	Autophagy-related protein 13	ATG13A ATG13 autophagy-related 13 At3g49590	Arabidopsis thaliana (Mouse-ear cress)	618	ATG13 autophagy-related 13	AT3G49590;
+Q56WG4	unreviewed	Q56WG4_ARATH	Autophagocytosis protein-like	At5g61500	Arabidopsis thaliana (Mouse-ear cress)	42		AT5G61500;
+Q67YB5	unreviewed	Q67YB5_ARATH	Ubiquitin-like superfamily protein	ATG12A APG12 ATATG12 AUTOPHAGY 12 AUTOPHAGY 12 A At1g54210 F20D21.38 F20D21_38	Arabidopsis thaliana (Mouse-ear cress)	52	APG12 ATATG12 AUTOPHAGY 12 AUTOPHAGY 12 A	AT1G54210;
+Q84TH3	unreviewed	Q84TH3_ARATH	Uncharacterized protein At3g50600	At3g50600	Arabidopsis thaliana (Mouse-ear cress)	667		AT3G50590;
+Q93YU3	unreviewed	Q93YU3_ARATH	Uncharacterized protein At3g50600	At3g50600	Arabidopsis thaliana (Mouse-ear cress)	654		AT3G50590;
+Q9SCR5	unreviewed	Q9SCR5_ARATH	Uncharacterized protein T20E23_200	T20E23_200	Arabidopsis thaliana (Mouse-ear cress)	852		
+Q9SCR6	unreviewed	Q9SCR6_ARATH	Uncharacterized protein T20E23_190	T20E23_190	Arabidopsis thaliana (Mouse-ear cress)	690		

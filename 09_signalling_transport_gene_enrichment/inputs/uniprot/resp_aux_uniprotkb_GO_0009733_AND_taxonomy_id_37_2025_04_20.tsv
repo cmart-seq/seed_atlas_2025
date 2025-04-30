@@ -1,0 +1,1304 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length	TAIR
+A0A1I9LMX5	reviewed	PCEP9_ARATH	Precursor of CEP9 (PCEP9) [Cleaved into: C-terminally encoded peptide 9.1 (CEP9.1) (CEP9a); C-terminally encoded peptide 9.2 (CEP9.2) (CEP9b); C-terminally encoded peptide 9.3 (CEP9.3) (CEP9c); C-terminally encoded peptide 9.4 (CEP9.4) (CEP9d); C-terminally encoded peptide 9.5 (CEP9.5) (CEP9e)]	CEP9 At3g50610 T20E23.210	Arabidopsis thaliana (Mouse-ear cress)	243	AT3G50610;
+A0A2H1ZEF6	unreviewed	A0A2H1ZEF6_ARATH	Auxin-responsive protein	IAA15 At1g80390 F5I6.14 F5I6_14	Arabidopsis thaliana (Mouse-ear cress)	129	AT1G80390;
+F4IAX0	reviewed	CAOA2_ARATH	Amine oxidase [copper-containing] alpha 2, peroxisomal (AtCuAO8) (AtCuAOalpha2) (EC 1.4.3.21)	CuAOalpha2 CuAO8 At1g31690 F27M3.11 F27M3.12	Arabidopsis thaliana (Mouse-ear cress)	677	AT1G31690;
+F4IAX1	reviewed	CAOA3_ARATH	Amine oxidase [copper-containing] alpha 3, peroxisomal (AtCuAO2) (AtCuAOalpha3) (Copper amine oxidase 2) (EC 1.4.3.21)	CuAOalpha3 CuAO2 At1g31710 F27M3.10 F27M3.9	Arabidopsis thaliana (Mouse-ear cress)	681	AT1G31710;
+F4IIU4	reviewed	AIR9_ARATH	187-kDa microtubule-associated protein AIR9 (Auxin-induced in root cultures protein 9)	AIR9 At2g34680 T29F13	Arabidopsis thaliana (Mouse-ear cress)	1708	AT2G34680;
+F4IXW2	reviewed	BIG5_ARATH	Brefeldin A-inhibited guanine nucleotide-exchange protein 5 (BIG5) (ARF guanine-nucleotide exchange factor BIG5) (Protein BFA-VISUALIZED ENDOCYTIC TRAFFICKING DEFECTIVE 1) (Protein BEN1) (Protein HOPM INTERACTOR 7) (AtMIN7)	BIG5 BEN1 MIN7 At3g43300 F7K15_150	Arabidopsis thaliana (Mouse-ear cress)	1739	AT3G43300;
+F4JBX1	reviewed	RGF10_ARATH	Root meristem growth factor 10 (AtRGF10) (CLAVATA3/ESR (CLE)-related protein CLELn) (AtCLELn) (Nuclear CLE-Like protein) [Cleaved into: CLELn]	RGF10 CLELn At3g60650 T4C21.60	Arabidopsis thaliana (Mouse-ear cress)	143	AT3G60650;
+F4JGZ1	reviewed	MED16_ARATH	Mediator of RNA polymerase II transcription subunit 16 (Protein SENSITIVE TO FREEZING 6)	MED16 MED16_1 SFR6 At4g04920 T1J1.2	Arabidopsis thaliana (Mouse-ear cress)	1278	AT4G04920;
+F4JNX3	reviewed	CMKMT_ARATH	Calmodulin-lysine N-methyltransferase (CLNMT) (CaM KMT) (EC 2.1.1.60)	CaMKMT At4g35987 T19K4.120	Arabidopsis thaliana (Mouse-ear cress)	304	AT4G35987;
+F4KG58	reviewed	E70A3_ARATH	Exocyst complex component EXO70A3 (AtExo70a3) (Exocyst subunit Exo70 family protein A3)	EXO70A3 At5g52350 K24M7.8	Arabidopsis thaliana (Mouse-ear cress)	586	AT5G52350;
+O04331	reviewed	PHB3_ARATH	Prohibitin-3, mitochondrial (Atphb3) (Protein ENHANCED ETHYLENE RESPONSE 3)	PHB3 EER3 At5g40770 K1B16.2	Arabidopsis thaliana (Mouse-ear cress)	277	AT5G40770;
+O04379	reviewed	AGO1_ARATH	Protein argonaute 1	AGO1 At1g48410 F11A17.3 T1N15.2	Arabidopsis thaliana (Mouse-ear cress)	1048	AT1G48410;
+O04492	reviewed	DRB1_ARATH	Double-stranded RNA-binding protein 1 (Protein HYPONASTIC LEAVES 1) (dsRNA-binding protein 1) (AtDRB1)	DRB1 HYL1 At1g09700 F21M12.9	Arabidopsis thaliana (Mouse-ear cress)	419	AT1G09700;
+O22264	reviewed	MYB12_ARATH	Transcription factor MYB12 (Myb-related protein 12) (AtMYB12) (Protein PRODUCTION OF FLAVONOL GLYCOSIDES 1)	MYB12 PFG1 At2g47460 T30B22.24	Arabidopsis thaliana (Mouse-ear cress)	371	AT2G47460;
+O23299	reviewed	ECI2_ARATH	Enoyl-CoA delta isomerase 2, peroxisomal (EC 5.3.3.8) (Delta(3),Delta(2)-enoyl CoA isomerase 2) (AtECI2) (Indole-3-butyric acid response 10)	ECI2 IBR10 At4g14430 dl3255c	Arabidopsis thaliana (Mouse-ear cress)	240	AT4G14430;
+O23530	reviewed	SNC1_ARATH	Protein SUPPRESSOR OF npr1-1, CONSTITUTIVE 1 (AtSNC1) (Disease resistance RPP5-like protein) (Probable NAD(+) hydrolase SNC1) (EC 3.2.2.6)	SNC1 BAL At4g16890 dl4475c FCAALL.51	Arabidopsis thaliana (Mouse-ear cress)	1437	AT4G16890;
+O23661	reviewed	ARFC_ARATH	Auxin response factor 3 (Protein ETTIN)	ARF3 ETT At2g33860 T1B8.30	Arabidopsis thaliana (Mouse-ear cress)	608	AT2G33860;
+O24407	reviewed	IAA16_ARATH	Auxin-responsive protein IAA16 (Indoleacetic acid-induced protein 16)	IAA16 At3g04730 F7O18.22	Arabidopsis thaliana (Mouse-ear cress)	236	AT3G04730;
+O24408	reviewed	IAA18_ARATH	Auxin-responsive protein IAA18 (Indoleacetic acid-induced protein 18)	IAA18 At1g51950 T14L22.14	Arabidopsis thaliana (Mouse-ear cress)	267	AT1G51950;
+O24409	reviewed	IAA19_ARATH	Auxin-responsive protein IAA19 (Indoleacetic acid-induced protein 19) (Protein MASSUGU 2)	IAA19 MSG2 At3g15540 MJK13.20	Arabidopsis thaliana (Mouse-ear cress)	197	AT3G15540;
+O24410	reviewed	IAA20_ARATH	Auxin-responsive protein IAA20 (Indoleacetic acid-induced protein 20)	IAA20 At2g46990 F14M4.18	Arabidopsis thaliana (Mouse-ear cress)	175	AT2G46990;
+O48847	reviewed	LUH_ARATH	Transcriptional corepressor LEUNIG_HOMOLOG (Protein MUCILAGE-MODIFIED 1)	LUH MUM1 At2g32700 F24L7.16	Arabidopsis thaliana (Mouse-ear cress)	787	AT2G32700;
+O49048	reviewed	VPS45_ARATH	Vacuolar protein sorting-associated protein 45 homolog (AtVPS45) (Protein BFA-VISUALIZED ENDOCYTIC TRAFFICKING DEFECTIVE 2)	VPS45 BEN2 At1g77140 T14N5.2	Arabidopsis thaliana (Mouse-ear cress)	569	AT1G77140;
+O49484	reviewed	ASK11_ARATH	SKP1-like protein 11 (AtSK11)	ASK11 At4g34210 F10M10.2	Arabidopsis thaliana (Mouse-ear cress)	152	AT4G34210;
+O64682	reviewed	PID_ARATH	Protein kinase PINOID (EC 2.7.11.1) (Protein kinase ABRUPTUS)	PID ABR At2g34650 T31E10.1	Arabidopsis thaliana (Mouse-ear cress)	438	AT2G34650;
+O64768	reviewed	RAF24_ARATH	RAF-like serine/threonine-protein kinase 24 (EC 2.7.11.1) (Serine/threonine/Tyrosine protein kinase 2)	RAF24 STY2 At2g35050 F19I3.28	Arabidopsis thaliana (Mouse-ear cress)	1257	AT2G35050;
+O64903	reviewed	NDK2_ARATH	Nucleoside diphosphate kinase II, chloroplastic (NDK II) (NDP kinase II) (NDPK II) (NDPK Ia) (EC 2.7.4.6)	NDPK2 At5g63310 MDC12.28	Arabidopsis thaliana (Mouse-ear cress)	231	AT5G63310;
+O65517	reviewed	SRS2_ARATH	Protein SHI RELATED SEQUENCE 2 (Protein STYLISH 2)	SRS2 STY2 At4g36260 F23E13.150	Arabidopsis thaliana (Mouse-ear cress)	322	AT4G36260;
+O80460	reviewed	PCEP3_ARATH	Precursor of CEP3 (PCEP3) [Cleaved into: C-terminally encoded peptide 3 (CEP3)]	CEP3 At2g23440 F26B6.9	Arabidopsis thaliana (Mouse-ear cress)	82	AT2G23440;
+O80536	reviewed	PIF3_ARATH	Transcription factor PIF3 (Basic helix-loop-helix protein 8) (AtbHLH8) (bHLH 8) (Phytochrome-associated protein 3) (Phytochrome-interacting factor 3) (Transcription factor EN 100) (bHLH transcription factor bHLH008)	PIF3 BHLH8 EN100 PAP3 At1g09530 F14J9.19	Arabidopsis thaliana (Mouse-ear cress)	524	AT1G09530;
+O80642	reviewed	PGTB1_ARATH	Geranylgeranyl transferase type-1 subunit beta (EC 2.5.1.59) (Geranylgeranyl transferase type I subunit beta) (AtGGT-IB) (GGTase-I-beta)	GGB PGGT1B PGGTI At2g39550 F12L6	Arabidopsis thaliana (Mouse-ear cress)	375	AT2G39550;
+O80725	reviewed	AB4B_ARATH	ABC transporter B family member 4 (ABC transporter ABCB.4) (AtABCB4) (Multidrug resistance protein 4) (P-glycoprotein 4)	ABCB4 MDR4 PGP4 At2g47000 F14M4.17	Arabidopsis thaliana (Mouse-ear cress)	1286	AT2G47000;
+O82804	reviewed	ELF3_ARATH	Protein EARLY FLOWERING 3 (Nematode-responsive protein)	ELF3 PYK20 At2g25930 F17H15.25 T19L18.26	Arabidopsis thaliana (Mouse-ear cress)	695	AT2G25930;
+P13114	reviewed	CHSY_ARATH	Chalcone synthase (EC 2.3.1.74) (Naringenin-chalcone synthase) (Protein TRANSPARENT TESTA 4)	CHS TT4 At5g13930 MAC12.11 MAC12.14	Arabidopsis thaliana (Mouse-ear cress)	395	AT5G13930;
+P25070	reviewed	CML24_ARATH	Calcium-binding protein CML24 (Calmodulin-like protein 24) (Touch-induced calmodulin-related protein 2)	CML24 TCH2 At5g37770 K22F20.1	Arabidopsis thaliana (Mouse-ear cress)	161	AT5G37770;
+P28185	reviewed	RAA1A_ARATH	Ras-related protein RABA1a (AtRABA1a) (Ras-related protein Ara-2) (Ras-related protein Rab11E) (AtRab11E)	RABA1A ARA-2 RAB11E At1g06400 T2D23.10 T2D23_5	Arabidopsis thaliana (Mouse-ear cress)	216	AT1G06400;
+P33077	reviewed	IAA4_ARATH	Auxin-responsive protein IAA4 (Auxin-induced protein AUX2-11) (Indoleacetic acid-induced protein 4)	IAA4 AUX2-11 At5g43700 MQD19.3	Arabidopsis thaliana (Mouse-ear cress)	186	AT5G43700;
+P33078	reviewed	IAA5_ARATH	Auxin-responsive protein IAA5 (Auxin-induced protein AUX2-27) (Indoleacetic acid-induced protein 5)	IAA5 AUX2-27 At1g15580 T16N11.9	Arabidopsis thaliana (Mouse-ear cress)	163	AT1G15580;
+P36397	reviewed	ARF1_ARATH	ADP-ribosylation factor 1 (AtARF1) (EC 3.6.5.2) (Protein BFA-VISUALIZED EXOCYTIC TRAFFICKING DEFECTIVE 1)	ARF1 ARF1A1C BEX1 At2g47170 T3D7.2 T8I13.1	Arabidopsis thaliana (Mouse-ear cress)	181	AT2G47170;
+P38666	reviewed	RL242_ARATH	Large ribosomal subunit protein eL24y (60S ribosomal protein L24-2) (Protein SHORT VALVE 1)	RPL24B STV1 At3g53020 F8J2_190	Arabidopsis thaliana (Mouse-ear cress)	163	AT3G53020;
+P41088	reviewed	CFI1_ARATH	Chalcone--flavanone isomerase 1 (Chalcone isomerase 1) (EC 5.5.1.6) (Protein TRANSPARENT TESTA 5)	CHI1 CFI TT5 At3g55120 T15C9_120	Arabidopsis thaliana (Mouse-ear cress)	246	AT3G55120;
+P42744	reviewed	AXR1_ARATH	NEDD8-activating enzyme E1 regulatory subunit AXR1 (Auxin-resistance protein AXR1) (Protein AUXIN-RESISTANT 1)	AXR1 At1g05180 YUP8H12.21	Arabidopsis thaliana (Mouse-ear cress)	540	AT1G05180;
+P46422	reviewed	GSTF2_ARATH	Glutathione S-transferase F2 (AtGSTF2) (EC 2.5.1.18) (24 kDa auxin-binding protein) (AtPM24) (GST class-phi member 2)	GSTF2 PM24.1 At4g02520 T10P11.18	Arabidopsis thaliana (Mouse-ear cress)	212	AT4G02520;
+P46601	reviewed	HAT2_ARATH	Homeobox-leucine zipper protein HAT2 (Homeodomain-leucine zipper protein HAT2) (HD-ZIP protein 2)	HAT2 At5g47370 MQL5.23	Arabidopsis thaliana (Mouse-ear cress)	283	AT5G47370;
+P49333	reviewed	ETR1_ARATH	Ethylene receptor 1 (AtETR1) (EC 2.7.13.3) (Protein ETHYLENE RESPONSE 1) (Protein ETR1)	ETR1 At1g66340 T27F4.9	Arabidopsis thaliana (Mouse-ear cress)	738	AT1G66340;
+P49677	reviewed	IAA1_ARATH	Auxin-responsive protein IAA1 (Indoleacetic acid-induced protein 1)	IAA1 At4g14560 dl3320w FCAALL.409	Arabidopsis thaliana (Mouse-ear cress)	168	AT4G14560;
+P49678	reviewed	IAA2_ARATH	Auxin-responsive protein IAA2 (Indoleacetic acid-induced protein 2)	IAA2 At3g23030 MXC7.6	Arabidopsis thaliana (Mouse-ear cress)	174	AT3G23030;
+P53492	reviewed	ACT7_ARATH	Actin-7 (EC 3.6.4.-) (Actin-2)	ACT7 At5g09810 MYH9.2	Arabidopsis thaliana (Mouse-ear cress)	377	AT5G09810;
+P55034	reviewed	PSMD4_ARATH	26S proteasome non-ATPase regulatory subunit 4 homolog (26S proteasome regulatory subunit RPN10) (AtRPN10) (26S proteasome regulatory subunit S5A homolog) (Multiubiquitin chain-binding protein 1) (AtMCB1)	RPN10 MBP1 MCB1 At4g38630 F20M13.190 T9A14.7	Arabidopsis thaliana (Mouse-ear cress)	386	AT4G38630;
+P93022	reviewed	ARFG_ARATH	Auxin response factor 7 (Auxin-responsive protein IAA21/IAA23/IAA25) (Protein BIPOSTO) (Protein MASSUGU 1) (Protein NON-PHOTOTROPIC HYPOCOTYL 4) (Protein TRANSPORT INHIBITOR RESPONSE 5)	ARF7 BIP IAA21 IAA23 IAA25 MSG1 NPH4 TIR5 At5g20730 T1M15.130	Arabidopsis thaliana (Mouse-ear cress)	1164	AT5G20730;
+P93024	reviewed	ARFE_ARATH	Auxin response factor 5 (Auxin-responsive protein IAA24) (Transcription factor MONOPTEROS)	ARF5 IAA24 MP At1g19850 F6F9.10	Arabidopsis thaliana (Mouse-ear cress)	902	AT1G19850;
+P93830	reviewed	IAA17_ARATH	Auxin-responsive protein IAA17 (Auxin response 3) (Indoleacetic acid-induced protein 17)	IAA17 AXR3 At1g04250 F19P19.31	Arabidopsis thaliana (Mouse-ear cress)	229	AT1G04250;
+Q01593	reviewed	ABI3_ARATH	B3 domain-containing transcription factor ABI3 (Protein ABSCISIC ACID-INSENSITIVE 3)	ABI3 At3g24650 MSD24.2	Arabidopsis thaliana (Mouse-ear cress)	720	AT3G24650;
+Q05085	reviewed	PTR7_ARATH	Protein NRT1/ PTR FAMILY 6.3 (AtNPF6.3) (Nitrate transporter 1.1) (AtNRT1) (Nitrate/chlorate transporter) (Protein CHLORINA 1)	NPF6.3 CHL1 NRT1 NRT1.1 At1g12110 F12F1.1 T28K15_13	Arabidopsis thaliana (Mouse-ear cress)	590	AT1G12110;
+Q05466	reviewed	HAT4_ARATH	Homeobox-leucine zipper protein HAT4 (HD-ZIP protein ATHB-2) (Homeodomain transcription factor ATHB-2) (Homeodomain-leucine zipper protein HAT4) (HD-ZIP protein 4)	HAT4 ATHB-2 At4g16780 dl4415w FCAALL.101	Arabidopsis thaliana (Mouse-ear cress)	284	AT4G16780;
+Q058G9	reviewed	PCEP5_ARATH	Precursor of CEP5 (PCEP5) [Cleaved into: C-terminally encoded peptide 5 (CEP5)]	CEP5 At5g66815 MUD21	Arabidopsis thaliana (Mouse-ear cress)	105	AT5G66815;
+Q05999	reviewed	D6KL3_ARATH	Serine/threonine-protein kinase D6PKL3 (EC 2.7.11.1) (D6 protein kinase-like 3) (Serine/threonine-protein kinase AtPK7)	D6PKL3 PK7 At3g27580 MMJ24.14	Arabidopsis thaliana (Mouse-ear cress)	578	AT3G27580;
+Q0WL52	reviewed	NPY5_ARATH	Phototropic-responsive NPH3 family protein NPY5 (MAB4/ENP/NPY1-like proten 1) (MAB4/ENP/NPY1-like proten 2) (Protein NAKED PINS IN YUC MUTANTS 5)	NPY5 MEL1 MEL2 At4g37590 F19F18.80	Arabidopsis thaliana (Mouse-ear cress)	580	AT4G37590;
+Q0WL81	reviewed	RNL_ARATH	tRNA ligase 1 (AtRLG1) (AtRNL) (AtRlg1p) (EC 6.5.1.3) (Protein AT.I.24-9)	RNL RLG1 At1g07910 T6D22.1	Arabidopsis thaliana (Mouse-ear cress)	1104	AT1G07910;
+Q17TI5	reviewed	BRX_ARATH	Protein BREVIS RADIX (AtBRX)	BRX At1g31880 F5M6.11	Arabidopsis thaliana (Mouse-ear cress)	344	AT1G31880;
+Q38822	reviewed	IAA3_ARATH	Auxin-responsive protein IAA3 (Indoleacetic acid-induced protein 3) (Short hypocotyl) (Suppressor of HY2)	IAA3 SHY2 At1g04240 F19P19.32	Arabidopsis thaliana (Mouse-ear cress)	189	AT1G04240;
+Q38824	reviewed	IAA6_ARATH	Auxin-responsive protein IAA6 (Indoleacetic acid-induced protein 6)	IAA6 SHY1 At1g52830 F14G24.10	Arabidopsis thaliana (Mouse-ear cress)	189	AT1G52830;
+Q38825	reviewed	IAA7_ARATH	Auxin-responsive protein IAA7 (Auxin resistant 2) (Indoleacetic acid-induced protein 7)	IAA7 AXR2 At3g23050 MXC7.8	Arabidopsis thaliana (Mouse-ear cress)	243	AT3G23050;
+Q38826	reviewed	IAA8_ARATH	Auxin-responsive protein IAA8 (Indoleacetic acid-induced protein 8)	IAA8 At2g22670 T9I22.11	Arabidopsis thaliana (Mouse-ear cress)	321	AT2G22670;
+Q38827	reviewed	IAA9_ARATH	Auxin-responsive protein IAA9 (Indoleacetic acid-induced protein 9)	IAA9 At5g65670 F6H11.210 MPA24.1	Arabidopsis thaliana (Mouse-ear cress)	338	AT5G65670;
+Q38828	reviewed	IAA10_ARATH	Auxin-responsive protein IAA10 (Indoleacetic acid-induced protein 10)	IAA10 At1g04100 F20D22.13	Arabidopsis thaliana (Mouse-ear cress)	261	AT1G04100;
+Q38829	reviewed	IAA11_ARATH	Auxin-responsive protein IAA11 (Indoleacetic acid-induced protein 11)	IAA11 At4g28640 T5F17.90	Arabidopsis thaliana (Mouse-ear cress)	246	AT4G28640;
+Q38830	reviewed	IAA12_ARATH	Auxin-responsive protein IAA12 (Indoleacetic acid-induced protein 12) (Protein BODENLOS)	IAA12 BDL At1g04550 T1G11.20	Arabidopsis thaliana (Mouse-ear cress)	239	AT1G04550;
+Q38831	reviewed	IAA13_ARATH	Auxin-responsive protein IAA13 (Indoleacetic acid-induced protein 13)	IAA13 At2g33310 F4P9.8	Arabidopsis thaliana (Mouse-ear cress)	247	AT2G33310;
+Q38832	reviewed	IAA14_ARATH	Auxin-responsive protein IAA14 (Indoleacetic acid-induced protein 14) (Protein SOLITARY ROOT)	IAA14 SLR1 At4g14550 dl3315c FCAALL.254	Arabidopsis thaliana (Mouse-ear cress)	228	AT4G14550;
+Q38845	reviewed	2AAA_ARATH	Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform (AtA alpha) (PP2A, subunit A, alpha isoform) (PR-65 A) (Protein ROOTS CURL IN NAPHTHYLPHTHALAMIC ACID 1) (Protein enhancer of ethylene-response 1)	PP2AA1 EER1 RCN1 REGA At1g25490 F2J7.19	Arabidopsis thaliana (Mouse-ear cress)	588	AT1G25490;
+Q38847	reviewed	AGL15_ARATH	Agamous-like MADS-box protein AGL15	AGL15 At5g13790 MXE10.6	Arabidopsis thaliana (Mouse-ear cress)	268	AT5G13790;
+Q38857	reviewed	XTH22_ARATH	Xyloglucan endotransglucosylase/hydrolase protein 22 (At-XTH22) (XTH-22) (EC 2.4.1.207) (Touch protein 4)	XTH22 TCH4 At5g57560 MUA2.13	Arabidopsis thaliana (Mouse-ear cress)	284	AT5G57560;
+Q38862	reviewed	INO2_ARATH	Inositol-3-phosphate synthase isozyme 2 (AtIPS2) (MIP synthase 2) (EC 5.5.1.4) (Myo-inositol 1-phosphate synthase 2) (AtMIPS 2) (MI-1-P synthase 2)	IPS2 MIPS2 At2g22240 T26C19.10	Arabidopsis thaliana (Mouse-ear cress)	510	AT2G22240;
+Q38902	reviewed	RAC1_ARATH	Rac-like GTP-binding protein ARAC1 (GTPase protein ROP3)	ARAC1 ATGP2 ROP3 At2g17800 T17A5.14	Arabidopsis thaliana (Mouse-ear cress)	197	AT2G17800;
+Q38912	reviewed	RAC3_ARATH	Rac-like GTP-binding protein ARAC3 (AtRAC1) (GTPase protein ROP6)	ARAC3 RAC1 ROP6 At4g35020 M4E13.80	Arabidopsis thaliana (Mouse-ear cress)	198	AT4G35020;
+Q39011	reviewed	KSG7_ARATH	Shaggy-related protein kinase eta (EC 2.7.11.1) (ASK-eta) (Protein BRASSINOSTEROID INSENSITIVE 2) (Protein ULTRACURVATA 1) (Shaggy-related protein kinase 21) (AtSK21)	ASK7 BIN2 DWF12 SK21 UCU1 At4g18710 F28A21.120	Arabidopsis thaliana (Mouse-ear cress)	380	AT4G18710;
+Q39021	reviewed	MPK1_ARATH	Mitogen-activated protein kinase 1 (AtMPK1) (MAP kinase 1) (EC 2.7.11.24)	MPK1 At1g10210 F14N23.9	Arabidopsis thaliana (Mouse-ear cress)	370	AT1G10210;
+Q39054	reviewed	CNX1_ARATH	Molybdopterin biosynthesis protein CNX1 (Molybdenum cofactor biosynthesis enzyme CNX1) [Includes: Molybdopterin molybdenumtransferase (MPT Mo-transferase) (EC 2.10.1.1) (Domain E); Molybdopterin adenylyltransferase (MPT adenylyltransferase) (EC 2.7.7.75) (Domain G)]	CNX1 At5g20990 F22D1.6 T10F18.20	Arabidopsis thaliana (Mouse-ear cress)	670	AT5G20990;
+Q39088	reviewed	DOF34_ARATH	Dof zinc finger protein DOF3.4 (AtDOF3.4) (OBF-binding protein 1)	DOF3.4 OBP1 At3g50410 F11C1_250	Arabidopsis thaliana (Mouse-ear cress)	253	AT3G50410;
+Q39099	reviewed	XTH4_ARATH	Xyloglucan endotransglucosylase/hydrolase protein 4 (At-XTH4) (XTH-4) (EC 2.4.1.207)	XTH4 EXGT-A1 EXT At2g06850 T9F8.4	Arabidopsis thaliana (Mouse-ear cress)	296	AT2G06850;
+Q39123	reviewed	ATHB8_ARATH	Homeobox-leucine zipper protein ATHB-8 (HD-ZIP protein ATHB-8) (Homeodomain transcription factor ATHB-8)	ATHB-8 HB8 At4g32880 T16I18.90	Arabidopsis thaliana (Mouse-ear cress)	833	AT4G32880;
+Q39183	reviewed	D6KL2_ARATH	Serine/threonine-protein kinase D6PKL2 (EC 2.7.11.1) (D6 protein kinase-like 2) (Serine/threonine-protein kinase AtPK5)	D6PKL2 PK5 At5g47750 MCA23.7	Arabidopsis thaliana (Mouse-ear cress)	586	AT5G47750;
+Q39255	reviewed	SKP1A_ARATH	SKP1-like protein 1A (SKP1-like 1) (UFO-binding protein 1)	SKP1A ASK1 SKP1 UIP1 At1g75950 T4O12.17	Arabidopsis thaliana (Mouse-ear cress)	160	AT1G75950;
+Q3EDG5	reviewed	TPST_ARATH	Protein-tyrosine sulfotransferase (EC 2.8.2.20) (Tyrosylprotein sulfotransferase)	TPST At1g08030 T6D22.29	Arabidopsis thaliana (Mouse-ear cress)	500	AT1G08030;
+Q42381	reviewed	HLS1_ARATH	Probable N-acetyltransferase HLS1 (EC 2.3.1.-) (Protein CONSTITUTIVE PHOTOMORPHOGENIC 3) (Protein HOOKLESS 1) (Protein UNUSUAL SUGAR RESPONSE 2)	HLS1 COP3 UNS2 At4g37580 F19F18.70	Arabidopsis thaliana (Mouse-ear cress)	403	AT4G37580;
+Q570C0	reviewed	TIR1_ARATH	Protein TRANSPORT INHIBITOR RESPONSE 1 (Weak ethylene-insensitive protein 1)	TIR1 FBL1 WEI1 At3g62980 T20O10.80	Arabidopsis thaliana (Mouse-ear cress)	594	AT3G62980;
+Q5EAF2	reviewed	IP5PB_ARATH	Type IV inositol polyphosphate 5-phosphatase 11 (At5PTase11) (EC 3.1.3.36) (EC 3.1.3.86)	IP5P11 At1g47510 F16N3.22	Arabidopsis thaliana (Mouse-ear cress)	334	AT1G47510;
+Q5HZ36	reviewed	GAT21_ARATH	GATA transcription factor 21 (Protein GATA, NITRATE-INDUCIBLE, CARBON-METABOLISM INVOLVED) (AtGNC)	GATA21 GNC At5g56860 MPI10.2	Arabidopsis thaliana (Mouse-ear cress)	398	AT5G56860;
+Q5W7F2	reviewed	AGD3_ARATH	ADP-ribosylation factor GTPase-activating protein AGD3 (ARF GAP AGD3) (Protein ARF-GAP DOMAIN 3) (AtAGD3) (Protein FORKED 2) (Protein SCARFACE) (Protein VASCULAR NETWORK 3)	AGD3 FKD2 SFC VAN3 At5g13300 T31B5.120	Arabidopsis thaliana (Mouse-ear cress)	827	AT5G13300;
+Q5YDB5	reviewed	CPL2_ARATH	RNA polymerase II C-terminal domain phosphatase-like 2 (FCP-like 2) (EC 3.1.3.16) (ASI1-immunoprecipitated protein 4) (Carboxyl-terminal phosphatase-like 2) (AtCPL2) (CTD phosphatase-like 2)	CPL2 AIPP4 At5g01270 F7J8.250	Arabidopsis thaliana (Mouse-ear cress)	770	AT5G01270;
+Q5YGP7	reviewed	PLET2_ARATH	AP2-like ethylene-responsive transcription factor PLT2 (Protein AINTEGUMENTA-LIKE 4) (Protein PLETHORA 2)	PLT2 AIL4 At1g51190 F11M15.6	Arabidopsis thaliana (Mouse-ear cress)	568	AT1G51190;
+Q5YGP8	reviewed	PLET1_ARATH	AP2-like ethylene-responsive transcription factor PLT1 (Protein AINTEGUMENTA-LIKE 3) (Protein PLETHORA 1)	PLT1 AIL3 At3g20840 MOE17.15	Arabidopsis thaliana (Mouse-ear cress)	574	AT3G20840;
+Q64FQ2	reviewed	PID2_ARATH	Protein kinase PINOID 2 (EC 2.7.11.1) (Protein kinase AGC1-10)	PID2 AGC1-10 At2g26700 F18A8.7	Arabidopsis thaliana (Mouse-ear cress)	525	AT2G26700;
+Q67XG0	reviewed	GLB3_ARATH	Two-on-two hemoglobin-3 (AtGLB3) (2-on-2 hemoglobin-3)	GLB3 At4g32690 F4D11.110	Arabidopsis thaliana (Mouse-ear cress)	175	AT4G32690;
+Q6EJ98	reviewed	BT5_ARATH	BTB/POZ and TAZ domain-containing protein 5 (BTB and TAZ domain protein 5)	BT5 At4g37610 F19F18.100	Arabidopsis thaliana (Mouse-ear cress)	368	AT4G37610;
+Q6IWA9	reviewed	CLE45_ARATH	CLAVATA3/ESR (CLE)-related protein 45 [Cleaved into: CLE45p]	CLE45 At1g69588 F24J1	Arabidopsis thaliana (Mouse-ear cress)	124	AT1G69588;
+Q6NLQ8	reviewed	XB32_ARATH	E3 ubiquitin-protein ligase XBAT32 (EC 2.3.2.27) (Ankyrin repeat domain and RING finger-containing protein XBAT32) (Protein XB3 homolog 2) (RING-type E3 ubiquitin transferase XBAT32)	XBAT32 At5g57740 MRI1.10	Arabidopsis thaliana (Mouse-ear cress)	508	AT5G57740;
+Q6NMD6	reviewed	ARGOS_ARATH	Protein AUXIN-REGULATED GENE INVOLVED IN ORGAN SIZE (AtARGOS)	ARGOS At3g59900 F24G16.170	Arabidopsis thaliana (Mouse-ear cress)	130	AT3G59900;
+Q7DMA9	reviewed	PAS1_ARATH	Peptidyl-prolyl cis-trans isomerase PASTICCINO1 (EC 5.2.1.8) (70 kDa peptidyl-prolyl isomerase) (FK506-binding protein 72) (AtFKBP72) (Immunophilin FKBP72) (Peptidyl-prolyl cis-trans isomerase FKBP72) (PPIase FKBP72) (Rotamase)	PAS1 DEI1 FKBP70 FKBP72 At3g54010 F5K20.310	Arabidopsis thaliana (Mouse-ear cress)	635	AT3G54010;
+Q7XJU0	reviewed	LHWL2_ARATH	Transcription factor bHLH157 (BHLH transcription factor epsilon) (bHLH epsilon) (Basic helix-loop-helix protein 157) (AtbHLH157) (bHLH 157) (LONESOME HIGHWAY-like protein 2) (bHLH transcription factor bHLH157)	BHLH157 At1g64625 F1N19	Arabidopsis thaliana (Mouse-ear cress)	527	AT1G64625;
+Q84JU4	reviewed	IBR5_ARATH	Protein-tyrosine-phosphatase IBR5 (EC 3.1.3.48) (Protein INDOLE-3-BUTYRIC ACID RESPONSE 5) (Protein IBA RESPONSE 5) (SKP1-interacting partner 33)	IBR5 SKIP33 At2g04550 T1O3.4	Arabidopsis thaliana (Mouse-ear cress)	257	AT2G04550;
+Q84W56	reviewed	RNJ_ARATH	Ribonuclease J (RNase J) (EC 3.1.-.-) (Protein EMBRYO DEFECTIVE 2746)	RNJ EMB2746 At5g63420 MLE2.5 MLE2.6	Arabidopsis thaliana (Mouse-ear cress)	911	AT5G63420;
+Q84WK0	reviewed	RSL2_ARATH	Transcription factor RSL2 (Basic helix-loop-helix protein 85) (AtbHLH85) (bHLH 85) (Protein ROOT HAIR DEFECTIVE 6-LIKE 2) (Protein RHD SIX-LIKE 2) (Transcription factor EN 115) (Transcription factor bHLH85) (bHLH transcription factor bHLH085)	RSL2 BHLH85 EN115 At4g33880 F17I5.70	Arabidopsis thaliana (Mouse-ear cress)	352	AT4G33880;
+Q84WU6	reviewed	ARFQ_ARATH	Auxin response factor 17	ARF17 At1g77850 F28K19.6 T32E8.16	Arabidopsis thaliana (Mouse-ear cress)	585	AT1G77850;
+Q8GY65	reviewed	SOK4_ARATH	Protein SOSEKI 4 (AtSOK4) (Auxin-regulated protein 3) (AtAuxRP3)	SOK4 AUXRP3 At3g46110 F12M12.80	Arabidopsis thaliana (Mouse-ear cress)	343	AT3G46110;
+Q8GYP5	reviewed	MYB60_ARATH	Transcription factor MYB60 (Myb domain protein 60) (AtMYB60)	MYB60 At1g08810 F22O13.30	Arabidopsis thaliana (Mouse-ear cress)	280	AT1G08810;
+Q8GYQ5	reviewed	MPK12_ARATH	Mitogen-activated protein kinase 12 (AtMPK12) (MAP kinase 12) (EC 2.7.11.24)	MPK12 At2g46070 T3F17.28	Arabidopsis thaliana (Mouse-ear cress)	372	AT2G46070;
+Q8GZB4	reviewed	PLA2B_ARATH	Phospholipase A2-beta (EC 3.1.1.4) (Secretory phospholipase A2-beta) (AtsPLA2-beta)	PLA2-BETA At2g19690 F6F22.28	Arabidopsis thaliana (Mouse-ear cress)	147	AT2G19690;
+Q8GZM7	reviewed	PIF1_ARATH	Transcription factor PIF1 (Basic helix-loop-helix protein 15) (AtbHLH15) (bHLH 15) (Phytochrome-interacting factor 1) (Protein PHYTOCHROME INTERACTING FACTOR 3-LIKE 5) (Transcription factor EN 101) (bHLH transcription factor bHLH015)	PIF1 BHLH15 EN101 PIL5 At2g20180 T2G17.2	Arabidopsis thaliana (Mouse-ear cress)	478	AT2G20180;
+Q8H174	reviewed	IAA31_ARATH	Auxin-responsive protein IAA31 (Indoleacetic acid-induced protein 31)	IAA31 At3g17600 MKP6.16	Arabidopsis thaliana (Mouse-ear cress)	158	AT3G17600;
+Q8H1D3	reviewed	NPY1_ARATH	Phototropic-responsive NPH3 family protein NPY1 (Protein ENHANCER OF PINOID) (Protein MACCHI-BOU 4) (Protein NAKED PINS IN YUC MUTANTS 1)	NPY1 ENP MAB4 At4g31820 F11C18.20	Arabidopsis thaliana (Mouse-ear cress)	571	AT4G31820;
+Q8H1H9	reviewed	CAOG1_ARATH	Amine oxidase [copper-containing] gamma 1 (AtCuAO1) (AtCuAOgamma1) (Copper amine oxidase 1) (EC 1.4.3.21) (Primary amine oxidase 1)	CuAOgamma1 CuAO1 At1g62810 F23N19.18	Arabidopsis thaliana (Mouse-ear cress)	712	AT1G62810;
+Q8H1P9	reviewed	MB3R3_ARATH	Transcription factor MYB3R-3 (Myb-related protein 3R-3)	MYB3R3 At3g09370 F3L24.24	Arabidopsis thaliana (Mouse-ear cress)	505	AT3G09370;
+Q8L5Y6	reviewed	CAND1_ARATH	Cullin-associated NEDD8-dissociated protein 1 (Cullin-associated and neddylation-dissociated protein 1) (AtCAND1) (Protein ENHANCER OF TIR1-1 AUXIN RESISTANCE 2) (Protein HEMIVENATA)	CAND1 ETA2 HVE At2g02560 T8K22.14	Arabidopsis thaliana (Mouse-ear cress)	1219	AT2G02560;
+Q8L627	reviewed	SRD2_ARATH	snRNA-activating protein complex subunit (SNAPc subunit) (Protein SHOOT REDIFFERENTIATION DEFECTIVE 2)	SRD2 At1g28560 F1K23.20 F3M18.1	Arabidopsis thaliana (Mouse-ear cress)	375	AT1G28560;
+Q8L6Y1	reviewed	UBP14_ARATH	Ubiquitin carboxyl-terminal hydrolase 14 (EC 3.4.19.12) (Deubiquitinating enzyme 14) (AtUBP14) (TITAN-6 protein) (Ubiquitin thioesterase 14) (Ubiquitin-specific-processing protease 14)	UBP14 TTN6 At3g20630 F3H11_1 K10D20.17 K10D20.26	Arabidopsis thaliana (Mouse-ear cress)	797	AT3G20630;
+Q8L7G0	reviewed	ARFA_ARATH	Auxin response factor 1	ARF1 At1g59750 F23H11.7	Arabidopsis thaliana (Mouse-ear cress)	665	AT1G59750;
+Q8L8Y3	reviewed	PCEP1_ARATH	Precursor of CEP1 (PCEP1) [Cleaved into: C-terminally encoded peptide 1 (CEP1)]	CEP1 At1g47485 F16N3	Arabidopsis thaliana (Mouse-ear cress)	91	AT1G47485;
+Q8LAL2	reviewed	IAA26_ARATH	Auxin-responsive protein IAA26 (Indoleacetic acid-induced protein 26) (Phytochrome-associated protein 1)	IAA26 PAP1 At3g16500 MDC8.13	Arabidopsis thaliana (Mouse-ear cress)	269	AT3G16500;
+Q8LAR0	reviewed	B2DXI_ARATH	Protein BIIDXI	BDX ATHA1-1 At4g32460 F8B4.160	Arabidopsis thaliana (Mouse-ear cress)	365	AT4G32460;
+Q8LAZ7	reviewed	CSN5A_ARATH	COP9 signalosome complex subunit 5a (Signalosome subunit 5a) (EC 3.4.-.-) (Jun activation domain-binding homolog 1)	CSN5A AJH1 CSN5B At1g22920 F19G10.12	Arabidopsis thaliana (Mouse-ear cress)	357	AT1G22920;
+Q8LEG1	reviewed	RSL4_ARATH	Transcription factor RSL3 (Basic helix-loop-helix protein 54) (AtbHLH54) (bHLH 54) (ROOT HAIR DEFECTIVE 6-LIKE 4) (Protein RHD SIX-LIKE 4) (Transcription factor EN 114) (Transcription factor bHLH54) (bHLH transcription factor bHLH054)	RSL4 BHLH54 EN114 At1g27740 T22C5.19	Arabidopsis thaliana (Mouse-ear cress)	258	AT1G27740;
+Q8LGU6	reviewed	CD27B_ARATH	Cell division cycle protein 27 homolog B (CDC27 homolog B) (Protein HOBBIT)	CDC27B HBT At2g20000 T2G17.20	Arabidopsis thaliana (Mouse-ear cress)	744	AT2G20000;
+Q8LLD0	reviewed	NUP96_ARATH	Nuclear pore complex protein NUP96 (AtNUP96) (Nucleoporin 96) (Nucleoporin PRECOCIOUS) (Nucleoporin PRECOZ) (Protein MODIFIER OF SNC1 3) (Protein SUPPRESSOR OF AUXIN RESISTANCE 3)	NUP96 MOS3 PRE SAR3 At1g80680 F23A5.3	Arabidopsis thaliana (Mouse-ear cress)	1046	AT1G80680;
+Q8LLV8	reviewed	PLS_ARATH	Peptide POLARIS (Protein expressed in embryo 101) (AtEM101)	PLS EM101 At4g39403 F23K16	Arabidopsis thaliana (Mouse-ear cress)	36	AT4G39403;
+Q8RWZ6	reviewed	PIN4_ARATH	Auxin efflux carrier component 4 (AtPIN4)	PIN4 At2g01420 F2I9.4	Arabidopsis thaliana (Mouse-ear cress)	616	AT2G01420;
+Q8RYC6	reviewed	IAA32_ARATH	Auxin-responsive protein IAA32 (Indoleacetic acid-induced protein 32)	IAA32 At2g01200 F10A8.8	Arabidopsis thaliana (Mouse-ear cress)	191	AT2G01200;
+Q8RYC8	reviewed	ARFS_ARATH	Auxin response factor 19 (Auxin-responsive protein IAA22)	ARF19 IAA22 At1g19220 T29M8.9	Arabidopsis thaliana (Mouse-ear cress)	1086	AT1G19220;
+Q8S9J3	reviewed	VPS38_ARATH	Vacuolar protein sorting 38 (Protein UNFLATTENED AND SMALL LEAVES 1)	VPS38 USL1 At2g32760 F24L7.10	Arabidopsis thaliana (Mouse-ear cress)	352	AT2G32760;
+Q8SAB7	reviewed	SPK1_ARATH	Guanine nucleotide exchange factor SPIKE 1	SPK1 At4g16340 dl4200c FCAALL.346	Arabidopsis thaliana (Mouse-ear cress)	1830	AT4G16340;
+Q8VY26	reviewed	CCD8_ARATH	Carotenoid cleavage dioxygenase 8, chloroplastic (AtCCD8) (EC 1.13.11.69) (EC 1.13.11.70) (AtNCED8) (Protein MORE AXILLARY BRANCHING 4) (Protein MORE AXILLARY GROWTH 4)	CCD8 MAX4 NCED8 At4g32810 T16I18.20	Arabidopsis thaliana (Mouse-ear cress)	570	AT4G32810;
+Q8W234	reviewed	SEUSS_ARATH	Transcriptional corepressor SEUSS (AtSEU)	SEU At1g43850 F28H19.10	Arabidopsis thaliana (Mouse-ear cress)	877	AT1G43850;
+Q8W2F3	reviewed	PIF4_ARATH	Transcription factor PIF4 (Basic helix-loop-helix protein 9) (AtbHLH9) (bHLH 9) (Phytochrome-interacting factor 4) (Short under red-light 2) (Transcription factor EN 102) (bHLH transcription factor bHLH009)	PIF4 BHLH9 EN102 SRL2 At2g43010 MFL8.13	Arabidopsis thaliana (Mouse-ear cress)	430	AT2G43010;
+Q93VK8	reviewed	GLV1_ARATH	Protein GOLVEN 1 (CLAVATA3/ESR (CLE)-related protein CLEL6) (CLE-Like protein 6) (Root meristem growth factor 6) (AtRGF6) [Cleaved into: GLV1p]	GLV1 CLEL6 RGF6 At4g16515 FCAALL	Arabidopsis thaliana (Mouse-ear cress)	86	AT4G16515;
+Q93VV9	reviewed	TM16B_ARATH	Mitochondrial import inner membrane translocase subunit PAM16 like 2 (AtPAM16) (AtPAM16L2) (Presequence translocated-associated motor subunit PAM16) (Protein MUTANT SNC1-ENHANCING 5) (Protein THAXTOMIN A RESISTANT 1)	PAM16L2 MUSE5 PAM16 TXR1 At3g59280 F25L23.140	Arabidopsis thaliana (Mouse-ear cress)	116	AT3G59280;
+Q93YR9	reviewed	ARFP_ARATH	Auxin response factor 16	ARF16 At4g30080 F6G3.110	Arabidopsis thaliana (Mouse-ear cress)	670	AT4G30080;
+Q93ZR1	reviewed	ELP3_ARATH	Elongator complex protein 3 (AtELP3) (EC 2.3.1.311) (Elongator component 3) (Protein ELONGATA 3) (Protein ENHANCER-OF-ASYMMETRIC-LEAVES-TWO1) (tRNA uridine(34) acetyltransferase)	HAG3 EAST1 ELO3 ELP3 At5g50320 MXI22.3	Arabidopsis thaliana (Mouse-ear cress)	565	AT5G50320;
+Q940X7	reviewed	RBX1A_ARATH	RING-box protein 1a (At-Rbx1;1) (Protein RING of cullins 1) (RBX1-2) (RBX1a-At)	RBX1A ROC1 At5g20570 F7C8.160	Arabidopsis thaliana (Mouse-ear cress)	118	AT5G20570;
+Q940Y5	reviewed	PIN7_ARATH	Auxin efflux carrier component 7 (AtPIN7)	PIN7 AEH1 At1g23080 T26J12.14	Arabidopsis thaliana (Mouse-ear cress)	619	AT1G23080;
+Q945S5	reviewed	CAX4_ARATH	Vacuolar cation/proton exchanger 4 (AtCAX4) (Ca(2+)/H(+) antiporter CAX4) (Ca(2+)/H(+) exchanger 4) (Protein CATION EXCHANGER 4)	CAX4 At5g01490 F7A7.10	Arabidopsis thaliana (Mouse-ear cress)	446	AT5G01490;
+Q94AH6	reviewed	CUL1_ARATH	Cullin-1	CUL1 At4g02570 T10P11.26	Arabidopsis thaliana (Mouse-ear cress)	738	AT4G02570;
+Q94AI7	reviewed	TPL_ARATH	Protein TOPLESS (WUS-interacting protein 1)	TPL WSIP1 At1g15750 F7H2.9	Arabidopsis thaliana (Mouse-ear cress)	1131	AT1G15750;
+Q94AP3	reviewed	WAT1_ARATH	Protein WALLS ARE THIN 1	WAT1 At1g75500 F10A5.28 F1B16.19	Arabidopsis thaliana (Mouse-ear cress)	389	AT1G75500;
+Q94BN0	reviewed	BT2_ARATH	BTB/POZ and TAZ domain-containing protein 2 (BTB and TAZ domain protein 2)	BT2 At3g48360 T29H11.120	Arabidopsis thaliana (Mouse-ear cress)	364	AT3G48360;
+Q94CK9	reviewed	LRP1_ARATH	Protein LATERAL ROOT PRIMORDIUM 1	LRP1 At5g12330 T2L20	Arabidopsis thaliana (Mouse-ear cress)	320	AT5G12330;
+Q94FL6	reviewed	MY124_ARATH	Transcription factor MYB124 (Myb-related protein 124) (AtMYB124) (Protein FOUR LIPS)	MYB124 FLP At1g14350 F14L17.12	Arabidopsis thaliana (Mouse-ear cress)	436	AT1G14350;
+Q94JM3	reviewed	ARFB_ARATH	Auxin response factor 2 (ARF1-binding protein) (ARF1-BP) (Protein MEGAINTEGUMENTA)	ARF2 MNT At5g62000 MTG10.3	Arabidopsis thaliana (Mouse-ear cress)	859	AT5G62000;
+Q96247	reviewed	AUX1_ARATH	Auxin transporter protein 1 (Auxin influx carrier protein 1) (Polar auxin transport inhibitor-resistant protein 1)	AUX1 AUX PIR1 WAV5 At2g38120 F16M14.5	Arabidopsis thaliana (Mouse-ear cress)	485	AT2G38120;
+Q96327	reviewed	EBP1_ARATH	ERBB-3 BINDING PROTEIN 1 (AtEBP1) (Proliferation-associated protein G2p) (AtG2) (Protein CELL-PROLIFERATION-RELATED) (AtCPR)	EBP1 CAM1 CPR At3g51800	Arabidopsis thaliana (Mouse-ear cress)	392	AT3G51800;
+Q96330	reviewed	FLS1_ARATH	Flavonol synthase/flavanone 3-hydroxylase (EC 1.14.11.9) (EC 1.14.20.6) (FLS 1)	FLS1 FLS At5g08640 MAH20.20	Arabidopsis thaliana (Mouse-ear cress)	336	AT5G08640;
+Q9ATB4	reviewed	TAD2B_ARATH	Transcriptional adapter ADA2b (AtADA2b) (Protein PROPORZ 1)	ADA2B PRZ1 At4g16420 dl4235c	Arabidopsis thaliana (Mouse-ear cress)	487	AT4G16420;
+Q9C5W9	reviewed	ARFR_ARATH	Auxin response factor 18	ARF18 At3g61830 F15G16.220	Arabidopsis thaliana (Mouse-ear cress)	602	AT3G61830;
+Q9C5X0	reviewed	IAA34_ARATH	Auxin-responsive protein IAA34 (Indoleacetic acid-induced protein 34)	IAA34 At1g15050 T15D22.10	Arabidopsis thaliana (Mouse-ear cress)	185	AT1G15050;
+Q9C5X8	reviewed	MOCOS_ARATH	Molybdenum cofactor sulfurase (MCS) (MOS) (MoCo sulfurase) (EC 2.8.1.9) (Abscisic acid protein 3) (Low expression of osmotically expressive genes protein 5) (Molybdenum cofactor sulfurtransferase)	ABA3 LOS5 At1g16540 F19K19.13	Arabidopsis thaliana (Mouse-ear cress)	819	AT1G16540;
+Q9C5Z2	reviewed	EIF3H_ARATH	Eukaryotic translation initiation factor 3 subunit H (eIF3h) (Eukaryotic translation initiation factor 3 subunit 3) (eIF-3-gamma) (eIF3 p38 subunit)	TIF3H1 At1g10840 T16B5.2	Arabidopsis thaliana (Mouse-ear cress)	337	AT1G10840;
+Q9C6B8	reviewed	PINI_ARATH	Auxin efflux carrier component 1 (Protein PIN-FORMED) (AtPIN1)	PIN1 At1g73590 F6D5.2	Arabidopsis thaliana (Mouse-ear cress)	622	AT1G73590;
+Q9C778	reviewed	ELP4_ARATH	Elongator complex protein 4 (AtELP4) (Elongator component 4) (Protein ELONGATA 1)	ELP4 ELO1 At3g11220 F11B9.14	Arabidopsis thaliana (Mouse-ear cress)	355	AT3G11220;
+Q9C811	reviewed	NU160_ARATH	Nuclear pore complex protein NUP160 (AtNUP160) (Nucleoporin 160) (Protein SUPPRESSOR OF AUXIN RESISTANCE 1)	NUP160 SAR1 At1g33410 F10C21.8	Arabidopsis thaliana (Mouse-ear cress)	1495	AT1G33410;
+Q9C8M5	reviewed	WAG1_ARATH	Serine/threonine-protein kinase WAG1 (EC 2.7.11.1) (Protein kinase 3) (AtPK3)	WAG1 PK3 At1g53700 F22G10.21	Arabidopsis thaliana (Mouse-ear cress)	476	AT1G53700;
+Q9C8W9	reviewed	NAC30_ARATH	NAC domain-containing protein 30 (ANAC030) (Protein VASCULAR RELATED NAC-DOMAIN 7)	NAC030 VND7 At1g71930 F17M19.8	Arabidopsis thaliana (Mouse-ear cress)	324	AT1G71930;
+Q9C999	reviewed	PILS2_ARATH	Protein PIN-LIKES 2 (Auxin efflux carrier-like protein 2)	PILS2 At1g71090 F23N20.8	Arabidopsis thaliana (Mouse-ear cress)	457	AT1G71090;
+Q9CA51	reviewed	MIF1_ARATH	Mini zinc finger protein 1 (AtMIF1)	MIF1 At1g74660 F1M20.34	Arabidopsis thaliana (Mouse-ear cress)	102	AT1G74660;
+Q9FE25	reviewed	MYB75_ARATH	Transcription factor MYB75 (Myb-related protein 75) (AtMYB75) (Production of anthocyanin pigment 1 protein) (Suc-induced anthocyanin accumulation locus 1)	MYB75 PAP1 SIAA1 At1g56650 F25P12.92	Arabidopsis thaliana (Mouse-ear cress)	248	AT1G56650;
+Q9FFD0	reviewed	PIN5_ARATH	Auxin efflux carrier component 5 (AtPIN5)	PIN5 AEH2 PIN8 At5g16530 MQK4.28	Arabidopsis thaliana (Mouse-ear cress)	351	AT5G16530;
+Q9FG74	reviewed	D6PK_ARATH	Serine/threonine-protein kinase D6PK (EC 2.7.11.1) (D6 protein kinase) (Serine/threonine-protein kinase 64) (AtPK64) (Serine/threonine-protein kinase AGC1-1)	D6PK PK64 At5g55910 MYN21.2	Arabidopsis thaliana (Mouse-ear cress)	498	AT5G55910;
+Q9FGF6	reviewed	GLV2_ARATH	Protein GOLVEN 2 (CLAVATA3/ESR (CLE)-related protein CLEL9) (CLE-Like protein 9) (Root meristem growth factor 9) (AtRGF9) [Cleaved into: GLV2p]	GLV2 CLEL9 RGF9 At5g64770 MVP7.10	Arabidopsis thaliana (Mouse-ear cress)	79	AT5G64770;
+Q9FGV1	reviewed	ARFH_ARATH	Auxin response factor 8 (Protein FRUIT WITHOUT FERTILIZATION)	ARF8 FWF At5g37020 K15O15.5	Arabidopsis thaliana (Mouse-ear cress)	811	AT5G37020;
+Q9FHI1	reviewed	MOB1A_ARATH	MOB kinase activator-like 1A (Mob1 homolog 1A) (Mps one binder kinase activator-like 1A)	MOB1A At5g45550 MFC19.22	Arabidopsis thaliana (Mouse-ear cress)	215	AT5G45550;
+Q9FHW7	reviewed	SKP1B_ARATH	SKP1-like protein 1B (SKP1-like 2) (UFO-binding protein 2)	SKP1B ASK2 UIP2 At5g42190 MJC20.30	Arabidopsis thaliana (Mouse-ear cress)	171	AT5G42190;
+Q9FIQ5	reviewed	TRN2_ARATH	Protein TORNADO 2 (Protein EKEKO) (TETRASPANIN-1)	TRN2 TET1 At5g46700 MZA15.11	Arabidopsis thaliana (Mouse-ear cress)	269	AT5G46700;
+Q9FJ47	reviewed	SAG12_ARATH	Senescence-specific cysteine protease SAG12 (EC 3.4.22.-) (Cysteine proteinase SAG12) (Protein SENESCENCE-ASSOCIATED GENE 12)	SAG12 At5g45890 K15I22.9	Arabidopsis thaliana (Mouse-ear cress)	346	AT5G45890;
+Q9FJ57	reviewed	TRN1_ARATH	Protein TORNADO 1 (Protein LOPPED 1)	TRN1 LOP1 At5g55540 MTE17.26	Arabidopsis thaliana (Mouse-ear cress)	1380	AT5G55540;
+Q9FJT7	reviewed	NDL1_ARATH	Protein NDL1 (Protein N-MYC DOWNREGULATED-LIKE 1)	NDL1 At5g56750 MIK19.22	Arabidopsis thaliana (Mouse-ear cress)	346	AT5G56750;
+Q9FJX5	reviewed	BT4_ARATH	BTB/POZ and TAZ domain-containing protein 4 (BTB and TAZ domain protein 4)	BT4 At5g67480 K9I9.4	Arabidopsis thaliana (Mouse-ear cress)	372	AT5G67480;
+Q9FK63	reviewed	CARLK_ARATH	Calmodulin-binding receptor kinase CaMRLK (EC 2.7.11.1) (Calmodulin-binding receptor-like kinase) (AtCaMRLK) (Protein MATERNAL EFFECT EMBRYO ARREST 62)	CAMRLK MEE62 At5g45800 MRA19.24	Arabidopsis thaliana (Mouse-ear cress)	666	AT5G45800;
+Q9FK72	reviewed	HFA4C_ARATH	Heat stress transcription factor A-4c (AtHsfA4c) (AtHsf-20) (Protein ROOT HANDEDNESS 1)	HSFA4C HSF20 RHA1 At5g45710 MRA19.11	Arabidopsis thaliana (Mouse-ear cress)	345	AT5G45710;
+Q9FKA0	reviewed	NAC92_ARATH	NAC domain-containing protein 92 (ANAC092) (AtNAC2) (AtNAC6) (Protein ORESARA 1)	NAC92 NAC2 NAC6 ORE1 At5g39610 MIJ24.11	Arabidopsis thaliana (Mouse-ear cress)	285	AT5G39610;
+Q9FKM7	reviewed	IAA33_ARATH	Auxin-responsive protein IAA33 (Indoleacetic acid-induced protein 33)	IAA33 At5g57420 MUA2.1	Arabidopsis thaliana (Mouse-ear cress)	171	AT5G57420;
+Q9FMA3	reviewed	PEX5_ARATH	Peroxisome biogenesis protein 5 (Peroxin-5) (AtPEX5) (Peroxisomal targeting signal type 1 receptor) (Pex5p)	PEX5 At5g56290 MXK23.3	Arabidopsis thaliana (Mouse-ear cress)	728	AT5G56290;
+Q9FMK7	reviewed	BT1_ARATH	BTB/POZ and TAZ domain-containing protein 1 (BTB and TAZ domain protein 1)	BT1 At5g63160 MDC12.13	Arabidopsis thaliana (Mouse-ear cress)	365	AT5G63160;
+Q9FN09	reviewed	NPY3_ARATH	Phototropic-responsive NPH3 family protein NPY3 (MAB4/ENP/NPY1-like proten 1) (MAB4/ENP/NPY1-like proten 2) (Protein NAKED PINS IN YUC MUTANTS 3)	NPY3 MEL1 MEL2 At5g67440 K8K14.18	Arabidopsis thaliana (Mouse-ear cress)	579	AT5G67440;
+Q9FNA4	reviewed	ELP1_ARATH	Elongator complex protein 1 (AtELP1) (Elongator component 1) (Protein ABA-OVERLY SENSITIVE 1) (Protein ELONGATA 2)	ELP1 ABO1 ELO2 At5g13680 MSH12.15	Arabidopsis thaliana (Mouse-ear cress)	1319	AT5G13680;
+Q9FNN2	reviewed	WDR26_ARATH	WD repeat-containing protein 26 homolog (AtWDR26)	WDR26 At5g08560 MAH20.12	Arabidopsis thaliana (Mouse-ear cress)	589	AT5G08560;
+Q9FR53	reviewed	TOR_ARATH	Serine/threonine-protein kinase TOR (EC 2.7.11.1) (Protein TARGET OF RAPAMYCIN) (AtTOR)	TOR At1g50030 F2J10.19	Arabidopsis thaliana (Mouse-ear cress)	2481	AT1G50030;
+Q9FUY2	reviewed	LEUNG_ARATH	Transcriptional corepressor LEUNIG (Protein ROTUNDA2)	LUG RON2 At4g32551 L23H3.30	Arabidopsis thaliana (Mouse-ear cress)	931	AT4G32551;
+Q9FV71	reviewed	E2FB_ARATH	Transcription factor E2FB (E2F transcription factor-1) (AtE2F1)	E2FB E2F1 At5g22220 T6G21	Arabidopsis thaliana (Mouse-ear cress)	469	AT5G22220;
+Q9FVU9	reviewed	CSN5B_ARATH	COP9 signalosome complex subunit 5b (Signalosome subunit 5b) (EC 3.4.-.-) (Jun activation domain-binding homolog 2)	CSN5B AJH2 CSN5A At1g71230 F3I17.12	Arabidopsis thaliana (Mouse-ear cress)	358	AT1G71230;
+Q9FXH7	reviewed	SRS7_ARATH	Protein SHI RELATED SEQUENCE 7	SRS7 At1g19790 F6F9.16	Arabidopsis thaliana (Mouse-ear cress)	345	AT1G19790;
+Q9FY74	reviewed	CMTA1_ARATH	Calmodulin-binding transcription activator 1 (AtCAMTA1) (Ethylene-induced calmodulin-binding protein b) (EICBP.b) (Signal-responsive protein 2) (AtSR2)	CAMTA1 CMTA1 SR2 At5g09410 T5E8.210	Arabidopsis thaliana (Mouse-ear cress)	1007	AT5G09410;
+Q9FYK5	reviewed	ESR2_ARATH	Ethylene-responsive transcription factor ESR2 (Protein DORNROESCHEN-LIKE) (Protein DRN-LIKE) (Protein ENHANCER OF SHOOT REGENERATION 2) (Protein SUPPRESSOR OF PHYTOCHROMEB 2)	ESR2 DRNL ERF090 SOB2 At1g24590 F21J9.25	Arabidopsis thaliana (Mouse-ear cress)	306	AT1G24590;
+Q9FZ33	reviewed	AXR4_ARATH	Protein AUXIN RESPONSE 4	AXR4 At1g54990 F14C21.51 T24C10.10	Arabidopsis thaliana (Mouse-ear cress)	473	AT1G54990;
+Q9LDC0	reviewed	FKB42_ARATH	Peptidyl-prolyl cis-trans isomerase FKBP42 (PPIase FKBP42) (EC 5.2.1.8) (42 kDa peptidyl-prolyl isomerase) (FK506-binding protein 42) (AtFKBP42) (Immunophilin FKBP42) (Protein TWISTED DWARF 1) (Protein ULTRACURVATA 2) (Rotamase)	FKBP42 TWD1 UCU2 At3g21640 MIL23.21	Arabidopsis thaliana (Mouse-ear cress)	365	AT3G21640;
+Q9LFH0	reviewed	AB37G_ARATH	ABC transporter G family member 37 (ABC transporter ABCG.37) (AtABCG37) (Pleiotropic drug resistance protein 9) (Protein ENHANCER OF TIR1-1 AUXIN RESISTANCE 4) (Protein POLAR AUXIN TRANSPORT INHIBITOR SENSITIVE 1)	ABCG37 ETA4 PDR12 PDR9 PIS1 At3g53480 F4P12.180	Arabidopsis thaliana (Mouse-ear cress)	1450	AT3G53480;
+Q9LFP6	reviewed	PIN8_ARATH	Auxin efflux carrier component 8 (AtPIN8)	PIN8 PIN5 At5g15100 F2G14_220	Arabidopsis thaliana (Mouse-ear cress)	367	AT5G15100;
+Q9LFQ9	reviewed	E2FD_ARATH	E2F transcription factor-like E2FD (DP-E2F-like protein 2) (E2F-like repressor E2L1)	E2FD DEL2 E2L1 ELP3 At5g14960 F2G14.80	Arabidopsis thaliana (Mouse-ear cress)	359	AT5G14960;
+Q9LJX0	reviewed	AB19B_ARATH	ABC transporter B family member 19 (ABC transporter ABCB.19) (AtABCB19) (Multidrug resistance protein 11) (P-glycoprotein 19)	ABCB19 MDR1 MDR11 PGP19 At3g28860 MLD15.2	Arabidopsis thaliana (Mouse-ear cress)	1252	AT3G28860;
+Q9LNT9	reviewed	ASK4_ARATH	SKP1-like protein 4 (AtSK4)	ASK4 At1g20140 T20H2.8	Arabidopsis thaliana (Mouse-ear cress)	163	AT1G20140;
+Q9LPL4	reviewed	SKP2A_ARATH	F-box protein SKP2A (FBL5-like protein) (AtFBL5) (SKP2-like protein 1) (AtSKP2;1)	SKP2A At1g21410 F24J8.5	Arabidopsis thaliana (Mouse-ear cress)	360	AT1G21410;
+Q9LPW7	reviewed	AFB3_ARATH	Protein AUXIN SIGNALING F-BOX 3	AFB3 At1g12820 F13K23.7	Arabidopsis thaliana (Mouse-ear cress)	577	AT1G12820;
+Q9LQZ5	reviewed	SRS5_ARATH	Protein SHI RELATED SEQUENCE 5	SRS5 At1g75520 F1B16.17	Arabidopsis thaliana (Mouse-ear cress)	346	AT1G75520;
+Q9LSQ5	reviewed	FQR1_ARATH	NAD(P)H dehydrogenase (quinone) FQR1 (EC 1.6.5.2) (Flavodoxin-like quinone reductase 1)	FQR1 At5g54500 F24B18.12	Arabidopsis thaliana (Mouse-ear cress)	204	AT5G54500;
+Q9LTT8	reviewed	VCS_ARATH	Enhancer of mRNA-decapping protein 4 (Protein VARICOSE)	VCS EDC4 At3g13300 MDC11.13	Arabidopsis thaliana (Mouse-ear cress)	1344	AT3G13300;
+Q9LU77	reviewed	PIN2_ARATH	Auxin efflux carrier component 2 (AtPIN2) (Auxin efflux carrier AGR) (Ethylene-insensitive root 1) (AtEIR1) (Polar-auxin-transport efflux component AGR1) (Protein AGRAVITROPIC 1) (AtAGR1) (Protein WAVY 6)	PIN2 AGR AGR1 EIR1 WAV6 At5g57090 MUL3.3	Arabidopsis thaliana (Mouse-ear cress)	647	AT5G57090;
+Q9LUL2	reviewed	WAG2_ARATH	Serine/threonine-protein kinase WAG2 (EC 2.7.11.1)	WAG2 At3g14370 MLN21.15	Arabidopsis thaliana (Mouse-ear cress)	480	AT3G14370;
+Q9LVA1	reviewed	NC101_ARATH	NAC domain-containing protein 101 (ANAC101) (Protein VASCULAR RELATED NAC-DOMAIN 6)	NAC101 VND6 At5g62380 MMI9.21	Arabidopsis thaliana (Mouse-ear cress)	348	AT5G62380;
+Q9LW29	reviewed	AFB2_ARATH	Protein AUXIN SIGNALING F-BOX 2	AFB2 LRF2 At3g26810 MDJ14.12	Arabidopsis thaliana (Mouse-ear cress)	575	AT3G26810;
+Q9LW31	reviewed	FUS3_ARATH	B3 domain-containing transcription factor FUS3 (Protein FUSCA3)	FUS3 At3g26790 MDJ14.4	Arabidopsis thaliana (Mouse-ear cress)	313	AT3G26790;
+Q9M0D1	reviewed	XTH19_ARATH	Xyloglucan endotransglucosylase/hydrolase protein 19 (At-XTH19) (XTH-19) (EC 2.4.1.207)	XTH19 At4g30290 F17I23.370	Arabidopsis thaliana (Mouse-ear cress)	277	AT4G30290;
+Q9M1R4	reviewed	IAA30_ARATH	Auxin-responsive protein IAA30 (Indoleacetic acid-induced protein 30)	IAA30 At3g62100 T17J13.60	Arabidopsis thaliana (Mouse-ear cress)	172	AT3G62100;
+Q9M2B9	reviewed	CAOG2_ARATH	Amine oxidase [copper-containing] gamma 2 (AtCuAOgamma2) (EC 1.4.3.21)	CuAOgamma2 At3g43670 F23N14.50	Arabidopsis thaliana (Mouse-ear cress)	687	AT3G43670;
+Q9M9U5	reviewed	B1L_ARATH	Protein BYPASS1-LIKE	B1L At1g18740 F6A14.15	Arabidopsis thaliana (Mouse-ear cress)	382	AT1G18740;
+Q9M9W8	reviewed	PLDZ2_ARATH	Phospholipase D zeta 2 (PLDzeta2) (EC 3.1.4.4) (Phospholipase D p2) (AtPLDp2) (Phospholipase D2 PHOX and PX-containing domain protein)	PLPZETA2 PLDP2 At3g05630 F18C1.10	Arabidopsis thaliana (Mouse-ear cress)	1046	AT3G05630;
+Q9MAH8	reviewed	TCP3_ARATH	Transcription factor TCP3	TCP3 At1g53230 F12M16.13	Arabidopsis thaliana (Mouse-ear cress)	391	AT1G53230;
+Q9S775	reviewed	PKL_ARATH	CHD3-type chromatin-remodeling factor PICKLE (EC 3.6.4.-) (Protein CHROMATIN REMODELING 6) (AtCHR6) (Protein GYMNOS)	PKL CHR6 GYM At2g25170 F13D4.130	Arabidopsis thaliana (Mouse-ear cress)	1384	AT2G25170;
+Q9S7Z8	reviewed	PIN3_ARATH	Auxin efflux carrier component 3 (AtPIN3)	PIN3 At1g70940 F15H11.14	Arabidopsis thaliana (Mouse-ear cress)	640	AT1G70940;
+Q9S814	reviewed	EIN2_ARATH	Ethylene-insensitive protein 2 (AtEIN2) (EIN-2) (Cytokinin-resistant protein AtCKR1) (Protein ORESARA 3) [Cleaved into: EIN2-CEND (EIN2C)]	EIN2 CKR1 ORE3 At5g03280 F12E4.10 MOK16.19	Arabidopsis thaliana (Mouse-ear cress)	1294	AT5G03280;
+Q9S9W2	reviewed	SDRA_ARATH	Short-chain dehydrogenase/reductase SDRA (EC 1.1.-.-) (Protein INDOLE-3-BUTYRIC ACID RESPONSE 1) (Short-chain dehydrogenase/reductase A)	SDRA IBR1 At4g05530 T1J24.9	Arabidopsis thaliana (Mouse-ear cress)	254	AT4G05530;
+Q9S9Z2	reviewed	MYB93_ARATH	Transcription factor MYB93 (Myb-related protein 93) (AtMYB93)	MYB93 At1g34670 F21H2.9	Arabidopsis thaliana (Mouse-ear cress)	365	AT1G34670;
+Q9SAD4	reviewed	ESR1_ARATH	Ethylene-responsive transcription factor ESR1 (Protein DORNROSCHEN) (Protein ENHANCER OF SHOOT REGENERATION 1)	ESR1 DRN ERF089 At1g12980 F3F19.1	Arabidopsis thaliana (Mouse-ear cress)	328	AT1G12980;
+Q9SAJ2	reviewed	RAF20_ARATH	RAF-like serine/threonine-protein kinase 20 (EC 2.7.11.1) (Serine/threonine/Tyrosine protein kinase 14)	RAF20 STY14 At1g79570 T8K14.1	Arabidopsis thaliana (Mouse-ear cress)	1248	AT1G79570;
+Q9SAR0	reviewed	1A16_ARATH	1-aminocyclopropane-1-carboxylate synthase 6 (ACC synthase 6) (EC 4.4.1.14) (S-adenosyl-L-methionine methylthioadenosine-lyase 6)	ACS6 ACC6 At4g11280 F8L21.70	Arabidopsis thaliana (Mouse-ear cress)	495	AT4G11280;
+Q9SB47	reviewed	SIC_ARATH	Protein SICKLE (Protein ROTUNDA 3)	SIC RON3 At4g24500 F22K18.300	Arabidopsis thaliana (Mouse-ear cress)	319	AT4G24500;
+Q9SD40	reviewed	SRS1_ARATH	Protein SHI RELATED SEQUENCE 1 (Protein STYLISH 1)	SRS1 STY1 At3g51060 F24M12.100	Arabidopsis thaliana (Mouse-ear cress)	370	AT3G51060;
+Q9SGW3	reviewed	PSD8A_ARATH	26S proteasome non-ATPase regulatory subunit 8 homolog A (26S proteasome regulatory subunit RPN12a) (AtRPN12a) (26S proteasome regulatory subunit S14 homolog A)	RPN12A At1g64520 F1N19.9	Arabidopsis thaliana (Mouse-ear cress)	267	AT1G64520;
+Q9SHE7	reviewed	RUB1_ARATH	Ubiquitin-NEDD8-like protein RUB1 [Cleaved into: Ubiquitin; NEDD8-like protein RUB1 (Ubiquitin-related protein 1) (AtRUB1)]	RUB1 NEDD8 UBQ15 At1g31340 T19E23.13	Arabidopsis thaliana (Mouse-ear cress)	156	AT1G31340;
+Q9SHL8	reviewed	PILS5_ARATH	Protein PIN-LIKES 5 (Auxin efflux carrier-like protein 5)	PILS5 At2g17500 MJB20.6	Arabidopsis thaliana (Mouse-ear cress)	396	AT2G17500;
+Q9SI19	reviewed	SRS4_ARATH	Protein SHI RELATED SEQUENCE 4	SRS4 At2g18120 F8D23.10	Arabidopsis thaliana (Mouse-ear cress)	222	AT2G18120;
+Q9SIM9	reviewed	MAX2_ARATH	F-box protein MAX2 (F-box/LRR-repeat protein 7) (Protein KARRIKIN INSENSITIVE 1) (Protein MORE AXILLARY BRANCHING 2) (Protein ORESARA 9)	MAX2 FBL7 KAI1 ORE9 At2g42620 F14N22.11	Arabidopsis thaliana (Mouse-ear cress)	693	AT2G42620;
+Q9SIN1	reviewed	TTL3_ARATH	Inactive TPR repeat-containing thioredoxin TTL3 (Tetratricopeptide repeat thioredoxin-like 3) (VH1-interacting TPR-containing protein)	TTL3 VIT At2g42580 F14N22.15	Arabidopsis thaliana (Mouse-ear cress)	691	AT2G42580;
+Q9SKE2	reviewed	JAR1_ARATH	Jasmonoyl--L-amino acid synthetase JAR1 (EC 6.3.2.52) (Jasmonate-amino acid synthetase JAR1) (Jasmonic acid-amido synthetase JAR1) (Protein FAR-RED INSENSITIVE 219) (Protein JASMONATE RESISTANT 1)	JAR1 FIN219 At2g46370 F11C10.6	Arabidopsis thaliana (Mouse-ear cress)	575	AT2G46370;
+Q9SKN5	reviewed	ARFJ_ARATH	Auxin response factor 10	ARF10 At2g28350 T1B3.13	Arabidopsis thaliana (Mouse-ear cress)	693	AT2G28350;
+Q9SQH6	reviewed	PIN6_ARATH	Auxin efflux carrier component 6 (AtPIN6)	PIN6 At1g77110 F22K20.18	Arabidopsis thaliana (Mouse-ear cress)	570	AT1G77110;
+Q9SRU2	reviewed	BIG_ARATH	Auxin transport protein BIG (Protein ATTENUATED SHADE AVOIDANCE 1) (Protein CORYMBOSA1) (Protein DARK OVER-EXPRESSION OF CAB 1) (Protein LOW PHOSPHATE-RESISTANT ROOT 1) (Protein TRANSPORT INHIBITOR RESPONSE 3) (Protein UMBRELLA 1)	BIG ASA1 CRM1 DOC1 GA6 LPR1 TIR3 UMB1 At3g02260 F14P3.9	Arabidopsis thaliana (Mouse-ear cress)	5098	AT3G02260;
+Q9STT2	reviewed	VPS29_ARATH	Vacuolar protein sorting-associated protein 29 (Protein MAIGO 1) (Vesicle protein sorting 29)	VPS29 MAG1 At3g47810 T23J7.140	Arabidopsis thaliana (Mouse-ear cress)	190	AT3G47810;
+Q9SUA3	reviewed	D6KL1_ARATH	Serine/threonine-protein kinase D6PKL1 (EC 2.7.11.1) (Serine/threonine-protein kinase AGC1-2)	D6PKL1 At4g26610 T15N24.60	Arabidopsis thaliana (Mouse-ear cress)	506	AT4G26610;
+Q9SUR9	reviewed	SGT1A_ARATH	Protein SGT1 homolog A (AtSGT1a) (Suppressor of G2 allele of SKP1 homolog A)	SGT1A At4g23570 F9D16.40	Arabidopsis thaliana (Mouse-ear cress)	350	AT4G23570;
+Q9SUT5	reviewed	SGT1B_ARATH	Protein SGT1 homolog B (AtSGT1b) (Protein ENHANCED DOWNY MILDEW 1) (Protein ENHANCER OF TIR1-1 AUXIN RESISTANCE 3) (Suppressor of G2 allele of SKP1 homolog B)	SGT1B EDM1 ETA3 RPR1 At4g11260 F8L21.50	Arabidopsis thaliana (Mouse-ear cress)	358	AT4G11260;
+Q9SYF0	reviewed	GLIP2_ARATH	GDSL esterase/lipase 2 (EC 3.1.1.-) (Extracellular lipase 2)	GLIP2 At1g53940 F15I1.2	Arabidopsis thaliana (Mouse-ear cress)	376	AT1G53940;
+Q9SYG2	reviewed	ASIL1_ARATH	Trihelix transcription factor ASIL1 (6B-interacting protein 1-like 1) (Trihelix DNA-binding protein ASIL1)	ASIL1 At1g54060 F15I1.14	Arabidopsis thaliana (Mouse-ear cress)	383	AT1G54060;
+Q9SZ58	reviewed	BRAT1_ARATH	Brassinosteroid-related acyltransferase 1 (BR-related acyltransferase 1) (EC 2.3.1.-) (Protein DWARF AND ROUND LEAF 1) (Protein PIZZA)	BAT1 DRL1 PIZ At4g31910 F10N7.280 F11C18.110	Arabidopsis thaliana (Mouse-ear cress)	458	AT4G31910;
+Q9SZI6	reviewed	GAT22_ARATH	Putative GATA transcription factor 22 (Protein CYTOKININ-RESPONSIVE GATA FACTOR 1) (Protein GNC-LIKE) (AtGNL)	GATA22 CGA1 GNL At4g26150 F20B18.260	Arabidopsis thaliana (Mouse-ear cress)	352	AT4G26150;
+Q9XED8	reviewed	ARFI_ARATH	Auxin response factor 9	ARF9 At4g23980 T19F6.20 T32A16.150	Arabidopsis thaliana (Mouse-ear cress)	638	AT4G23980;
+Q9XFM0	reviewed	IAA28_ARATH	Auxin-responsive protein IAA28 (Indoleacetic acid-induced protein 28)	IAA28 At5g25890 F18A17.6 T1N24.24	Arabidopsis thaliana (Mouse-ear cress)	175	AT5G25890;
+Q9XGN1	reviewed	TTG1_ARATH	Protein TRANSPARENT TESTA GLABRA 1	TTG1 At5g24520 K18P6_4 T31K7.8	Arabidopsis thaliana (Mouse-ear cress)	341	AT5G24520;
+Q9XGX0	reviewed	SHI_ARATH	Protein SHORT INTERNODES	SHI At5g66350	Arabidopsis thaliana (Mouse-ear cress)	331	AT5G66350;
+Q9XI87	reviewed	VIK_ARATH	Serine/threonine-protein kinase VIK (EC 2.7.11.1) (VH1-interacting kinase)	VIK At1g14000 F16A14.22 F7A19.9	Arabidopsis thaliana (Mouse-ear cress)	438	AT1G14000;
+Q9XIE2	reviewed	AB36G_ARATH	ABC transporter G family member 36 (ABC transporter ABCG.36) (AtABCG36) (Pleiotropic drug resistance protein 8) (AtPDR8) (Protein PENETRATION 3)	ABCG36 PDR8 PEN3 At1g59870 F23H11.19	Arabidopsis thaliana (Mouse-ear cress)	1469	AT1G59870;
+Q9ZPS9	reviewed	BRL2_ARATH	Serine/threonine-protein kinase BRI1-like 2 (EC 2.7.11.1) (BRASSINOSTEROID INSENSITIVE 1-like protein 2) (Protein VASCULAR HIGHWAY 1)	BRL2 VH1 At2g01950 F14H20.2	Arabidopsis thaliana (Mouse-ear cress)	1143	AT2G01950;
+Q9ZR12	reviewed	GRH1_ARATH	GRR1-like protein 1 (Protein AUXIN SIGNALING F-BOX 1)	GRH1 AFB1 FBL18 GER1 LRF1 At4g03190 F4C21.11	Arabidopsis thaliana (Mouse-ear cress)	585	AT4G03190;
+Q9ZR72	reviewed	AB1B_ARATH	ABC transporter B family member 1 (ABC transporter ABCB.1) (AtABCB1) (Multidrug resistance protein 1) (P-glycoprotein 1) (AtPgp1)	ABCB1 MDR1 PGP1 At2g36910 T1J8.9	Arabidopsis thaliana (Mouse-ear cress)	1286	AT2G36910;
+Q9ZSY8	reviewed	IAA27_ARATH	Auxin-responsive protein IAA27 (Auxin-induced protein 27) (Indoleacetic acid-induced protein 27) (Phytochrome-associated protein 2)	IAA27 PAP2 At4g29080 F19B15.110	Arabidopsis thaliana (Mouse-ear cress)	305	AT4G29080;
+Q9ZTX8	reviewed	ARFF_ARATH	Auxin response factor 6	ARF6 At1g30330 T4K22.6	Arabidopsis thaliana (Mouse-ear cress)	935	AT1G30330;
+A0A1P8BDV9	unreviewed	A0A1P8BDV9_ARATH	Auxin efflux carrier component	EIR1 AGR AGR1 AGRAVITROPIC ROOT AGRAVITROPIC ROOT 1 ATPIN2 AUXIN TRANSPORT PROTEIN EIR1 ETHYLENE INSENSITIVE ROOT 1 MM31 MUL3.3 MUL3_3 PIN-FORMED 2 PIN2 WAV6 WAVY ROOTS 6 At5g57090	Arabidopsis thaliana (Mouse-ear cress)	547	AT5G57090;
+A8MQG7	reviewed	ASK20_ARATH	SKP1-like protein 20 (AtSK20)	ASK20 At2g45950 F4I18.7	Arabidopsis thaliana (Mouse-ear cress)	352	AT2G45950;
+F4JF14	reviewed	ENOL1_ARATH	Protein ENHANCER OF LHP1 1	EOL1 At3g42660 T12K4_110	Arabidopsis thaliana (Mouse-ear cress)	953	AT3G42660;
+F4K802	unreviewed	F4K802_ARATH	protein-serine/threonine phosphatase (EC 3.1.3.16)	CPL2 ATCPL2 At5g01270 F7J8.250 F7J8_250	Arabidopsis thaliana (Mouse-ear cress)	774	AT5G01270;
+F4KGY6	reviewed	RVE1_ARATH	Protein REVEILLE 1	RVE1 At5g17300 MKP11.15	Arabidopsis thaliana (Mouse-ear cress)	387	AT5G17300;
+O22150	reviewed	SAU36_ARATH	Auxin-responsive protein SAUR36 (Protein RESPONSE TO AUXINS AND GIBBERELLINS 1) (Protein SENESCENCE-ASSOCIATED GENE 201) (Protein SMALL AUXIN UP RNA 36)	SAUR36 RAG1 SAG201 At2g45210	Arabidopsis thaliana (Mouse-ear cress)	162	AT2G45210;
+O22940	reviewed	TEEBE_ARATH	Protein TEEBE	TEB At2g41800 T11A7.10	Arabidopsis thaliana (Mouse-ear cress)	370	AT2G41800;
+O65674	reviewed	ASK12_ARATH	SKP1-like protein 12 (AtSK12)	ASK12 At4g34470 T4L20.50	Arabidopsis thaliana (Mouse-ear cress)	152	AT4G34470;
+O80341	reviewed	EF102_ARATH	Ethylene-responsive transcription factor 5 (AtERF5) (Ethylene-responsive element-binding factor 5) (EREBP-5)	ERF5 ERF-5 ERF102 At5g47230 MQL5_9	Arabidopsis thaliana (Mouse-ear cress)	300	AT5G47230;
+O81057	reviewed	ASK14_ARATH	SKP1-like protein 14 (AtSK14)	ASK14 At2g03170 T18E12.16	Arabidopsis thaliana (Mouse-ear cress)	149	AT2G03170;
+O81058	reviewed	ASK19_ARATH	SKP1-like protein 19 (AtSK19)	ASK19 At2g03160 T18E12.17	Arabidopsis thaliana (Mouse-ear cress)	200	AT2G03160;
+P0DKH9	reviewed	AREP1_ARATH	Auxin-responsive endogenous peptide 1	AREP1 At1g01335 F6F3	Arabidopsis thaliana (Mouse-ear cress)	40	AT1G01335;
+P48785	reviewed	PRH_ARATH	Pathogenesis-related homeodomain protein (PRHA)	PRH PRHA At4g29940 F27B13.180	Arabidopsis thaliana (Mouse-ear cress)	796	AT4G29940;
+Q1PEL7	reviewed	ASK15_ARATH	SKP1-like protein 15 (AtSK15)	ASK15 At3g25650 T5M7.16	Arabidopsis thaliana (Mouse-ear cress)	177	AT3G25650;
+Q29PU2	reviewed	SAU76_ARATH	Auxin-responsive protein SAUR76 (Protein SMALL AUXIN UP RNA 76)	SAUR76 At5g20820	Arabidopsis thaliana (Mouse-ear cress)	127	AT5G20820;
+Q56ZI2	reviewed	PATL2_ARATH	Patellin-2	PATL2 At1g22530 F12K8.13	Arabidopsis thaliana (Mouse-ear cress)	683	AT1G22530;
+Q6NMM4	reviewed	SAU26_ARATH	Auxin-responsive protein SAUR26 (Protein SMALL AUXIN UP RNA 26)	SAUR26 At3g03850 F20H23.11	Arabidopsis thaliana (Mouse-ear cress)	93	AT3G03850;
+Q84TE6	reviewed	NAC22_ARATH	NAC domain-containing protein 21/22 (ANAC021/ANAC022)	NAC021 NAC022 NAC1 At1g56010 F14J16.32 T6H22.19	Arabidopsis thaliana (Mouse-ear cress)	324	AT1G56010;
+Q8GWY0	reviewed	SCI1_ARATH	Style cell-cycle inhibitor 1 (AtSCI1)	SCI1 At1g79200 YUP8H12R.41	Arabidopsis thaliana (Mouse-ear cress)	159	AT1G79200;
+Q8H1D2	reviewed	WOX5_ARATH	WUSCHEL-related homeobox 5	WOX5 At3g11260 F11B9.18	Arabidopsis thaliana (Mouse-ear cress)	182	AT3G11260;
+Q8LF97	reviewed	ASK21_ARATH	SKP1-like protein 21 (AtSK21)	ASK21 At3g61415 F2A19.5	Arabidopsis thaliana (Mouse-ear cress)	351	AT3G61415;
+Q8RWQ8	reviewed	FBX14_ARATH	F-box protein FBX14 (Transport inhibitor response 1-like protein) (TIR1-like protein)	FBX14 At4g24390 T22A6.220	Arabidopsis thaliana (Mouse-ear cress)	623	AT4G24390;
+Q8W4K5	reviewed	VAB_ARATH	VAN3-binding protein (Protein FORKED 1)	VAB FKD1 At3g63300 F16M2_150	Arabidopsis thaliana (Mouse-ear cress)	498	AT3G63300;
+Q93WC4	reviewed	IAA29_ARATH	Auxin-responsive protein IAA29 (Indoleacetic acid-induced protein 29)	IAA29 At4g32280 F10M6.80	Arabidopsis thaliana (Mouse-ear cress)	251	AT4G32280;
+Q9C7Q8	reviewed	SAU62_ARATH	Auxin-responsive protein SAUR62 (Protein SMALL AUXIN UP RNA 62)	SAUR62 At1g29430 F15D2.2	Arabidopsis thaliana (Mouse-ear cress)	141	AT1G29430;
+Q9C9K5	reviewed	PILS3_ARATH	Protein PIN-LIKES 3 (Auxin efflux carrier-like protein 3)	PILS3 At1g76520 F14G6.12	Arabidopsis thaliana (Mouse-ear cress)	390	AT1G76520;
+Q9FI31	reviewed	XTH20_ARATH	Xyloglucan endotransglucosylase/hydrolase protein 20 (At-XTH20) (XTH-20) (EC 2.4.1.207)	XTH20 At5g48070 MDN11.15	Arabidopsis thaliana (Mouse-ear cress)	282	AT5G48070;
+Q9FJG1	reviewed	SAU19_ARATH	Auxin-responsive protein SAUR19 (Protein SMALL AUXIN UP RNA 19)	SAUR19 At5g18010 MCM23.9	Arabidopsis thaliana (Mouse-ear cress)	90	AT5G18010;
+Q9LSQ4	reviewed	GH36_ARATH	Indole-3-acetic acid-amido synthetase GH3.6 (EC 6.3.2.-) (Auxin-responsive GH3-like protein 6) (AtGH3-6) (Protein DWARF IN LIGHT 1) (DFL-1)	GH3.6 DFL1 At5g54510 F24B18.13	Arabidopsis thaliana (Mouse-ear cress)	612	AT5G54510;
+Q9LSX9	reviewed	ASK9_ARATH	SKP1-like protein 9 (AtSK9)	ASK9 At3g21850 MSD21.22	Arabidopsis thaliana (Mouse-ear cress)	153	AT3G21850;
+Q9LVR0	reviewed	ATB53_ARATH	Homeobox-leucine zipper protein ATHB-53 (HD-ZIP protein ATHB-53) (Homeodomain transcription factor ATHB-53)	ATHB-53 HB-8 At5g66700 MSN2.9	Arabidopsis thaliana (Mouse-ear cress)	228	AT5G66700;
+Q9LZJ7	reviewed	PRP3_ARATH	Proline-rich protein 3 (AtPRP3)	PRP3 At3g62680 F26K9.110	Arabidopsis thaliana (Mouse-ear cress)	313	AT3G62680;
+Q9M1X4	reviewed	ASK5_ARATH	SKP1-like protein 5 (AtSK5)	ASK5 At3g60020 F24G16.290 T2O9.2	Arabidopsis thaliana (Mouse-ear cress)	153	AT3G60020;
+Q9M2B0	reviewed	RBX1B_ARATH	RING-box protein 1b (At-Rbx1;2) (RBX1-1) (RBX1b-At)	RBX1B At3g42830 T21C14.50	Arabidopsis thaliana (Mouse-ear cress)	115	AT3G42830;
+Q9SA49	reviewed	SAU41_ARATH	Auxin-responsive protein SAUR41 (Protein SMALL AUXIN UP RNA 41)	SAUR41 At1g16510 F3O9.31	Arabidopsis thaliana (Mouse-ear cress)	147	AT1G16510;
+Q9SD85	reviewed	F3PH_ARATH	Flavonoid 3'-monooxygenase (EC 1.14.14.82) (Cytochrome P450 75B1) (Flavonoid 3'-hydroxylase) (AtF3'H) (Protein TRANSPARENT TESTA 7)	CYP75B1 F3'H TT7 At5g07990 F13G24.190	Arabidopsis thaliana (Mouse-ear cress)	513	AT5G07990;
+Q9SDY5	reviewed	RCE1_ARATH	NEDD8-conjugating enzyme Ubc12 (EC 2.3.2.-) (RUB1 carrier protein 1) (RUB1-conjugating enzyme 1)	RCE1 At4g36800 C7A10.560	Arabidopsis thaliana (Mouse-ear cress)	184	AT4G36800;
+Q9SL65	reviewed	ASK17_ARATH	SKP1-like protein 17 (AtSK17) (Protein MEIDOS)	ASK17 MEO At2g20160 T2G17.4	Arabidopsis thaliana (Mouse-ear cress)	150	AT2G20160;
+Q9SL93	reviewed	ASK3_ARATH	SKP1-like protein 3 (AtSK3)	ASK3 At2g25700 F3N11.15	Arabidopsis thaliana (Mouse-ear cress)	163	AT2G25700;
+Q9SRW0	reviewed	SAU28_ARATH	Auxin-responsive protein SAUR28 (Protein SMALL AUXIN UP RNA 28)	SAUR28 At3g03830 F20H23.15	Arabidopsis thaliana (Mouse-ear cress)	92	AT3G03830;
+Q9SRW1	reviewed	SAU27_ARATH	Auxin-responsive protein SAUR27 (Protein SMALL AUXIN UP RNA 27)	SAUR27 At3g03840 F20H23.14	Arabidopsis thaliana (Mouse-ear cress)	95	AT3G03840;
+Q9SY65	reviewed	ASK18_ARATH	SKP1-like protein 18 (AtSK18)	ASK18 At1g10230 F14N23.11	Arabidopsis thaliana (Mouse-ear cress)	158	AT1G10230;
+Q9SZT9	reviewed	GH32_ARATH	Indole-3-acetic acid-amido synthetase GH3.2 (EC 6.3.2.-) (Auxin-responsive GH3-like protein 2) (AtGH3-2) (Protein YADOKARI 1)	GH3.2 BRU6 CF4 YDK1 At4g37390 F6G17.40	Arabidopsis thaliana (Mouse-ear cress)	549	AT4G37390;
+Q9ZPY6	reviewed	ARFK_ARATH	Auxin response factor 11	ARF11 At2g46530 F11C10.34 F13A10.6	Arabidopsis thaliana (Mouse-ear cress)	622	AT2G46530;
+Q9ZSP5	reviewed	AIR3_ARATH	Subtilisin-like protease SBT5.3 (EC 3.4.21.-) (Auxin-induced in root cultures protein 3) (Subtilase subfamily 5 member 3) (AtSBT5.3) (Subtilisin-like protease AIR3)	AIR3 SBT5.3 At2g04160 F3L12 T16B23	Arabidopsis thaliana (Mouse-ear cress)	772	AT2G04160;
+Q9ZTX9	reviewed	ARFD_ARATH	Auxin response factor 4	ARF4 At5g60450 MUF9.8	Arabidopsis thaliana (Mouse-ear cress)	788	AT5G60450;
+Q9ZUZ3	reviewed	SAU32_ARATH	Auxin-responsive protein SAUR32 (Protein ABOLISHED APICAL HOOK MAINTENANCE 1) (Protein SMALL AUXIN UP RNA 32)	SAUR32 AAM1 At2g46690	Arabidopsis thaliana (Mouse-ear cress)	121	AT2G46690;
+Q9ZVH0	reviewed	FEZ_ARATH	Protein FEZ (NAC domain-containing protein 9) (ANAC009)	FEZ NAC009 At1g26870 T2P11.6	Arabidopsis thaliana (Mouse-ear cress)	418	AT1G26870;
+A0A1P8AY30	unreviewed	A0A1P8AY30_ARATH	Auxin efflux carrier component	PIN4 ARABIDOPSIS PIN-FORMED 4 ATPIN4 PIN-FORMED 4 At2g01420 F10A8.27	Arabidopsis thaliana (Mouse-ear cress)	519	AT2G01420;
+A8MQX0	unreviewed	A8MQX0_ARATH	Auxin efflux carrier component	PIN7 ARABIDOPSIS PIN-FORMED 7 ATPIN7 PIN-FORMED 7 At1g23080 T26J12.14 T26J12_14	Arabidopsis thaliana (Mouse-ear cress)	615	AT1G23080;
+F4HWB6	reviewed	PILS1_ARATH	Protein PIN-LIKES 1 (Auxin efflux carrier-like protein 1)	PILS1 At1g20925 F9H16.9	Arabidopsis thaliana (Mouse-ear cress)	472	AT1G20925;
+F4I1H5	reviewed	SAU63_ARATH	Auxin-responsive protein SAUR63 (Protein SMALL AUXIN UP RNA 63)	SAUR63 At1g29440 F15D2.3	Arabidopsis thaliana (Mouse-ear cress)	141	AT1G29440;
+F4I214	reviewed	TET10_ARATH	Tetraspanin-10	TET10 At1g63260 F9N12.12	Arabidopsis thaliana (Mouse-ear cress)	284	AT1G63260;
+F4IKE6	unreviewed	F4IKE6_ARATH	Auxin-responsive protein	IAA8 At2g22670 T9I22.11 T9I22_11	Arabidopsis thaliana (Mouse-ear cress)	338	AT2G22670;
+F4JRC5	reviewed	PIP2_ARATH	PAMP-induced secreted peptide 2	PIP2 At4g37290 C7A10.70	Arabidopsis thaliana (Mouse-ear cress)	84	AT4G37290;
+F4K0D0	unreviewed	F4K0D0_ARATH	NAD(P)H dehydrogenase (quinone) (EC 1.6.5.2)	FQR1 At5g54500 F24B18.12 F24B18_12	Arabidopsis thaliana (Mouse-ear cress)	244	AT5G54500;
+F4K536	unreviewed	F4K536_ARATH	Auxin response factor	ARF2 ARF1-BINDING PROTEIN ARF1-BP AtARF2 auxin response factor 2 HLS1 SUPPRESSOR HSS MTG10.1 MTG10_1 ORE14 ORESARA 14 At5g62000 At5g62010	Arabidopsis thaliana (Mouse-ear cress)	853	AT5G62000;
+F4K5K0	unreviewed	F4K5K0_ARATH	RING-box 1	RBX1 ATRBX1 HRT1 REGULATOR OF CULLINS-1 RING-BOX 1 RING-box 1 ROC1 At5g20570 F7C8.160 F7C8_160	Arabidopsis thaliana (Mouse-ear cress)	142	AT5G20570;
+F4K5M5	unreviewed	F4K5M5_ARATH	Auxin response factor	NPH4 ARF7 AUXIN RESPONSE FACTOR 7 BIP BIPOSTO IAA21 IAA23 IAA25 MASSUGU 1 MSG1 NON-PHOTOTROPHIC HYPOCOTYL TIR5 TRANSPORT INHIBITOR RESPONSE 5 At5g20730 T1M15.130 T1M15_130	Arabidopsis thaliana (Mouse-ear cress)	1150	AT5G20730;
+F4KH89	reviewed	SRS8_ARATH	Protein SHI RELATED SEQUENCE 8	SRS8 At5g33210	Arabidopsis thaliana (Mouse-ear cress)	173	AT5G33210;
+O22900	reviewed	WRK23_ARATH	WRKY transcription factor 23 (WRKY DNA-binding protein 23)	WRKY23 At2g47260 T8I13.10	Arabidopsis thaliana (Mouse-ear cress)	337	AT2G47260;
+O23208	reviewed	ATB40_ARATH	Homeobox-leucine zipper protein ATHB-40 (HD-ZIP protein ATHB-40) (Homeodomain transcription factor ATHB-40)	ATHB-40 At4g36740 C7A10.620	Arabidopsis thaliana (Mouse-ear cress)	216	AT4G36740;
+O49697	reviewed	NAC71_ARATH	NAC domain-containing protein 71 (ANAC071)	NAC071 At4g17980	Arabidopsis thaliana (Mouse-ear cress)	262	AT4G17980;
+O64538	reviewed	SAU40_ARATH	Auxin-responsive protein SAUR40 (Protein SMALL AUXIN UP RNA 40)	SAUR40 At1g79130 YUP8H12R.25	Arabidopsis thaliana (Mouse-ear cress)	134	AT1G79130;
+O65648	reviewed	SAUR9_ARATH	Protein SMALL AUXIN UP-REGULATED RNA 9	SAUR9 At4g36110 T19K4.240	Arabidopsis thaliana (Mouse-ear cress)	104	AT4G36110;
+O65695	reviewed	SAU50_ARATH	Auxin-responsive protein SAUR50 (Protein SMALL AUXIN UP-REGULATED RNA 50)	SAUR50 At4g34760 T4L20.340	Arabidopsis thaliana (Mouse-ear cress)	107	AT4G34760;
+O81055	reviewed	ASK16_ARATH	SKP1-like protein 16 (AtSK16)	ASK16 At2g03190 T18E12.14	Arabidopsis thaliana (Mouse-ear cress)	170	AT2G03190;
+O81829	reviewed	GH35_ARATH	Indole-3-acetic acid-amido synthetase GH3.5 (EC 6.3.2.-) (Auxin-responsive GH3-like protein 5) (AtGH3-5)	GH3.5 At4g27260 M4I22.70	Arabidopsis thaliana (Mouse-ear cress)	612	AT4G27260;
+O81831	reviewed	CARP1_ARATH	Calcium-binding protein KRP1 (KIC-related protein 1)	KRP1 At4g27280 M4I22.90	Arabidopsis thaliana (Mouse-ear cress)	130	AT4G27280;
+P38025	reviewed	PUR7_ARATH	Phosphoribosylaminoimidazole-succinocarboxamide synthase, chloroplastic (EC 6.3.2.6) (SAICAR synthetase)	PUR7 At3g21110 MSA6.15 MSA6.26	Arabidopsis thaliana (Mouse-ear cress)	411	AT3G21110;
+Q1PEF6	reviewed	ASK6_ARATH	SKP1-like protein 6 (AtSK6)	ASK6 At3g53060 F8J2.230	Arabidopsis thaliana (Mouse-ear cress)	85	AT3G53060;
+Q8LAT0	reviewed	ATB20_ARATH	Homeobox-leucine zipper protein ATHB-20 (HD-ZIP protein ATHB-20) (Homeodomain transcription factor ATHB-20)	ATHB-20 At3g01220 T4P13.9	Arabidopsis thaliana (Mouse-ear cress)	286	AT3G01220;
+Q8S8Q6	reviewed	TET8_ARATH	Tetraspanin-8	TET8 At2g23810 F27L4.1	Arabidopsis thaliana (Mouse-ear cress)	273	AT2G23810;
+Q94BT2	reviewed	AIR12_ARATH	Auxin-induced in root cultures protein 12	AIR12 At3g07390 F21O3_10	Arabidopsis thaliana (Mouse-ear cress)	252	AT3G07390;
+Q94C59	reviewed	PATL4_ARATH	Patellin-4	PATL4 At1g30690 T5I8.14	Arabidopsis thaliana (Mouse-ear cress)	540	AT1G30690;
+Q9C7C1	reviewed	TET6_ARATH	Tetraspanin-6	TET6 At3g12090 T21B14.9	Arabidopsis thaliana (Mouse-ear cress)	282	AT3G12090;
+Q9C7I9	reviewed	ARFT_ARATH	Auxin response factor 20	ARF20 At1g35240 T9I1.3	Arabidopsis thaliana (Mouse-ear cress)	590	AT1G35240;
+Q9C8N7	reviewed	ARFV_ARATH	Auxin response factor 22	ARF22 At1g34390 F7P12.6	Arabidopsis thaliana (Mouse-ear cress)	598	AT1G34390;
+Q9C8N9	reviewed	ARFU_ARATH	Putative auxin response factor 21	ARF21 At1g34410 F12K21.26 F7P12.12	Arabidopsis thaliana (Mouse-ear cress)	606	AT1G34410;
+Q9C966	reviewed	IAA15_ARATH	Auxin-responsive protein IAA15 (Indoleacetic acid-induced protein 15)	IAA15 At1g80390 F5I6.14	Arabidopsis thaliana (Mouse-ear cress)	179	AT1G80390;
+Q9C9K4	reviewed	PILS4_ARATH	Protein PIN-LIKES 4 (Auxin efflux carrier-like protein 4)	PILS4 At1g76530 F14G6.13	Arabidopsis thaliana (Mouse-ear cress)	415	AT1G76530;
+Q9CA25	reviewed	LAX3_ARATH	Auxin transporter-like protein 3 (AUX1-like protein 3)	LAX3 At1g77690 T32E8.2	Arabidopsis thaliana (Mouse-ear cress)	470	AT1G77690;
+Q9FKY4	reviewed	PILS7_ARATH	Protein PIN-LIKES 7 (Auxin efflux carrier-like protein 7)	PILS7 At5g65980 K2A18.4	Arabidopsis thaliana (Mouse-ear cress)	395	AT5G65980;
+Q9FX25	reviewed	ARFM_ARATH	Auxin response factor 13	ARF13 At1g34170 F12G12.1 F23M19.15	Arabidopsis thaliana (Mouse-ear cress)	621	AT1G34170;
+Q9FZ87	reviewed	GH317_ARATH	Indole-3-acetic acid-amido synthetase GH3.17 (EC 6.3.2.-) (Auxin-responsive GH3-like protein 17) (AtGH3-17)	GH3.17 At1g28130 F13K9.22 F3H9.21 F3H9_19	Arabidopsis thaliana (Mouse-ear cress)	609	AT1G28130;
+Q9LFB2	reviewed	LAX1_ARATH	Auxin transporter-like protein 1 (AUX1-like protein 1)	LAX1 At5g01240 F7J8_220	Arabidopsis thaliana (Mouse-ear cress)	488	AT5G01240;
+Q9LP07	reviewed	ARFW_ARATH	Putative auxin response factor 23	ARF23 At1g43950 F9C16.11	Arabidopsis thaliana (Mouse-ear cress)	222	AT1G43950;
+Q9LQE3	reviewed	ARFO_ARATH	Putative auxin response factor 15	ARF15 At1g35520 F15O4.42	Arabidopsis thaliana (Mouse-ear cress)	593	AT1G35520;
+Q9LQE8	reviewed	ARFN_ARATH	Putative auxin response factor 14	ARF14 At1g35540 F15O4.37	Arabidopsis thaliana (Mouse-ear cress)	605	AT1G35540;
+Q9LSQ6	reviewed	PBP1_ARATH	Calcium-binding protein PBP1 (KIC-related protein 2) (PINOID-binding protein 1)	PBP1 KRP2 At5g54490 F24B18.11	Arabidopsis thaliana (Mouse-ear cress)	127	AT5G54490;
+Q9LSX8	reviewed	ASK10_ARATH	SKP1-like protein 10 (AtSK10)	ASK10 At3g21860 MSD21.23	Arabidopsis thaliana (Mouse-ear cress)	152	AT3G21860;
+Q9LSY0	reviewed	ASK7_ARATH	SKP1-like protein 7 (AtSK7)	ASK7 At3g21840 MSD21.21	Arabidopsis thaliana (Mouse-ear cress)	125	AT3G21840;
+Q9LSY1	reviewed	ASK8_ARATH	SKP1-like protein 8 (AtSK8)	ASK8 At3g21830 MSD21.20	Arabidopsis thaliana (Mouse-ear cress)	152	AT3G21830;
+Q9LTV3	reviewed	SAU72_ARATH	Auxin-responsive protein SAUR72 (Protein SMALL AUXIN UP RNA 72)	SAUR72 At3g12830 MBK21.21	Arabidopsis thaliana (Mouse-ear cress)	132	AT3G12830;
+Q9LTW8	unreviewed	Q9LTW8_ARATH	CTP synthase (EC 6.3.4.2) (UTP--ammonia ligase)	EMB2742 emb2742 embryo defective 2742 T2E22.2 At3g12670	Arabidopsis thaliana (Mouse-ear cress)	591	AT3G12670;
+Q9LTX2	reviewed	TIR1L_ARATH	Transport inhibitor response 1-like protein (TIR1-like protein)	At5g49980 K9P8.12	Arabidopsis thaliana (Mouse-ear cress)	619	AT5G49980;
+Q9LZN2	reviewed	PILS6_ARATH	Protein PIN-LIKES 6 (Auxin efflux carrier-like protein 6)	PILS6 At5g01990 T7H20_40	Arabidopsis thaliana (Mouse-ear cress)	431	AT5G01990;
+Q9M0R2	reviewed	PATL5_ARATH	Patellin-5	PATL5 At4g09160 T8A17.90	Arabidopsis thaliana (Mouse-ear cress)	668	AT4G09160;
+Q9M1E7	reviewed	TET3_ARATH	Tetraspanin-3	TET3 At3g45600 F9K21.18	Arabidopsis thaliana (Mouse-ear cress)	285	AT3G45600;
+Q9M1X5	reviewed	ASK13_ARATH	SKP1-like protein 13 (AtSK13)	ASK13 At3g60010 F24G16.280 T2O9.1	Arabidopsis thaliana (Mouse-ear cress)	154	AT3G60010;
+Q9M2U4	reviewed	SRS6_ARATH	Protein SHI RELATED SEQUENCE 6	SRS6 At3g54430 T12E18.120	Arabidopsis thaliana (Mouse-ear cress)	183	AT3G54430;
+Q9M330	reviewed	PSMF1_ARATH	Probable proteasome inhibitor	At3g53970 F5K20_270	Arabidopsis thaliana (Mouse-ear cress)	302	AT3G53970;
+Q9MBG8	reviewed	AAR3_ARATH	Defective in cullin neddylation protein AAR3 (Protein ANTIAUXIN-RESISTANT 3)	AAR3 At3g28970 K5K13.8	Arabidopsis thaliana (Mouse-ear cress)	295	AT3G28970;
+Q9S7A3	reviewed	MOC2A_ARATH	Molybdopterin synthase sulfur carrier subunit (Molybdenum cofactor synthesis protein 2 small subunit) (Molybdenum cofactor synthesis protein 2A) (MOCS2A) (Sulfur carrier protein MOCS2A)	At4g10100 F28M11.20	Arabidopsis thaliana (Mouse-ear cress)	96	AT4G10100;
+Q9S836	reviewed	LAX2_ARATH	Auxin transporter-like protein 2 (AUX1-like protein 2)	LAX2 At2g21050 F26H11.19	Arabidopsis thaliana (Mouse-ear cress)	483	AT2G21050;
+Q9SCU1	reviewed	PATL6_ARATH	Patellin-6	PATL6 At3g51670 T18N14.50	Arabidopsis thaliana (Mouse-ear cress)	409	AT3G51670;
+Q9SI56	reviewed	TET13_ARATH	Tetraspanin-13	TET13 At2g03840 T18C20.4	Arabidopsis thaliana (Mouse-ear cress)	278	AT2G03840;
+Q9SJT8	reviewed	SRS3_ARATH	Protein SHI RELATED SEQUENCE 3	SRS3 At2g21400 F3K23.16	Arabidopsis thaliana (Mouse-ear cress)	174	AT2G21400;
+Q9SL45	reviewed	SAU10_ARATH	Protein SMALL AUXIN UP-REGULATED RNA 10	SAUR10 At2g18010 T27K22.12	Arabidopsis thaliana (Mouse-ear cress)	112	AT2G18010;
+Q9SRV9	reviewed	SAU29_ARATH	Auxin-responsive protein SAUR29 (Protein SMALL AUXIN UP RNA 29)	SAUR29 At3g03820 F20H23.16	Arabidopsis thaliana (Mouse-ear cress)	96	AT3G03820;
+Q9SRZ0	reviewed	CUL2_ARATH	Cullin-2 (AtCUL1)	CUL2 At1g02980 F22D16.2	Arabidopsis thaliana (Mouse-ear cress)	742	AT1G02980;
+Q9SZJ2	reviewed	GRDP2_ARATH	Glycine-rich domain-containing protein 2 (AtGRDP2)	GRDP2 At4g37900 F20D10.20	Arabidopsis thaliana (Mouse-ear cress)	787	AT4G37900;
+Q9T0H2	reviewed	SMAP1_ARATH	Small acidic protein 1	SMAP1 At4g13520 T6G15.70	Arabidopsis thaliana (Mouse-ear cress)	62	AT4G13520;
+Q9T0J3	reviewed	SAU16_ARATH	Protein SMALL AUXIN UP-REGULATED RNA 16	SAUR16 At4g38860 F19H22.1 T9A14	Arabidopsis thaliana (Mouse-ear cress)	105	AT4G38860;
+Q9XID4	reviewed	ARFL_ARATH	Auxin response factor 12	ARF12 At1g34310 F23M19.4	Arabidopsis thaliana (Mouse-ear cress)	593	AT1G34310;
+A0A178U5R5	unreviewed	A0A178U5R5_ARATH	Auxin response factor	AXX17_ATUG03540	Arabidopsis thaliana (Mouse-ear cress)	776	
+A0A178U6H8	unreviewed	A0A178U6H8_ARATH	Protein PIN-LIKES 7	AXX17_At5g65890 AN1_LOCUS26929 C24_LOCUS26754	Arabidopsis thaliana (Mouse-ear cress)	395	
+A0A178UFA9	unreviewed	A0A178UFA9_ARATH	Auxin response factor	AXX17_At5g33990 AN1_LOCUS23844 AT9943_LOCUS20620	Arabidopsis thaliana (Mouse-ear cress)	811	
+A0A178UH58	unreviewed	A0A178UH58_ARATH	Auxin response factor	AXX17_At5g31380	Arabidopsis thaliana (Mouse-ear cress)	287	
+A0A178UI91	unreviewed	A0A178UI91_ARATH	Auxin efflux carrier component	AXX17_At5g14590 AN1_LOCUS22281	Arabidopsis thaliana (Mouse-ear cress)	367	
+A0A178UIR3	unreviewed	A0A178UIR3_ARATH	Auxin efflux carrier component	AXX17_At5g16140 AN1_LOCUS22431 AT9943_LOCUS19315 C24_LOCUS22321	Arabidopsis thaliana (Mouse-ear cress)	351	
+A0A178UK92	unreviewed	A0A178UK92_ARATH	Auxin efflux carrier component	AXX17_At5g14590	Arabidopsis thaliana (Mouse-ear cress)	325	
+A0A178UKM2	unreviewed	A0A178UKM2_ARATH	Auxin response factor	AXX17_At5g59890	Arabidopsis thaliana (Mouse-ear cress)	789	
+A0A178ULE7	unreviewed	A0A178ULE7_ARATH	Protein BIG GRAIN 1-like E	AXX17_At5g11780 AN1_LOCUS22005 C24_LOCUS21894	Arabidopsis thaliana (Mouse-ear cress)	362	
+A0A178ULQ0	unreviewed	A0A178ULQ0_ARATH	Auxin response factor	AXX17_At5g59890	Arabidopsis thaliana (Mouse-ear cress)	788	
+A0A178UR46	unreviewed	A0A178UR46_ARATH	Auxin-responsive protein	AXX17_At5g65510	Arabidopsis thaliana (Mouse-ear cress)	338	
+A0A178URD8	unreviewed	A0A178URD8_ARATH	Auxin response factor	AXX17_At5g20710	Arabidopsis thaliana (Mouse-ear cress)	1170	
+A0A178UUC3	unreviewed	A0A178UUC3_ARATH	Auxin response factor	AXX17_At5g61500	Arabidopsis thaliana (Mouse-ear cress)	859	
+A0A178UVX3	unreviewed	A0A178UVX3_ARATH	Auxin-responsive protein	AXX17_At4g32970 AT9943_LOCUS16969	Arabidopsis thaliana (Mouse-ear cress)	246	
+A0A178UWQ1	unreviewed	A0A178UWQ1_ARATH	Auxin-responsive protein	AXX17_At4g16790 AN1_LOCUS18100 AT9943_LOCUS15589 C24_LOCUS17983	Arabidopsis thaliana (Mouse-ear cress)	168	
+A0A178UZL0	unreviewed	A0A178UZL0_ARATH	Auxin-responsive protein	AXX17_At4g37040	Arabidopsis thaliana (Mouse-ear cress)	147	
+A0A178V2T1	unreviewed	A0A178V2T1_ARATH	STY2	AXX17_At4g41410 AN1_LOCUS20476	Arabidopsis thaliana (Mouse-ear cress)	322	
+A0A178V3T9	unreviewed	A0A178V3T9_ARATH	Auxin response factor	AXX17_At4g34500 AN1_LOCUS19805	Arabidopsis thaliana (Mouse-ear cress)	669	
+A0A178V3Y7	unreviewed	A0A178V3Y7_ARATH	Auxin-responsive protein	AXX17_At4g33410 AN1_LOCUS19697 AT9943_LOCUS17003 C24_LOCUS19590	Arabidopsis thaliana (Mouse-ear cress)	305	
+A0A178V403	unreviewed	A0A178V403_ARATH	Auxin response factor	AXX17_At4g27760 C24_LOCUS19032	Arabidopsis thaliana (Mouse-ear cress)	638	
+A0A178V7A7	unreviewed	A0A178V7A7_ARATH	Auxin response factor	AXX17_At3g56130 AN1_LOCUS16561	Arabidopsis thaliana (Mouse-ear cress)	602	
+A0A178V7I6	unreviewed	A0A178V7I6_ARATH	Auxin-responsive protein	AXX17_At3g24830	Arabidopsis thaliana (Mouse-ear cress)	174	
+A0A178VBF1	unreviewed	A0A178VBF1_ARATH	Protein BIG GRAIN 1-like B	AXX17_At3g14480 AN1_LOCUS12757 C24_LOCUS12589	Arabidopsis thaliana (Mouse-ear cress)	357	
+A0A178VC34	unreviewed	A0A178VC34_ARATH	Auxin-responsive protein	AXX17_At3g16310 C24_LOCUS12766	Arabidopsis thaliana (Mouse-ear cress)	197	
+A0A178VC68	unreviewed	A0A178VC68_ARATH	Auxin-responsive protein	AXX17_At3g17370	Arabidopsis thaliana (Mouse-ear cress)	269	
+A0A178VD03	unreviewed	A0A178VD03_ARATH	Auxin-responsive protein	AXX17_At3g24840	Arabidopsis thaliana (Mouse-ear cress)	167	
+A0A178VF12	unreviewed	A0A178VF12_ARATH	Auxin-responsive protein	AXX17_At3g24840	Arabidopsis thaliana (Mouse-ear cress)	243	
+A0A178VF13	unreviewed	A0A178VF13_ARATH	Protein BIG GRAIN 1-like A	AXX17_At3g35880 C24_LOCUS14501	Arabidopsis thaliana (Mouse-ear cress)	342	
+A0A178VF85	unreviewed	A0A178VF85_ARATH	Auxin-responsive protein	AXX17_At3g24840	Arabidopsis thaliana (Mouse-ear cress)	72	
+A0A178VRP5	unreviewed	A0A178VRP5_ARATH	Auxin response factor	AXX17_At2g44180	Arabidopsis thaliana (Mouse-ear cress)	601	
+A0A178VTM6	unreviewed	A0A178VTM6_ARATH	Auxin response factor	AXX17_At2g30410	Arabidopsis thaliana (Mouse-ear cress)	608	
+A0A178VUG6	unreviewed	A0A178VUG6_ARATH	Auxin-responsive protein	AXX17_At2g00170	Arabidopsis thaliana (Mouse-ear cress)	170	
+A0A178VUN4	unreviewed	A0A178VUN4_ARATH	Auxin-responsive protein	AXX17_At2g18250 AT9943_LOCUS7414	Arabidopsis thaliana (Mouse-ear cress)	321	
+A0A178VXT0	unreviewed	A0A178VXT0_ARATH	Auxin-responsive protein	At2g33310 AXX17_At2g29760 AN1_LOCUS9763 C24_LOCUS9612	Arabidopsis thaliana (Mouse-ear cress)	246	
+A0A178VZS2	unreviewed	A0A178VZS2_ARATH	Auxin efflux carrier component	AXX17_At2g00380	Arabidopsis thaliana (Mouse-ear cress)	616	
+A0A178W0X0	unreviewed	A0A178W0X0_ARATH	Protein PIN-LIKES 3	AXX17_At1g70990 AN1_LOCUS6691	Arabidopsis thaliana (Mouse-ear cress)	390	
+A0A178W181	unreviewed	A0A178W181_ARATH	Auxin-responsive protein	AXX17_At2g44720 AN1_LOCUS11229 C24_LOCUS11065	Arabidopsis thaliana (Mouse-ear cress)	175	
+A0A178W185	unreviewed	A0A178W185_ARATH	Auxin efflux carrier component	AXX17_At2g00380	Arabidopsis thaliana (Mouse-ear cress)	515	
+A0A178W1T9	unreviewed	A0A178W1T9_ARATH	Auxin-responsive protein	AXX17_At1g15750	Arabidopsis thaliana (Mouse-ear cress)	193	
+A0A178W3M7	unreviewed	A0A178W3M7_ARATH	Auxin-responsive protein	AXX17_At1g35060	Arabidopsis thaliana (Mouse-ear cress)	454	
+A0A178W496	unreviewed	A0A178W496_ARATH	Auxin response factor	AXX17_At1g39980	Arabidopsis thaliana (Mouse-ear cress)	325	
+A0A178W5V2	unreviewed	A0A178W5V2_ARATH	Protein BIG GRAIN 1-like E	AXX17_At1g63210 C24_LOCUS5834	Arabidopsis thaliana (Mouse-ear cress)	321	
+A0A178W727	unreviewed	A0A178W727_ARATH	Auxin-responsive protein	AXX17_At1g75250 AN1_LOCUS7087	Arabidopsis thaliana (Mouse-ear cress)	179	
+A0A178W773	unreviewed	A0A178W773_ARATH	Auxin response factor	AXX17_At1g35160	Arabidopsis thaliana (Mouse-ear cress)	593	
+A0A178W8N1	unreviewed	A0A178W8N1_ARATH	Auxin efflux carrier component	AXX17_At1g71630	Arabidopsis thaliana (Mouse-ear cress)	592	
+A0A178W8W8	unreviewed	A0A178W8W8_ARATH	Auxin efflux carrier component	AXX17_At1g71630	Arabidopsis thaliana (Mouse-ear cress)	570	
+A0A178W8Y8	unreviewed	A0A178W8Y8_ARATH	Auxin-responsive protein	AXX17_At1g03390	Arabidopsis thaliana (Mouse-ear cress)	261	
+A0A178W993	unreviewed	A0A178W993_ARATH	Auxin response factor	AXX17_At1g20820 AN1_LOCUS2120 AT9943_LOCUS1721 C24_LOCUS2033	Arabidopsis thaliana (Mouse-ear cress)	902	
+A0A178W9B5	unreviewed	A0A178W9B5_ARATH	(thale cress) hypothetical protein (SRS5)	AXX17_At1g69990 AT9943_LOCUS5574 C24_LOCUS6479	Arabidopsis thaliana (Mouse-ear cress)	346	
+A0A178W9V0	unreviewed	A0A178W9V0_ARATH	Auxin response factor	AXX17_At1g36310	Arabidopsis thaliana (Mouse-ear cress)	593	
+A0A178WCT2	unreviewed	A0A178WCT2_ARATH	Auxin response factor	AXX17_At1g30740	Arabidopsis thaliana (Mouse-ear cress)	850	
+A0A178WF90	unreviewed	A0A178WF90_ARATH	Auxin-responsive protein	AXX17_At1g52840	Arabidopsis thaliana (Mouse-ear cress)	371	
+A0A178WF94	unreviewed	A0A178WF94_ARATH	Auxin response factor	AXX17_At1g52840	Arabidopsis thaliana (Mouse-ear cress)	665	
+A0A178WFG7	unreviewed	A0A178WFG7_ARATH	Auxin efflux carrier component	AXX17_At1g67820 AN1_LOCUS6390 C24_LOCUS6281	Arabidopsis thaliana (Mouse-ear cress)	622	
+A0A178WGD4	unreviewed	A0A178WGD4_ARATH	Protein PIN-LIKES 1	AXX17_At1g21980 C24_LOCUS2145	Arabidopsis thaliana (Mouse-ear cress)	386	
+A0A178WH41	unreviewed	A0A178WH41_ARATH	Auxin-responsive protein	AXX17_At1g52840	Arabidopsis thaliana (Mouse-ear cress)	374	
+A0A178WHC9	unreviewed	A0A178WHC9_ARATH	Auxin response factor	AXX17_At1g35340	Arabidopsis thaliana (Mouse-ear cress)	526	
+A0A178WHL5	unreviewed	A0A178WHL5_ARATH	Auxin-responsive protein	AXX17_At1g03830	Arabidopsis thaliana (Mouse-ear cress)	239	
+A0A178WI81	unreviewed	A0A178WI81_ARATH	Auxin efflux carrier component	AXX17_At1g24260	Arabidopsis thaliana (Mouse-ear cress)	615	
+A0A178WIH0	unreviewed	A0A178WIH0_ARATH	Auxin efflux carrier component	AXX17_At1g24260	Arabidopsis thaliana (Mouse-ear cress)	619	
+A0A178WIK9	unreviewed	A0A178WIK9_ARATH	Auxin-responsive protein	AXX17_At1g03540 AN1_LOCUS467 AT9943_LOCUS291 C24_LOCUS379	Arabidopsis thaliana (Mouse-ear cress)	229	
+A0A178WIM1	unreviewed	A0A178WIM1_ARATH	Auxin response factor	AXX17_At1g35980	Arabidopsis thaliana (Mouse-ear cress)	587	
+A0A178WJ67	unreviewed	A0A178WJ67_ARATH	Auxin response factor	AXX17_At1g35340	Arabidopsis thaliana (Mouse-ear cress)	424	
+A0A178WJK3	unreviewed	A0A178WJK3_ARATH	Auxin response factor	AXX17_At1g35310	Arabidopsis thaliana (Mouse-ear cress)	574	
+A0A178WK87	unreviewed	A0A178WK87_ARATH	Auxin response factor	AXX17_At1g36360	Arabidopsis thaliana (Mouse-ear cress)	722	
+A0A178WNZ9	unreviewed	A0A178WNZ9_ARATH	Auxin-responsive protein	AXX17_At1g46190 AN1_LOCUS4307 C24_LOCUS4190	Arabidopsis thaliana (Mouse-ear cress)	267	
+A0A178WP07	unreviewed	A0A178WP07_ARATH	Auxin response factor	AXX17_At1g20170	Arabidopsis thaliana (Mouse-ear cress)	1083	
+A0A178WP26	unreviewed	A0A178WP26_ARATH	Auxin response factor	AXX17_At1g72430	Arabidopsis thaliana (Mouse-ear cress)	596	
+A0A178WR32	unreviewed	A0A178WR32_ARATH	Auxin-responsive protein	AXX17_At1g46190	Arabidopsis thaliana (Mouse-ear cress)	234	
+A0A178WR63	unreviewed	A0A178WR63_ARATH	Auxin response factor	AXX17_At1g72430	Arabidopsis thaliana (Mouse-ear cress)	585	
+A0A1I9LMH6	unreviewed	A0A1I9LMH6_ARATH	Auxin-responsive protein	PAP1 IAA26 At3g16500	Arabidopsis thaliana (Mouse-ear cress)	266	AT3G16500;
+A0A1I9LPC8	unreviewed	A0A1I9LPC8_ARATH	Auxin-responsive protein	IAA7 AUXIN RESISTANT 2 AXR2 indole-3-acetic acid 7 At3g23050	Arabidopsis thaliana (Mouse-ear cress)	167	AT3G23050;
+A0A1I9LQ54	unreviewed	A0A1I9LQ54_ARATH	Auxin-responsive protein	IAA2 At3g23030	Arabidopsis thaliana (Mouse-ear cress)	261	AT3G23030;
+A0A1I9LTG7	unreviewed	A0A1I9LTG7_ARATH	Auxin-responsive protein	IAA30 At3g62100	Arabidopsis thaliana (Mouse-ear cress)	155	AT3G62100;
+A0A1I9LTM9	unreviewed	A0A1I9LTM9_ARATH	Auxin response factor	ARF18 auxin response factor 18 At3g61830 F21F14.12	Arabidopsis thaliana (Mouse-ear cress)	551	AT3G61830;
+A0A1P8APP3	unreviewed	A0A1P8APP3_ARATH	Auxin efflux carrier family protein	PILS4 PIN-LIKES 4 At1g76530 F14G6.13 F14G6_13	Arabidopsis thaliana (Mouse-ear cress)	336	AT1G76530;
+A0A1P8AQ60	unreviewed	A0A1P8AQ60_ARATH	Auxin response factor	MP ARF5 AUXIN RESPONSE FACTOR 5 IAA24 MONOPTEROS TRANSCRIPTION FACTOR IAA24 At1g19850 F6F9.10 F6F9_10	Arabidopsis thaliana (Mouse-ear cress)	891	AT1G19850;
+A0A1P8AT43	unreviewed	A0A1P8AT43_ARATH	Auxin-responsive protein	SHY2 IAA3 SHORT HYPOCOTYL 2 At1g04240 F19P19.32 F19P19_32	Arabidopsis thaliana (Mouse-ear cress)	289	AT1G04240;
+A0A1P8AU56	unreviewed	A0A1P8AU56_ARATH	Auxin response factor	ARF17 auxin response factor 17 At1g77850 F28K19.6 F28K19_6	Arabidopsis thaliana (Mouse-ear cress)	596	AT1G77850;
+A0A1P8AVV0	unreviewed	A0A1P8AVV0_ARATH	Auxin efflux carrier component	PIN6 PIN-FORMED 6 At1g77110 F22K20.18 F22K20_18	Arabidopsis thaliana (Mouse-ear cress)	549	AT1G77110;
+A0A1P8AW97	unreviewed	A0A1P8AW97_ARATH	Auxin-responsive protein	IAA34 At1g15050 T15D22.10 T15D22_10	Arabidopsis thaliana (Mouse-ear cress)	153	AT1G15050;
+A0A1P8AXA0	unreviewed	A0A1P8AXA0_ARATH	SHI-related sequence 4	SRS4 SHI-related sequence 4 At2g18120 F8D23.10 F8D23_10	Arabidopsis thaliana (Mouse-ear cress)	220	AT2G18120;
+A0A1P8AZW3	unreviewed	A0A1P8AZW3_ARATH	Auxin response factor	ETT ARF3 ETTIN At2g33860 T1B8.30 T1B8_30	Arabidopsis thaliana (Mouse-ear cress)	451	AT2G33860;
+A0A1P8B119	unreviewed	A0A1P8B119_ARATH	Carotenoid cleavage dioxygenase 7	CCD7 ATCCD7 MAX3 At2g44990 T14P1.21	Arabidopsis thaliana (Mouse-ear cress)	633	AT2G44990;
+A0A1P8B1S1	unreviewed	A0A1P8B1S1_ARATH	Auxin response factor	ARF10 auxin response factor 10 At2g28350 T1B3.13 T1B3_13	Arabidopsis thaliana (Mouse-ear cress)	667	AT2G28350;
+A0A1P8B7Q2	unreviewed	A0A1P8B7Q2_ARATH	Auxin-responsive protein	IAA29 At4g32280 F10M6.1	Arabidopsis thaliana (Mouse-ear cress)	209	AT4G32280;
+A0A1P8B7S3	unreviewed	A0A1P8B7S3_ARATH	Auxin-responsive protein	IAA29 At4g32280 F10M6.1	Arabidopsis thaliana (Mouse-ear cress)	199	AT4G32280;
+A0A1P8B7U4	unreviewed	A0A1P8B7U4_ARATH	Auxin-responsive protein	IAA14 DL3315C SLR SOLITARY ROOT At4g14550 FCAALL.254	Arabidopsis thaliana (Mouse-ear cress)	234	AT4G14550;
+A0A1P8B7U9	unreviewed	A0A1P8B7U9_ARATH	Auxin-responsive protein	IAA14 DL3315C SLR SOLITARY ROOT At4g14550 FCAALL.254	Arabidopsis thaliana (Mouse-ear cress)	196	AT4G14550;
+A0A1P8BC69	unreviewed	A0A1P8BC69_ARATH	Lateral root primordium (LRP) protein-like protein	SHI SHORT INTERNODES At5g66350 K1L20.13 K1L20_13	Arabidopsis thaliana (Mouse-ear cress)	331	AT5G66350;
+A0A1P8BC81	unreviewed	A0A1P8BC81_ARATH	Lateral root primordium (LRP) protein-like protein	SHI SHORT INTERNODES At5g66350 K1L20.13 K1L20_13	Arabidopsis thaliana (Mouse-ear cress)	326	AT5G66350;
+A0A1P8BCS5	unreviewed	A0A1P8BCS5_ARATH	Auxin response factor	ARF8 ATARF8 auxin response factor 8 At5g37020 K15O15.1 K15O15_1	Arabidopsis thaliana (Mouse-ear cress)	716	AT5G37020;
+A0A1P8BD12	unreviewed	A0A1P8BD12_ARATH	Auxin efflux carrier family protein	PILS7 PIN-LIKES 7 At5g65980 K2A18.4 K2A18_4	Arabidopsis thaliana (Mouse-ear cress)	366	AT5G65980;
+A0A1P8BEE7	unreviewed	A0A1P8BEE7_ARATH	Auxin efflux carrier component	PIN5 MQK4.28 MQK4_28 PIN-FORMED 5 At5g16530	Arabidopsis thaliana (Mouse-ear cress)	328	AT5G16530;
+A0A1P8BF20	unreviewed	A0A1P8BF20_ARATH	Auxin response factor	ARF4 auxin response factor 4 MUF9.7 MUF9_7 At5g60450	Arabidopsis thaliana (Mouse-ear cress)	764	AT5G60450;
+A0A2H1ZEC0	unreviewed	A0A2H1ZEC0_ARATH	Auxin response factor	ARF20 auxin response factor 20 At1g35240 T9I1.3 T9I1_3	Arabidopsis thaliana (Mouse-ear cress)	592	AT1G35240;
+A0A384K881	unreviewed	A0A384K881_ARATH	Auxin response factor	AXX17_At2g24380 AN1_LOCUS9234	Arabidopsis thaliana (Mouse-ear cress)	693	
+A0A384KH77	unreviewed	A0A384KH77_ARATH	Auxin efflux carrier component	AXX17_At1g65120 AT9943_LOCUS5178	Arabidopsis thaliana (Mouse-ear cress)	640	
+A0A384KTJ0	unreviewed	A0A384KTJ0_ARATH	Auxin-responsive protein	AXX17_At3g56390 AN1_LOCUS16590 C24_LOCUS16469	Arabidopsis thaliana (Mouse-ear cress)	172	
+A0A384L3K6	unreviewed	A0A384L3K6_ARATH	Auxin-responsive protein	AXX17_At1g16360 AN1_LOCUS1690 C24_LOCUS1606	Arabidopsis thaliana (Mouse-ear cress)	163	
+A0A384LA06	unreviewed	A0A384LA06_ARATH	Auxin-responsive protein	AXX17_At5g41740 AN1_LOCUS24567 AT9943_LOCUS21203 C24_LOCUS24400	Arabidopsis thaliana (Mouse-ear cress)	186	
+A0A384LA70	unreviewed	A0A384LA70_ARATH	Auxin-responsive protein	AXX17_At5g25850 AN1_LOCUS23338 AT9943_LOCUS20098 C24_LOCUS23216	Arabidopsis thaliana (Mouse-ear cress)	175	
+A0A384LAD2	unreviewed	A0A384LAD2_ARATH	Auxin-responsive protein	AXX17_At1g03530	Arabidopsis thaliana (Mouse-ear cress)	189	
+A0A384LBE9	unreviewed	A0A384LBE9_ARATH	Auxin efflux carrier component	AXX17_At5g56320 AT9943_LOCUS22384	Arabidopsis thaliana (Mouse-ear cress)	647	
+A0A384LC96	unreviewed	A0A384LC96_ARATH	Auxin-responsive protein	AXX17_At4g16780 AN1_LOCUS18099 AT9943_LOCUS15588 C24_LOCUS17982	Arabidopsis thaliana (Mouse-ear cress)	228	
+A0A384LDI1	unreviewed	A0A384LDI1_ARATH	Auxin-responsive protein	AXX17_At5g56690 AN1_LOCUS26030 AT9943_LOCUS22416 C24_LOCUS25855	Arabidopsis thaliana (Mouse-ear cress)	171	
+A0A384LEJ2	unreviewed	A0A384LEJ2_ARATH	Auxin-responsive protein	AXX17_At1g47150 AN1_LOCUS4400 C24_LOCUS4287	Arabidopsis thaliana (Mouse-ear cress)	189	
+A0A384LFG7	unreviewed	A0A384LFG7_ARATH	Auxin-responsive protein	AXX17_At3g04200 AN1_LOCUS11764 AT9943_LOCUS10116 C24_LOCUS11599	Arabidopsis thaliana (Mouse-ear cress)	236	
+A0A384LMF0	unreviewed	A0A384LMF0_ARATH	Auxin-responsive protein	AXX17_At3g18580 C24_LOCUS12988	Arabidopsis thaliana (Mouse-ear cress)	158	
+A0A5S9SIC3	unreviewed	A0A5S9SIC3_ARATH	Auxin-responsive protein	AN1_LOCUS451 C24_LOCUS363	Arabidopsis thaliana (Mouse-ear cress)	261	
+A0A5S9SIU8	unreviewed	A0A5S9SIU8_ARATH	Auxin-responsive protein	AT9943_LOCUS290 C24_LOCUS378	Arabidopsis thaliana (Mouse-ear cress)	189	
+A0A5S9SKE1	unreviewed	A0A5S9SKE1_ARATH	Auxin-responsive protein	C24_LOCUS411	Arabidopsis thaliana (Mouse-ear cress)	239	
+A0A5S9UIN7	unreviewed	A0A5S9UIN7_ARATH	Auxin-responsive protein	C24_LOCUS1552	Arabidopsis thaliana (Mouse-ear cress)	185	
+A0A5S9V4T5	unreviewed	A0A5S9V4T5_ARATH	Auxin response factor	C24_LOCUS1973	Arabidopsis thaliana (Mouse-ear cress)	1090	
+A0A5S9VNI1	unreviewed	A0A5S9VNI1_ARATH	Auxin efflux carrier component	C24_LOCUS2364	Arabidopsis thaliana (Mouse-ear cress)	619	
+A0A5S9WDQ8	unreviewed	A0A5S9WDQ8_ARATH	Auxin response factor	C24_LOCUS2983	Arabidopsis thaliana (Mouse-ear cress)	935	
+A0A5S9WIN4	unreviewed	A0A5S9WIN4_ARATH	Auxin response factor	C24_LOCUS3356	Arabidopsis thaliana (Mouse-ear cress)	535	
+A0A5S9WIV2	unreviewed	A0A5S9WIV2_ARATH	Auxin response factor	C24_LOCUS3425	Arabidopsis thaliana (Mouse-ear cress)	606	
+A0A5S9WIX7	unreviewed	A0A5S9WIX7_ARATH	Auxin response factor	C24_LOCUS3455	Arabidopsis thaliana (Mouse-ear cress)	605	
+A0A5S9WJZ6	unreviewed	A0A5S9WJZ6_ARATH	Auxin response factor	C24_LOCUS3628	Arabidopsis thaliana (Mouse-ear cress)	361	
+A0A5S9WLK3	unreviewed	A0A5S9WLK3_ARATH	Auxin response factor	C24_LOCUS3367	Arabidopsis thaliana (Mouse-ear cress)	593	
+A0A5S9WLL9	unreviewed	A0A5S9WLL9_ARATH	Auxin response factor	C24_LOCUS3377	Arabidopsis thaliana (Mouse-ear cress)	606	
+A0A5S9WLN3	unreviewed	A0A5S9WLN3_ARATH	Auxin response factor	C24_LOCUS3452	Arabidopsis thaliana (Mouse-ear cress)	593	
+A0A5S9WLS8	unreviewed	A0A5S9WLS8_ARATH	Auxin response factor	C24_LOCUS3377	Arabidopsis thaliana (Mouse-ear cress)	598	
+A0A5S9WLT9	unreviewed	A0A5S9WLT9_ARATH	Protein BIG GRAIN 1-like B	C24_LOCUS4432	Arabidopsis thaliana (Mouse-ear cress)	366	
+A0A5S9WNB3	unreviewed	A0A5S9WNB3_ARATH	Auxin response factor	At1g59750 C24_LOCUS4830	Arabidopsis thaliana (Mouse-ear cress)	662	
+A0A5S9WRG5	unreviewed	A0A5S9WRG5_ARATH	Auxin efflux carrier component	C24_LOCUS6019	Arabidopsis thaliana (Mouse-ear cress)	640	
+A0A5S9WUW4	unreviewed	A0A5S9WUW4_ARATH	Protein PIN-LIKES 3	C24_LOCUS6577	Arabidopsis thaliana (Mouse-ear cress)	390	
+A0A5S9WV38	unreviewed	A0A5S9WV38_ARATH	Auxin efflux carrier component	C24_LOCUS6641	Arabidopsis thaliana (Mouse-ear cress)	549	
+A0A5S9WV95	unreviewed	A0A5S9WV95_ARATH	Auxin response factor	C24_LOCUS6716	Arabidopsis thaliana (Mouse-ear cress)	600	
+A0A5S9WW17	unreviewed	A0A5S9WW17_ARATH	Auxin-responsive protein	AT9943_LOCUS6006 C24_LOCUS6971	Arabidopsis thaliana (Mouse-ear cress)	179	
+A0A5S9WWA4	unreviewed	A0A5S9WWA4_ARATH	Auxin efflux carrier component	AN1_LOCUS7186 C24_LOCUS7070	Arabidopsis thaliana (Mouse-ear cress)	616	
+A0A5S9X095	unreviewed	A0A5S9X095_ARATH	Auxin-responsive protein	C24_LOCUS8499	Arabidopsis thaliana (Mouse-ear cress)	321	
+A0A5S9X282	unreviewed	A0A5S9X282_ARATH	Auxin response factor	AT9943_LOCUS7915 C24_LOCUS9084	Arabidopsis thaliana (Mouse-ear cress)	693	
+A0A5S9X3R2	unreviewed	A0A5S9X3R2_ARATH	Auxin response factor	AN1_LOCUS9828 C24_LOCUS9676	Arabidopsis thaliana (Mouse-ear cress)	608	
+A0A5S9X7H4	unreviewed	A0A5S9X7H4_ARATH	Auxin response factor	AN1_LOCUS11180 C24_LOCUS11017	Arabidopsis thaliana (Mouse-ear cress)	601	
+A0A5S9XEX8	unreviewed	A0A5S9XEX8_ARATH	Auxin-responsive protein	C24_LOCUS13600	Arabidopsis thaliana (Mouse-ear cress)	243	
+A0A5S9XEY8	unreviewed	A0A5S9XEY8_ARATH	Auxin-responsive protein	C24_LOCUS13599	Arabidopsis thaliana (Mouse-ear cress)	261	
+A0A5S9XKI8	unreviewed	A0A5S9XKI8_ARATH	Protein SHI RELATED SEQUENCE 1	C24_LOCUS15349	Arabidopsis thaliana (Mouse-ear cress)	372	
+A0A5S9XKR3	unreviewed	A0A5S9XKR3_ARATH	Protein SHI RELATED SEQUENCE 6	C24_LOCUS15698	Arabidopsis thaliana (Mouse-ear cress)	183	
+A0A5S9XN52	unreviewed	A0A5S9XN52_ARATH	Auxin response factor	C24_LOCUS16440	Arabidopsis thaliana (Mouse-ear cress)	602	
+A0A5S9XUB7	unreviewed	A0A5S9XUB7_ARATH	Auxin response factor	C24_LOCUS18564	Arabidopsis thaliana (Mouse-ear cress)	1360	
+A0A5S9XX90	unreviewed	A0A5S9XX90_ARATH	Auxin response factor	C24_LOCUS19699	Arabidopsis thaliana (Mouse-ear cress)	670	
+A0A5S9XYK8	unreviewed	A0A5S9XYK8_ARATH	Auxin-responsive protein	AT9943_LOCUS17301 C24_LOCUS19937	Arabidopsis thaliana (Mouse-ear cress)	209	
+A0A5S9XZ40	unreviewed	A0A5S9XZ40_ARATH	Protein SHI RELATED SEQUENCE 2	C24_LOCUS20371	Arabidopsis thaliana (Mouse-ear cress)	322	
+A0A5S9Y3I7	unreviewed	A0A5S9Y3I7_ARATH	Protein LATERAL ROOT PRIMORDIUM 1	C24_LOCUS21923	Arabidopsis thaliana (Mouse-ear cress)	411	
+A0A5S9Y682	unreviewed	A0A5S9Y682_ARATH	Auxin response factor	C24_LOCUS22758	Arabidopsis thaliana (Mouse-ear cress)	1167	
+A0A5S9Y6G6	unreviewed	A0A5S9Y6G6_ARATH	Auxin efflux carrier component	AT9943_LOCUS19181 C24_LOCUS22170	Arabidopsis thaliana (Mouse-ear cress)	367	
+A0A5S9Y8N3	unreviewed	A0A5S9Y8N3_ARATH	Auxin response factor	C24_LOCUS23684	Arabidopsis thaliana (Mouse-ear cress)	811	
+A0A5S9YES6	unreviewed	A0A5S9YES6_ARATH	Auxin efflux carrier component	C24_LOCUS25821	Arabidopsis thaliana (Mouse-ear cress)	637	
+A0A5S9YFY0	unreviewed	A0A5S9YFY0_ARATH	Auxin response factor	C24_LOCUS26170	Arabidopsis thaliana (Mouse-ear cress)	790	
+A0A5S9YGE7	unreviewed	A0A5S9YGE7_ARATH	Auxin response factor	C24_LOCUS26329	Arabidopsis thaliana (Mouse-ear cress)	859	
+A0A654E6M3	unreviewed	A0A654E6M3_ARATH	Auxin-responsive protein	AN1_LOCUS466	Arabidopsis thaliana (Mouse-ear cress)	189	
+A0A654E9W5	unreviewed	A0A654E9W5_ARATH	Auxin-responsive protein	AN1_LOCUS1634 AT9943_LOCUS1298	Arabidopsis thaliana (Mouse-ear cress)	153	
+A0A654EB75	unreviewed	A0A654EB75_ARATH	Auxin response factor	AN1_LOCUS2059	Arabidopsis thaliana (Mouse-ear cress)	1084	
+A0A654EBG3	unreviewed	A0A654EBG3_ARATH	Protein SHI RELATED SEQUENCE 7	AN1_LOCUS2115	Arabidopsis thaliana (Mouse-ear cress)	345	
+A0A654EBS8	unreviewed	A0A654EBS8_ARATH	Auxin-responsive protein	AN1_LOCUS499 AT9943_LOCUS321	Arabidopsis thaliana (Mouse-ear cress)	239	
+A0A654ECC1	unreviewed	A0A654ECC1_ARATH	Auxin efflux carrier component	AN1_LOCUS2453	Arabidopsis thaliana (Mouse-ear cress)	619	
+A0A654ECQ2	unreviewed	A0A654ECQ2_ARATH	Protein PIN-LIKES 1	AN1_LOCUS2234	Arabidopsis thaliana (Mouse-ear cress)	386	
+A0A654EE38	unreviewed	A0A654EE38_ARATH	Auxin response factor	AN1_LOCUS3074	Arabidopsis thaliana (Mouse-ear cress)	935	
+A0A654EFB8	unreviewed	A0A654EFB8_ARATH	Auxin response factor	AN1_LOCUS3513	Arabidopsis thaliana (Mouse-ear cress)	606	
+A0A654EFH6	unreviewed	A0A654EFH6_ARATH	Auxin response factor	AN1_LOCUS3541	Arabidopsis thaliana (Mouse-ear cress)	593	
+A0A654EGG9	unreviewed	A0A654EGG9_ARATH	Auxin response factor	AN1_LOCUS3459	Arabidopsis thaliana (Mouse-ear cress)	593	
+A0A654EGH8	unreviewed	A0A654EGH8_ARATH	Auxin response factor	AN1_LOCUS3469	Arabidopsis thaliana (Mouse-ear cress)	598	
+A0A654EGW4	unreviewed	A0A654EGW4_ARATH	Auxin response factor	AN1_LOCUS3472	Arabidopsis thaliana (Mouse-ear cress)	555	
+A0A654EH28	unreviewed	A0A654EH28_ARATH	Auxin response factor	AN1_LOCUS3544	Arabidopsis thaliana (Mouse-ear cress)	605	
+A0A654EHJ5	unreviewed	A0A654EHJ5_ARATH	Auxin response factor	AN1_LOCUS3731	Arabidopsis thaliana (Mouse-ear cress)	282	
+A0A654EJH5	unreviewed	A0A654EJH5_ARATH	Auxin response factor	AN1_LOCUS4954	Arabidopsis thaliana (Mouse-ear cress)	665	
+A0A654EJR5	unreviewed	A0A654EJR5_ARATH	Protein BIG GRAIN 1-like B	AN1_LOCUS4544	Arabidopsis thaliana (Mouse-ear cress)	369	
+A0A654EMP0	unreviewed	A0A654EMP0_ARATH	Protein BIG GRAIN 1-like E	AN1_LOCUS5944	Arabidopsis thaliana (Mouse-ear cress)	321	
+A0A654EPL0	unreviewed	A0A654EPL0_ARATH	Auxin efflux carrier component	AN1_LOCUS6130	Arabidopsis thaliana (Mouse-ear cress)	640	
+A0A654EPY2	unreviewed	A0A654EPY2_ARATH	Auxin efflux carrier component	AN1_LOCUS6754	Arabidopsis thaliana (Mouse-ear cress)	549	
+A0A654ESI9	unreviewed	A0A654ESI9_ARATH	Auxin-responsive protein	AN1_LOCUS7165 AT9943_LOCUS6075 C24_LOCUS7048	Arabidopsis thaliana (Mouse-ear cress)	191	
+A0A654EWC7	unreviewed	A0A654EWC7_ARATH	Auxin-responsive protein	AN1_LOCUS8646	Arabidopsis thaliana (Mouse-ear cress)	321	
+A0A654F0L7	unreviewed	A0A654F0L7_ARATH	Auxin response factor	AN1_LOCUS6831	Arabidopsis thaliana (Mouse-ear cress)	596	
+A0A654F7S9	unreviewed	A0A654F7S9_ARATH	Auxin-responsive protein	AN1_LOCUS13035 AT9943_LOCUS11224 C24_LOCUS12867	Arabidopsis thaliana (Mouse-ear cress)	269	
+A0A654F957	unreviewed	A0A654F957_ARATH	Auxin-responsive protein	AN1_LOCUS12934	Arabidopsis thaliana (Mouse-ear cress)	197	
+A0A654F9U5	unreviewed	A0A654F9U5_ARATH	Auxin-responsive protein	AN1_LOCUS13760 AT9943_LOCUS11812	Arabidopsis thaliana (Mouse-ear cress)	174	
+A0A654FA00	unreviewed	A0A654FA00_ARATH	Auxin-responsive protein	AN1_LOCUS13154	Arabidopsis thaliana (Mouse-ear cress)	114	
+A0A654FA11	unreviewed	A0A654FA11_ARATH	Auxin-responsive protein	AN1_LOCUS13761 AT9943_LOCUS11813	Arabidopsis thaliana (Mouse-ear cress)	243	
+A0A654FBW1	unreviewed	A0A654FBW1_ARATH	COI1 F-box domain-containing protein	AN1_LOCUS10766	Arabidopsis thaliana (Mouse-ear cress)	693	
+A0A654FDL5	unreviewed	A0A654FDL5_ARATH	Protein BIG GRAIN 1-like A	AN1_LOCUS14620	Arabidopsis thaliana (Mouse-ear cress)	342	
+A0A654FGT0	unreviewed	A0A654FGT0_ARATH	Protein SHI RELATED SEQUENCE 6	AN1_LOCUS15814	Arabidopsis thaliana (Mouse-ear cress)	183	
+A0A654FS80	unreviewed	A0A654FS80_ARATH	Auxin response factor	AN1_LOCUS19132	Arabidopsis thaliana (Mouse-ear cress)	638	
+A0A654FTP6	unreviewed	A0A654FTP6_ARATH	Auxin-responsive protein	At4g28640 AN1_LOCUS19650 C24_LOCUS19543	Arabidopsis thaliana (Mouse-ear cress)	250	
+A0A654FUU5	unreviewed	A0A654FUU5_ARATH	Auxin-responsive protein	AN1_LOCUS20043 AT9943_LOCUS17301	Arabidopsis thaliana (Mouse-ear cress)	251	
+A0A654G0H4	unreviewed	A0A654G0H4_ARATH	Protein LATERAL ROOT PRIMORDIUM 1	AN1_LOCUS22034	Arabidopsis thaliana (Mouse-ear cress)	407	
+A0A654G3B4	unreviewed	A0A654G3B4_ARATH	Auxin response factor	AN1_LOCUS22872	Arabidopsis thaliana (Mouse-ear cress)	1170	
+A0A654GBT1	unreviewed	A0A654GBT1_ARATH	Auxin efflux carrier component	AN1_LOCUS25996	Arabidopsis thaliana (Mouse-ear cress)	637	
+A0A654GCU3	unreviewed	A0A654GCU3_ARATH	Auxin response factor	AN1_LOCUS26348	Arabidopsis thaliana (Mouse-ear cress)	788	
+A0A654GD70	unreviewed	A0A654GD70_ARATH	Auxin response factor	AN1_LOCUS26507 AT9943_LOCUS22820	Arabidopsis thaliana (Mouse-ear cress)	859	
+A0A654GEE8	unreviewed	A0A654GEE8_ARATH	Auxin-responsive protein	AN1_LOCUS26895 AT9943_LOCUS23158 C24_LOCUS26720	Arabidopsis thaliana (Mouse-ear cress)	338	
+A0A654GEM0	unreviewed	A0A654GEM0_ARATH	Uncharacterized protein	AN1_LOCUS26968	Arabidopsis thaliana (Mouse-ear cress)	331	
+A0A6B9KUT7	unreviewed	A0A6B9KUT7_ARATH	Auxin response factor	ARF8	Arabidopsis thaliana (Mouse-ear cress)	801	
+A0A7G2DNC2	unreviewed	A0A7G2DNC2_ARATH	Auxin-responsive protein	AT9943_LOCUS277	Arabidopsis thaliana (Mouse-ear cress)	1615	
+A0A7G2DNF5	unreviewed	A0A7G2DNF5_ARATH	Auxin-responsive protein	AT9943_LOCUS277	Arabidopsis thaliana (Mouse-ear cress)	1621	
+A0A7G2DSK0	unreviewed	A0A7G2DSK0_ARATH	Auxin efflux carrier component	AT9943_LOCUS2019	Arabidopsis thaliana (Mouse-ear cress)	600	
+A0A7G2DV23	unreviewed	A0A7G2DV23_ARATH	Auxin response factor	AT9943_LOCUS2951	Arabidopsis thaliana (Mouse-ear cress)	751	
+A0A7G2DV66	unreviewed	A0A7G2DV66_ARATH	Auxin-responsive protein	AT9943_LOCUS2885	Arabidopsis thaliana (Mouse-ear cress)	347	
+A0A7G2DWI1	unreviewed	A0A7G2DWI1_ARATH	Auxin response factor	AT9943_LOCUS1668	Arabidopsis thaliana (Mouse-ear cress)	1058	
+A0A7G2DX31	unreviewed	A0A7G2DX31_ARATH	Auxin-responsive protein	AT9943_LOCUS1349	Arabidopsis thaliana (Mouse-ear cress)	175	
+A0A7G2DXI1	unreviewed	A0A7G2DXI1_ARATH	Auxin response factor	AT9943_LOCUS2540	Arabidopsis thaliana (Mouse-ear cress)	820	
+A0A7G2DXY0	unreviewed	A0A7G2DXY0_ARATH	Auxin response factor	AT9943_LOCUS2895	Arabidopsis thaliana (Mouse-ear cress)	423	
+A0A7G2DY49	unreviewed	A0A7G2DY49_ARATH	Auxin response factor	AT9943_LOCUS2895	Arabidopsis thaliana (Mouse-ear cress)	579	
+A0A7G2DY53	unreviewed	A0A7G2DY53_ARATH	Auxin response factor	AT9943_LOCUS2906	Arabidopsis thaliana (Mouse-ear cress)	541	
+A0A7G2DYM9	unreviewed	A0A7G2DYM9_ARATH	Auxin response factor	AT9943_LOCUS2972	Arabidopsis thaliana (Mouse-ear cress)	582	
+A0A7G2E0L1	unreviewed	A0A7G2E0L1_ARATH	Auxin-responsive protein	AT9943_LOCUS3750	Arabidopsis thaliana (Mouse-ear cress)	189	
+A0A7G2E166	unreviewed	A0A7G2E166_ARATH	Auxin response factor	AT9943_LOCUS2904	Arabidopsis thaliana (Mouse-ear cress)	579	
+A0A7G2E1P3	unreviewed	A0A7G2E1P3_ARATH	Auxin response factor	AT9943_LOCUS2974	Arabidopsis thaliana (Mouse-ear cress)	698	
+A0A7G2E1X0	unreviewed	A0A7G2E1X0_ARATH	Auxin response factor	AT9943_LOCUS3159	Arabidopsis thaliana (Mouse-ear cress)	342	
+A0A7G2E1X2	unreviewed	A0A7G2E1X2_ARATH	Auxin response factor	AT9943_LOCUS4199	Arabidopsis thaliana (Mouse-ear cress)	665	
+A0A7G2E3R5	unreviewed	A0A7G2E3R5_ARATH	Auxin response factor	AT9943_LOCUS5778	Arabidopsis thaliana (Mouse-ear cress)	585	
+A0A7G2E4C3	unreviewed	A0A7G2E4C3_ARATH	Auxin efflux carrier component	AT9943_LOCUS5397	Arabidopsis thaliana (Mouse-ear cress)	613	
+A0A7G2E508	unreviewed	A0A7G2E508_ARATH	Auxin response factor	AT9943_LOCUS4199	Arabidopsis thaliana (Mouse-ear cress)	662	
+A0A7G2E530	unreviewed	A0A7G2E530_ARATH	Auxin efflux carrier component	AT9943_LOCUS5711	Arabidopsis thaliana (Mouse-ear cress)	560	
+A0A7G2E6T1	unreviewed	A0A7G2E6T1_ARATH	Auxin efflux carrier component	AT9943_LOCUS5711	Arabidopsis thaliana (Mouse-ear cress)	558	
+A0A7G2EAI7	unreviewed	A0A7G2EAI7_ARATH	Auxin-responsive protein	AT9943_LOCUS6075	Arabidopsis thaliana (Mouse-ear cress)	189	
+A0A7G2EE27	unreviewed	A0A7G2EE27_ARATH	Auxin-responsive protein	AT9943_LOCUS8366	Arabidopsis thaliana (Mouse-ear cress)	219	
+A0A7G2EEI2	unreviewed	A0A7G2EEI2_ARATH	Auxin response factor	AT9943_LOCUS9621	Arabidopsis thaliana (Mouse-ear cress)	745	
+A0A7G2EF51	unreviewed	A0A7G2EF51_ARATH	Auxin-responsive protein	AT9943_LOCUS8366	Arabidopsis thaliana (Mouse-ear cress)	220	
+A0A7G2EH18	unreviewed	A0A7G2EH18_ARATH	Auxin response factor	AT9943_LOCUS8426	Arabidopsis thaliana (Mouse-ear cress)	604	
+A0A7G2EIP7	unreviewed	A0A7G2EIP7_ARATH	Auxin-responsive protein	AT9943_LOCUS9661	Arabidopsis thaliana (Mouse-ear cress)	180	
+A0A7G2EJ17	unreviewed	A0A7G2EJ17_ARATH	Auxin-responsive protein	AT9943_LOCUS11312	Arabidopsis thaliana (Mouse-ear cress)	319	
+A0A7G2EQI1	unreviewed	A0A7G2EQI1_ARATH	Auxin-responsive protein	AT9943_LOCUS11135	Arabidopsis thaliana (Mouse-ear cress)	197	
+A0A7G2ETF3	unreviewed	A0A7G2ETF3_ARATH	Auxin-responsive protein	AT9943_LOCUS14274	Arabidopsis thaliana (Mouse-ear cress)	107	
+A0A7G2EWT7	unreviewed	A0A7G2EWT7_ARATH	Auxin response factor	AT9943_LOCUS14249	Arabidopsis thaliana (Mouse-ear cress)	750	
+A0A7G2F068	unreviewed	A0A7G2F068_ARATH	Auxin response factor	AT9943_LOCUS16497	Arabidopsis thaliana (Mouse-ear cress)	628	
+A0A7G2F1Q0	unreviewed	A0A7G2F1Q0_ARATH	Auxin response factor	AT9943_LOCUS17091	Arabidopsis thaliana (Mouse-ear cress)	663	
+A0A7G2F942	unreviewed	A0A7G2F942_ARATH	Auxin response factor	AT9943_LOCUS19692	Arabidopsis thaliana (Mouse-ear cress)	1166	
+A0A7G2FMN3	unreviewed	A0A7G2FMN3_ARATH	Auxin response factor	AT9943_LOCUS23386 AT9943_LOCUS23418	Arabidopsis thaliana (Mouse-ear cress)	276	
+A0MEH3	unreviewed	A0MEH3_ARATH	Auxin-responsive protein		Arabidopsis thaliana (Mouse-ear cress)	192	
+A5YXQ3	unreviewed	A5YXQ3_ARATH	Auxin-responsive protein	AXR2	Arabidopsis thaliana (Mouse-ear cress)	110	
+A5YXQ5	unreviewed	A5YXQ5_ARATH	Auxin-responsive protein	AXR2	Arabidopsis thaliana (Mouse-ear cress)	110	
+A5YXQ9	unreviewed	A5YXQ9_ARATH	Auxin-responsive protein	AXR2	Arabidopsis thaliana (Mouse-ear cress)	110	
+A5YXS5	unreviewed	A5YXS5_ARATH	Auxin-responsive protein	AXR3	Arabidopsis thaliana (Mouse-ear cress)	134	
+A5YXT0	unreviewed	A5YXT0_ARATH	Auxin-responsive protein	AXR3	Arabidopsis thaliana (Mouse-ear cress)	134	
+A8MR39	unreviewed	A8MR39_ARATH	Auxin-responsive protein	IAA11 At4g28640 T5F17.90 T5F17_90	Arabidopsis thaliana (Mouse-ear cress)	302	AT4G28640;
+B0FV08	unreviewed	B0FV08_ARATH	Auxin-responsive protein	IAA3 At1g04240	Arabidopsis thaliana (Mouse-ear cress)	189	AT1G04240;
+B0FV14	unreviewed	B0FV14_ARATH	Auxin-responsive protein	IAA3 At1g04240	Arabidopsis thaliana (Mouse-ear cress)	189	
+B0FV19	unreviewed	B0FV19_ARATH	Auxin-responsive protein	IAA3 At1g04240	Arabidopsis thaliana (Mouse-ear cress)	189	
+B0FV35	unreviewed	B0FV35_ARATH	Auxin-responsive protein	IAA3 At1g04240	Arabidopsis thaliana (Mouse-ear cress)	189	
+B0FV54	unreviewed	B0FV54_ARATH	Auxin-responsive protein		Arabidopsis thaliana (Mouse-ear cress)	95	
+B0FV68	unreviewed	B0FV68_ARATH	Auxin-responsive protein		Arabidopsis thaliana (Mouse-ear cress)	82	
+B2CT96	unreviewed	B2CT96_ARATH	Auxin-responsive protein	ARF8	Arabidopsis thaliana (Mouse-ear cress)	130	
+B3H5D3	unreviewed	B3H5D3_ARATH	WUSCHEL related homeobox 11	WOX11 WUSCHEL related homeobox 11 At3g03660 T12J13.6 T12J13_6	Arabidopsis thaliana (Mouse-ear cress)	297	AT3G03660;
+B9DGM9	unreviewed	B9DGM9_ARATH	Auxin response factor	At1g59750	Arabidopsis thaliana (Mouse-ear cress)	665	AT1G59750;
+C0SUV5	unreviewed	C0SUV5_ARATH	Auxin-responsive protein	IAA34 At1g15050	Arabidopsis thaliana (Mouse-ear cress)	185	AT1G15050;
+C0SUZ1	unreviewed	C0SUZ1_ARATH	Auxin response factor	At1g34310	Arabidopsis thaliana (Mouse-ear cress)	593	AT1G34310;
+C0SV02	unreviewed	C0SV02_ARATH	Auxin-responsive protein	At1g52830	Arabidopsis thaliana (Mouse-ear cress)	189	AT1G52830;
+C0SV66	unreviewed	C0SV66_ARATH	Auxin response factor	At2g28350	Arabidopsis thaliana (Mouse-ear cress)	693	AT2G28350;
+C0SVF9	unreviewed	C0SVF9_ARATH	Auxin-responsive protein	IAA30 At3g62100	Arabidopsis thaliana (Mouse-ear cress)	172	AT3G62100;
+C0SVU3	unreviewed	C0SVU3_ARATH	Auxin-responsive protein	IAA33 At5g57420	Arabidopsis thaliana (Mouse-ear cress)	171	AT5G57420;
+C0SVV4	unreviewed	C0SVV4_ARATH	Auxin-responsive protein	At5g62010	Arabidopsis thaliana (Mouse-ear cress)	454	
+C0Z2C7	unreviewed	C0Z2C7_ARATH	Auxin response factor	At4g23980	Arabidopsis thaliana (Mouse-ear cress)	297	
+C0Z2L3	unreviewed	C0Z2L3_ARATH	Auxin-responsive protein	IAA14 DL3315C SLR SOLITARY ROOT At4g14550 FCAALL.254	Arabidopsis thaliana (Mouse-ear cress)	183	AT4G14550;
+D3K073	unreviewed	D3K073_ARATH	Auxin-responsive protein	ARF11 At2g46530	Arabidopsis thaliana (Mouse-ear cress)	180	
+D3K074	unreviewed	D3K074_ARATH	Auxin-responsive protein	ARF11 At2g46530	Arabidopsis thaliana (Mouse-ear cress)	185	
+D3K075	unreviewed	D3K075_ARATH	Auxin-responsive protein	ARF11 At2g46530	Arabidopsis thaliana (Mouse-ear cress)	183	
+D3K092	unreviewed	D3K092_ARATH	Auxin-responsive protein	ARF18 At3g61830	Arabidopsis thaliana (Mouse-ear cress)	222	
+D3K094	unreviewed	D3K094_ARATH	Auxin-responsive protein	ARF18 At3g61830	Arabidopsis thaliana (Mouse-ear cress)	231	
+D3K0A2	unreviewed	D3K0A2_ARATH	Auxin-responsive protein	IAA1 At4g14560	Arabidopsis thaliana (Mouse-ear cress)	168	
+D3K0A4	unreviewed	D3K0A4_ARATH	Auxin-responsive protein	IAA1 At4g14560	Arabidopsis thaliana (Mouse-ear cress)	168	
+D3K0A6	unreviewed	D3K0A6_ARATH	Auxin-responsive protein	IAA1 At4g14560	Arabidopsis thaliana (Mouse-ear cress)	168	
+D3K0A7	unreviewed	D3K0A7_ARATH	Auxin-responsive protein	IAA2 At3g23030	Arabidopsis thaliana (Mouse-ear cress)	174	AT3G23030;
+D3K0B1	unreviewed	D3K0B1_ARATH	Auxin-responsive protein	IAA2 At3g23030	Arabidopsis thaliana (Mouse-ear cress)	174	
+D3K0B5	unreviewed	D3K0B5_ARATH	Auxin-responsive protein	IAA3 At1g04240	Arabidopsis thaliana (Mouse-ear cress)	184	
+D3K0B7	unreviewed	D3K0B7_ARATH	Auxin-responsive protein	IAA4 At5g43700	Arabidopsis thaliana (Mouse-ear cress)	186	
+D3K0C0	unreviewed	D3K0C0_ARATH	Auxin-responsive protein	IAA4 At5g43700	Arabidopsis thaliana (Mouse-ear cress)	186	
+D3K0C1	unreviewed	D3K0C1_ARATH	Auxin-responsive protein	IAA4 At5g43700	Arabidopsis thaliana (Mouse-ear cress)	186	
+D3K0C2	unreviewed	D3K0C2_ARATH	Auxin-responsive protein	IAA5 At1g15580	Arabidopsis thaliana (Mouse-ear cress)	163	AT1G15580;
+D3K0C6	unreviewed	D3K0C6_ARATH	Auxin-responsive protein	IAA5 At1g15580	Arabidopsis thaliana (Mouse-ear cress)	156	
+D3K0C7	unreviewed	D3K0C7_ARATH	Auxin-responsive protein	IAA6 At1g52830	Arabidopsis thaliana (Mouse-ear cress)	171	
+D3K0C8	unreviewed	D3K0C8_ARATH	Auxin-responsive protein	IAA6 At1g52830	Arabidopsis thaliana (Mouse-ear cress)	188	
+D3K0C9	unreviewed	D3K0C9_ARATH	Auxin-responsive protein	IAA6 At1g52830	Arabidopsis thaliana (Mouse-ear cress)	149	
+D3K0D0	unreviewed	D3K0D0_ARATH	Auxin-responsive protein	IAA6 At1g52830	Arabidopsis thaliana (Mouse-ear cress)	154	
+D3K0D1	unreviewed	D3K0D1_ARATH	Auxin-responsive protein	IAA6 At1g52830	Arabidopsis thaliana (Mouse-ear cress)	155	
+D3K0D2	unreviewed	D3K0D2_ARATH	Auxin-responsive protein	IAA7 At3g23050	Arabidopsis thaliana (Mouse-ear cress)	80	
+D3K0D3	unreviewed	D3K0D3_ARATH	Auxin-responsive protein	IAA7 At3g23050	Arabidopsis thaliana (Mouse-ear cress)	81	
+D3K0D5	unreviewed	D3K0D5_ARATH	Auxin-responsive protein	IAA7 At3g23050	Arabidopsis thaliana (Mouse-ear cress)	81	
+D3K0D6	unreviewed	D3K0D6_ARATH	Auxin-responsive protein	IAA7 At3g23050	Arabidopsis thaliana (Mouse-ear cress)	81	
+D3K0D7	unreviewed	D3K0D7_ARATH	Auxin-responsive protein	IAA8 At2g22670	Arabidopsis thaliana (Mouse-ear cress)	221	
+D3K0D8	unreviewed	D3K0D8_ARATH	Auxin-responsive protein	IAA8 At2g22670	Arabidopsis thaliana (Mouse-ear cress)	257	
+D3K0D9	unreviewed	D3K0D9_ARATH	Auxin-responsive protein	IAA8 At2g22670	Arabidopsis thaliana (Mouse-ear cress)	229	
+D3K0E0	unreviewed	D3K0E0_ARATH	Auxin-responsive protein	IAA8 At2g22670	Arabidopsis thaliana (Mouse-ear cress)	224	
+D3K0E1	unreviewed	D3K0E1_ARATH	Auxin-responsive protein	IAA8 At2g22670	Arabidopsis thaliana (Mouse-ear cress)	253	
+D3K0E2	unreviewed	D3K0E2_ARATH	Auxin-responsive protein	IAA9 At5g65670	Arabidopsis thaliana (Mouse-ear cress)	300	
+D3K0E3	unreviewed	D3K0E3_ARATH	Auxin-responsive protein	IAA9 At5g65670	Arabidopsis thaliana (Mouse-ear cress)	303	
+D3K0E6	unreviewed	D3K0E6_ARATH	Auxin-responsive protein	IAA9 At5g65670	Arabidopsis thaliana (Mouse-ear cress)	300	
+D3K0E7	unreviewed	D3K0E7_ARATH	Auxin-responsive protein	IAA10 At1g04100	Arabidopsis thaliana (Mouse-ear cress)	205	
+D3K0E8	unreviewed	D3K0E8_ARATH	Auxin-responsive protein	IAA10 At1g04100	Arabidopsis thaliana (Mouse-ear cress)	205	
+D3K0E9	unreviewed	D3K0E9_ARATH	Auxin-responsive protein	IAA10 At1g04100	Arabidopsis thaliana (Mouse-ear cress)	205	
+D3K0F1	unreviewed	D3K0F1_ARATH	Auxin-responsive protein	IAA10 At1g04100	Arabidopsis thaliana (Mouse-ear cress)	209	
+D3K0F2	unreviewed	D3K0F2_ARATH	Auxin-responsive protein	IAA11 At4g28640	Arabidopsis thaliana (Mouse-ear cress)	215	
+D3K0F5	unreviewed	D3K0F5_ARATH	Auxin-responsive protein	IAA11 At4g28640	Arabidopsis thaliana (Mouse-ear cress)	206	
+D3K0F7	unreviewed	D3K0F7_ARATH	Auxin-responsive protein	IAA12 At1g04550	Arabidopsis thaliana (Mouse-ear cress)	185	
+D3K0F8	unreviewed	D3K0F8_ARATH	Auxin-responsive protein	IAA12 At1g04550	Arabidopsis thaliana (Mouse-ear cress)	195	
+D3K0F9	unreviewed	D3K0F9_ARATH	Auxin-responsive protein	IAA12 At1g04550	Arabidopsis thaliana (Mouse-ear cress)	177	
+D3K0G0	unreviewed	D3K0G0_ARATH	Auxin-responsive protein	IAA12 At1g04550	Arabidopsis thaliana (Mouse-ear cress)	193	
+D3K0G2	unreviewed	D3K0G2_ARATH	Auxin-responsive protein	IAA13 At2g33310	Arabidopsis thaliana (Mouse-ear cress)	210	
+D3K0G4	unreviewed	D3K0G4_ARATH	Auxin-responsive protein	IAA13 At2g33310	Arabidopsis thaliana (Mouse-ear cress)	209	
+D3K0G7	unreviewed	D3K0G7_ARATH	Auxin-responsive protein	IAA14 At4g14550	Arabidopsis thaliana (Mouse-ear cress)	190	
+D3K0G9	unreviewed	D3K0G9_ARATH	Auxin-responsive protein	IAA14 At4g14550	Arabidopsis thaliana (Mouse-ear cress)	191	
+D3K0H0	unreviewed	D3K0H0_ARATH	Auxin-responsive protein	IAA14 At4g14550	Arabidopsis thaliana (Mouse-ear cress)	189	
+D3K0H1	unreviewed	D3K0H1_ARATH	Auxin-responsive protein	IAA14 At4g14550	Arabidopsis thaliana (Mouse-ear cress)	190	
+D3K0H2	unreviewed	D3K0H2_ARATH	Auxin-responsive protein	IAA16 At3g04730	Arabidopsis thaliana (Mouse-ear cress)	145	
+D3K0H3	unreviewed	D3K0H3_ARATH	Auxin-responsive protein	IAA16 At3g04730	Arabidopsis thaliana (Mouse-ear cress)	152	
+D3K0H4	unreviewed	D3K0H4_ARATH	Auxin-responsive protein	IAA16 At3g04730	Arabidopsis thaliana (Mouse-ear cress)	149	
+D3K0H5	unreviewed	D3K0H5_ARATH	Auxin-responsive protein	IAA16 At3g04730	Arabidopsis thaliana (Mouse-ear cress)	146	
+D3K0H6	unreviewed	D3K0H6_ARATH	Auxin-responsive protein	IAA16 At3g04730	Arabidopsis thaliana (Mouse-ear cress)	146	
+D3K0H7	unreviewed	D3K0H7_ARATH	Auxin-responsive protein	IAA17 At1g04250	Arabidopsis thaliana (Mouse-ear cress)	150	
+D3K0I2	unreviewed	D3K0I2_ARATH	Auxin-responsive protein	IAA18 At1g51950	Arabidopsis thaliana (Mouse-ear cress)	183	
+D3K0I3	unreviewed	D3K0I3_ARATH	Auxin-responsive protein	IAA18 At1g51950	Arabidopsis thaliana (Mouse-ear cress)	212	
+D3K0I4	unreviewed	D3K0I4_ARATH	Auxin-responsive protein	IAA18 At1g51950	Arabidopsis thaliana (Mouse-ear cress)	210	
+D3K0I5	unreviewed	D3K0I5_ARATH	Auxin-responsive protein	IAA18 At1g51950	Arabidopsis thaliana (Mouse-ear cress)	216	
+D3K0I6	unreviewed	D3K0I6_ARATH	Auxin-responsive protein	IAA18 At1g51950	Arabidopsis thaliana (Mouse-ear cress)	216	
+D3K0I7	unreviewed	D3K0I7_ARATH	Auxin-responsive protein	IAA19 At3g15540	Arabidopsis thaliana (Mouse-ear cress)	187	
+D3K0I8	unreviewed	D3K0I8_ARATH	Auxin-responsive protein	IAA19 At3g15540	Arabidopsis thaliana (Mouse-ear cress)	187	
+D3K0I9	unreviewed	D3K0I9_ARATH	Auxin-responsive protein	IAA19 At3g15540	Arabidopsis thaliana (Mouse-ear cress)	175	
+D3K0J0	unreviewed	D3K0J0_ARATH	Auxin-responsive protein	IAA19 At3g15540	Arabidopsis thaliana (Mouse-ear cress)	168	
+D3K0J1	unreviewed	D3K0J1_ARATH	Auxin-responsive protein	IAA19 At3g15540	Arabidopsis thaliana (Mouse-ear cress)	187	
+D3K0J2	unreviewed	D3K0J2_ARATH	Auxin-responsive protein	IAA20 At2g46990	Arabidopsis thaliana (Mouse-ear cress)	146	
+D3K0J3	unreviewed	D3K0J3_ARATH	Auxin-responsive protein	IAA20 At2g46990	Arabidopsis thaliana (Mouse-ear cress)	173	
+D3K0J4	unreviewed	D3K0J4_ARATH	Auxin-responsive protein	IAA20 At2g46990	Arabidopsis thaliana (Mouse-ear cress)	149	
+D3K0J5	unreviewed	D3K0J5_ARATH	Auxin-responsive protein	IAA20 At2g46990	Arabidopsis thaliana (Mouse-ear cress)	158	
+D3K0J6	unreviewed	D3K0J6_ARATH	Auxin-responsive protein	IAA20 At2g46990	Arabidopsis thaliana (Mouse-ear cress)	164	
+D3K0J7	unreviewed	D3K0J7_ARATH	Auxin-responsive protein	IAA26 At3g16500	Arabidopsis thaliana (Mouse-ear cress)	212	
+D3K0J8	unreviewed	D3K0J8_ARATH	Auxin-responsive protein	IAA26 At3g16500	Arabidopsis thaliana (Mouse-ear cress)	213	
+D3K0J9	unreviewed	D3K0J9_ARATH	Auxin-responsive protein	IAA26 At3g16500	Arabidopsis thaliana (Mouse-ear cress)	222	
+D3K0K1	unreviewed	D3K0K1_ARATH	Auxin-responsive protein	IAA26 At3g16500	Arabidopsis thaliana (Mouse-ear cress)	234	
+D3K0K2	unreviewed	D3K0K2_ARATH	Auxin-responsive protein	IAA27 At4g29080	Arabidopsis thaliana (Mouse-ear cress)	271	
+D3K0K3	unreviewed	D3K0K3_ARATH	Auxin-responsive protein	IAA27 At4g29080	Arabidopsis thaliana (Mouse-ear cress)	263	
+D3K0K4	unreviewed	D3K0K4_ARATH	Auxin-responsive protein	IAA27 At4g29080	Arabidopsis thaliana (Mouse-ear cress)	248	
+D3K0K5	unreviewed	D3K0K5_ARATH	Auxin-responsive protein	IAA27 At4g29080	Arabidopsis thaliana (Mouse-ear cress)	261	
+D3K0K7	unreviewed	D3K0K7_ARATH	Auxin-responsive protein	IAA28 At5g25890	Arabidopsis thaliana (Mouse-ear cress)	168	
+D3K0L2	unreviewed	D3K0L2_ARATH	Auxin-responsive protein	IAA29 At4g32280	Arabidopsis thaliana (Mouse-ear cress)	226	
+D3K0L3	unreviewed	D3K0L3_ARATH	Auxin-responsive protein	IAA29 At4g32280	Arabidopsis thaliana (Mouse-ear cress)	218	
+D3K0L5	unreviewed	D3K0L5_ARATH	Auxin-responsive protein	IAA29 At4g32280	Arabidopsis thaliana (Mouse-ear cress)	242	
+D3K0L6	unreviewed	D3K0L6_ARATH	Auxin-responsive protein	IAA29 At4g32280	Arabidopsis thaliana (Mouse-ear cress)	216	
+D3K0M2	unreviewed	D3K0M2_ARATH	Auxin-responsive protein	IAA31 At3g17600	Arabidopsis thaliana (Mouse-ear cress)	158	AT3G17600;
+D3K0M3	unreviewed	D3K0M3_ARATH	Auxin-responsive protein	IAA31 At3g17600	Arabidopsis thaliana (Mouse-ear cress)	138	
+D3K0M6	unreviewed	D3K0M6_ARATH	Auxin-responsive protein	IAA31 At3g17600	Arabidopsis thaliana (Mouse-ear cress)	155	
+D3K0M7	unreviewed	D3K0M7_ARATH	Auxin-responsive protein	IAA33 At5g57420	Arabidopsis thaliana (Mouse-ear cress)	160	
+D3K0M8	unreviewed	D3K0M8_ARATH	Auxin-responsive protein	IAA33 At5g57420	Arabidopsis thaliana (Mouse-ear cress)	169	
+D3K0M9	unreviewed	D3K0M9_ARATH	Auxin-responsive protein	IAA33 At5g57420	Arabidopsis thaliana (Mouse-ear cress)	168	
+D3K0N2	unreviewed	D3K0N2_ARATH	Auxin-responsive protein	IAA34 At1g15050	Arabidopsis thaliana (Mouse-ear cress)	179	
+D3K0N3	unreviewed	D3K0N3_ARATH	Auxin-responsive protein	IAA34 At1g15050	Arabidopsis thaliana (Mouse-ear cress)	181	
+D3K0N4	unreviewed	D3K0N4_ARATH	Auxin-responsive protein	IAA34 At1g15050	Arabidopsis thaliana (Mouse-ear cress)	185	
+D3K0N5	unreviewed	D3K0N5_ARATH	Auxin-responsive protein	IAA34 At1g15050	Arabidopsis thaliana (Mouse-ear cress)	168	
+E1A6S7	unreviewed	E1A6S7_ARATH	Auxin-responsive protein	ARF11 At2g46530	Arabidopsis thaliana (Mouse-ear cress)	185	
+E1A6T0	unreviewed	E1A6T0_ARATH	Auxin-responsive protein	ARF11 At2g46530	Arabidopsis thaliana (Mouse-ear cress)	188	
+E1A6T3	unreviewed	E1A6T3_ARATH	Auxin-responsive protein	ARF11 At2g46530	Arabidopsis thaliana (Mouse-ear cress)	188	
+E1A6T5	unreviewed	E1A6T5_ARATH	Auxin-responsive protein	ARF11 At2g46530	Arabidopsis thaliana (Mouse-ear cress)	192	
+E1A6T8	unreviewed	E1A6T8_ARATH	Auxin-responsive protein	ARF11 At2g46530	Arabidopsis thaliana (Mouse-ear cress)	187	
+E1A6Y0	unreviewed	E1A6Y0_ARATH	Auxin-responsive protein	ARF18 At3g61830	Arabidopsis thaliana (Mouse-ear cress)	225	
+E1A6Y1	unreviewed	E1A6Y1_ARATH	Auxin-responsive protein	ARF18 At3g61830	Arabidopsis thaliana (Mouse-ear cress)	226	
+E1A6Y3	unreviewed	E1A6Y3_ARATH	Auxin-responsive protein	ARF18 At3g61830	Arabidopsis thaliana (Mouse-ear cress)	225	
+E1A6Y6	unreviewed	E1A6Y6_ARATH	Auxin-responsive protein	ARF18 At3g61830	Arabidopsis thaliana (Mouse-ear cress)	224	
+E1A6Z2	unreviewed	E1A6Z2_ARATH	Auxin-responsive protein	ARF18 At3g61830	Arabidopsis thaliana (Mouse-ear cress)	225	
+E1A718	unreviewed	E1A718_ARATH	Auxin-responsive protein	IAA1 At4g14560	Arabidopsis thaliana (Mouse-ear cress)	168	
+E1A719	unreviewed	E1A719_ARATH	Auxin-responsive protein	IAA2 At3g23030	Arabidopsis thaliana (Mouse-ear cress)	174	
+E1A722	unreviewed	E1A722_ARATH	Auxin-responsive protein	IAA2 At3g23030	Arabidopsis thaliana (Mouse-ear cress)	174	
+E1A727	unreviewed	E1A727_ARATH	Auxin-responsive protein	IAA2 At3g23030	Arabidopsis thaliana (Mouse-ear cress)	174	
+E1A738	unreviewed	E1A738_ARATH	Auxin-responsive protein	IAA3 At1g04240	Arabidopsis thaliana (Mouse-ear cress)	182	
+E1A743	unreviewed	E1A743_ARATH	Auxin-responsive protein	IAA3 At1g04240	Arabidopsis thaliana (Mouse-ear cress)	189	
+E1A745	unreviewed	E1A745_ARATH	Auxin-responsive protein	IAA4 At5g43700	Arabidopsis thaliana (Mouse-ear cress)	186	
+E1A749	unreviewed	E1A749_ARATH	Auxin-responsive protein	IAA4 At5g43700	Arabidopsis thaliana (Mouse-ear cress)	186	
+E1A756	unreviewed	E1A756_ARATH	Auxin-responsive protein	IAA4 At5g43700	Arabidopsis thaliana (Mouse-ear cress)	186	
+E1A758	unreviewed	E1A758_ARATH	Auxin-responsive protein	IAA5 At1g15580	Arabidopsis thaliana (Mouse-ear cress)	163	
+E1A760	unreviewed	E1A760_ARATH	Auxin-responsive protein	IAA5 At1g15580	Arabidopsis thaliana (Mouse-ear cress)	163	
+E1A771	unreviewed	E1A771_ARATH	Auxin-responsive protein	IAA6 At1g52830	Arabidopsis thaliana (Mouse-ear cress)	175	
+E1A772	unreviewed	E1A772_ARATH	Auxin-responsive protein	IAA6 At1g52830	Arabidopsis thaliana (Mouse-ear cress)	177	
+E1A773	unreviewed	E1A773_ARATH	Auxin-responsive protein	IAA6 At1g52830	Arabidopsis thaliana (Mouse-ear cress)	181	
+E1A774	unreviewed	E1A774_ARATH	Auxin-responsive protein	IAA6 At1g52830	Arabidopsis thaliana (Mouse-ear cress)	146	
+E1A775	unreviewed	E1A775_ARATH	Auxin-responsive protein	IAA6 At1g52830	Arabidopsis thaliana (Mouse-ear cress)	147	
+E1A776	unreviewed	E1A776_ARATH	Auxin-responsive protein	IAA6 At1g52830	Arabidopsis thaliana (Mouse-ear cress)	182	
+E1A778	unreviewed	E1A778_ARATH	Auxin-responsive protein	IAA6 At1g52830	Arabidopsis thaliana (Mouse-ear cress)	173	
+E1A782	unreviewed	E1A782_ARATH	Auxin-responsive protein	IAA6 At1g52830	Arabidopsis thaliana (Mouse-ear cress)	183	
+E1A783	unreviewed	E1A783_ARATH	Auxin-responsive protein	IAA6 At1g52830	Arabidopsis thaliana (Mouse-ear cress)	178	
+E1A784	unreviewed	E1A784_ARATH	Auxin-responsive protein	IAA7 At3g23050	Arabidopsis thaliana (Mouse-ear cress)	95	
+E1A785	unreviewed	E1A785_ARATH	Auxin-responsive protein	IAA7 At3g23050	Arabidopsis thaliana (Mouse-ear cress)	72	
+E1A786	unreviewed	E1A786_ARATH	Auxin-responsive protein	IAA7 At3g23050	Arabidopsis thaliana (Mouse-ear cress)	85	
+E1A788	unreviewed	E1A788_ARATH	Auxin-responsive protein	IAA7 At3g23050	Arabidopsis thaliana (Mouse-ear cress)	95	
+E1A790	unreviewed	E1A790_ARATH	Auxin-responsive protein	IAA7 At3g23050	Arabidopsis thaliana (Mouse-ear cress)	94	
+E1A794	unreviewed	E1A794_ARATH	Auxin-responsive protein	IAA7 At3g23050	Arabidopsis thaliana (Mouse-ear cress)	95	
+E1A795	unreviewed	E1A795_ARATH	Auxin-responsive protein	IAA7 At3g23050	Arabidopsis thaliana (Mouse-ear cress)	84	
+E1A797	unreviewed	E1A797_ARATH	Auxin-responsive protein	IAA8 At2g22670	Arabidopsis thaliana (Mouse-ear cress)	249	
+E1A798	unreviewed	E1A798_ARATH	Auxin-responsive protein	IAA8 At2g22670	Arabidopsis thaliana (Mouse-ear cress)	226	
+E1A799	unreviewed	E1A799_ARATH	Auxin-responsive protein	IAA8 At2g22670	Arabidopsis thaliana (Mouse-ear cress)	250	
+E1A7A0	unreviewed	E1A7A0_ARATH	Auxin-responsive protein	IAA8 At2g22670	Arabidopsis thaliana (Mouse-ear cress)	252	
+E1A7A1	unreviewed	E1A7A1_ARATH	Auxin-responsive protein	IAA8 At2g22670	Arabidopsis thaliana (Mouse-ear cress)	247	
+E1A7A2	unreviewed	E1A7A2_ARATH	Auxin-responsive protein	IAA8 At2g22670	Arabidopsis thaliana (Mouse-ear cress)	251	
+E1A7A3	unreviewed	E1A7A3_ARATH	Auxin-responsive protein	IAA8 At2g22670	Arabidopsis thaliana (Mouse-ear cress)	259	
+E1A7A4	unreviewed	E1A7A4_ARATH	Auxin-responsive protein	IAA8 At2g22670	Arabidopsis thaliana (Mouse-ear cress)	225	
+E1A7A5	unreviewed	E1A7A5_ARATH	Auxin-responsive protein	IAA8 At2g22670	Arabidopsis thaliana (Mouse-ear cress)	263	
+E1A7A6	unreviewed	E1A7A6_ARATH	Auxin-responsive protein	IAA8 At2g22670	Arabidopsis thaliana (Mouse-ear cress)	278	
+E1A7A7	unreviewed	E1A7A7_ARATH	Auxin-responsive protein	IAA8 At2g22670	Arabidopsis thaliana (Mouse-ear cress)	262	
+E1A7A8	unreviewed	E1A7A8_ARATH	Auxin-responsive protein	IAA8 At2g22670	Arabidopsis thaliana (Mouse-ear cress)	252	
+E1A7A9	unreviewed	E1A7A9_ARATH	Auxin-responsive protein	IAA8 At2g22670	Arabidopsis thaliana (Mouse-ear cress)	253	
+E1A7B0	unreviewed	E1A7B0_ARATH	Auxin-responsive protein	IAA9 At5g65670	Arabidopsis thaliana (Mouse-ear cress)	286	
+E1A7B3	unreviewed	E1A7B3_ARATH	Auxin-responsive protein	IAA9 At5g65670	Arabidopsis thaliana (Mouse-ear cress)	292	
+E1A7B5	unreviewed	E1A7B5_ARATH	Auxin-responsive protein	IAA9 At5g65670	Arabidopsis thaliana (Mouse-ear cress)	302	
+E1A7B8	unreviewed	E1A7B8_ARATH	Auxin-responsive protein	IAA9 At5g65670	Arabidopsis thaliana (Mouse-ear cress)	303	
+E1A7B9	unreviewed	E1A7B9_ARATH	Auxin-responsive protein	IAA9 At5g65670	Arabidopsis thaliana (Mouse-ear cress)	302	
+E1A7C2	unreviewed	E1A7C2_ARATH	Auxin-responsive protein	IAA9 At5g65670	Arabidopsis thaliana (Mouse-ear cress)	302	
+E1A7C4	unreviewed	E1A7C4_ARATH	Auxin-responsive protein	IAA10 At1g04100	Arabidopsis thaliana (Mouse-ear cress)	206	
+E1A7C5	unreviewed	E1A7C5_ARATH	Auxin-responsive protein	IAA10 At1g04100	Arabidopsis thaliana (Mouse-ear cress)	200	
+E1A7D3	unreviewed	E1A7D3_ARATH	Auxin-responsive protein	IAA10 At1g04100	Arabidopsis thaliana (Mouse-ear cress)	185	
+E1A7D7	unreviewed	E1A7D7_ARATH	Auxin-responsive protein	IAA11 At4g28640	Arabidopsis thaliana (Mouse-ear cress)	215	
+E1A7E8	unreviewed	E1A7E8_ARATH	Auxin-responsive protein	IAA11 At4g28640	Arabidopsis thaliana (Mouse-ear cress)	200	
+E1A7E9	unreviewed	E1A7E9_ARATH	Auxin-responsive protein	IAA12 At1g04550	Arabidopsis thaliana (Mouse-ear cress)	174	
+E1A7F0	unreviewed	E1A7F0_ARATH	Auxin-responsive protein	IAA12 At1g04550	Arabidopsis thaliana (Mouse-ear cress)	199	
+E1A7F1	unreviewed	E1A7F1_ARATH	Auxin-responsive protein	IAA12 At1g04550	Arabidopsis thaliana (Mouse-ear cress)	197	
+E1A7F2	unreviewed	E1A7F2_ARATH	Auxin-responsive protein	IAA12 At1g04550	Arabidopsis thaliana (Mouse-ear cress)	198	
+E1A7F3	unreviewed	E1A7F3_ARATH	Auxin-responsive protein	IAA12 At1g04550	Arabidopsis thaliana (Mouse-ear cress)	177	
+E1A7F4	unreviewed	E1A7F4_ARATH	Auxin-responsive protein	IAA12 At1g04550	Arabidopsis thaliana (Mouse-ear cress)	199	
+E1A7F5	unreviewed	E1A7F5_ARATH	Auxin-responsive protein	IAA12 At1g04550	Arabidopsis thaliana (Mouse-ear cress)	201	
+E1A7F7	unreviewed	E1A7F7_ARATH	Auxin-responsive protein	IAA12 At1g04550	Arabidopsis thaliana (Mouse-ear cress)	201	
+E1A7F8	unreviewed	E1A7F8_ARATH	Auxin-responsive protein	IAA12 At1g04550	Arabidopsis thaliana (Mouse-ear cress)	201	
+E1A7F9	unreviewed	E1A7F9_ARATH	Auxin-responsive protein	IAA12 At1g04550	Arabidopsis thaliana (Mouse-ear cress)	180	
+E1A7G0	unreviewed	E1A7G0_ARATH	Auxin-responsive protein	IAA12 At1g04550	Arabidopsis thaliana (Mouse-ear cress)	197	
+E1A7G2	unreviewed	E1A7G2_ARATH	Auxin-responsive protein	IAA13 At2g33310	Arabidopsis thaliana (Mouse-ear cress)	210	
+E1A7G7	unreviewed	E1A7G7_ARATH	Auxin-responsive protein	IAA13 At2g33310	Arabidopsis thaliana (Mouse-ear cress)	192	
+E1A7H5	unreviewed	E1A7H5_ARATH	Auxin-responsive protein	IAA14 At4g14550	Arabidopsis thaliana (Mouse-ear cress)	171	
+E1A7H6	unreviewed	E1A7H6_ARATH	Auxin-responsive protein	IAA14 At4g14550	Arabidopsis thaliana (Mouse-ear cress)	172	
+E1A7H7	unreviewed	E1A7H7_ARATH	Auxin-responsive protein	IAA14 At4g14550	Arabidopsis thaliana (Mouse-ear cress)	190	
+E1A7H8	unreviewed	E1A7H8_ARATH	Auxin-responsive protein	IAA14 At4g14550	Arabidopsis thaliana (Mouse-ear cress)	172	
+E1A7I8	unreviewed	E1A7I8_ARATH	Auxin-responsive protein	IAA15 At1g80390	Arabidopsis thaliana (Mouse-ear cress)	156	
+E1A7I9	unreviewed	E1A7I9_ARATH	Auxin-responsive protein	IAA15 At1g80390	Arabidopsis thaliana (Mouse-ear cress)	176	
+E1A7J0	unreviewed	E1A7J0_ARATH	Auxin-responsive protein	IAA15 At1g80390	Arabidopsis thaliana (Mouse-ear cress)	172	
+E1A7J1	unreviewed	E1A7J1_ARATH	Auxin-responsive protein	IAA15 At1g80390	Arabidopsis thaliana (Mouse-ear cress)	162	
+E1A7J2	unreviewed	E1A7J2_ARATH	Auxin-responsive protein	IAA15 At1g80390	Arabidopsis thaliana (Mouse-ear cress)	168	
+E1A7J3	unreviewed	E1A7J3_ARATH	Auxin-responsive protein	IAA15 At1g80390	Arabidopsis thaliana (Mouse-ear cress)	165	
+E1A7J4	unreviewed	E1A7J4_ARATH	Auxin-responsive protein	IAA15 At1g80390	Arabidopsis thaliana (Mouse-ear cress)	172	
+E1A7J5	unreviewed	E1A7J5_ARATH	Auxin-responsive protein	IAA15 At1g80390	Arabidopsis thaliana (Mouse-ear cress)	168	
+E1A7J6	unreviewed	E1A7J6_ARATH	Auxin-responsive protein	IAA15 At1g80390	Arabidopsis thaliana (Mouse-ear cress)	158	
+E1A7J7	unreviewed	E1A7J7_ARATH	Auxin-responsive protein	IAA15 At1g80390	Arabidopsis thaliana (Mouse-ear cress)	161	
+E1A7J9	unreviewed	E1A7J9_ARATH	Auxin-responsive protein	IAA15 At1g80390	Arabidopsis thaliana (Mouse-ear cress)	164	
+E1A7K0	unreviewed	E1A7K0_ARATH	Auxin-responsive protein	IAA15 At1g80390	Arabidopsis thaliana (Mouse-ear cress)	168	
+E1A7K2	unreviewed	E1A7K2_ARATH	Auxin-responsive protein	IAA15 At1g80390	Arabidopsis thaliana (Mouse-ear cress)	156	
+E1A7K4	unreviewed	E1A7K4_ARATH	Auxin-responsive protein	IAA15 At1g80390	Arabidopsis thaliana (Mouse-ear cress)	166	
+E1A7K6	unreviewed	E1A7K6_ARATH	Auxin-responsive protein	IAA16 At3g04730	Arabidopsis thaliana (Mouse-ear cress)	156	
+E1A7K7	unreviewed	E1A7K7_ARATH	Auxin-responsive protein	IAA16 At3g04730	Arabidopsis thaliana (Mouse-ear cress)	167	
+E1A7K8	unreviewed	E1A7K8_ARATH	Auxin-responsive protein	IAA16 At3g04730	Arabidopsis thaliana (Mouse-ear cress)	166	
+E1A7K9	unreviewed	E1A7K9_ARATH	Auxin-responsive protein	IAA16 At3g04730	Arabidopsis thaliana (Mouse-ear cress)	165	
+E1A7L2	unreviewed	E1A7L2_ARATH	Auxin-responsive protein	IAA16 At3g04730	Arabidopsis thaliana (Mouse-ear cress)	149	
+E1A7L3	unreviewed	E1A7L3_ARATH	Auxin-responsive protein	IAA16 At3g04730	Arabidopsis thaliana (Mouse-ear cress)	149	
+E1A7L4	unreviewed	E1A7L4_ARATH	Auxin-responsive protein	IAA16 At3g04730	Arabidopsis thaliana (Mouse-ear cress)	161	
+E1A7L5	unreviewed	E1A7L5_ARATH	Auxin-responsive protein	IAA16 At3g04730	Arabidopsis thaliana (Mouse-ear cress)	150	
+E1A7L6	unreviewed	E1A7L6_ARATH	Auxin-responsive protein	IAA16 At3g04730	Arabidopsis thaliana (Mouse-ear cress)	152	
+E1A7L7	unreviewed	E1A7L7_ARATH	Auxin-responsive protein	IAA16 At3g04730	Arabidopsis thaliana (Mouse-ear cress)	158	
+E1A7M0	unreviewed	E1A7M0_ARATH	Auxin-responsive protein	IAA17 At1g04250	Arabidopsis thaliana (Mouse-ear cress)	144	
+E1A7M1	unreviewed	E1A7M1_ARATH	Auxin-responsive protein	IAA17 At1g04250	Arabidopsis thaliana (Mouse-ear cress)	149	
+E1A7M3	unreviewed	E1A7M3_ARATH	Auxin-responsive protein	IAA17 At1g04250	Arabidopsis thaliana (Mouse-ear cress)	132	
+E1A7M5	unreviewed	E1A7M5_ARATH	Auxin-responsive protein	IAA17 At1g04250	Arabidopsis thaliana (Mouse-ear cress)	138	
+E1A7N2	unreviewed	E1A7N2_ARATH	Auxin-responsive protein	IAA18 At1g51950	Arabidopsis thaliana (Mouse-ear cress)	217	
+E1A7N4	unreviewed	E1A7N4_ARATH	Auxin-responsive protein	IAA18 At1g51950	Arabidopsis thaliana (Mouse-ear cress)	212	
+E1A7N5	unreviewed	E1A7N5_ARATH	Auxin-responsive protein	IAA18 At1g51950	Arabidopsis thaliana (Mouse-ear cress)	208	
+E1A7N6	unreviewed	E1A7N6_ARATH	Auxin-responsive protein	IAA18 At1g51950	Arabidopsis thaliana (Mouse-ear cress)	208	
+E1A7N8	unreviewed	E1A7N8_ARATH	Auxin-responsive protein	IAA18 At1g51950	Arabidopsis thaliana (Mouse-ear cress)	214	
+E1A7N9	unreviewed	E1A7N9_ARATH	Auxin-responsive protein	IAA18 At1g51950	Arabidopsis thaliana (Mouse-ear cress)	215	
+E1A7P0	unreviewed	E1A7P0_ARATH	Auxin-responsive protein	IAA18 At1g51950	Arabidopsis thaliana (Mouse-ear cress)	217	
+E1A7P2	unreviewed	E1A7P2_ARATH	Auxin-responsive protein	IAA18 At1g51950	Arabidopsis thaliana (Mouse-ear cress)	198	
+E1A7P3	unreviewed	E1A7P3_ARATH	Auxin-responsive protein	IAA18 At1g51950	Arabidopsis thaliana (Mouse-ear cress)	199	
+E1A7P4	unreviewed	E1A7P4_ARATH	Auxin-responsive protein	IAA18 At1g51950	Arabidopsis thaliana (Mouse-ear cress)	210	
+E1A7P5	unreviewed	E1A7P5_ARATH	Auxin-responsive protein	IAA19 At3g15540	Arabidopsis thaliana (Mouse-ear cress)	136	
+E1A7P6	unreviewed	E1A7P6_ARATH	Auxin-responsive protein	IAA19 At3g15540	Arabidopsis thaliana (Mouse-ear cress)	136	
+E1A7P8	unreviewed	E1A7P8_ARATH	Auxin-responsive protein	IAA19 At3g15540	Arabidopsis thaliana (Mouse-ear cress)	136	
+E1A7Q1	unreviewed	E1A7Q1_ARATH	Auxin-responsive protein	IAA19 At3g15540	Arabidopsis thaliana (Mouse-ear cress)	136	
+E1A7Q3	unreviewed	E1A7Q3_ARATH	Auxin-responsive protein	IAA19 At3g15540	Arabidopsis thaliana (Mouse-ear cress)	136	
+E1A7Q8	unreviewed	E1A7Q8_ARATH	Auxin-responsive protein	IAA20 At2g46990	Arabidopsis thaliana (Mouse-ear cress)	171	
+E1A7Q9	unreviewed	E1A7Q9_ARATH	Auxin-responsive protein	IAA20 At2g46990	Arabidopsis thaliana (Mouse-ear cress)	155	
+E1A7R0	unreviewed	E1A7R0_ARATH	Auxin-responsive protein	IAA20 At2g46990	Arabidopsis thaliana (Mouse-ear cress)	160	
+E1A7R2	unreviewed	E1A7R2_ARATH	Auxin-responsive protein	IAA20 At2g46990 F14M4.18	Arabidopsis thaliana (Mouse-ear cress)	157	AT2G46990;
+E1A7R3	unreviewed	E1A7R3_ARATH	Auxin-responsive protein	IAA20 At2g46990	Arabidopsis thaliana (Mouse-ear cress)	172	
+E1A7R4	unreviewed	E1A7R4_ARATH	Auxin-responsive protein	IAA20 At2g46990	Arabidopsis thaliana (Mouse-ear cress)	157	
+E1A7R5	unreviewed	E1A7R5_ARATH	Auxin-responsive protein	IAA20 At2g46990	Arabidopsis thaliana (Mouse-ear cress)	174	
+E1A7R6	unreviewed	E1A7R6_ARATH	Auxin-responsive protein	IAA20 At2g46990	Arabidopsis thaliana (Mouse-ear cress)	171	
+E1A7R8	unreviewed	E1A7R8_ARATH	Auxin-responsive protein	IAA20 At2g46990	Arabidopsis thaliana (Mouse-ear cress)	156	
+E1A7R9	unreviewed	E1A7R9_ARATH	Auxin-responsive protein	IAA20 At2g46990	Arabidopsis thaliana (Mouse-ear cress)	168	
+E1A7S1	unreviewed	E1A7S1_ARATH	Auxin-responsive protein	IAA26 At3g16500	Arabidopsis thaliana (Mouse-ear cress)	232	
+E1A7S2	unreviewed	E1A7S2_ARATH	Auxin-responsive protein	IAA26 At3g16500	Arabidopsis thaliana (Mouse-ear cress)	235	
+E1A7S5	unreviewed	E1A7S5_ARATH	Auxin-responsive protein	IAA26 At3g16500	Arabidopsis thaliana (Mouse-ear cress)	212	
+E1A7S6	unreviewed	E1A7S6_ARATH	Auxin-responsive protein	IAA26 At3g16500	Arabidopsis thaliana (Mouse-ear cress)	212	
+E1A7S7	unreviewed	E1A7S7_ARATH	Auxin-responsive protein	IAA26 At3g16500	Arabidopsis thaliana (Mouse-ear cress)	224	
+E1A7S9	unreviewed	E1A7S9_ARATH	Auxin-responsive protein	IAA26 At3g16500	Arabidopsis thaliana (Mouse-ear cress)	233	
+E1A7T2	unreviewed	E1A7T2_ARATH	Auxin-responsive protein	IAA26 At3g16500	Arabidopsis thaliana (Mouse-ear cress)	225	
+E1A7T3	unreviewed	E1A7T3_ARATH	Auxin-responsive protein	IAA26 At3g16500	Arabidopsis thaliana (Mouse-ear cress)	210	
+E1A7T4	unreviewed	E1A7T4_ARATH	Auxin-responsive protein	IAA27 At4g29080	Arabidopsis thaliana (Mouse-ear cress)	264	
+E1A7T5	unreviewed	E1A7T5_ARATH	Auxin-responsive protein	IAA27 At4g29080	Arabidopsis thaliana (Mouse-ear cress)	226	
+E1A7T6	unreviewed	E1A7T6_ARATH	Auxin-responsive protein	IAA27 At4g29080	Arabidopsis thaliana (Mouse-ear cress)	242	
+E1A7T7	unreviewed	E1A7T7_ARATH	Auxin-responsive protein	IAA27 At4g29080	Arabidopsis thaliana (Mouse-ear cress)	263	
+E1A7T8	unreviewed	E1A7T8_ARATH	Auxin-responsive protein	IAA27 At4g29080	Arabidopsis thaliana (Mouse-ear cress)	248	
+E1A7T9	unreviewed	E1A7T9_ARATH	Auxin-responsive protein	IAA27 At4g29080	Arabidopsis thaliana (Mouse-ear cress)	258	
+E1A7U0	unreviewed	E1A7U0_ARATH	Auxin-responsive protein	IAA27 At4g29080	Arabidopsis thaliana (Mouse-ear cress)	248	
+E1A7U1	unreviewed	E1A7U1_ARATH	Auxin-responsive protein	IAA27 At4g29080	Arabidopsis thaliana (Mouse-ear cress)	243	
+E1A7U2	unreviewed	E1A7U2_ARATH	Auxin-responsive protein	IAA27 At4g29080	Arabidopsis thaliana (Mouse-ear cress)	249	
+E1A7U3	unreviewed	E1A7U3_ARATH	Auxin-responsive protein	IAA27 At4g29080	Arabidopsis thaliana (Mouse-ear cress)	242	
+E1A7U4	unreviewed	E1A7U4_ARATH	Auxin-responsive protein	IAA27 At4g29080	Arabidopsis thaliana (Mouse-ear cress)	248	
+E1A7U5	unreviewed	E1A7U5_ARATH	Auxin-responsive protein	IAA27 At4g29080	Arabidopsis thaliana (Mouse-ear cress)	247	
+E1A7U6	unreviewed	E1A7U6_ARATH	Auxin-responsive protein	IAA27 At4g29080	Arabidopsis thaliana (Mouse-ear cress)	233	
+E1A7U8	unreviewed	E1A7U8_ARATH	Auxin-responsive protein	IAA28 At5g25890	Arabidopsis thaliana (Mouse-ear cress)	174	
+E1A7U9	unreviewed	E1A7U9_ARATH	Auxin-responsive protein	IAA28 At5g25890	Arabidopsis thaliana (Mouse-ear cress)	151	
+E1A7V0	unreviewed	E1A7V0_ARATH	Auxin-responsive protein	IAA28 At5g25890	Arabidopsis thaliana (Mouse-ear cress)	158	
+E1A7V1	unreviewed	E1A7V1_ARATH	Auxin-responsive protein	IAA28 At5g25890	Arabidopsis thaliana (Mouse-ear cress)	164	
+E1A7V2	unreviewed	E1A7V2_ARATH	Auxin-responsive protein	IAA28 At5g25890	Arabidopsis thaliana (Mouse-ear cress)	149	
+E1A7W0	unreviewed	E1A7W0_ARATH	Auxin-responsive protein	IAA29 At4g32280	Arabidopsis thaliana (Mouse-ear cress)	202	
+E1A7W2	unreviewed	E1A7W2_ARATH	Auxin-responsive protein	IAA29 At4g32280	Arabidopsis thaliana (Mouse-ear cress)	204	
+E1A7W4	unreviewed	E1A7W4_ARATH	Auxin-responsive protein	IAA29 At4g32280	Arabidopsis thaliana (Mouse-ear cress)	235	
+E1A7W5	unreviewed	E1A7W5_ARATH	Auxin-responsive protein	IAA29 At4g32280	Arabidopsis thaliana (Mouse-ear cress)	218	
+E1A7W6	unreviewed	E1A7W6_ARATH	Auxin-responsive protein	IAA29 At4g32280	Arabidopsis thaliana (Mouse-ear cress)	226	
+E1A7W8	unreviewed	E1A7W8_ARATH	Auxin-responsive protein	IAA29 At4g32280	Arabidopsis thaliana (Mouse-ear cress)	217	
+E1A7W9	unreviewed	E1A7W9_ARATH	Auxin-responsive protein	IAA29 At4g32280	Arabidopsis thaliana (Mouse-ear cress)	242	
+E1A7X0	unreviewed	E1A7X0_ARATH	Auxin-responsive protein	IAA29 At4g32280	Arabidopsis thaliana (Mouse-ear cress)	217	
+E1A7X2	unreviewed	E1A7X2_ARATH	Auxin-responsive protein	IAA29 At4g32280	Arabidopsis thaliana (Mouse-ear cress)	227	
+E1A7Y6	unreviewed	E1A7Y6_ARATH	Auxin-responsive protein	IAA31 At3g17600	Arabidopsis thaliana (Mouse-ear cress)	157	
+E1A7Y7	unreviewed	E1A7Y7_ARATH	Auxin-responsive protein	IAA31 At3g17600	Arabidopsis thaliana (Mouse-ear cress)	158	AT3G17600;
+E1A7Y8	unreviewed	E1A7Y8_ARATH	Auxin-responsive protein	IAA31 At3g17600	Arabidopsis thaliana (Mouse-ear cress)	158	
+E1A7Y9	unreviewed	E1A7Y9_ARATH	Auxin-responsive protein	IAA31 At3g17600	Arabidopsis thaliana (Mouse-ear cress)	151	
+E1A7Z9	unreviewed	E1A7Z9_ARATH	Auxin-responsive protein	IAA32 At2g01200	Arabidopsis thaliana (Mouse-ear cress)	191	
+E1A801	unreviewed	E1A801_ARATH	Auxin-responsive protein	IAA32 At2g01200	Arabidopsis thaliana (Mouse-ear cress)	190	
+E1A803	unreviewed	E1A803_ARATH	Auxin-responsive protein	IAA32 At2g01200	Arabidopsis thaliana (Mouse-ear cress)	191	
+E1A809	unreviewed	E1A809_ARATH	Auxin-responsive protein	IAA32 At2g01200	Arabidopsis thaliana (Mouse-ear cress)	173	
+E1A819	unreviewed	E1A819_ARATH	Auxin-responsive protein	IAA33 At5g57420	Arabidopsis thaliana (Mouse-ear cress)	170	
+E1A820	unreviewed	E1A820_ARATH	Auxin-responsive protein	IAA33 At5g57420	Arabidopsis thaliana (Mouse-ear cress)	170	
+E1A830	unreviewed	E1A830_ARATH	Auxin-responsive protein	IAA34 At1g15050	Arabidopsis thaliana (Mouse-ear cress)	185	
+E1A831	unreviewed	E1A831_ARATH	Auxin-responsive protein	IAA34 At1g15050	Arabidopsis thaliana (Mouse-ear cress)	185	
+E1A840	unreviewed	E1A840_ARATH	Auxin-responsive protein	IAA34 At1g15050	Arabidopsis thaliana (Mouse-ear cress)	182	
+E1A842	unreviewed	E1A842_ARATH	Auxin-responsive protein	IAA34 At1g15050	Arabidopsis thaliana (Mouse-ear cress)	166	
+F4HT52	unreviewed	F4HT52_ARATH	Auxin response factor	ARF13 AUXIN RESPONSE FACTOR 13 At1g34170 F12G12.1 F12G12_1	Arabidopsis thaliana (Mouse-ear cress)	546	AT1G34170;
+F4I1I4	reviewed	SAU67_ARATH	Auxin-responsive protein SAUR67 (Protein SMALL AUXIN UP RNA 67)	SAUR67 At1g29510 F15D2.9	Arabidopsis thaliana (Mouse-ear cress)	143	AT1G29510;
+F4I5P9	unreviewed	F4I5P9_ARATH	Auxin-responsive protein	IAA12 BDL BODENLOS At1g04550 T1G11.20 T1G11_20	Arabidopsis thaliana (Mouse-ear cress)	173	AT1G04550;
+F4ID31	unreviewed	F4ID31_ARATH	Auxin response factor	ARF1 auxin response factor 1 At1g59750 F23H11.7 F23H11_7	Arabidopsis thaliana (Mouse-ear cress)	660	AT1G59750;
+F4IKE9	unreviewed	F4IKE9_ARATH	Auxin-responsive protein	IAA8 At2g22670 T9I22.11 T9I22_11	Arabidopsis thaliana (Mouse-ear cress)	319	AT2G22670;
+F4J2U7	unreviewed	F4J2U7_ARATH	Auxin-responsive protein	IAA7 AUXIN RESISTANT 2 AXR2 indole-3-acetic acid 7 At3g23050	Arabidopsis thaliana (Mouse-ear cress)	210	AT3G23050;
+F4JLC8	unreviewed	F4JLC8_ARATH	Auxin-responsive protein	IAA11 At4g28640 T5F17.90 T5F17_90	Arabidopsis thaliana (Mouse-ear cress)	250	AT4G28640;
+F4JXI3	unreviewed	F4JXI3_ARATH	Auxin-responsive protein	IAA9 INDOLE-3-ACETIC ACID 9 MPA24.1 MPA24_1 At5g65670	Arabidopsis thaliana (Mouse-ear cress)	336	AT5G65670;
+O82333	reviewed	GH31_ARATH	Probable indole-3-acetic acid-amido synthetase GH3.1 (EC 6.3.2.-) (Auxin-responsive GH3-like protein 1) (AtGH3-1)	GH3.1 At2g14960 T26I20.12	Arabidopsis thaliana (Mouse-ear cress)	590	AT2G14960;
+Q0V7Z5	reviewed	SAU64_ARATH	Auxin-responsive protein SAUR64 (Protein SMALL AUXIN UP RNA 64)	SAUR64 At1g29450 F15D2.4	Arabidopsis thaliana (Mouse-ear cress)	141	AT1G29450;
+Q0WNJ2	unreviewed	Q0WNJ2_ARATH	Auxin-responsive protein	At3g04730	Arabidopsis thaliana (Mouse-ear cress)	236	AT3G04730;
+Q0WPR6	reviewed	SAU65_ARATH	Auxin-responsive protein SAUR65 (Protein SMALL AUXIN UP RNA 65)	SAUR65 At1g29460 F15D2.35	Arabidopsis thaliana (Mouse-ear cress)	148	AT1G29460;
+Q0WRB1	unreviewed	Q0WRB1_ARATH	Auxin-responsive protein	At4g14550	Arabidopsis thaliana (Mouse-ear cress)	228	AT4G14550;
+Q0WTK3	unreviewed	Q0WTK3_ARATH	Auxin-responsive protein	IAA4 At5g43700	Arabidopsis thaliana (Mouse-ear cress)	186	AT5G43700;
+Q0WU05	unreviewed	Q0WU05_ARATH	Auxin-responsive protein	At2g33310	Arabidopsis thaliana (Mouse-ear cress)	247	AT2G33310;
+Q0WV81	unreviewed	Q0WV81_ARATH	Auxin efflux carrier component	At1g70940	Arabidopsis thaliana (Mouse-ear cress)	640	AT1G70940;
+Q1ECS0	reviewed	SMAP2_ARATH	Small acidic protein 2	SMAP2 At3g24280 K7M2.4	Arabidopsis thaliana (Mouse-ear cress)	78	AT3G24280;
+Q1PDI1	reviewed	TET15_ARATH	Tetraspanin-15	TET15 At5g57810 MTI20.4	Arabidopsis thaliana (Mouse-ear cress)	317	AT5G57810;
+Q29Q96	reviewed	SAU68_ARATH	Auxin-responsive protein SAUR68 (Protein SMALL AUXIN UP RNA 68)	SAUR68 At1g29490 F15D2.7	Arabidopsis thaliana (Mouse-ear cress)	102	AT1G29490;
+Q2V359	unreviewed	Q2V359_ARATH	SAUR-like auxin-responsive protein family	SAUR70 SMALL AUXIN UPREGULATED RNA 70 At5g20810 T1M15.210 T1M15_210	Arabidopsis thaliana (Mouse-ear cress)	190	AT5G20810;
+Q2VWA0	unreviewed	Q2VWA0_ARATH	Auxin-responsive protein	At4g32275 At4g32280	Arabidopsis thaliana (Mouse-ear cress)	251	AT4G32280;
+Q2VWA1	unreviewed	Q2VWA1_ARATH	Auxin-responsive protein	IAA28 At5g25890	Arabidopsis thaliana (Mouse-ear cress)	175	AT5G25890;
+Q2VWA2	unreviewed	Q2VWA2_ARATH	Auxin-responsive protein	At3g15540	Arabidopsis thaliana (Mouse-ear cress)	197	AT3G15540;
+Q2VWA3	unreviewed	Q2VWA3_ARATH	Auxin-responsive protein	At1g51950	Arabidopsis thaliana (Mouse-ear cress)	267	AT1G51950;
+Q41220	reviewed	SAU15_ARATH	Auxin-responsive protein SAUR15 (Protein SMALL AUXIN UP RNA 15) (Protein SMALL AUXIN UP RNA FROM ARABIDOPSIS COLUMBIA 1)	SAUR15 SAUR-AC1 At4g38850	Arabidopsis thaliana (Mouse-ear cress)	89	AT4G38850;
+Q42566	unreviewed	Q42566_ARATH	ATsEH (EC 3.3.2.9) (At2g26740/F18A8.11) (Putative epoxide hydrolase ATsEH) (Soluble epoxide hydrolase)	SEH ATSEH ATsEH EPOXIDE HYDROLASE soluble epoxide hydrolase At2g26740 F18A8.11 F18A8_11	Arabidopsis thaliana (Mouse-ear cress)	321	AT2G26740;
+Q56WS6	unreviewed	Q56WS6_ARATH	Auxin-responsive protein	At3g04730	Arabidopsis thaliana (Mouse-ear cress)	71	
+Q56X88	unreviewed	Q56X88_ARATH	Auxin efflux carrier component	At2g01420	Arabidopsis thaliana (Mouse-ear cress)	191	
+Q56Z92	unreviewed	Q56Z92_ARATH	Auxin-responsive protein	At1g04250	Arabidopsis thaliana (Mouse-ear cress)	71	
+Q58G33	reviewed	TET14_ARATH	Tetraspanin-14	TET14 At2g01960 F14H20.3	Arabidopsis thaliana (Mouse-ear cress)	260	AT2G01960;
+Q58G35	reviewed	TET17_ARATH	Tetraspanin-17	TET17 At1g74045 F2P9	Arabidopsis thaliana (Mouse-ear cress)	248	AT1G74045;
+Q5BQ04	reviewed	TET16_ARATH	Tetraspanin-16	TET16 At1g18510 F15H18.2	Arabidopsis thaliana (Mouse-ear cress)	248	AT1G18510;
+Q67YC2	unreviewed	Q67YC2_ARATH	Auxin-responsive protein	At4g14560	Arabidopsis thaliana (Mouse-ear cress)	168	AT4G14560;
+Q67YW0	unreviewed	Q67YW0_ARATH	Auxin efflux carrier component	At5g57090	Arabidopsis thaliana (Mouse-ear cress)	647	AT5G57090;
+Q6NMM0	reviewed	SAU61_ARATH	Auxin-responsive protein SAUR61 (Protein SMALL AUXIN UP RNA 61)	SAUR61 At1g29420 F15D2.32	Arabidopsis thaliana (Mouse-ear cress)	141	AT1G29420;
+Q84WF6	reviewed	TET5_ARATH	Tetraspanin-5	TET5 At4g23410 F16G20.110	Arabidopsis thaliana (Mouse-ear cress)	281	AT4G23410;
+Q8GZ96	unreviewed	Q8GZ96_ARATH	At1g58220 (Homeodomain-like superfamily protein) (MYB transcription factor) (Putative MYB-family transcription factor)	DRMY1 At1g58220 At1g58220/F16M22_4 F16M22.4 F16M22_4	Arabidopsis thaliana (Mouse-ear cress)	834	AT1G58220;
+Q8LER0	unreviewed	Q8LER0_ARATH	Protein PIN-LIKES 3		Arabidopsis thaliana (Mouse-ear cress)	390	
+Q93Z37	reviewed	BIG1E_ARATH	Protein BIG GRAIN 1-like E	At1g69160 F4N2.12	Arabidopsis thaliana (Mouse-ear cress)	321	AT1G69160;
+Q9C7Q1	reviewed	SAU66_ARATH	Auxin-responsive protein SAUR66 (Protein SMALL AUXIN UP RNA 66)	SAUR66 At1g29500 F15D2.8	Arabidopsis thaliana (Mouse-ear cress)	135	AT1G29500;
+Q9C9E1	reviewed	SAU78_ARATH	Auxin-responsive protein SAUR78 (Protein SMALL AUXIN UP RNA 78)	SAUR78 At1g72430 T10D10.10	Arabidopsis thaliana (Mouse-ear cress)	119	AT1G72430;
+Q9FJF6	reviewed	SAU23_ARATH	Auxin-responsive protein SAUR23 (Protein SMALL AUXIN UP RNA 23)	SAUR23 At5g18060 MCM23.16	Arabidopsis thaliana (Mouse-ear cress)	90	AT5G18060;
+Q9FJF7	reviewed	SAU22_ARATH	Auxin-responsive protein SAUR22 (Protein SMALL AUXIN UP RNA 22)	SAUR22 At5g18050 MCM23.15	Arabidopsis thaliana (Mouse-ear cress)	90	AT5G18050;
+Q9FJF9	reviewed	SAU21_ARATH	Auxin-responsive protein SAUR21 (Protein SMALL AUXIN UP RNA 21)	SAUR21 At5g18030 MCM23.13	Arabidopsis thaliana (Mouse-ear cress)	88	AT5G18030;
+Q9FJG0	reviewed	SAU20_ARATH	Auxin-responsive protein SAUR20 (Protein SMALL AUXIN UP RNA 20)	SAUR20 At5g18020 MCM23.11	Arabidopsis thaliana (Mouse-ear cress)	91	AT5G18020;
+Q9FK62	reviewed	SAU24_ARATH	Auxin-responsive protein SAUR24 (Protein SMALL AUXIN UP RNA 24)	SAUR24 At5g18080 MRG7.3	Arabidopsis thaliana (Mouse-ear cress)	90	AT5G18080;
+Q9FN51	reviewed	TET12_ARATH	Tetraspanin-12	TET12 At5g23030 MYJ24.2	Arabidopsis thaliana (Mouse-ear cress)	264	AT5G23030;
+Q9FXI0	reviewed	SAU54_ARATH	Protein SMALL AUXIN UP-REGULATED RNA 54	SAUR54 At1g19830 F14P1.18 F6F9.13	Arabidopsis thaliana (Mouse-ear cress)	117	AT1G19830;
+Q9LPR6	reviewed	TET11_ARATH	Tetraspanin-11	TET11 At1g18520 F15H18.1	Arabidopsis thaliana (Mouse-ear cress)	271	AT1G18520;
+Q9LQI6	reviewed	SAU77_ARATH	Auxin-responsive protein SAUR77 (Protein SMALL AUXIN UP RNA 77)	SAUR77 At1g17345 F28G4.20	Arabidopsis thaliana (Mouse-ear cress)	131	AT1G17345;
+Q9LR00	reviewed	SAU51_ARATH	Protein SMALL AUXIN UP-REGULATED RNA 51	SAUR51 At1g75580 F10A5.21	Arabidopsis thaliana (Mouse-ear cress)	108	AT1G75580;
+Q9LSS4	reviewed	TET4_ARATH	Tetraspanin-4	TET4 At5g60220 F15L12.11	Arabidopsis thaliana (Mouse-ear cress)	327	AT5G60220;
+Q9LVK2	reviewed	BIG1A_ARATH	Protein BIG GRAIN 1-like A	At3g13980 MDC16.10	Arabidopsis thaliana (Mouse-ear cress)	357	AT3G13980;
+Q9LYH0	reviewed	BIG1D_ARATH	Protein BIG GRAIN 1-like D	At5g12050 F14F18.220	Arabidopsis thaliana (Mouse-ear cress)	362	AT5G12050;
+Q9M0B7	reviewed	TET9_ARATH	Tetraspanin-9	TET9 At4g30430 F17I23.230	Arabidopsis thaliana (Mouse-ear cress)	272	AT4G30430;
+Q9M2B3	reviewed	BIG1C_ARATH	Protein BIG GRAIN 1-like C	At3g42800 T21C14.20	Arabidopsis thaliana (Mouse-ear cress)	341	AT3G42800;
+Q9S7I2	reviewed	AIR1_ARATH	Putative lipid-binding protein AIR1 (Auxin-induced in root cultures protein 1)	AIR1 AIR1A At4g12550 T1P17.140	Arabidopsis thaliana (Mouse-ear cress)	111	AT4G12550;
+Q9SGU2	reviewed	SAU71_ARATH	Auxin-responsive protein SAUR71 (Protein SMALL AUXIN UP RNA 71)	SAUR71 At1g56150 F14G9.23 T6H22.5	Arabidopsis thaliana (Mouse-ear cress)	110	AT1G56150;
+Q9SI60	reviewed	SAUR8_ARATH	Protein SMALL AUXIN UP-REGULATED RNA 8	SAUR8 At2g16580 F1P15.4	Arabidopsis thaliana (Mouse-ear cress)	108	AT2G16580;
+Q9SIG9	reviewed	SAU12_ARATH	Protein SMALL AUXIN UP-REGULATED RNA 12	SAUR12 At2g21220 F7O24.6	Arabidopsis thaliana (Mouse-ear cress)	104	AT2G21220;
+Q9SLL2	reviewed	BIG1B_ARATH	Protein BIG GRAIN 1-like B	At1g54200 F20D21.2	Arabidopsis thaliana (Mouse-ear cress)	366	AT1G54200;
+Q9SUD4	reviewed	TET7_ARATH	Tetraspanin-7	TET7 At4g28050 T13J8.160	Arabidopsis thaliana (Mouse-ear cress)	263	AT4G28050;
+Q9ZUN5	reviewed	TET2_ARATH	Tetraspanin-2	TET2 At2g19580 F3P11.18	Arabidopsis thaliana (Mouse-ear cress)	270	AT2G19580;
+A0A178U7X2	unreviewed	A0A178U7X2_ARATH	(thale cress) hypothetical protein	AXX17_At5g20760 AT9943_LOCUS19697 C24_LOCUS22762	Arabidopsis thaliana (Mouse-ear cress)	127	
+A0A178U8Y6	unreviewed	A0A178U8Y6_ARATH	TET12	AXX17_At5g22530	Arabidopsis thaliana (Mouse-ear cress)	262	
+A0A178UAM2	unreviewed	A0A178UAM2_ARATH	SAUR22	AXX17_At5g17780 AN1_LOCUS22587	Arabidopsis thaliana (Mouse-ear cress)	90	
+A0A178UAN9	unreviewed	A0A178UAN9_ARATH	(thale cress) hypothetical protein (TET15)	AXX17_At5g57090 AT9943_LOCUS22450 C24_LOCUS25896	Arabidopsis thaliana (Mouse-ear cress)	317	
+A0A178UB83	unreviewed	A0A178UB83_ARATH	AFB5	AXX17_At5g48830	Arabidopsis thaliana (Mouse-ear cress)	619	
+A0A178UBX3	unreviewed	A0A178UBX3_ARATH	TET4	AXX17_At5g59690 C24_LOCUS26147	Arabidopsis thaliana (Mouse-ear cress)	285	
+A0A178UEA1	unreviewed	A0A178UEA1_ARATH	SAUR-like auxin-responsive protein family	At5g50760 AXX17_At5g49560 C24_LOCUS25153	Arabidopsis thaliana (Mouse-ear cress)	183	
+A0A178UED2	unreviewed	A0A178UED2_ARATH	(thale cress) hypothetical protein	At5g10990 AXX17_At5g10670 AN1_LOCUS21894 AT9943_LOCUS18849 C24_LOCUS21784	Arabidopsis thaliana (Mouse-ear cress)	148	
+A0A178UER8	unreviewed	A0A178UER8_ARATH	Protein PIN-LIKES 6	AXX17_At5g01080 AN1_LOCUS20988	Arabidopsis thaliana (Mouse-ear cress)	431	
+A0A178UFM7	unreviewed	A0A178UFM7_ARATH	Uncharacterized protein	AXX17_At5g17760 AN1_LOCUS22584 C24_LOCUS22473	Arabidopsis thaliana (Mouse-ear cress)	88	
+A0A178UG86	unreviewed	A0A178UG86_ARATH	SAUR75	AXX17_At5g27760	Arabidopsis thaliana (Mouse-ear cress)	142	
+A0A178UGY9	unreviewed	A0A178UGY9_ARATH	SAUR-like auxin-responsive protein family	At5g53590 AXX17_At5g52550	Arabidopsis thaliana (Mouse-ear cress)	142	
+A0A178UH39	unreviewed	A0A178UH39_ARATH	(thale cress) hypothetical protein	AXX17_At5g20750 AN1_LOCUS22875 AT9943_LOCUS19696 C24_LOCUS22761	Arabidopsis thaliana (Mouse-ear cress)	165	
+A0A178UJW5	unreviewed	A0A178UJW5_ARATH	SAUR20	AXX17_At5g17740 AN1_LOCUS22583	Arabidopsis thaliana (Mouse-ear cress)	91	
+A0A178UJY6	unreviewed	A0A178UJY6_ARATH	(thale cress) hypothetical protein	At5g42410 AXX17_At5g40270 AN1_LOCUS24426 AT9943_LOCUS21085 C24_LOCUS24250	Arabidopsis thaliana (Mouse-ear cress)	111	
+A0A178UL82	unreviewed	A0A178UL82_ARATH	(thale cress) hypothetical protein (SHI)	AXX17_At5g66280 AT9943_LOCUS23223 C24_LOCUS26793	Arabidopsis thaliana (Mouse-ear cress)	331	
+A0A178ULL6	unreviewed	A0A178ULL6_ARATH	(thale cress) hypothetical protein (TRN2)	AXX17_At5g45170 AN1_LOCUS24897 AT9943_LOCUS21472 C24_LOCUS24730	Arabidopsis thaliana (Mouse-ear cress)	269	
+A0A178UM65	unreviewed	A0A178UM65_ARATH	SAUR23	AXX17_At5g17790	Arabidopsis thaliana (Mouse-ear cress)	90	
+A0A178UME0	unreviewed	A0A178UME0_ARATH	SAUR-like auxin-responsive protein family	AXX17_At5g66200	Arabidopsis thaliana (Mouse-ear cress)	66	
+A0A178UNU5	unreviewed	A0A178UNU5_ARATH	Uncharacterized protein	AXX17_At5g17710 AXX17_At5g17820 AN1_LOCUS22591	Arabidopsis thaliana (Mouse-ear cress)	90	
+A0A178UP09	unreviewed	A0A178UP09_ARATH	SAUR-like auxin-responsive protein family	AXX17_At5g66200	Arabidopsis thaliana (Mouse-ear cress)	99	
+A0A178URA3	unreviewed	A0A178URA3_ARATH	(thale cress) hypothetical protein	AXX17_At5g02530 AN1_LOCUS21124 AT9943_LOCUS18203 C24_LOCUS21021	Arabidopsis thaliana (Mouse-ear cress)	113	
+A0A178URJ4	unreviewed	A0A178URJ4_ARATH	LRP1	AXX17_At5g12070	Arabidopsis thaliana (Mouse-ear cress)	320	
+A0A178UTQ4	unreviewed	A0A178UTQ4_ARATH	TET5	AXX17_At4g27110	Arabidopsis thaliana (Mouse-ear cress)	271	
+A0A178UU88	unreviewed	A0A178UU88_ARATH	SAUR-like auxin-responsive protein family	At4g12410 AXX17_At4g13960	Arabidopsis thaliana (Mouse-ear cress)	157	
+A0A178UUI1	unreviewed	A0A178UUI1_ARATH	Uncharacterized protein	At4g38825 AXX17_At4g44140 AN1_LOCUS20743 C24_LOCUS20640	Arabidopsis thaliana (Mouse-ear cress)	89	
+A0A178UUZ8	unreviewed	A0A178UUZ8_ARATH	SAUR_AC1	AXX17_At4g44170 AN1_LOCUS20747	Arabidopsis thaliana (Mouse-ear cress)	89	
+A0A178UV00	unreviewed	A0A178UV00_ARATH	(thale cress) hypothetical protein (TET5)	AXX17_At4g27110 AN1_LOCUS19072 AT9943_LOCUS16440 C24_LOCUS18972	Arabidopsis thaliana (Mouse-ear cress)	281	
+A0A178UVF5	unreviewed	A0A178UVF5_ARATH	SAUR-like auxin-responsive protein family	AXX17_At4g39770	Arabidopsis thaliana (Mouse-ear cress)	106	
+A0A178UVM5	unreviewed	A0A178UVM5_ARATH	AFB4	AXX17_At4g28250	Arabidopsis thaliana (Mouse-ear cress)	623	
+A0A178UVQ9	unreviewed	A0A178UVQ9_ARATH	Uncharacterized protein	AXX17_At4g39800	Arabidopsis thaliana (Mouse-ear cress)	105	
+A0A178UWH9	unreviewed	A0A178UWH9_ARATH	SAUR-like auxin-responsive protein family	At4g13790 AXX17_At4g15740	Arabidopsis thaliana (Mouse-ear cress)	92	
+A0A178UWU1	unreviewed	A0A178UWU1_ARATH	Uncharacterized protein	AXX17_At4g39790	Arabidopsis thaliana (Mouse-ear cress)	94	
+A0A178UXT3	unreviewed	A0A178UXT3_ARATH	(thale cress) hypothetical protein (GRH1)	AXX17_At4g03970 AN1_LOCUS17125 AT9943_LOCUS14717 C24_LOCUS16998	Arabidopsis thaliana (Mouse-ear cress)	585	
+A0A178UYP7	unreviewed	A0A178UYP7_ARATH	Auxin-responsive protein SAUR32	AXX17_At4g01110 AN1_LOCUS16859 C24_LOCUS16732	Arabidopsis thaliana (Mouse-ear cress)	122	
+A0A178UZ62	unreviewed	A0A178UZ62_ARATH	(thale cress) hypothetical protein	At4g34750 AXX17_At4g39740 AT9943_LOCUS17524 C24_LOCUS20209	Arabidopsis thaliana (Mouse-ear cress)	150	
+A0A178V0P2	unreviewed	A0A178V0P2_ARATH	SAUR9	AXX17_At4g41270 AN1_LOCUS20461 C24_LOCUS20355	Arabidopsis thaliana (Mouse-ear cress)	104	
+A0A178V0W3	unreviewed	A0A178V0W3_ARATH	(thale cress) hypothetical protein	At4g09530 AXX17_At4g10690 AN1_LOCUS17532 AT9943_LOCUS15108	Arabidopsis thaliana (Mouse-ear cress)	103	
+A0A178V1V7	unreviewed	A0A178V1V7_ARATH	SAUR-like auxin-responsive protein family	AXX17_At4g39750 AN1_LOCUS20317	Arabidopsis thaliana (Mouse-ear cress)	107	
+A0A178V1Y2	unreviewed	A0A178V1Y2_ARATH	TET7	AXX17_At4g32310 AN1_LOCUS19583 C24_LOCUS19476	Arabidopsis thaliana (Mouse-ear cress)	263	
+A0A178V211	unreviewed	A0A178V211_ARATH	(thale cress) hypothetical protein	At4g34770 AXX17_At4g39760 AN1_LOCUS20318 AT9943_LOCUS17525 C24_LOCUS20211	Arabidopsis thaliana (Mouse-ear cress)	104	
+A0A178V379	unreviewed	A0A178V379_ARATH	Uncharacterized protein	At4g38840 AXX17_At4g44160 AN1_LOCUS20746 C24_LOCUS20643	Arabidopsis thaliana (Mouse-ear cress)	99	
+A0A178V3A5	unreviewed	A0A178V3A5_ARATH	TET9	AXX17_At4g34890 AN1_LOCUS19841	Arabidopsis thaliana (Mouse-ear cress)	272	
+A0A178V436	unreviewed	A0A178V436_ARATH	SAUR-like auxin-responsive protein family	AXX17_At4g44190 AN1_LOCUS20748 C24_LOCUS20645	Arabidopsis thaliana (Mouse-ear cress)	105	
+A0A178V4N0	unreviewed	A0A178V4N0_ARATH	ABP1	AXX17_At4g03670	Arabidopsis thaliana (Mouse-ear cress)	136	
+A0A178V508	unreviewed	A0A178V508_ARATH	SAUR-like auxin-responsive protein family	AXX17_At4g26250 AN1_LOCUS18986 C24_LOCUS18885	Arabidopsis thaliana (Mouse-ear cress)	160	
+A0A178V510	unreviewed	A0A178V510_ARATH	SAUR-like auxin-responsive protein family	At4g31320 AXX17_At4g35850	Arabidopsis thaliana (Mouse-ear cress)	189	
+A0A178V7U4	unreviewed	A0A178V7U4_ARATH	SAUR-like auxin-responsive protein family	At4g34790 AXX17_At4g39780 AN1_LOCUS20319 C24_LOCUS20213	Arabidopsis thaliana (Mouse-ear cress)	108	
+A0A178V941	unreviewed	A0A178V941_ARATH	SAUR27	AXX17_At3g03230	Arabidopsis thaliana (Mouse-ear cress)	95	
+A0A178VA54	unreviewed	A0A178VA54_ARATH	(thale cress) hypothetical protein (TIR1)	AXX17_At3g57260 AN1_LOCUS16685 AT9943_LOCUS14352 C24_LOCUS16557	Arabidopsis thaliana (Mouse-ear cress)	594	
+A0A178VAL1	unreviewed	A0A178VAL1_ARATH	SAUR-like auxin-responsive protein family	AXX17_At3g56200 C24_LOCUS16448	Arabidopsis thaliana (Mouse-ear cress)	126	
+A0A178VAS7	unreviewed	A0A178VAS7_ARATH	SRS6	AXX17_At3g48860	Arabidopsis thaliana (Mouse-ear cress)	121	
+A0A178VC16	unreviewed	A0A178VC16_ARATH	SAUR-like auxin-responsive protein family	SAUR57 SMALL AUXIN UPREGULATED RNA 57 At3g53250	Arabidopsis thaliana (Mouse-ear cress)	124	AT3G53250;
+A0A178VCM3	unreviewed	A0A178VCM3_ARATH	SRS6	AXX17_At3g48860	Arabidopsis thaliana (Mouse-ear cress)	183	
+A0A178VCN2	unreviewed	A0A178VCN2_ARATH	SAUR-like auxin-responsive protein family	AXX17_At3g55070	Arabidopsis thaliana (Mouse-ear cress)	170	
+A0A178VCX6	unreviewed	A0A178VCX6_ARATH	(thale cress) hypothetical protein (TET6)	AXX17_At3g12050 AN1_LOCUS12534 AT9943_LOCUS10778 C24_LOCUS12364	Arabidopsis thaliana (Mouse-ear cress)	282	
+A0A178VD95	unreviewed	A0A178VD95_ARATH	SAUR-like auxin-responsive protein family	AXX17_At3g36200 AN1_LOCUS14634 C24_LOCUS14515	Arabidopsis thaliana (Mouse-ear cress)	160	
+A0A178VDU5	unreviewed	A0A178VDU5_ARATH	(thale cress) hypothetical protein (SAUR72)	AXX17_At3g12890 AN1_LOCUS12610 AT9943_LOCUS10851 C24_LOCUS12441	Arabidopsis thaliana (Mouse-ear cress)	132	
+A0A178VEY7	unreviewed	A0A178VEY7_ARATH	TET6	AXX17_At3g12050	Arabidopsis thaliana (Mouse-ear cress)	285	
+A0A178VFM0	unreviewed	A0A178VFM0_ARATH	SAUR-like auxin-responsive protein family	AXX17_At3g45480	Arabidopsis thaliana (Mouse-ear cress)	106	
+A0A178VGF7	unreviewed	A0A178VGF7_ARATH	(thale cress) hypothetical protein (AFB2)	AXX17_At3g29160 AN1_LOCUS14172 AT9943_LOCUS12145	Arabidopsis thaliana (Mouse-ear cress)	575	
+A0A178VGX9	unreviewed	A0A178VGX9_ARATH	STY1	AXX17_At3g45340 AN1_LOCUS15466	Arabidopsis thaliana (Mouse-ear cress)	372	
+A0A178VIX3	unreviewed	A0A178VIX3_ARATH	SAUR26	AXX17_At3g03240	Arabidopsis thaliana (Mouse-ear cress)	94	
+A0A178VKR5	unreviewed	A0A178VKR5_ARATH	SAUR-like auxin-responsive protein family	AXX17_At3g13050 AN1_LOCUS12625	Arabidopsis thaliana (Mouse-ear cress)	139	
+A0A178VL24	unreviewed	A0A178VL24_ARATH	(thale cress) hypothetical protein	At2g28085 AXX17_At2g24060 AN1_LOCUS9206 AT9943_LOCUS7888 C24_LOCUS9055	Arabidopsis thaliana (Mouse-ear cress)	124	
+A0A178VNK4	unreviewed	A0A178VNK4_ARATH	TET3	AXX17_At3g39420 AN1_LOCUS14885	Arabidopsis thaliana (Mouse-ear cress)	285	
+A0A178VNV7	unreviewed	A0A178VNV7_ARATH	SAUR-like auxin-responsive protein family	AXX17_At2g16680 AN1_LOCUS8498 C24_LOCUS8348	Arabidopsis thaliana (Mouse-ear cress)	104	
+A0A178VP68	unreviewed	A0A178VP68_ARATH	SAUR-like auxin-responsive protein family	At2g37030 AXX17_At2g33800 AN1_LOCUS10160 C24_LOCUS10007	Arabidopsis thaliana (Mouse-ear cress)	124	
+A0A178VPI9	unreviewed	A0A178VPI9_ARATH	SAUR-like auxin-responsive protein family	AXX17_At2g13330	Arabidopsis thaliana (Mouse-ear cress)	112	
+A0A178VPS3	unreviewed	A0A178VPS3_ARATH	(thale cress) hypothetical protein (TET2)	AXX17_At2g14920 AT9943_LOCUS7143 C24_LOCUS8166	Arabidopsis thaliana (Mouse-ear cress)	270	
+A0A178VPX2	unreviewed	A0A178VPX2_ARATH	SRS3	AXX17_At2g16880 C24_LOCUS8367	Arabidopsis thaliana (Mouse-ear cress)	175	
+A0A178VQ70	unreviewed	A0A178VQ70_ARATH	Uncharacterized protein	AXX17_At2g12760	Arabidopsis thaliana (Mouse-ear cress)	396	
+A0A178VRU6	unreviewed	A0A178VRU6_ARATH	Uncharacterized protein	At2g21210 AXX17_At2g16670 AN1_LOCUS8497 C24_LOCUS8347	Arabidopsis thaliana (Mouse-ear cress)	98	
+A0A178VSY0	unreviewed	A0A178VSY0_ARATH	(thale cress) hypothetical protein (SAUR36)	AXX17_At2g42780 AN1_LOCUS11041 AT9943_LOCUS9496 C24_LOCUS10880	Arabidopsis thaliana (Mouse-ear cress)	162	
+A0A178VSZ5	unreviewed	A0A178VSZ5_ARATH	SAUR-like auxin-responsive protein family	At2g24400 AXX17_At2g20060 AN1_LOCUS8823	Arabidopsis thaliana (Mouse-ear cress)	178	
+A0A178VVJ8	unreviewed	A0A178VVJ8_ARATH	IBR5	AXX17_At2g03700	Arabidopsis thaliana (Mouse-ear cress)	257	
+A0A178VVS9	unreviewed	A0A178VVS9_ARATH	SRS4	AXX17_At2g13440 AN1_LOCUS8173	Arabidopsis thaliana (Mouse-ear cress)	222	
+A0A178VWY3	unreviewed	A0A178VWY3_ARATH	TET14	AXX17_At2g00980	Arabidopsis thaliana (Mouse-ear cress)	260	
+A0A178VX85	unreviewed	A0A178VX85_ARATH	SRS4	AXX17_At2g13440	Arabidopsis thaliana (Mouse-ear cress)	220	
+A0A178VXB2	unreviewed	A0A178VXB2_ARATH	Auxin-responsive protein	AXX17_At2g00170	Arabidopsis thaliana (Mouse-ear cress)	170	
+A0A178VXK7	unreviewed	A0A178VXK7_ARATH	(thale cress) hypothetical protein	At2g36210 AXX17_At2g32860 AN1_LOCUS10073 AT9943_LOCUS8636	Arabidopsis thaliana (Mouse-ear cress)	135	
+A0A178VXT2	unreviewed	A0A178VXT2_ARATH	Auxin-responsive protein SAUR32	AXX17_At2g44380 AN1_LOCUS11197 C24_LOCUS11034	Arabidopsis thaliana (Mouse-ear cress)	121	
+A0A178VY18	unreviewed	A0A178VY18_ARATH	SAUR-like auxin-responsive protein family	AXX17_At2g11650	Arabidopsis thaliana (Mouse-ear cress)	108	
+A0A178VYI5	unreviewed	A0A178VYI5_ARATH	TET8	AXX17_At2g19450 AN1_LOCUS8762 C24_LOCUS8610	Arabidopsis thaliana (Mouse-ear cress)	273	
+A0A178VYZ9	unreviewed	A0A178VYZ9_ARATH	Auxin-responsive protein	AXX17_At2g00170	Arabidopsis thaliana (Mouse-ear cress)	172	
+A0A178VZC9	unreviewed	A0A178VZC9_ARATH	PPS	AXX17_At2g40000	Arabidopsis thaliana (Mouse-ear cress)	693	
+A0A178VZM9	unreviewed	A0A178VZM9_ARATH	TET13	AXX17_At2g02800 AN1_LOCUS7426	Arabidopsis thaliana (Mouse-ear cress)	278	
+A0A178VZW5	unreviewed	A0A178VZW5_ARATH	SRS7	AXX17_At1g20760 C24_LOCUS2028	Arabidopsis thaliana (Mouse-ear cress)	345	
+A0A178W098	unreviewed	A0A178W098_ARATH	(thale cress) hypothetical protein	AXX17_At2g31860 AT9943_LOCUS8545	Arabidopsis thaliana (Mouse-ear cress)	121	
+A0A178W0A2	unreviewed	A0A178W0A2_ARATH	Uncharacterized protein	At2g21200 AXX17_At2g16660 AN1_LOCUS8496 C24_LOCUS8346	Arabidopsis thaliana (Mouse-ear cress)	86	
+A0A178W1I1	unreviewed	A0A178W1I1_ARATH	SAUR-like auxin-responsive protein family	SAUR58 SMALL AUXIN UPREGULATED RNA 58 At1g43040 F2H10.1 F2H10_1	Arabidopsis thaliana (Mouse-ear cress)	107	AT1G43040;
+A0A178W2L8	unreviewed	A0A178W2L8_ARATH	(thale cress) hypothetical protein	AXX17_At1g18200 AN1_LOCUS1869 AT9943_LOCUS1497	Arabidopsis thaliana (Mouse-ear cress)	131	
+A0A178W333	unreviewed	A0A178W333_ARATH	Uncharacterized protein	At1g13670 AXX17_At1g14210 AN1_LOCUS1482 C24_LOCUS1398	Arabidopsis thaliana (Mouse-ear cress)	225	
+A0A178W344	unreviewed	A0A178W344_ARATH	Uncharacterized protein	AXX17_At1g29840	Arabidopsis thaliana (Mouse-ear cress)	159	
+A0A178W445	unreviewed	A0A178W445_ARATH	SAUR-like auxin-responsive protein family	AXX17_At1g29890 C24_LOCUS2900	Arabidopsis thaliana (Mouse-ear cress)	102	
+A0A178W4L3	unreviewed	A0A178W4L3_ARATH	SAUR-like auxin-responsive protein family	AXX17_At1g70040 AN1_LOCUS6598 C24_LOCUS6484	Arabidopsis thaliana (Mouse-ear cress)	108	
+A0A178W6G3	unreviewed	A0A178W6G3_ARATH	Uncharacterized protein	AXX17_At1g29760	Arabidopsis thaliana (Mouse-ear cress)	132	
+A0A178W842	unreviewed	A0A178W842_ARATH	SAUR68	AXX17_At1g29910 C24_LOCUS2902	Arabidopsis thaliana (Mouse-ear cress)	143	
+A0A178W9C0	unreviewed	A0A178W9C0_ARATH	(thale cress) hypothetical protein (SAUR40)	AXX17_At1g73880 AN1_LOCUS6963 AT9943_LOCUS5892 C24_LOCUS6849	Arabidopsis thaliana (Mouse-ear cress)	134	
+A0A178WA56	unreviewed	A0A178WA56_ARATH	(thale cress) hypothetical protein	AXX17_At1g29830 AT9943_LOCUS2461	Arabidopsis thaliana (Mouse-ear cress)	132	
+A0A178WAX3	unreviewed	A0A178WAX3_ARATH	(thale cress) hypothetical protein	AXX17_At1g71000 AT9943_LOCUS5658	Arabidopsis thaliana (Mouse-ear cress)	347	
+A0A178WBQ4	unreviewed	A0A178WBQ4_ARATH	(thale cress) hypothetical protein	AXX17_At1g20810 AT9943_LOCUS1720 C24_LOCUS2032	Arabidopsis thaliana (Mouse-ear cress)	153	
+A0A178WCY0	unreviewed	A0A178WCY0_ARATH	(thale cress) hypothetical protein	AXX17_At1g70050 AN1_LOCUS6599 AT9943_LOCUS5578	Arabidopsis thaliana (Mouse-ear cress)	154	
+A0A178WD11	unreviewed	A0A178WD11_ARATH	Uncharacterized protein	AXX17_At1g29770 C24_LOCUS2893	Arabidopsis thaliana (Mouse-ear cress)	141	
+A0A178WDA4	unreviewed	A0A178WDA4_ARATH	(thale cress) hypothetical protein (SAUR71)	AXX17_At1g50830 AT9943_LOCUS4052 C24_LOCUS4645	Arabidopsis thaliana (Mouse-ear cress)	110	
+A0A178WE07	unreviewed	A0A178WE07_ARATH	(thale cress) hypothetical protein	AXX17_At1g65290 AN1_LOCUS6149 AT9943_LOCUS5194 C24_LOCUS6038	Arabidopsis thaliana (Mouse-ear cress)	457	
+A0A178WF04	unreviewed	A0A178WF04_ARATH	(thale cress) hypothetical protein	AXX17_At1g48640 AT9943_LOCUS3875	Arabidopsis thaliana (Mouse-ear cress)	366	
+A0A178WFK2	unreviewed	A0A178WFK2_ARATH	(thale cress) hypothetical protein (AFB3)	AXX17_At1g13240 AN1_LOCUS1391 AT9943_LOCUS1092 C24_LOCUS1307	Arabidopsis thaliana (Mouse-ear cress)	577	
+A0A178WFM7	unreviewed	A0A178WFM7_ARATH	TET11	AXX17_At1g19440	Arabidopsis thaliana (Mouse-ear cress)	272	
+A0A178WFV8	unreviewed	A0A178WFV8_ARATH	SAUR63	AXX17_At1g29780	Arabidopsis thaliana (Mouse-ear cress)	134	
+A0A178WJK4	unreviewed	A0A178WJK4_ARATH	Tetraspanin10	TET10 tetraspanin10 At1g63260 F9N12.12 F9N12_12	Arabidopsis thaliana (Mouse-ear cress)	211	AT1G63260;
+A0A178WK30	unreviewed	A0A178WK30_ARATH	Uncharacterized protein	AXX17_At1g29900 AN1_LOCUS2995	Arabidopsis thaliana (Mouse-ear cress)	135	
+A0A178WKK6	unreviewed	A0A178WKK6_ARATH	TET16	AXX17_At1g19430	Arabidopsis thaliana (Mouse-ear cress)	238	
+A0A178WKX9	unreviewed	A0A178WKX9_ARATH	(thale cress) hypothetical protein (TET10)	AXX17_At1g56700 AT9943_LOCUS4493	Arabidopsis thaliana (Mouse-ear cress)	264	
+A0A178WLB5	unreviewed	A0A178WLB5_ARATH	(thale cress) hypothetical protein	AXX17_At1g66600 AN1_LOCUS6276 AT9943_LOCUS5304 C24_LOCUS6165	Arabidopsis thaliana (Mouse-ear cress)	119	
+A0A178WLT6	unreviewed	A0A178WLT6_ARATH	(thale cress) hypothetical protein (TET17)	AXX17_At1g68400 AN1_LOCUS6442 AT9943_LOCUS5443 C24_LOCUS6333	Arabidopsis thaliana (Mouse-ear cress)	248	
+A0A178WMF2	unreviewed	A0A178WMF2_ARATH	SAUR-like auxin-responsive protein family	At1g20470 AXX17_At1g21420 AN1_LOCUS2178 C24_LOCUS2089	Arabidopsis thaliana (Mouse-ear cress)	146	
+A0A178WMN7	unreviewed	A0A178WMN7_ARATH	(thale cress) hypothetical protein (SAUR41)	AXX17_At1g17290 AN1_LOCUS1783 AT9943_LOCUS1423 C24_LOCUS1697	Arabidopsis thaliana (Mouse-ear cress)	147	
+A0A178WMR7	unreviewed	A0A178WMR7_ARATH	SAUR-like auxin-responsive protein family	AXX17_At1g70650	Arabidopsis thaliana (Mouse-ear cress)	123	
+A0A178WNG5	unreviewed	A0A178WNG5_ARATH	SAUR-like auxin-responsive protein family	AXX17_At1g20790 C24_LOCUS2030	Arabidopsis thaliana (Mouse-ear cress)	117	
+A0A1I9LNY5	unreviewed	A0A1I9LNY5_ARATH	Tetraspanin3	TET3 tetraspanin3 At3g45600	Arabidopsis thaliana (Mouse-ear cress)	201	AT3G45600;
+A0A1I9LQF0	unreviewed	A0A1I9LQF0_ARATH	SAUR-like auxin-responsive protein family	SAUR57 SMALL AUXIN UPREGULATED RNA 57 At3g53250	Arabidopsis thaliana (Mouse-ear cress)	155	AT3G53250;
+A0A1P8AMQ0	unreviewed	A0A1P8AMQ0_ARATH	SAUR-like auxin-responsive protein family	SAUR65 SMALL AUXIN UPREGULATED RNA 65 At1g29460 F15D2.35 F15D2_35	Arabidopsis thaliana (Mouse-ear cress)	186	AT1G29460;
+A0A1P8AN98	unreviewed	A0A1P8AN98_ARATH	SAUR-like auxin-responsive protein family	SAUR61 SMALL AUXIN UPREGULATED RNA 61 At1g29420 F15D2.32 F15D2_32	Arabidopsis thaliana (Mouse-ear cress)	181	AT1G29420;
+A0A1P8ANL3	unreviewed	A0A1P8ANL3_ARATH	Tetraspanin10	TET10 tetraspanin10 At1g63260 F9N12.12 F9N12_12	Arabidopsis thaliana (Mouse-ear cress)	218	AT1G63260;
+A0A1P8AYM3	unreviewed	A0A1P8AYM3_ARATH	SAUR-like auxin-responsive protein family	SAUR6 SMALL AUXIN UPREGULATED RNA 6 At2g21210 F26H11.3 F26H11_3	Arabidopsis thaliana (Mouse-ear cress)	165	AT2G21210;
+A0A1P8AZ09	unreviewed	A0A1P8AZ09_ARATH	SHI-related sequence3	SRS3 SHI-related sequence3 At2g21400 F3K23.16 F3K23_16	Arabidopsis thaliana (Mouse-ear cress)	190	AT2G21400;
+A0A1P8AZ48	unreviewed	A0A1P8AZ48_ARATH	SHI-related sequence3	SRS3 SHI-related sequence3 At2g21400 F3K23.16 F3K23_16	Arabidopsis thaliana (Mouse-ear cress)	175	AT2G21400;
+A0A1P8AZ68	unreviewed	A0A1P8AZ68_ARATH	SHI-related sequence3	SRS3 SHI-related sequence3 At2g21400 F3K23.16 F3K23_16	Arabidopsis thaliana (Mouse-ear cress)	189	AT2G21400;
+A0A384KDF9	unreviewed	A0A384KDF9_ARATH	SAUR29	AXX17_At3g03210 AN1_LOCUS11662 C24_LOCUS11500	Arabidopsis thaliana (Mouse-ear cress)	96	
+A0A384KS06	unreviewed	A0A384KS06_ARATH	SAUR-like auxin-responsive protein family	AXX17_At1g39110	Arabidopsis thaliana (Mouse-ear cress)	107	
+A0A384L7T8	unreviewed	A0A384L7T8_ARATH	TET10	AXX17_At1g56700	Arabidopsis thaliana (Mouse-ear cress)	211	
+A0A384LF41	unreviewed	A0A384LF41_ARATH	(thale cress) hypothetical protein	At3g09870 AXX17_At3g09540 AN1_LOCUS12287 AT9943_LOCUS10562 C24_LOCUS12120	Arabidopsis thaliana (Mouse-ear cress)	113	
+A0A384LQD2	unreviewed	A0A384LQD2_ARATH	(thale cress) hypothetical protein	AXX17_At3g47650 AN1_LOCUS15694 AT9943_LOCUS13500 C24_LOCUS15578	Arabidopsis thaliana (Mouse-ear cress)	124	
+A0A5S9UU75	unreviewed	A0A5S9UU75_ARATH	Uncharacterized protein	C24_LOCUS1785	Arabidopsis thaliana (Mouse-ear cress)	131	
+A0A5S9V1R6	unreviewed	A0A5S9V1R6_ARATH	Tetraspanin-16	C24_LOCUS1901	Arabidopsis thaliana (Mouse-ear cress)	248	
+A0A5S9V1T6	unreviewed	A0A5S9V1T6_ARATH	Tetraspanin-11	C24_LOCUS1902	Arabidopsis thaliana (Mouse-ear cress)	272	
+A0A5S9WAI8	unreviewed	A0A5S9WAI8_ARATH	Uncharacterized protein	C24_LOCUS2894	Arabidopsis thaliana (Mouse-ear cress)	142	
+A0A5S9WAK8	unreviewed	A0A5S9WAK8_ARATH	Uncharacterized protein	C24_LOCUS2896	Arabidopsis thaliana (Mouse-ear cress)	146	
+A0A5S9WB30	unreviewed	A0A5S9WB30_ARATH	Uncharacterized protein	C24_LOCUS2901	Arabidopsis thaliana (Mouse-ear cress)	135	
+A0A5S9WDH0	unreviewed	A0A5S9WDH0_ARATH	Uncharacterized protein	C24_LOCUS2892	Arabidopsis thaliana (Mouse-ear cress)	141	
+A0A5S9WF15	unreviewed	A0A5S9WF15_ARATH	Uncharacterized protein	C24_LOCUS2895	Arabidopsis thaliana (Mouse-ear cress)	141	
+A0A5S9WJV3	unreviewed	A0A5S9WJV3_ARATH	SAUR-like auxin-responsive protein family	C24_LOCUS3578	Arabidopsis thaliana (Mouse-ear cress)	107	
+A0A5S9WT02	unreviewed	A0A5S9WT02_ARATH	Tetraspanin-10	C24_LOCUS5142	Arabidopsis thaliana (Mouse-ear cress)	264	
+A0A5S9WUP8	unreviewed	A0A5S9WUP8_ARATH	Uncharacterized protein	C24_LOCUS6485	Arabidopsis thaliana (Mouse-ear cress)	154	
+A0A5S9WUW8	unreviewed	A0A5S9WUW8_ARATH	Uncharacterized protein	C24_LOCUS6578	Arabidopsis thaliana (Mouse-ear cress)	399	
+A0A5S9WWF2	unreviewed	A0A5S9WWF2_ARATH	Uncharacterized protein	C24_LOCUS7129	Arabidopsis thaliana (Mouse-ear cress)	260	
+A0A5S9WXA1	unreviewed	A0A5S9WXA1_ARATH	Uncharacterized protein	C24_LOCUS7301	Arabidopsis thaliana (Mouse-ear cress)	258	
+A0A5S9WZ19	unreviewed	A0A5S9WZ19_ARATH	Uncharacterized protein	AN1_LOCUS8104 C24_LOCUS7949	Arabidopsis thaliana (Mouse-ear cress)	396	
+A0A5S9WZ67	unreviewed	A0A5S9WZ67_ARATH	Uncharacterized protein	C24_LOCUS8018	Arabidopsis thaliana (Mouse-ear cress)	222	
+A0A5S9X0Z2	unreviewed	A0A5S9X0Z2_ARATH	SAUR-like auxin-responsive protein family	C24_LOCUS8675	Arabidopsis thaliana (Mouse-ear cress)	178	
+A0A5S9X4G3	unreviewed	A0A5S9X4G3_ARATH	SAUR-like auxin-responsive protein family	C24_LOCUS9919	Arabidopsis thaliana (Mouse-ear cress)	135	
+A0A5S9X6E8	unreviewed	A0A5S9X6E8_ARATH	COI1 F-box domain-containing protein	C24_LOCUS10607	Arabidopsis thaliana (Mouse-ear cress)	693	
+A0A5S9X8U8	unreviewed	A0A5S9X8U8_ARATH	Uncharacterized protein	C24_LOCUS11504	Arabidopsis thaliana (Mouse-ear cress)	95	
+A0A5S9X8V0	unreviewed	A0A5S9X8V0_ARATH	Uncharacterized protein	C24_LOCUS11506	Arabidopsis thaliana (Mouse-ear cress)	95	
+A0A5S9X8Y2	unreviewed	A0A5S9X8Y2_ARATH	Uncharacterized protein	C24_LOCUS11505	Arabidopsis thaliana (Mouse-ear cress)	94	
+A0A5S9X975	unreviewed	A0A5S9X975_ARATH	SAUR-like auxin-responsive protein family	C24_LOCUS11503	Arabidopsis thaliana (Mouse-ear cress)	92	
+A0A5S9XBL4	unreviewed	A0A5S9XBL4_ARATH	SAUR-like auxin-responsive protein family	C24_LOCUS12457	Arabidopsis thaliana (Mouse-ear cress)	139	
+A0A5S9XDY5	unreviewed	A0A5S9XDY5_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS11554 C24_LOCUS13283	Arabidopsis thaliana (Mouse-ear cress)	118	
+A0A5S9XG37	unreviewed	A0A5S9XG37_ARATH	F-box domain-containing protein	C24_LOCUS14008	Arabidopsis thaliana (Mouse-ear cress)	575	
+A0A5S9XIX2	unreviewed	A0A5S9XIX2_ARATH	Tetraspanin-3	C24_LOCUS14773	Arabidopsis thaliana (Mouse-ear cress)	285	
+A0A5S9XK33	unreviewed	A0A5S9XK33_ARATH	SAUR-like auxin-responsive protein family	C24_LOCUS15363	Arabidopsis thaliana (Mouse-ear cress)	106	
+A0A5S9XMK5	unreviewed	A0A5S9XMK5_ARATH	SAUR-like auxin-responsive protein family	AN1_LOCUS16450 C24_LOCUS16332	Arabidopsis thaliana (Mouse-ear cress)	170	
+A0A5S9XPG1	unreviewed	A0A5S9XPG1_ARATH	Uncharacterized protein	C24_LOCUS16970	Arabidopsis thaliana (Mouse-ear cress)	198	
+A0A5S9XRI8	unreviewed	A0A5S9XRI8_ARATH	SAUR-like auxin-responsive protein family	C24_LOCUS17430	Arabidopsis thaliana (Mouse-ear cress)	103	
+A0A5S9XRK9	unreviewed	A0A5S9XRK9_ARATH	SAUR-like auxin-responsive protein family	C24_LOCUS17730	Arabidopsis thaliana (Mouse-ear cress)	157	
+A0A5S9XSA3	unreviewed	A0A5S9XSA3_ARATH	SAUR-like auxin-responsive protein family	AN1_LOCUS17994 C24_LOCUS17881	Arabidopsis thaliana (Mouse-ear cress)	92	
+A0A5S9XVE2	unreviewed	A0A5S9XVE2_ARATH	F-box protein FBX14	C24_LOCUS19079	Arabidopsis thaliana (Mouse-ear cress)	623	
+A0A5S9XXA2	unreviewed	A0A5S9XXA2_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS17124 C24_LOCUS19735	Arabidopsis thaliana (Mouse-ear cress)	272	
+A0A5S9XY97	unreviewed	A0A5S9XY97_ARATH	SAUR-like auxin-responsive protein family	AN1_LOCUS19935 C24_LOCUS19829	Arabidopsis thaliana (Mouse-ear cress)	191	
+A0A5S9XZ22	unreviewed	A0A5S9XZ22_ARATH	SAUR-like auxin-responsive protein family	C24_LOCUS20212	Arabidopsis thaliana (Mouse-ear cress)	65	
+A0A5S9XZ43	unreviewed	A0A5S9XZ43_ARATH	Uncharacterized protein	C24_LOCUS20214	Arabidopsis thaliana (Mouse-ear cress)	94	
+A0A5S9XZH7	unreviewed	A0A5S9XZH7_ARATH	SAUR-like auxin-responsive protein family	C24_LOCUS20210	Arabidopsis thaliana (Mouse-ear cress)	107	
+A0A5S9XZV8	unreviewed	A0A5S9XZV8_ARATH	Uncharacterized protein	C24_LOCUS20644	Arabidopsis thaliana (Mouse-ear cress)	89	
+A0A5S9Y0W2	unreviewed	A0A5S9Y0W2_ARATH	Protein PIN-LIKES 6	C24_LOCUS20886	Arabidopsis thaliana (Mouse-ear cress)	431	
+A0A5S9Y553	unreviewed	A0A5S9Y553_ARATH	Uncharacterized protein	C24_LOCUS22469 C24_LOCUS22475	Arabidopsis thaliana (Mouse-ear cress)	90	
+A0A5S9Y5S7	unreviewed	A0A5S9Y5S7_ARATH	Uncharacterized protein	C24_LOCUS22474	Arabidopsis thaliana (Mouse-ear cress)	91	
+A0A5S9Y6H8	unreviewed	A0A5S9Y6H8_ARATH	Tetraspanin-11	C24_LOCUS22926	Arabidopsis thaliana (Mouse-ear cress)	264	
+A0A5S9Y8A8	unreviewed	A0A5S9Y8A8_ARATH	SAUR-like auxin-responsive protein family	C24_LOCUS23388	Arabidopsis thaliana (Mouse-ear cress)	142	
+A0A5S9YE87	unreviewed	A0A5S9YE87_ARATH	SAUR-like auxin-responsive protein family	AN1_LOCUS25620 C24_LOCUS25449	Arabidopsis thaliana (Mouse-ear cress)	147	
+A0A5S9YEX6	unreviewed	A0A5S9YEX6_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS21771 C24_LOCUS25075	Arabidopsis thaliana (Mouse-ear cress)	612	
+A0A654EB02	unreviewed	A0A654EB02_ARATH	Tetraspanin-11	AN1_LOCUS1986	Arabidopsis thaliana (Mouse-ear cress)	272	
+A0A654EC07	unreviewed	A0A654EC07_ARATH	Tetraspanin-16	AN1_LOCUS1985	Arabidopsis thaliana (Mouse-ear cress)	248	
+A0A654ECW7	unreviewed	A0A654ECW7_ARATH	Uncharacterized protein	At1g19840 AN1_LOCUS2119	Arabidopsis thaliana (Mouse-ear cress)	153	
+A0A654ED94	unreviewed	A0A654ED94_ARATH	SAUR-like auxin-responsive protein family	AN1_LOCUS2117	Arabidopsis thaliana (Mouse-ear cress)	117	
+A0A654EDU5	unreviewed	A0A654EDU5_ARATH	Uncharacterized protein	AN1_LOCUS2988	Arabidopsis thaliana (Mouse-ear cress)	141	
+A0A654EDW2	unreviewed	A0A654EDW2_ARATH	Uncharacterized protein	AN1_LOCUS2996	Arabidopsis thaliana (Mouse-ear cress)	143	
+A0A654EF54	unreviewed	A0A654EF54_ARATH	SAUR-like auxin-responsive protein family	AN1_LOCUS2994	Arabidopsis thaliana (Mouse-ear cress)	102	
+A0A654EFD2	unreviewed	A0A654EFD2_ARATH	Uncharacterized protein	AN1_LOCUS2989	Arabidopsis thaliana (Mouse-ear cress)	141	
+A0A654EFJ0	unreviewed	A0A654EFJ0_ARATH	Uncharacterized protein	AN1_LOCUS2987	Arabidopsis thaliana (Mouse-ear cress)	141	
+A0A654EFW1	unreviewed	A0A654EFW1_ARATH	Uncharacterized protein	AN1_LOCUS3448	Arabidopsis thaliana (Mouse-ear cress)	485	
+A0A654EHH1	unreviewed	A0A654EHH1_ARATH	SAUR-like auxin-responsive protein family	AN1_LOCUS3683	Arabidopsis thaliana (Mouse-ear cress)	107	
+A0A654EKN5	unreviewed	A0A654EKN5_ARATH	Auxin-responsive protein SAUR71	AN1_LOCUS4759	Arabidopsis thaliana (Mouse-ear cress)	110	
+A0A654EMA6	unreviewed	A0A654EMA6_ARATH	Tetraspanin-10	At1g63260 AN1_LOCUS5333	Arabidopsis thaliana (Mouse-ear cress)	258	
+A0A654EP89	unreviewed	A0A654EP89_ARATH	Uncharacterized protein	AN1_LOCUS6593	Arabidopsis thaliana (Mouse-ear cress)	346	
+A0A654EPF0	unreviewed	A0A654EPF0_ARATH	(thale cress) hypothetical protein	At1g76190 AN1_LOCUS6657 AT9943_LOCUS5626 C24_LOCUS6543	Arabidopsis thaliana (Mouse-ear cress)	123	
+A0A654EPL2	unreviewed	A0A654EPL2_ARATH	Uncharacterized protein	AN1_LOCUS2990	Arabidopsis thaliana (Mouse-ear cress)	152	
+A0A654ER60	unreviewed	A0A654ER60_ARATH	Uncharacterized protein	AN1_LOCUS7246	Arabidopsis thaliana (Mouse-ear cress)	260	
+A0A654ERW3	unreviewed	A0A654ERW3_ARATH	Uncharacterized protein	AN1_LOCUS7497 C24_LOCUS7370	Arabidopsis thaliana (Mouse-ear cress)	283	
+A0A654ETB6	unreviewed	A0A654ETB6_ARATH	SAUR-like auxin-responsive protein family	AN1_LOCUS8005 C24_LOCUS7854	Arabidopsis thaliana (Mouse-ear cress)	108	
+A0A654ETU2	unreviewed	A0A654ETU2_ARATH	(thale cress) hypothetical protein	AN1_LOCUS8160 AT9943_LOCUS7007 C24_LOCUS8006	Arabidopsis thaliana (Mouse-ear cress)	112	
+A0A654EUM5	unreviewed	A0A654EUM5_ARATH	Uncharacterized protein	AN1_LOCUS6692	Arabidopsis thaliana (Mouse-ear cress)	415	
+A0A654EUT5	unreviewed	A0A654EUT5_ARATH	SHI-related	AN1_LOCUS8517	Arabidopsis thaliana (Mouse-ear cress)	185	
+A0A654F0H5	unreviewed	A0A654F0H5_ARATH	Uncharacterized protein	At2g35290 AN1_LOCUS9973 C24_LOCUS9819	Arabidopsis thaliana (Mouse-ear cress)	121	
+A0A654F3V9	unreviewed	A0A654F3V9_ARATH	SAUR-like auxin-responsive protein family	At3g03847 AN1_LOCUS11667	Arabidopsis thaliana (Mouse-ear cress)	131	
+A0A654F3W3	unreviewed	A0A654F3W3_ARATH	Uncharacterized protein	AN1_LOCUS11668	Arabidopsis thaliana (Mouse-ear cress)	93	
+A0A654F936	unreviewed	A0A654F936_ARATH	SAUR-like auxin-responsive protein family	AN1_LOCUS11666	Arabidopsis thaliana (Mouse-ear cress)	95	
+A0A654F9X0	unreviewed	A0A654F9X0_ARATH	SAUR-like auxin-responsive protein family	At3g20220 AN1_LOCUS13447	Arabidopsis thaliana (Mouse-ear cress)	118	
+A0A654FED0	unreviewed	A0A654FED0_ARATH	SAUR-like auxin-responsive protein family	AN1_LOCUS11665	Arabidopsis thaliana (Mouse-ear cress)	92	
+A0A654FEX4	unreviewed	A0A654FEX4_ARATH	SAUR-like auxin-responsive protein family	At3g51200 AN1_LOCUS15480	Arabidopsis thaliana (Mouse-ear cress)	106	
+A0A654FJW1	unreviewed	A0A654FJW1_ARATH	SAUR-like auxin-responsive protein family	AN1_LOCUS16569	Arabidopsis thaliana (Mouse-ear cress)	126	
+A0A654FLD0	unreviewed	A0A654FLD0_ARATH	Uncharacterized protein	AN1_LOCUS17097	Arabidopsis thaliana (Mouse-ear cress)	198	
+A0A654FNM1	unreviewed	A0A654FNM1_ARATH	SAUR-like auxin-responsive protein family	AN1_LOCUS17841	Arabidopsis thaliana (Mouse-ear cress)	159	
+A0A654FSF1	unreviewed	A0A654FSF1_ARATH	F-box protein FBX14	AN1_LOCUS19179	Arabidopsis thaliana (Mouse-ear cress)	623	
+A0A654FVL0	unreviewed	A0A654FVL0_ARATH	Uncharacterized protein	AN1_LOCUS20321 C24_LOCUS20215	Arabidopsis thaliana (Mouse-ear cress)	105	
+A0A654FVL4	unreviewed	A0A654FVL4_ARATH	Uncharacterized protein	At4g34800 AN1_LOCUS20320	Arabidopsis thaliana (Mouse-ear cress)	94	
+A0A654FVM5	unreviewed	A0A654FVM5_ARATH	SAUR-like auxin-responsive protein family	AN1_LOCUS20316	Arabidopsis thaliana (Mouse-ear cress)	151	
+A0A654G207	unreviewed	A0A654G207_ARATH	Uncharacterized protein	AN1_LOCUS22581	Arabidopsis thaliana (Mouse-ear cress)	90	
+A0A654G214	unreviewed	A0A654G214_ARATH	Uncharacterized protein	AN1_LOCUS22588	Arabidopsis thaliana (Mouse-ear cress)	72	
+A0A654G324	unreviewed	A0A654G324_ARATH	Uncharacterized protein	AN1_LOCUS22876	Arabidopsis thaliana (Mouse-ear cress)	127	
+A0A654G440	unreviewed	A0A654G440_ARATH	Tetraspanin-11	AN1_LOCUS23040	Arabidopsis thaliana (Mouse-ear cress)	264	
+A0A654G4Y2	unreviewed	A0A654G4Y2_ARATH	(thale cress) hypothetical protein	At5g27780 AN1_LOCUS23511 AT9943_LOCUS20249	Arabidopsis thaliana (Mouse-ear cress)	142	
+A0A654G4Z5	unreviewed	A0A654G4Z5_ARATH	Uncharacterized protein	AN1_LOCUS23510	Arabidopsis thaliana (Mouse-ear cress)	116	
+A0A654G9T6	unreviewed	A0A654G9T6_ARATH	(thale cress) hypothetical protein	AN1_LOCUS25321 AT9943_LOCUS21832	Arabidopsis thaliana (Mouse-ear cress)	183	
+A0A654GA42	unreviewed	A0A654GA42_ARATH	Transport inhibitor response 1-like protein	AN1_LOCUS25249	Arabidopsis thaliana (Mouse-ear cress)	612	
+A0A654GBX3	unreviewed	A0A654GBX3_ARATH	Tetraspanin-15	AN1_LOCUS26071	Arabidopsis thaliana (Mouse-ear cress)	317	
+A0A654GD49	unreviewed	A0A654GD49_ARATH	Tetraspanin-3	AN1_LOCUS26325	Arabidopsis thaliana (Mouse-ear cress)	285	
+A0A654GEL2	unreviewed	A0A654GEL2_ARATH	(thale cress) hypothetical protein	At5g66260 AN1_LOCUS26958 AT9943_LOCUS23215 C24_LOCUS26784	Arabidopsis thaliana (Mouse-ear cress)	99	
+A0A7G2DTS7	unreviewed	A0A7G2DTS7_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS2458	Arabidopsis thaliana (Mouse-ear cress)	141	
+A0A7G2DTZ6	unreviewed	A0A7G2DTZ6_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS2467	Arabidopsis thaliana (Mouse-ear cress)	269	
+A0A7G2DU58	unreviewed	A0A7G2DU58_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS1715	Arabidopsis thaliana (Mouse-ear cress)	272	
+A0A7G2DV00	unreviewed	A0A7G2DV00_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS1819	Arabidopsis thaliana (Mouse-ear cress)	368	
+A0A7G2DWC2	unreviewed	A0A7G2DWC2_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS1600	Arabidopsis thaliana (Mouse-ear cress)	498	
+A0A7G2DWF5	unreviewed	A0A7G2DWF5_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS2460	Arabidopsis thaliana (Mouse-ear cress)	142	
+A0A7G2DWN2	unreviewed	A0A7G2DWN2_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS2466	Arabidopsis thaliana (Mouse-ear cress)	138	
+A0A7G2DWU4	unreviewed	A0A7G2DWU4_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS2465	Arabidopsis thaliana (Mouse-ear cress)	141	
+A0A7G2DY17	unreviewed	A0A7G2DY17_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS2459	Arabidopsis thaliana (Mouse-ear cress)	141	
+A0A7G2DYU2	unreviewed	A0A7G2DYU2_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS2462	Arabidopsis thaliana (Mouse-ear cress)	147	
+A0A7G2E3D5	unreviewed	A0A7G2E3D5_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS5025	Arabidopsis thaliana (Mouse-ear cress)	321	
+A0A7G2E3D6	unreviewed	A0A7G2E3D6_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS5657	Arabidopsis thaliana (Mouse-ear cress)	341	
+A0A7G2E6H8	unreviewed	A0A7G2E6H8_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS6094	Arabidopsis thaliana (Mouse-ear cress)	97	
+A0A7G2E6X2	unreviewed	A0A7G2E6X2_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS6151	Arabidopsis thaliana (Mouse-ear cress)	260	
+A0A7G2E940	unreviewed	A0A7G2E940_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS6963	Arabidopsis thaliana (Mouse-ear cress)	389	
+A0A7G2EB49	unreviewed	A0A7G2EB49_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS6299	Arabidopsis thaliana (Mouse-ear cress)	195	
+A0A7G2EB95	unreviewed	A0A7G2EB95_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS6353	Arabidopsis thaliana (Mouse-ear cress)	257	
+A0A7G2EBG5	unreviewed	A0A7G2EBG5_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS7017	Arabidopsis thaliana (Mouse-ear cress)	162	
+A0A7G2EBW0	unreviewed	A0A7G2EBW0_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS8708	Arabidopsis thaliana (Mouse-ear cress)	458	
+A0A7G2EEI0	unreviewed	A0A7G2EEI0_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS7513	Arabidopsis thaliana (Mouse-ear cress)	245	
+A0A7G2EIL2	unreviewed	A0A7G2EIL2_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS9251	Arabidopsis thaliana (Mouse-ear cress)	693	
+A0A7G2EKR8	unreviewed	A0A7G2EKR8_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS10976	Arabidopsis thaliana (Mouse-ear cress)	357	
+A0A7G2EQH3	unreviewed	A0A7G2EQH3_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS12809	Arabidopsis thaliana (Mouse-ear cress)	283	
+A0A7G2ERW1	unreviewed	A0A7G2ERW1_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS13301	Arabidopsis thaliana (Mouse-ear cress)	292	
+A0A7G2EUV1	unreviewed	A0A7G2EUV1_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS12615	Arabidopsis thaliana (Mouse-ear cress)	160	
+A0A7G2EWP8	unreviewed	A0A7G2EWP8_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS15376	Arabidopsis thaliana (Mouse-ear cress)	157	
+A0A7G2EX08	unreviewed	A0A7G2EX08_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS14694	Arabidopsis thaliana (Mouse-ear cress)	136	
+A0A7G2F239	unreviewed	A0A7G2F239_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS16540	Arabidopsis thaliana (Mouse-ear cress)	623	
+A0A7G2F2U6	unreviewed	A0A7G2F2U6_ARATH	(thale cress) hypothetical protein	At4g22620 AT9943_LOCUS16367	Arabidopsis thaliana (Mouse-ear cress)	160	
+A0A7G2F3S3	unreviewed	A0A7G2F3S3_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS17202	Arabidopsis thaliana (Mouse-ear cress)	201	
+A0A7G2F485	unreviewed	A0A7G2F485_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS16908	Arabidopsis thaliana (Mouse-ear cress)	266	
+A0A7G2F4X4	unreviewed	A0A7G2F4X4_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS18086	Arabidopsis thaliana (Mouse-ear cress)	545	
+A0A7G2F766	unreviewed	A0A7G2F766_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS18966	Arabidopsis thaliana (Mouse-ear cress)	423	
+A0A7G2F8M0	unreviewed	A0A7G2F8M0_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS17662	Arabidopsis thaliana (Mouse-ear cress)	271	
+A0A7G2F9H8	unreviewed	A0A7G2F9H8_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS19835	Arabidopsis thaliana (Mouse-ear cress)	249	
+A0A7G2FC08	unreviewed	A0A7G2FC08_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS18941	Arabidopsis thaliana (Mouse-ear cress)	362	
+A0A7G2FKD6	unreviewed	A0A7G2FKD6_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS22081	Arabidopsis thaliana (Mouse-ear cress)	122	
+A0A7G2FKM5	unreviewed	A0A7G2FKM5_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS22667	Arabidopsis thaliana (Mouse-ear cress)	283	
+A0A7G2FQA6	unreviewed	A0A7G2FQA6_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS23188	Arabidopsis thaliana (Mouse-ear cress)	395	
+A0MEQ5	unreviewed	A0MEQ5_ARATH	SAUR-like auxin-responsive protein family		Arabidopsis thaliana (Mouse-ear cress)	125	
+A0MF00	unreviewed	A0MF00_ARATH	SAUR-like auxin-responsive protein family		Arabidopsis thaliana (Mouse-ear cress)	161	
+A0MF91	unreviewed	A0MF91_ARATH	SAUR-like auxin-responsive protein family		Arabidopsis thaliana (Mouse-ear cress)	161	
+B3H4F0	unreviewed	B3H4F0_ARATH	SAUR-like auxin-responsive protein family	SAUR13 SMALL AUXIN UPREGULATED RNA 13 At4g38825	Arabidopsis thaliana (Mouse-ear cress)	89	AT4G38825;
+D3K078	unreviewed	D3K078_ARATH	Auxin response factor 13	ARF13 At1g34170	Arabidopsis thaliana (Mouse-ear cress)	190	
+D3K079	unreviewed	D3K079_ARATH	Auxin response factor 13	ARF13 At1g34170	Arabidopsis thaliana (Mouse-ear cress)	189	
+D3K080	unreviewed	D3K080_ARATH	Auxin response factor 13	ARF13 At1g34170	Arabidopsis thaliana (Mouse-ear cress)	176	
+E1A6U0	unreviewed	E1A6U0_ARATH	Auxin response factor 13	ARF13 At1g34170	Arabidopsis thaliana (Mouse-ear cress)	203	
+E1A6U1	unreviewed	E1A6U1_ARATH	Auxin response factor 13	ARF13 At1g34170	Arabidopsis thaliana (Mouse-ear cress)	188	
+E1A6U2	unreviewed	E1A6U2_ARATH	Auxin response factor 13	ARF13 At1g34170	Arabidopsis thaliana (Mouse-ear cress)	190	
+E1A6U3	unreviewed	E1A6U3_ARATH	Auxin response factor 13	ARF13 At1g34170	Arabidopsis thaliana (Mouse-ear cress)	169	
+E1A6U4	unreviewed	E1A6U4_ARATH	Auxin response factor 13	ARF13 At1g34170	Arabidopsis thaliana (Mouse-ear cress)	183	
+E1A6U5	unreviewed	E1A6U5_ARATH	Auxin response factor 13	ARF13 At1g34170	Arabidopsis thaliana (Mouse-ear cress)	173	
+E1A6U6	unreviewed	E1A6U6_ARATH	Auxin response factor 13	ARF13 At1g34170	Arabidopsis thaliana (Mouse-ear cress)	168	
+E1A6U7	unreviewed	E1A6U7_ARATH	Auxin response factor 13	ARF13 At1g34170	Arabidopsis thaliana (Mouse-ear cress)	175	
+E1A6U8	unreviewed	E1A6U8_ARATH	Auxin response factor 13	ARF13 At1g34170	Arabidopsis thaliana (Mouse-ear cress)	190	
+E1A6U9	unreviewed	E1A6U9_ARATH	Auxin response factor 13	ARF13 At1g34170	Arabidopsis thaliana (Mouse-ear cress)	180	
+E1A6V0	unreviewed	E1A6V0_ARATH	Auxin response factor 13	ARF13 At1g34170	Arabidopsis thaliana (Mouse-ear cress)	188	
+E1A6V2	unreviewed	E1A6V2_ARATH	Auxin response factor 13	ARF13 At1g34170	Arabidopsis thaliana (Mouse-ear cress)	187	
+E1A6V3	unreviewed	E1A6V3_ARATH	Truncated auxin response factor 13	ARF13 At1g34170	Arabidopsis thaliana (Mouse-ear cress)	63	
+F4HZ54	unreviewed	F4HZ54_ARATH	SAUR-like auxin-responsive protein family	SAUR52 SMALL AUXIN UPREGULATED RNA 52 At1g75590 F10A5.20 F10A5_20	Arabidopsis thaliana (Mouse-ear cress)	154	AT1G75590;
+F4JLH5	unreviewed	F4JLH5_ARATH	SAUR-like auxin-responsive protein family	SAUR5 SMALL AUXIN UPREGULATED RNA 5 At4g34810 F11I11.50 F11I11_50	Arabidopsis thaliana (Mouse-ear cress)	118	AT4G34810;
+F4KH88	unreviewed	F4KH88_ARATH	SHI-related sequence 8	SRS8 SHI-related sequence 8 At5g33210 T29A4.20 T29A4_20	Arabidopsis thaliana (Mouse-ear cress)	106	AT5G33210;
+O23089	unreviewed	O23089_ARATH	AT4g00880 protein (A_TM018A10.6 protein) (SAUR-like auxin-responsive protein family)	SAUR31 A_TM018A10.6 A_TM018A10_6 SMALL AUXIN UPREGULATED RNA 31 At4g00880 T18A10.18 T18A10_18	Arabidopsis thaliana (Mouse-ear cress)	122	AT4G00880;
+O49581	unreviewed	O49581_ARATH	Auxin induced like-protein (SAUR-like auxin-responsive protein family)	SAUR37 SMALL AUXIN UPREGULATED RNA 37 At4g31320 F8F16.140 F8F16_140	Arabidopsis thaliana (Mouse-ear cress)	189	AT4G31320;
+O49643	unreviewed	O49643_ARATH	Auxin-responsive family protein (Predicted protein) (SAUR-like auxin-responsive protein family)	SAUR34 SMALL AUXIN UPREGULATED RNA 34 At4g22620 T12H17.10	Arabidopsis thaliana (Mouse-ear cress)	160	AT4G22620;
+O65694	unreviewed	O65694_ARATH	SAUR-like auxin-responsive protein family	SAUR49 SMALL AUXIN UPREGULATED RNA 49 T4L20.330 At4g34750 F11I11.5	Arabidopsis thaliana (Mouse-ear cress)	150	AT4G34750;
+O82164	unreviewed	O82164_ARATH	Uncharacterized protein At2g35290	At2g35290	Arabidopsis thaliana (Mouse-ear cress)	91	AT2G35290;
+Q3E901	unreviewed	Q3E901_ARATH	SAUR-like auxin-responsive protein family	SAUR75 SMALL AUXIN UP RNA 75 At5g27780 T1G16.110 T1G16_110	Arabidopsis thaliana (Mouse-ear cress)	142	AT5G27780;
+Q3EBC5	unreviewed	Q3EBC5_ARATH	At3g03847 (SAUR-like auxin-responsive protein family)	SAUR73 SMALL AUXIN UPREGULATED RNA 73 At3g03847	Arabidopsis thaliana (Mouse-ear cress)	131	AT3G03847;
+Q681Q1	unreviewed	Q681Q1_ARATH	Auxin-induced protein-like protein	At4g38840	Arabidopsis thaliana (Mouse-ear cress)	99	
+Q6NMZ3	unreviewed	Q6NMZ3_ARATH	At4g34750		Arabidopsis thaliana (Mouse-ear cress)	150	
+Q6NPG2	unreviewed	Q6NPG2_ARATH	At5g53590 (SAUR-like auxin-responsive protein family)	SAUR30 MNC6.13 MNC6_13 SMALL AUXIN UPREGULATED RNA 30 At5g53590	Arabidopsis thaliana (Mouse-ear cress)	142	AT5G53590;
+Q8GWV0	unreviewed	Q8GWV0_ARATH	At2g35290	SAUR79 SMALL AUXIN UPREGULATED RNA 79 At2g35290 T4C15.4 T4C15_4	Arabidopsis thaliana (Mouse-ear cress)	121	AT2G35290;
+Q8GWV6	unreviewed	Q8GWV6_ARATH	At5g20810 (SAUR-like auxin-responsive protein family)	SAUR70 SMALL AUXIN UPREGULATED RNA 70 At5g20810 At5g20810/T1M15_210 T1M15.210 T1M15_210	Arabidopsis thaliana (Mouse-ear cress)	165	AT5G20810;
+Q8L8B9	unreviewed	Q8L8B9_ARATH	SAUR-like auxin-responsive protein family	SAUR45 SMALL AUXIN UPREGULATED RNA 45 At2g36210 At2g36210/F2H17.18 F2H17.18 F2H17_18	Arabidopsis thaliana (Mouse-ear cress)	135	AT2G36210;
+Q8L9D5	unreviewed	Q8L9D5_ARATH	Putative auxin-regulated protein		Arabidopsis thaliana (Mouse-ear cress)	86	
+Q8LAZ3	unreviewed	Q8LAZ3_ARATH	SAUR-like auxin-responsive protein family		Arabidopsis thaliana (Mouse-ear cress)	109	AT2G28085;
+Q8LBA1	unreviewed	Q8LBA1_ARATH	Auxin-induced protein, putative		Arabidopsis thaliana (Mouse-ear cress)	154	
+Q8LE18	unreviewed	Q8LE18_ARATH	SAUR-like auxin-responsive protein family		Arabidopsis thaliana (Mouse-ear cress)	160	
+Q8LFP8	unreviewed	Q8LFP8_ARATH	SAUR-like auxin-responsive protein family		Arabidopsis thaliana (Mouse-ear cress)	135	
+Q8S8L5	unreviewed	Q8S8L5_ARATH	Auxin-responsive family protein (Expressed protein) (SAUR-like auxin-responsive protein family)	SAUR42 SMALL AUXIN UPREGULATED RNA 42 At2g28085	Arabidopsis thaliana (Mouse-ear cress)	124	AT2G28085;
+Q9C8C5	unreviewed	Q9C8C5_ARATH	Auxin-induced protein, putative (Putative auxin-responsive protein) (SAUR-like auxin-responsive protein family)	SAUR58 SMALL AUXIN UPREGULATED RNA 58 At1g43040 F2H10.1 F2H10_1	Arabidopsis thaliana (Mouse-ear cress)	104	AT1G43040;
+Q9FH62	unreviewed	Q9FH62_ARATH	Auxin-induced protein-like (SAUR-like auxin-responsive protein family)	SAUR11 SMALL AUXIN UPREGULATED RNA 11 At5g66260 K1L20.4 K1L20_4	Arabidopsis thaliana (Mouse-ear cress)	99	AT5G66260;
+Q9FIH6	unreviewed	Q9FIH6_ARATH	SAUR-like auxin-responsive protein family	SAUR43 MDH9.10 MDH9_10 SMALL AUXIN UPREGULATED RNA 43 At5g42410	Arabidopsis thaliana (Mouse-ear cress)	111	AT5G42410;
+Q9FJC5	unreviewed	Q9FJC5_ARATH	SAUR-like auxin-responsive protein family		Arabidopsis thaliana (Mouse-ear cress)	122	
+Q9FXI2	unreviewed	Q9FXI2_ARATH	F6F9.11 protein (SAUR-like auxin-responsive protein family)	SAUR53 SMALL AUXIN UPREGULATED RNA 53 At1g19840 F6F9.11 F6F9_11	Arabidopsis thaliana (Mouse-ear cress)	153	AT1G19840;
+Q9LEU2	unreviewed	Q9LEU2_ARATH	At5g10990 (SAUR-like auxin-responsive protein family)	SAUR69 SMALL AUXIN UPREGULATED RNA 69 At5g10990 T30N20.260 T30N20_260	Arabidopsis thaliana (Mouse-ear cress)	148	AT5G10990;
+Q9LJX7	unreviewed	Q9LJX7_ARATH	SAUR-like auxin-responsive protein family	SAUR47 SMALL AUXIN UPREGULATED RNA 47 At3g20220 At3g20220/MAL21_26	Arabidopsis thaliana (Mouse-ear cress)	118	AT3G20220;
+Q9LMV6	unreviewed	Q9LMV6_ARATH	F5M15.19 (SAUR-like auxin-responsive protein family)	SAUR60 SMALL AUXIN UPREGULATED RNA 60 At1g20470 At1g20470/F5M15_18 F5M15.19 F5M15_19	Arabidopsis thaliana (Mouse-ear cress)	146	AT1G20470;
+Q9LMY0	unreviewed	Q9LMY0_ARATH	At1g13670 (F21F23.11 protein)	BGL2 At1g13670 F21F23.11 F21F23_11	Arabidopsis thaliana (Mouse-ear cress)	225	AT1G13670;
+Q9LR01	unreviewed	Q9LR01_ARATH	F10A5.20		Arabidopsis thaliana (Mouse-ear cress)	198	AT1G75590;
+Q9LSI2	unreviewed	Q9LSI2_ARATH	At3g12955 (SAUR-like auxin-responsive protein family)	SAUR74 SMALL AUXIN UPREGULATED RNA 74 At3g12955	Arabidopsis thaliana (Mouse-ear cress)	139	AT3G12955;
+Q9LUE5	unreviewed	Q9LUE5_ARATH	At5g50760 (Emb|CAB86483.1) (SAUR-like auxin-responsive protein family)	SAUR55 MFB16.16 MFB16_16 SMALL AUXIN UPREGULATED RNA 55 At5g50760	Arabidopsis thaliana (Mouse-ear cress)	183	AT5G50760;
+Q9LZF9	unreviewed	Q9LZF9_ARATH	Arabidopsis thaliana genomic DNA, chromosome 5, P1 clone:MOK16 (At5g03310) (SAUR-like auxin-responsive protein family)	SAUR44 SMALL AUXIN UPREGULATED RNA 44 At5g03310 F12E4.40 F12E4_40	Arabidopsis thaliana (Mouse-ear cress)	114	AT5G03310;
+Q9LZZ4	unreviewed	Q9LZZ4_ARATH	AT3g60690/T4C21_100 (SAUR-like auxin-responsive protein family)	SAUR59 SMALL AUXIN UPREGULATED RNA 59 T4C21_100 At3g60690	Arabidopsis thaliana (Mouse-ear cress)	170	AT3G60690;
+Q9M0P0	unreviewed	Q9M0P0_ARATH	SAUR-like auxin-responsive protein family	SAUR17 SMALL AUXIN UPREGULATED RNA 17 At4g09530 T15G18.50 T15G18_50	Arabidopsis thaliana (Mouse-ear cress)	103	AT4G09530;
+Q9M249	unreviewed	Q9M249_ARATH	Auxin-responsive protein-like protein (SAUR-like auxin-responsive protein family)	SAUR39 F7M19_130 SMALL AUXIN UPREGULATED RNA 39 At3g43120	Arabidopsis thaliana (Mouse-ear cress)	160	AT3G43120;
+Q9M275	unreviewed	Q9M275_ARATH	SAUR-like auxin-responsive protein family	SAUR33 F21F14.70 SMALL AUXIN UPREGULATED RNA 33 At3g61900	Arabidopsis thaliana (Mouse-ear cress)	136	AT3G61900;
+Q9MAC4	unreviewed	Q9MAC4_ARATH	ATP synthase E chain (At3g01130) (T4P13.18 protein)	At3g01130 T4P13.18 T4P13_18	Arabidopsis thaliana (Mouse-ear cress)	53	AT3G01130;
+Q9SCN6	unreviewed	Q9SCN6_ARATH	Uncharacterized protein T4D2.180	T4D2.180	Arabidopsis thaliana (Mouse-ear cress)	109	AT3G53250;
+Q9SD26	unreviewed	Q9SD26_ARATH	SAUR-like auxin-responsive protein family	SAUR18 F24M12.240 SMALL AUXIN UPREGULATED RNA 18 At3g51200	Arabidopsis thaliana (Mouse-ear cress)	106	AT3G51200;
+Q9SF89	unreviewed	Q9SF89_ARATH	F8A24.8 protein (SAUR-like auxin-responsive protein family)	SAUR48 F8A24.8 SMALL AUXIN UPREGULATED RNA 48 At3g09870	Arabidopsis thaliana (Mouse-ear cress)	113	AT3G09870;
+Q9SGR4	unreviewed	Q9SGR4_ARATH	SAUR-like auxin-responsive protein family (T23E18.13)	SAUR56 SMALL AUXIN UPREGULATED RNA 56 At1g76190 T23E18.13 T23E18_13	Arabidopsis thaliana (Mouse-ear cress)	123	AT1G76190;
+Q9SJK4	unreviewed	Q9SJK4_ARATH	Auxin-responsive family protein (Putative auxin-induced protein) (SAUR-like auxin-responsive protein family)	SAUR46 SMALL AUXIN UPREGULATED RNA 46 At2g37030 T1J8.21 T1J8_21	Arabidopsis thaliana (Mouse-ear cress)	124	AT2G37030;
+Q9SJN4	unreviewed	Q9SJN4_ARATH	Uncharacterized protein At2g36210	At2g36210	Arabidopsis thaliana (Mouse-ear cress)	120	AT2G36210;
+Q9SKP2	unreviewed	Q9SKP2_ARATH	At2g21210 (Putative auxin-regulated protein) (SAUR-like auxin-responsive protein family)	SAUR6 SMALL AUXIN UPREGULATED RNA 6 At2g21210 F26H11.3 F26H11_3	Arabidopsis thaliana (Mouse-ear cress)	98	AT2G21210;
+Q9SKP3	unreviewed	Q9SKP3_ARATH	At2g21200 (Putative auxin-regulated protein) (SAUR-like auxin-responsive protein family)	SAUR7 SMALL AUXIN UPREGULATED RNA 7 At2g21200 F26H11.4 F26H11_4	Arabidopsis thaliana (Mouse-ear cress)	86	AT2G21200;
+Q9STH0	unreviewed	Q9STH0_ARATH	SAUR-like auxin-responsive protein family	SAUR35 SMALL AUXIN UPREGULATED RNA 35 T4C9.250 At4g12410 T1P17.3	Arabidopsis thaliana (Mouse-ear cress)	157	AT4G12410;
+Q9SVN4	unreviewed	Q9SVN4_ARATH	At4g13790 (SAUR-AC-like protein (Small auxin up RNA)) (SAUR-like auxin-responsive protein family)	SAUR25 SMALL AUXIN UPREGULATED RNA 25 At4g13790 F18A5.180 F18A5_180	Arabidopsis thaliana (Mouse-ear cress)	92	AT4G13790;
+Q9SW53	unreviewed	Q9SW53_ARATH	Uncharacterized protein AT4g34810 (Uncharacterized protein T11I11.50)	T11I11.50 At4g34810	Arabidopsis thaliana (Mouse-ear cress)	105	
+Q9SW54	unreviewed	Q9SW54_ARATH	SAUR-like auxin-responsive protein family	SAUR4 SMALL AUXIN UPREGULATED RNA 4 T11I11.40 At4g34800 F11I11.40 F11I11_40	Arabidopsis thaliana (Mouse-ear cress)	94	AT4G34800;
+Q9SW55	unreviewed	Q9SW55_ARATH	At4g34790 (SAUR-like auxin-responsive protein family)	SAUR3 SMALL AUXIN UPREGULATED RNA 3 T11I11.30 At4g34790 F11I11.30 F11I11_30	Arabidopsis thaliana (Mouse-ear cress)	108	AT4G34790;
+Q9SW56	unreviewed	Q9SW56_ARATH	SAUR-like auxin-responsive protein family	SAUR2 SMALL AUXIN UPREGULATED RNA 2 T11I11.20 At4g34780 F11I11.20 F11I11_20	Arabidopsis thaliana (Mouse-ear cress)	106	AT4G34780;
+Q9SW57	unreviewed	Q9SW57_ARATH	SAUR-like auxin-responsive protein family	SAUR1 SMALL AUXIN UPREGULATED RNA 1 T11I11.10 At4g34770 F11I11.10 F11I11_10	Arabidopsis thaliana (Mouse-ear cress)	104	AT4G34770;
+Q9T0J2	unreviewed	Q9T0J2_ARATH	At4g38840 (Auxin-induced protein-like) (SAUR-like auxin-responsive protein family)	SAUR14 SMALL AUXIN UPREGULATED RNA 14 At4g38840 F19H22.7	Arabidopsis thaliana (Mouse-ear cress)	99	AT4G38840;
+Q9ZQ28	unreviewed	Q9ZQ28_ARATH	At2g24400 (Putative auxin-regulated protein) (SAUR-like auxin-responsive protein family)	SAUR38 SMALL AUXIN UPREGULATED RNA 38 At2g24400 T28I24.13 T28I24_13	Arabidopsis thaliana (Mouse-ear cress)	178	AT2G24400;

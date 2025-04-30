@@ -1,0 +1,103 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length	Gene Names (synonym)	TAIR
+Q38874	reviewed	STM_ARATH	Homeobox protein SHOOT MERISTEMLESS	STM At1g62360 F2401.9	Arabidopsis thaliana (Mouse-ear cress)	382		AT1G62360;
+Q5BPS0	reviewed	LOG2_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase LOG2 (EC 3.2.2.n1) (Protein LONELY GUY 2)	LOG2 At2g35990 F11F19.10	Arabidopsis thaliana (Mouse-ear cress)	213		AT2G35990;
+Q67YG7	reviewed	SOFL1_ARATH	Protein SOB FIVE-LIKE 1 (AtSOFL1)	SOFL1 At1g26210 F28B23.12	Arabidopsis thaliana (Mouse-ear cress)	148		AT1G26210;
+Q84MC2	reviewed	LOG8_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase LOG8 (EC 3.2.2.n1) (LOG family protein At5g11950) (Protein LONELY GUY 8)	LOG8 At5g11950 F14F18.120	Arabidopsis thaliana (Mouse-ear cress)	216		AT5G11950;
+Q93WC9	reviewed	IPT3_ARATH	Adenylate isopentenyltransferase 3, chloroplastic (AtIPT3) (EC 2.5.1.112) (Adenylate dimethylallyltransferase 3) (Cytokinin synthase 3)	IPT3 At3g63110 T20O10.210	Arabidopsis thaliana (Mouse-ear cress)	336		AT3G63110;
+Q94ID1	reviewed	IPT7_ARATH	Adenylate isopentenyltransferase 7, mitochondrial (AtIPT7) (EC 2.5.1.112) (Adenylate dimethylallyltransferase 7) (Cytokinin synthase 7)	IPT7 At3g23630 MDB19.12	Arabidopsis thaliana (Mouse-ear cress)	329		AT3G23630;
+Q94ID2	reviewed	IPT5_ARATH	Adenylate isopentenyltransferase 5, chloroplastic (AtIPT5) (EC 2.5.1.112) (Adenylate dimethylallyltransferase 5) (Cytokinin synthase 5)	IPT5 At5g19040 T16G12.80	Arabidopsis thaliana (Mouse-ear cress)	330		AT5G19040;
+Q94ID3	reviewed	IPT1_ARATH	Adenylate isopentenyltransferase 1, chloroplastic (AtIPT1) (EC 2.5.1.112) (EC 2.5.1.27) (Adenylate dimethylallyltransferase 1) (Cytokinin synthase 1)	IPT1 At1g68460 T26J14.3	Arabidopsis thaliana (Mouse-ear cress)	357		AT1G68460;
+Q9CA45	reviewed	SOFL2_ARATH	Protein SOB FIVE-LIKE 2 (AtSOFL2)	SOFL2 At1g68870 F14K14.2	Arabidopsis thaliana (Mouse-ear cress)	147		AT1G68870;
+Q9LEZ1	reviewed	SOB5_ARATH	Protein SUPPRESSOR OF PHYTOCHROME B 5 (AtSOB5)	SOB5 At5g08150 T22D6.90	Arabidopsis thaliana (Mouse-ear cress)	144		AT5G08150;
+Q9SB60	reviewed	IPT4_ARATH	Adenylate isopentenyltransferase 4 (AtIPT4) (EC 2.5.1.112) (Adenylate dimethylallyltransferase 4) (Cytokinin synthase 4)	IPT4 At4g24650 F22K18.150	Arabidopsis thaliana (Mouse-ear cress)	318		AT4G24650;
+Q9ZUX7	reviewed	IPT2_ARATH	tRNA dimethylallyltransferase 2 (EC 2.5.1.75) (Isopentenyl-diphosphate: tRNA isopentenyltransferase 2) (AtIPT2) (IPP transferase 2) (IPPT 2)	IPT2 At2g27760 F15K20	Arabidopsis thaliana (Mouse-ear cress)	466		AT2G27760;
+Q8GW29	reviewed	LOG7_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase LOG7 (EC 3.2.2.n1) (Protein LONELY GUY 7)	LOG7 At5g06300 MHF15.18	Arabidopsis thaliana (Mouse-ear cress)	217		AT5G06300;
+Q8L8B8	reviewed	LOG3_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase LOG3 (EC 3.2.2.n1) (Protein LONELY GUY 3)	LOG3 At2g37210 T2N18.3	Arabidopsis thaliana (Mouse-ear cress)	215		AT2G37210;
+Q8LBB7	reviewed	LOG5_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase LOG5 (EC 3.2.2.n1) (Protein LONELY GUY 5)	LOG5 At4g35190 T12J5.60	Arabidopsis thaliana (Mouse-ear cress)	228		AT4G35190;
+Q8RUN2	reviewed	LOG1_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase LOG1 (EC 3.2.2.n1) (Protein LONELY GUY 1)	LOG1 At2g28305 T1B3.18 T3B23.2	Arabidopsis thaliana (Mouse-ear cress)	213		AT2G28305;
+Q9C5J6	reviewed	IPT9_ARATH	tRNA dimethylallyltransferase 9 (EC 2.5.1.75) (Isopentenyl-diphosphate: tRNA isopentenyltransferase 9) (AtIPT9) (IPP transferase 9) (IPPT 9)	IPT9 At5g20040 F28I16.190	Arabidopsis thaliana (Mouse-ear cress)	463		AT5G20040;
+Q9FF18	reviewed	C7351_ARATH	Cytokinin hydroxylase (EC 1.14.13.-) (Cytochrome P450 35A1)	CYP735A1 At5g38450 MXI10.18	Arabidopsis thaliana (Mouse-ear cress)	518		AT5G38450;
+Q9LFH3	reviewed	LOG4_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase LOG4 (EC 3.2.2.n1) (Protein LONELY GUY 4)	LOG4 At3g53450 F4P12.150	Arabidopsis thaliana (Mouse-ear cress)	215		AT3G53450;
+Q9LJL4	reviewed	IPT8_ARATH	Adenylate isopentenyltransferase 8, chloroplastic (AtIPT8) (EC 2.5.1.112) (Adenylate dimethylallyltransferase 8) (Cytokinin synthase 8) (Plant growth activator 22)	IPT8 PGA22 At3g19160 MVI11.16	Arabidopsis thaliana (Mouse-ear cress)	330	PGA22	AT3G19160;
+Q9ZW95	reviewed	C7352_ARATH	Cytokinin hydroxylase (EC 1.14.13.-) (Cytochrome P450 35A2)	CYP735A2 At1g67110 F5A8.3	Arabidopsis thaliana (Mouse-ear cress)	512		AT1G67110;
+A0A1P8B221	unreviewed	A0A1P8B221_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	LOG1 ATLOG1 LONELY GUY 1 At2g28305 T1B3.18	Arabidopsis thaliana (Mouse-ear cress)	156	ATLOG1 LONELY GUY 1	AT2G28305;
+A0A7G2EF02	unreviewed	A0A7G2EF02_ARATH	CASP-like protein	AT9943_LOCUS8727	Arabidopsis thaliana (Mouse-ear cress)	414		
+B6IDH8	reviewed	SOFL6_ARATH	Protein SOB FIVE-LIKE 6 (AtSOFL6)	SOFL6 At1g58460 F9K23.1	Arabidopsis thaliana (Mouse-ear cress)	177		AT1G58460;
+F4IQ18	unreviewed	F4IQ18_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	LOG3 LONELY GUY 3 At2g37210 T2N18.3 T2N18_3	Arabidopsis thaliana (Mouse-ear cress)	239	LONELY GUY 3	AT2G37210;
+F4J6N7	reviewed	SOFL3_ARATH	Protein SOB FIVE-LIKE 3 (AtSOFL3)	SOFL3 At3g30580 MQP15.8	Arabidopsis thaliana (Mouse-ear cress)	128		AT3G30580;
+Q8L9K4	reviewed	SOFL5_ARATH	Protein SOB FIVE-LIKE 5 (AtSOFL5)	SOFL5 At4g33800 T16L1.290	Arabidopsis thaliana (Mouse-ear cress)	170		AT4G33800;
+Q9C6L1	reviewed	IPT6_ARATH	Adenylate isopentenyltransferase 6, chloroplastic (AtIPT6) (EC 2.5.1.112) (Adenylate dimethylallyltransferase 6) (Cytokinin synthase 6)	IPT6 At1g25410 F2J7.12	Arabidopsis thaliana (Mouse-ear cress)	342		AT1G25410;
+Q9LYV8	reviewed	LOG6_ARATH	Probable cytokinin riboside 5'-monophosphate phosphoribohydrolase LOG6 (EC 3.2.2.n1) (Protein LONELY GUY 6)	LOG6 At5g03270 F15A17.300	Arabidopsis thaliana (Mouse-ear cress)	201		AT5G03270;
+A0A178U944	unreviewed	A0A178U944_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	AXX17_At5g05840	Arabidopsis thaliana (Mouse-ear cress)	124		
+A0A178UJ26	unreviewed	A0A178UJ26_ARATH	tRNA dimethylallyltransferase (EC 2.5.1.75)	AXX17_At5g19990	Arabidopsis thaliana (Mouse-ear cress)	463		
+A0A178UJ28	unreviewed	A0A178UJ28_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	AXX17_At5g11670 AN1_LOCUS21993	Arabidopsis thaliana (Mouse-ear cress)	216		
+A0A178UQW2	unreviewed	A0A178UQW2_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	AXX17_At5g02480 AN1_LOCUS21120 C24_LOCUS21017	Arabidopsis thaliana (Mouse-ear cress)	201		
+A0A178UWQ5	unreviewed	A0A178UWQ5_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	AXX17_At4g40220 AN1_LOCUS20360 AT9943_LOCUS17562 C24_LOCUS20255	Arabidopsis thaliana (Mouse-ear cress)	228		
+A0A178V9S8	unreviewed	A0A178V9S8_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	AXX17_At3g47840 AT9943_LOCUS13519 C24_LOCUS15600	Arabidopsis thaliana (Mouse-ear cress)	215		
+A0A178VPA3	unreviewed	A0A178VPA3_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	AXX17_At2g32650	Arabidopsis thaliana (Mouse-ear cress)	120		
+A0A178VS96	unreviewed	A0A178VS96_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	AXX17_At2g24320 AN1_LOCUS9228 AT9943_LOCUS7909 C24_LOCUS9078	Arabidopsis thaliana (Mouse-ear cress)	213		
+A0A178VTW6	unreviewed	A0A178VTW6_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	AXX17_At2g24320	Arabidopsis thaliana (Mouse-ear cress)	121		
+A0A178VUC5	unreviewed	A0A178VUC5_ARATH	tRNA dimethylallyltransferase (EC 2.5.1.75)	AXX17_At2g23740	Arabidopsis thaliana (Mouse-ear cress)	466		
+A0A178VZF1	unreviewed	A0A178VZF1_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	AXX17_At2g34010	Arabidopsis thaliana (Mouse-ear cress)	191		
+A0A178W1Y0	unreviewed	A0A178W1Y0_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	AXX17_At2g34010 AN1_LOCUS10180 C24_LOCUS10026	Arabidopsis thaliana (Mouse-ear cress)	215		
+A0A1P8B218	unreviewed	A0A1P8B218_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	LOG1 ATLOG1 LONELY GUY 1 At2g28305 T1B3.18	Arabidopsis thaliana (Mouse-ear cress)	193	ATLOG1 LONELY GUY 1	AT2G28305;
+A0A1P8B6D1	unreviewed	A0A1P8B6D1_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	LOG5 LONELY GUY 5 At4g35190 T12J5.60 T12J5_60	Arabidopsis thaliana (Mouse-ear cress)	199	LONELY GUY 5	AT4G35190;
+A0A1P8BDD2	unreviewed	A0A1P8BDD2_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	LOG6 LONELY GUY 6 At5g03270 F15A17.300 F15A17_300	Arabidopsis thaliana (Mouse-ear cress)	197	LONELY GUY 6	AT5G03270;
+A0A1P8BGT5	unreviewed	A0A1P8BGT5_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	LOG8 LONELY GUY 8 At5g11950 F14F18.120 F14F18_120	Arabidopsis thaliana (Mouse-ear cress)	163	LONELY GUY 8	AT5G11950;
+A0A1P8BH85	unreviewed	A0A1P8BH85_ARATH	cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	LOG9 ATLOG9 LONELY GUY 9 At5g26140 T1N24.16 T1N24_16	Arabidopsis thaliana (Mouse-ear cress)	164	ATLOG9 LONELY GUY 9	AT5G26140;
+A0A1P8BH87	unreviewed	A0A1P8BH87_ARATH	cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	LOG9 ATLOG9 LONELY GUY 9 At5g26140 T1N24.16 T1N24_16	Arabidopsis thaliana (Mouse-ear cress)	130	ATLOG9 LONELY GUY 9	AT5G26140;
+A0A2H1ZE76	unreviewed	A0A2H1ZE76_ARATH	cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	LOG9 ATLOG9 LONELY GUY 9 At5g26140 T1N24.16 T1N24_16	Arabidopsis thaliana (Mouse-ear cress)	145	ATLOG9 LONELY GUY 9	AT5G26140;
+A0A5S9X1T0	unreviewed	A0A5S9X1T0_ARATH	tRNA dimethylallyltransferase (EC 2.5.1.75)	C24_LOCUS9025	Arabidopsis thaliana (Mouse-ear cress)	466		
+A0A5S9Y3R9	unreviewed	A0A5S9Y3R9_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	C24_LOCUS21882	Arabidopsis thaliana (Mouse-ear cress)	216		
+A0A5S9Y432	unreviewed	A0A5S9Y432_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	AN1_LOCUS21446 C24_LOCUS21341	Arabidopsis thaliana (Mouse-ear cress)	217		
+A0A5S9Y7B0	unreviewed	A0A5S9Y7B0_ARATH	cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	C24_LOCUS23241	Arabidopsis thaliana (Mouse-ear cress)	164		
+A0A654EWV1	unreviewed	A0A654EWV1_ARATH	tRNA dimethylallyltransferase (EC 2.5.1.75)	AN1_LOCUS9175	Arabidopsis thaliana (Mouse-ear cress)	466		
+A0A654EZ83	unreviewed	A0A654EZ83_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	AN1_LOCUS10052 C24_LOCUS9898	Arabidopsis thaliana (Mouse-ear cress)	213		
+A0A654FGC4	unreviewed	A0A654FGC4_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	AN1_LOCUS15716	Arabidopsis thaliana (Mouse-ear cress)	215		
+A0A654G2Q2	unreviewed	A0A654G2Q2_ARATH	tRNA dimethylallyltransferase (EC 2.5.1.75)	AN1_LOCUS22804 C24_LOCUS22689	Arabidopsis thaliana (Mouse-ear cress)	463		
+A0A7G2EDK0	unreviewed	A0A7G2EDK0_ARATH	tRNA dimethylallyltransferase (EC 2.5.1.75)	AT9943_LOCUS7859	Arabidopsis thaliana (Mouse-ear cress)	466		
+A0A7G2F585	unreviewed	A0A7G2F585_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	AT9943_LOCUS18199	Arabidopsis thaliana (Mouse-ear cress)	201		
+A0A7G2F661	unreviewed	A0A7G2F661_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	AT9943_LOCUS18471	Arabidopsis thaliana (Mouse-ear cress)	142		
+A0A7G2FDW1	unreviewed	A0A7G2FDW1_ARATH	tRNA dimethylallyltransferase (EC 2.5.1.75)	AT9943_LOCUS19626	Arabidopsis thaliana (Mouse-ear cress)	505		
+A0A7G2FE13	unreviewed	A0A7G2FE13_ARATH	cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	AT9943_LOCUS18932	Arabidopsis thaliana (Mouse-ear cress)	410		
+F4ILS7	unreviewed	F4ILS7_ARATH	Cytokinin riboside 5'-monophosphate phosphoribohydrolase (EC 3.2.2.n1)	LOG2 LONELY GUY 2 At2g35990 F11F19.10 F11F19_10	Arabidopsis thaliana (Mouse-ear cress)	161	LONELY GUY 2	AT2G35990;
+F4K2Q7	unreviewed	F4K2Q7_ARATH	tRNA dimethylallyltransferase (EC 2.5.1.75)	IPT9 ATIPT9 isopentenyltransferase 9 At5g20040 F28I16.190 F28I16_190	Arabidopsis thaliana (Mouse-ear cress)	469	ATIPT9 isopentenyltransferase 9	AT5G20040;
+Q9FKQ9	reviewed	SOFL4_ARATH	Protein SOB FIVE-LIKE 4 (AtSOFL4)	SOFL4 At5g38790 MKD10.11	Arabidopsis thaliana (Mouse-ear cress)	131		AT5G38790;
+Q9XH06	reviewed	LOG9_ARATH	Putative cytokinin riboside 5'-monophosphate phosphoribohydrolase LOG9 (EC 3.2.2.n1) (Protein LONELY GUY 9)	LOG9 At5g26140 T1N24.16	Arabidopsis thaliana (Mouse-ear cress)	143		AT5G26140;
+A0A178UCV3	unreviewed	A0A178UCV3_ARATH	IPT5	AXX17_At5g18890	Arabidopsis thaliana (Mouse-ear cress)	330		
+A0A178UHR3	unreviewed	A0A178UHR3_ARATH	SOB5	AXX17_At5g07930	Arabidopsis thaliana (Mouse-ear cress)	144		
+A0A178US91	unreviewed	A0A178US91_ARATH	Uncharacterized protein	AXX17_At5g36160	Arabidopsis thaliana (Mouse-ear cress)	131		
+A0A178UU57	unreviewed	A0A178UU57_ARATH	Uncharacterized protein	AXX17_At4g38640	Arabidopsis thaliana (Mouse-ear cress)	167		
+A0A178V2Q1	unreviewed	A0A178V2Q1_ARATH	IPT4	AXX17_At4g28530	Arabidopsis thaliana (Mouse-ear cress)	318		
+A0A178V807	unreviewed	A0A178V807_ARATH	(thale cress) hypothetical protein (IPT7)	AXX17_At3g25490 AN1_LOCUS13825 AT9943_LOCUS11866 C24_LOCUS13663	Arabidopsis thaliana (Mouse-ear cress)	329		
+A0A178V8J2	unreviewed	A0A178V8J2_ARATH	(thale cress) hypothetical protein (IPT3)	AXX17_At3g57390 AN1_LOCUS16702 AT9943_LOCUS14363	Arabidopsis thaliana (Mouse-ear cress)	336		
+A0A178VHX4	unreviewed	A0A178VHX4_ARATH	PGA22	AXX17_At3g20350	Arabidopsis thaliana (Mouse-ear cress)	330		
+A0A178W6I2	unreviewed	A0A178W6I2_ARATH	IPT1	AXX17_At1g62510	Arabidopsis thaliana (Mouse-ear cress)	357		
+A0A178WEI0	unreviewed	A0A178WEI0_ARATH	IPT6	AXX17_At1g26200 AN1_LOCUS2643 C24_LOCUS2548	Arabidopsis thaliana (Mouse-ear cress)	342		
+A0A178WJ48	unreviewed	A0A178WJ48_ARATH	Uncharacterized protein	AXX17_At1g52440	Arabidopsis thaliana (Mouse-ear cress)	177		
+A0A178WPB6	unreviewed	A0A178WPB6_ARATH	SOFL2	AXX17_At1g62960 AN1_LOCUS5914	Arabidopsis thaliana (Mouse-ear cress)	147		
+A0A1P8ASK7	unreviewed	A0A1P8ASK7_ARATH	Uncharacterized protein	At1g58460 F9K23.1 F9K23_1	Arabidopsis thaliana (Mouse-ear cress)	181		AT1G58460;
+A0A384KCL8	unreviewed	A0A384KCL8_ARATH	(thale cress) hypothetical protein	AXX17_At3g34360 AT9943_LOCUS12468 C24_LOCUS14392	Arabidopsis thaliana (Mouse-ear cress)	128		
+A0A5S9VZ29	unreviewed	A0A5S9VZ29_ARATH	Uncharacterized protein	C24_LOCUS2579	Arabidopsis thaliana (Mouse-ear cress)	148		
+A0A5S9WMS3	unreviewed	A0A5S9WMS3_ARATH	Uncharacterized protein	C24_LOCUS4791	Arabidopsis thaliana (Mouse-ear cress)	177		
+A0A5S9WR10	unreviewed	A0A5S9WR10_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS5004 C24_LOCUS5805	Arabidopsis thaliana (Mouse-ear cress)	147		
+A0A5S9WTM9	unreviewed	A0A5S9WTM9_ARATH	Uncharacterized protein	C24_LOCUS5758	Arabidopsis thaliana (Mouse-ear cress)	357		
+A0A5S9XDZ2	unreviewed	A0A5S9XDZ2_ARATH	Uncharacterized protein	C24_LOCUS13164	Arabidopsis thaliana (Mouse-ear cress)	330		
+A0A5S9XN99	unreviewed	A0A5S9XN99_ARATH	Adenylate isopentenyltransferase 3, chloroplastic	C24_LOCUS16573	Arabidopsis thaliana (Mouse-ear cress)	336		
+A0A5S9XVI7	unreviewed	A0A5S9XVI7_ARATH	Uncharacterized protein	C24_LOCUS19107	Arabidopsis thaliana (Mouse-ear cress)	318		
+A0A5S9XYR3	unreviewed	A0A5S9XYR3_ARATH	Uncharacterized protein	C24_LOCUS20102	Arabidopsis thaliana (Mouse-ear cress)	170		
+A0A5S9Y2G2	unreviewed	A0A5S9Y2G2_ARATH	Uncharacterized protein	C24_LOCUS21534	Arabidopsis thaliana (Mouse-ear cress)	145		
+A0A5S9Y5F6	unreviewed	A0A5S9Y5F6_ARATH	(thale cress) hypothetical protein	AN1_LOCUS22694 AT9943_LOCUS19532 C24_LOCUS22579	Arabidopsis thaliana (Mouse-ear cress)	330		
+A0A654EI31	unreviewed	A0A654EI31_ARATH	Uncharacterized protein	AN1_LOCUS2675	Arabidopsis thaliana (Mouse-ear cress)	149		
+A0A654EM67	unreviewed	A0A654EM67_ARATH	Uncharacterized protein	AN1_LOCUS5867	Arabidopsis thaliana (Mouse-ear cress)	357		
+A0A654EV44	unreviewed	A0A654EV44_ARATH	Uncharacterized protein	AN1_LOCUS4909	Arabidopsis thaliana (Mouse-ear cress)	177		
+A0A654F8N3	unreviewed	A0A654F8N3_ARATH	Uncharacterized protein	AN1_LOCUS13330	Arabidopsis thaliana (Mouse-ear cress)	330		
+A0A654FBY9	unreviewed	A0A654FBY9_ARATH	Uncharacterized protein	AN1_LOCUS14529	Arabidopsis thaliana (Mouse-ear cress)	128		
+A0A654FSW1	unreviewed	A0A654FSW1_ARATH	(thale cress) hypothetical protein	AN1_LOCUS19207 AT9943_LOCUS16565	Arabidopsis thaliana (Mouse-ear cress)	318		
+A0A654FVA7	unreviewed	A0A654FVA7_ARATH	Uncharacterized protein	AN1_LOCUS20208	Arabidopsis thaliana (Mouse-ear cress)	170		
+A0A654FZK1	unreviewed	A0A654FZK1_ARATH	Uncharacterized protein	AN1_LOCUS21640	Arabidopsis thaliana (Mouse-ear cress)	145		
+A0A654G652	unreviewed	A0A654G652_ARATH	Uncharacterized protein	AN1_LOCUS24039 C24_LOCUS23873	Arabidopsis thaliana (Mouse-ear cress)	131		
+A0A7G2DYV9	unreviewed	A0A7G2DYV9_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS2171	Arabidopsis thaliana (Mouse-ear cress)	537		
+A0A7G2E1L9	unreviewed	A0A7G2E1L9_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS4169	Arabidopsis thaliana (Mouse-ear cress)	177		
+A0A7G2ER27	unreviewed	A0A7G2ER27_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS11455	Arabidopsis thaliana (Mouse-ear cress)	299		
+A0A7G2F5P9	unreviewed	A0A7G2F5P9_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS17438	Arabidopsis thaliana (Mouse-ear cress)	161		

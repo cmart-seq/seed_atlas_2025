@@ -1,0 +1,669 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length	Gene Names (synonym)	TAIR
+B9DFX7	reviewed	HMA8_ARATH	Copper-transporting ATPase PAA2, chloroplastic (EC 7.2.2.9) (Protein HEAVY METAL ATPASE 8)	PAA2 HMA8 At5g21930 F13M11 T6G21	Arabidopsis thaliana (Mouse-ear cress)	883	HMA8	AT5G21930;
+F4IW47	reviewed	TKTC2_ARATH	Transketolase-2, chloroplastic (TK) (EC 2.2.1.1)	TKL-2 At2g45290 F4L23.20	Arabidopsis thaliana (Mouse-ear cress)	741		AT2G45290;
+F4JGR5	reviewed	PFPB2_ARATH	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit beta 2 (PFP 2) (EC 2.7.1.90) (6-phosphofructokinase, pyrophosphate dependent 2) (PPi-PFK 2) (Protein MATERNAL EFFECT EMBRYO ARREST 51) (Pyrophosphate-dependent 6-phosphofructose-1-kinase 2)	PFP-BETA2 MEE51 At4g04040 T24H24.15	Arabidopsis thaliana (Mouse-ear cress)	569	MEE51	AT4G04040;
+F4JHA2	reviewed	RSH1C_ARATH	Putative GTP diphosphokinase RSH1, chloroplastic (EC 2.7.6.5) (RelA/SpoT homolog 1) (AtRSH1) (ppGpp synthetase RSH1)	RSH1 At4g02260 T2H3.10	Arabidopsis thaliana (Mouse-ear cress)	884		AT4G02260;
+O03042	reviewed	RBL_ARATH	Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39)	rbcL AtCg00490	Arabidopsis thaliana (Mouse-ear cress)	479		ATCG00490;
+O22609	reviewed	DEGP1_ARATH	Protease Do-like 1, chloroplastic (EC 3.4.21.-) (Protein DEGRADATION OF PERIPLASMIC PROTEINS 1) (DEGP PROTEASE 1)	DEGP1 DEG1 DEGP At3g27925 K16N12.18	Arabidopsis thaliana (Mouse-ear cress)	439	DEG1 DEGP	AT3G27925;
+O22682	reviewed	CYSK4_ARATH	S-sulfo-L-cysteine synthase (O-acetyl-L-serine-dependent), chloroplastic (EC 2.5.1.144) (AtCS26) (Beta-substituted Ala synthase 5;1) (ARAth-Bsas5;1) (O-acetylserine sulfhydrylase)	CS26 At3g03630 T12J13.9	Arabidopsis thaliana (Mouse-ear cress)	404		AT3G03630;
+O22914	reviewed	CP121_ARATH	Calvin cycle protein CP12-1, chloroplastic (CP12 domain-containing protein 1) (Chloroplast protein 12-1)	CP12-1 At2g47400 T8I13.24	Arabidopsis thaliana (Mouse-ear cress)	124		AT2G47400;
+O23403	reviewed	PPD1_ARATH	PsbP domain-containing protein 1, chloroplastic (OEC23-like protein 3) (PsbP-related thylakoid lumenal protein 1)	PPD1 At4g15510 dl3795w FCAALL.88	Arabidopsis thaliana (Mouse-ear cress)	287		AT4G15510;
+O23404	reviewed	PPDK1_ARATH	Pyruvate, phosphate dikinase 1, chloroplastic (EC 2.7.9.1) (Pyruvate, orthophosphate dikinase 1)	PPDK At4g15530 dl3805c FCAALL.325	Arabidopsis thaliana (Mouse-ear cress)	963		AT4G15530;
+O48741	reviewed	PORC_ARATH	Protochlorophyllide reductase C, chloroplastic (PCR C) (EC 1.3.1.33) (NADPH-protochlorophyllide oxidoreductase C) (POR C)	PORC At1g03630 F21B7.24 F21B7.35 F21B7_11	Arabidopsis thaliana (Mouse-ear cress)	401		AT1G03630;
+O48782	reviewed	HMOX1_ARATH	Heme oxygenase 1, chloroplastic (AtHO1) (EC 1.14.14.18) (Protein GENOMES UNCOUPLED 2) (Protein REVERSAL OF THE DET PHENOTYPE 4)	HO1 GUN2 HY1 HY6 TED4 At2g26670 F18A8.4	Arabidopsis thaliana (Mouse-ear cress)	282	GUN2 HY1 HY6 TED4	AT2G26670;
+O64750	reviewed	PSA2_ARATH	Protein PHOTOSYSTEM I ASSEMBLY 2, chloroplastic (AtPSA2) (Protein EMBRYO SAC DEVELOPMENT ARREST 3)	PSA2 EDA3 At2g34860 F19I3.9	Arabidopsis thaliana (Mouse-ear cress)	186	EDA3	AT2G34860;
+O65502	reviewed	HC244_ARATH	Protein HIGH CHLOROPHYLL FLUORESCENCE PHENOTYPE 244, chloroplastic	HCF244 At4g35250 F23E12.190	Arabidopsis thaliana (Mouse-ear cress)	395		AT4G35250;
+O80860	reviewed	FTSH2_ARATH	ATP-dependent zinc metalloprotease FTSH 2, chloroplastic (AtFTSH2) (EC 3.4.24.-) (Protein VARIEGATED 2)	FTSH2 VAR2 At2g30950 F7F1.16	Arabidopsis thaliana (Mouse-ear cress)	695	VAR2	AT2G30950;
+O80952	reviewed	PGPS1_ARATH	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase 1, chloroplastic/mitochondrial (EC 2.7.8.5) (Phosphatidylglycerophosphate synthase 1) (PGP synthase 1) (Protein JOVTENKY)	PGPS1 JOV PGP1 PGS1 At2g39290 T16B24.7	Arabidopsis thaliana (Mouse-ear cress)	296	JOV PGP1 PGS1	AT2G39290;
+O81208	reviewed	OHP1_ARATH	Light-harvesting complex-like protein OHP1, chloroplastic (High-light-induced protein) (AtHLIP) (One helix protein) (One helix protein 1) (Protein LIGHT-HARVESTING LIKE 2) (Protein PIGMENT DEFECTIVE 335)	OHP1 APG16 HLIP LIL2 OHP PDE335 At5g02120 T7H20.170	Arabidopsis thaliana (Mouse-ear cress)	110	APG16 HLIP LIL2 OHP PDE335	AT5G02120;
+O81845	reviewed	PUMP1_ARATH	Mitochondrial uncoupling protein 1 (AtPUMP1)	PUMP1 UCP1 At3g54110 F24B22.70	Arabidopsis thaliana (Mouse-ear cress)	306	UCP1	AT3G54110;
+O82261	reviewed	DEGP2_ARATH	Protease Do-like 2, chloroplastic (EC 3.4.21.-)	DEGP2 At2g47940 F17A22.33 T9J23.7	Arabidopsis thaliana (Mouse-ear cress)	607		AT2G47940;
+O82660	reviewed	P2SAF_ARATH	Photosystem II stability/assembly factor HCF136, chloroplastic	HCF136 At5g23120 MYJ24.11	Arabidopsis thaliana (Mouse-ear cress)	403		AT5G23120;
+P04778	reviewed	CB1C_ARATH	Chlorophyll a-b binding protein 1, chloroplastic (Chlorophyll a-b protein 140) (CAB-140) (LHCII type I CAB-1)	LHCB1.3 AB140 CAB1 At1g29930 F1N18.3	Arabidopsis thaliana (Mouse-ear cress)	267	AB140 CAB1	AT1G29930;
+P0CJ48	reviewed	CB1A_ARATH	Chlorophyll a-b binding protein 2, chloroplastic (Chlorophyll a-b protein 165) (CAB-165) (LHCII type I CAB-2)	LHCB1.1 AB165 CAB2 LHCP-B At1g29920 F1N18.4	Arabidopsis thaliana (Mouse-ear cress)	267	AB165 CAB2 LHCP-B	AT1G29920;
+P10795	reviewed	RBS1A_ARATH	Ribulose bisphosphate carboxylase small subunit 1A, chloroplastic (RuBisCO small subunit 1A)	RBCS-1A ATS1A At1g67090 F1O19.14 F5A8.1	Arabidopsis thaliana (Mouse-ear cress)	180	ATS1A	AT1G67090;
+P14713	reviewed	PHYB_ARATH	Phytochrome B (Protein LONG HYPOCOTYL 3) (Protein OUT OF PHASE 1)	PHYB HY3 OOP1 At2g18790 MSF3.17	Arabidopsis thaliana (Mouse-ear cress)	1172	HY3 OOP1	AT2G18790;
+P16127	reviewed	CHLI1_ARATH	Magnesium-chelatase subunit ChlI-1, chloroplastic (Mg-chelatase subunit I-1) (EC 6.6.1.1) (Mg-protoporphyrin IX chelatase subunit ChlI-1) (Protein CHLORINA 42)	CHLI1 CH42 CS At4g18480 F28J12.140	Arabidopsis thaliana (Mouse-ear cress)	424	CH42 CS	AT4G18480;
+P21218	reviewed	PORB_ARATH	Protochlorophyllide reductase B, chloroplastic (PCR B) (EC 1.3.1.33) (NADPH-protochlorophyllide oxidoreductase B) (POR B)	PORB At4g27440 F27G19.40	Arabidopsis thaliana (Mouse-ear cress)	401		AT4G27440;
+P23321	reviewed	PSBO1_ARATH	Oxygen-evolving enhancer protein 1-1, chloroplastic (OEE1) (33 kDa subunit of oxygen evolving system of photosystem II) (33 kDa thylakoid membrane protein) (Manganese-stabilizing protein 1) (MSP-1) (OEC 33 kDa subunit)	PSBO1 OEC33 PSBO At5g66570 K1F13.25	Arabidopsis thaliana (Mouse-ear cress)	332	OEC33 PSBO	AT5G66570;
+P25697	reviewed	KPPR_ARATH	Phosphoribulokinase, chloroplastic (PRK) (PRKase) (EC 2.7.1.19) (Phosphopentokinase)	At1g32060 T12O21.4	Arabidopsis thaliana (Mouse-ear cress)	395		AT1G32060;
+P25851	reviewed	F16P1_ARATH	Fructose-1,6-bisphosphatase 1, chloroplastic (FBPase1) (EC 3.1.3.11) (D-fructose-1,6-bisphosphate 1-phosphohydrolase) (Protein HIGH CYCLIC ELECTRON FLOW 1)	CFBP1 FBP HCEF1 At3g54050 F24B22.10	Arabidopsis thaliana (Mouse-ear cress)	417	FBP HCEF1	AT3G54050;
+P25856	reviewed	G3PA1_ARATH	Glyceraldehyde-3-phosphate dehydrogenase GAPA1, chloroplastic (EC 1.2.1.13) (NADP-dependent glyceraldehydephosphate dehydrogenase A subunit 1)	GAPA1 GAPA At3g26650 MLJ15.4 MLJ15_5	Arabidopsis thaliana (Mouse-ear cress)	396	GAPA	AT3G26650;
+P25857	reviewed	G3PB_ARATH	Glyceraldehyde-3-phosphate dehydrogenase GAPB, chloroplastic (EC 1.2.1.13) (NADP-dependent glyceraldehydephosphate dehydrogenase B)	GAPB At1g42970 F13A11.3	Arabidopsis thaliana (Mouse-ear cress)	447		AT1G42970;
+P27140	reviewed	BCA1_ARATH	Beta carbonic anhydrase 1, chloroplastic (AtbCA1) (AtbetaCA1) (EC 4.2.1.1) (Beta carbonate dehydratase 1) (Protein SALICYLIC ACID-BINDING PROTEIN 3) (AtSABP3)	BCA1 CA1 SABP3 At3g01500 F4P13.5	Arabidopsis thaliana (Mouse-ear cress)	347	CA1 SABP3	AT3G01500;
+P27521	reviewed	CA4_ARATH	Chlorophyll a-b binding protein 4, chloroplastic (LHCI type III CAB-4)	LHCA4 CAB4 At3g47470 F1P2.20	Arabidopsis thaliana (Mouse-ear cress)	251	CAB4	AT3G47470;
+P46283	reviewed	S17P_ARATH	Sedoheptulose-1,7-bisphosphatase, chloroplastic (EC 3.1.3.37) (SED(1,7)P2ase) (Sedoheptulose bisphosphatase) (SBPase)	At3g55800 F1I16_210	Arabidopsis thaliana (Mouse-ear cress)	393		AT3G55800;
+P49599	reviewed	P2C57_ARATH	Protein phosphatase 2C 57 (AtPP2C57) (EC 3.1.3.16) (Protein phosphatase 2C PPH1) (PP2C PPH1) (Thylakoid-associated phosphatase of 38 kDa)	PPH1 PP2C57 TAP38 At4g27800 T27E11.40	Arabidopsis thaliana (Mouse-ear cress)	388	PP2C57 TAP38	AT4G27800;
+P50318	reviewed	PGKH2_ARATH	Phosphoglycerate kinase 2, chloroplastic (EC 2.7.2.3)	At1g56190 F14G9.19 T6H22.1	Arabidopsis thaliana (Mouse-ear cress)	478		AT1G56190;
+P56761	reviewed	PSBD_ARATH	Photosystem II D2 protein (PSII D2 protein) (EC 1.10.3.9) (Photosystem Q(A) protein)	psbD AtCg00270	Arabidopsis thaliana (Mouse-ear cress)	353		ATCG00270;
+P56766	reviewed	PSAA_ARATH	Photosystem I P700 chlorophyll a apoprotein A1 (EC 1.97.1.12) (PSI-A) (PsaA)	psaA AtCg00350	Arabidopsis thaliana (Mouse-ear cress)	750		ATCG00350;
+P56778	reviewed	PSBC_ARATH	Photosystem II CP43 reaction center protein (PSII 43 kDa protein) (Protein CP-43)	psbC CP43 AtCg00280	Arabidopsis thaliana (Mouse-ear cress)	473	CP43	ATCG00280;
+P56780	reviewed	PSBH_ARATH	Photosystem II reaction center protein H (PSII-H) (Photosystem II 10 kDa phosphoprotein)	psbH AtCg00710	Arabidopsis thaliana (Mouse-ear cress)	73		ATCG00710;
+P62090	reviewed	PSAC_ARATH	Photosystem I iron-sulfur center (EC 1.97.1.12) (9 kDa polypeptide) (PSI-C) (Photosystem I subunit VII) (PsaC)	psaC frxA AtCg01060	Arabidopsis thaliana (Mouse-ear cress)	81	frxA	ATCG01060;
+P82538	reviewed	PPL1_ARATH	PsbP-like protein 1, chloroplastic (OEC23-like protein 4) (PsbP-related thylakoid lumenal protein 2)	PPL1 At3g55330 T26I12.210	Arabidopsis thaliana (Mouse-ear cress)	230		AT3G55330;
+P83755	reviewed	PSBA_ARATH	Photosystem II protein D1 (PSII D1 protein) (EC 1.10.3.9) (Photosystem II Q(B) protein)	psbA AtCg00020	Arabidopsis thaliana (Mouse-ear cress)	353		ATCG00020;
+P93735	reviewed	ELIP1_ARATH	Early light-induced protein 1, chloroplastic	ELIP1 ELIP At3g22840 MWI23.21	Arabidopsis thaliana (Mouse-ear cress)	195	ELIP	AT3G22840;
+Q01667	reviewed	CAB6_ARATH	Chlorophyll a-b binding protein 6, chloroplastic (LHCI-730) (LHCII type III CAB-6) (Light-harvesting complex protein Lhca1)	LHCA1 CAB6 At3g54890 F28P10.130	Arabidopsis thaliana (Mouse-ear cress)	241	CAB6	AT3G54890;
+Q01908	reviewed	ATPG1_ARATH	ATP synthase gamma chain 1, chloroplastic (F-ATPase gamma subunit 1)	ATPC1 At4g04640 T19J18.4	Arabidopsis thaliana (Mouse-ear cress)	373		AT4G04640;
+Q07473	reviewed	CB4A_ARATH	Chlorophyll a-b binding protein CP29.1, chloroplastic (LHCB4.1) (LHCII protein 4.1)	LHCB4.1 At5g01530 F7A7_50	Arabidopsis thaliana (Mouse-ear cress)	290		AT5G01530;
+Q0WRJ7	reviewed	FK202_ARATH	Peptidyl-prolyl cis-trans isomerase FKBP20-2, chloroplastic (PPIase FKBP20-2) (EC 5.2.1.8) (FK506-binding protein 20-2) (AtFKBP20-2) (Immunophilin FKBP20-2) (Rotamase)	FKBP20-2 At3g60370 T8B10.30	Arabidopsis thaliana (Mouse-ear cress)	242		AT3G60370;
+Q0WUA3	reviewed	MENA_ARATH	2-carboxy-1,4-naphthoquinone phytyltransferase, chloroplastic (EC 2.5.1.130) (1,4-dihydroxy-2-naphthoate phytyltransferase) (1,4-dihydroxy-2-naphthoate polyprenyltransferase) (Protein ABERRANT CHLOROPLAST DEVELOPMENT 4) (menA-like protein) (AtMENA)	ABC4 At1g60600 F8A5.36	Arabidopsis thaliana (Mouse-ear cress)	382		AT1G60600;
+Q38929	reviewed	IDI1_ARATH	Isopentenyl-diphosphate Delta-isomerase I, chloroplastic (EC 5.3.3.2) (Isopentenyl pyrophosphate isomerase I) (IPP isomerase I)	IPP1 IPI1 At5g16440 MQK4.17	Arabidopsis thaliana (Mouse-ear cress)	291	IPI1	AT5G16440;
+Q39101	reviewed	FRI1_ARATH	Ferritin-1, chloroplastic (AtFer1) (EC 1.16.3.1)	FER1 At5g01600 F7A7.120	Arabidopsis thaliana (Mouse-ear cress)	255		AT5G01600;
+Q39102	reviewed	FTSH1_ARATH	ATP-dependent zinc metalloprotease FTSH 1, chloroplastic (AtFTSH1) (EC 3.4.24.-)	FTSH1 AAA FTSH At1g50250 F14I3.14	Arabidopsis thaliana (Mouse-ear cress)	716	AAA FTSH	AT1G50250;
+Q3KTM0	reviewed	FRO7_ARATH	Ferric reduction oxidase 7, chloroplastic (AtFRO7) (EC 1.16.1.7) (Ferric-chelate reductase 7)	FRO7 At5g49740 K2I5.10	Arabidopsis thaliana (Mouse-ear cress)	747		AT5G49740;
+Q42029	reviewed	PSBP1_ARATH	Oxygen-evolving enhancer protein 2-1, chloroplastic (OEE2) (23 kDa subunit of oxygen evolving system of photosystem II) (23 kDa thylakoid membrane protein) (OEC 23 kDa subunit) (OEC23)	PSBP1 PSBP At1g06680 F12K11.3 F4H5_18	Arabidopsis thaliana (Mouse-ear cress)	263	PSBP	AT1G06680;
+Q42536	reviewed	PORA_ARATH	Protochlorophyllide reductase A, chloroplastic (PCR A) (EC 1.3.1.33) (NADPH-protochlorophyllide oxidoreductase A) (POR A)	PORA At5g54190 K18G13.7	Arabidopsis thaliana (Mouse-ear cress)	405		AT5G54190;
+Q5XF33	reviewed	CHLI2_ARATH	Magnesium-chelatase subunit ChlI-2, chloroplastic (Mg-chelatase subunit I-2) (EC 6.6.1.1) (Mg-protoporphyrin IX chelatase subunit ChlI-2)	CHLI2 At5g45930 K15I22.13	Arabidopsis thaliana (Mouse-ear cress)	418		AT5G45930;
+Q6NKS4	reviewed	LIL32_ARATH	Light-harvesting complex-like protein 3 isotype 2, chloroplastic (LHC-like protein 3 isoform 2)	LIL3.2 At5g47110 K14A3.6	Arabidopsis thaliana (Mouse-ear cress)	258		AT5G47110;
+Q8GSJ6	reviewed	LQY1_ARATH	Protein disulfide-isomerase LQY1, chloroplastic (EC 5.3.4.1) (Protein LOW QUANTUM YIELD OF PHOTOSYSTEM II 1)	LQY1 At1g75690 F10A5.12 F10A5.4	Arabidopsis thaliana (Mouse-ear cress)	154		AT1G75690;
+Q8GYC7	reviewed	PGL1B_ARATH	PGR5-like protein 1B, chloroplastic (Ferredoxin-plastoquinone reductase 2)	PGRL1B At4g11960 F16J13.30	Arabidopsis thaliana (Mouse-ear cress)	313		AT4G11960;
+Q8H112	reviewed	PGL1A_ARATH	PGR5-like protein 1A, chloroplastic (Ferredoxin-plastoquinone reductase 1)	PGRL1A At4g22890 F7H19.70	Arabidopsis thaliana (Mouse-ear cress)	324		AT4G22890;
+Q8L540	reviewed	LTO1_ARATH	Thiol-disulfide oxidoreductase LTO1 (EC 1.17.4.-) (Protein LUMEN THIOL OXIDOREDUCTASE 1) (Vitamin K reductase)	LTO1 VKOR At4g35760 F8D20.270	Arabidopsis thaliana (Mouse-ear cress)	376	VKOR	AT4G35760;
+Q8LCA1	reviewed	CUT1B_ARATH	Protein CURVATURE THYLAKOID 1B, chloroplastic (Photosystem I protein P) (Thylakoid membrane phosphoprotein 14 kDa)	CURT1B PSAP PSI-P TMP14 At2g46820 F19D11.10	Arabidopsis thaliana (Mouse-ear cress)	174	PSAP PSI-P TMP14	AT2G46820;
+Q8LCQ4	reviewed	LHCA6_ARATH	Photosystem I chlorophyll a/b-binding protein 6, chloroplastic (LHCI type III LHCA6)	LHCA6 At1g19150 T29M8.2	Arabidopsis thaliana (Mouse-ear cress)	270		AT1G19150;
+Q8RWG1	reviewed	AB1K1_ARATH	Protein ACTIVITY OF BC1 COMPLEX KINASE 1, chloroplastic (ABC1-LIKE KINASE 1) (EC 2.7.-.-) (EC 2.7.11.1) (Protein ABC1-LIKE KINASE RELATED TO CHLOROPHYLL DEGRADATION AND OXIDATIVE STRESS 1) (AtACDO1) (Protein BLEACHING AND DWARF IN RED LIGHT 1) (Protein PROTON GRADIENT REGULATION 6)	ABC1K1 ACDO1 BDR1 PGR6 At4g31390 F3L17.6	Arabidopsis thaliana (Mouse-ear cress)	682	ACDO1 BDR1 PGR6	AT4G31390;
+Q8RWV0	reviewed	TKTC1_ARATH	Transketolase-1, chloroplastic (TK) (EC 2.2.1.1)	TKL-1 At3g60750 T4C21_160	Arabidopsis thaliana (Mouse-ear cress)	741		AT3G60750;
+Q8VZ87	reviewed	CB1B_ARATH	Chlorophyll a-b binding protein 3, chloroplastic (Chlorophyll a-b protein 180) (CAB-180) (LHCII type I CAB-3)	LHCB1.2 AB180 CAB3 LHCP-A At1g29910 F1N18.5	Arabidopsis thaliana (Mouse-ear cress)	267	AB180 CAB3 LHCP-A	AT1G29910;
+Q8W493	reviewed	FNRL2_ARATH	Ferredoxin--NADP reductase, leaf isozyme 2, chloroplastic (EC 1.18.1.2) (Leaf FNR 2) (AtLFNR2) (FNR-2)	LFNR2 PETH2 At1g20020 T20H2.20	Arabidopsis thaliana (Mouse-ear cress)	369	PETH2	AT1G20020;
+Q8W4D6	reviewed	HC173_ARATH	Protein HIGH CHLOROPHYLL FLUORESCENCE PHENOTYPE 173, chloroplastic	HCF173 At1g16720 F19K19.14	Arabidopsis thaliana (Mouse-ear cress)	598		AT1G16720;
+Q8W4M5	reviewed	PFPB1_ARATH	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit beta 1 (PFP 1) (EC 2.7.1.90) (6-phosphofructokinase, pyrophosphate dependent 1) (PPi-PFK 1) (Pyrophosphate-dependent 6-phosphofructose-1-kinase 1)	PFP-BETA1 At1g12000 F12F1.13	Arabidopsis thaliana (Mouse-ear cress)	566		AT1G12000;
+Q949Q5	reviewed	PSAO_ARATH	Photosystem I subunit O (PSI-O)	PSAO At1g08380 T27G7	Arabidopsis thaliana (Mouse-ear cress)	140		AT1G08380;
+Q949Y5	reviewed	EGY1_ARATH	Probable zinc metalloprotease EGY1, chloroplastic (EC 3.4.24.-) (Protein AMMONIUM OVERLY SENSITIVE 1) (Protein ETHYLENE-DEPENDENT GRAVITROPISM-DEFICIENT AND YELLOW-GREEN 1) (AtEGY1)	EGY1 AMOS1 At5g35220 T25C13.100	Arabidopsis thaliana (Mouse-ear cress)	548	AMOS1	AT5G35220;
+Q94AQ8	reviewed	PNSB2_ARATH	Photosynthetic NDH subunit of subcomplex B 2, chloroplastic (Protein PnsB2) (NAD(P)H DEHYDROGENASE SUBUNIT 45) (NDH-DEPENDENT CYCLIC ELECTRON FLOW 2)	PNSB2 NDF2 NDH45 At1g64770 F13O11.8	Arabidopsis thaliana (Mouse-ear cress)	348	NDF2 NDH45	AT1G64770;
+Q94AU9	reviewed	RBCX1_ARATH	Chaperonin-like RBCX protein 1, chloroplastic (AtRBCX1)	RBCX1 At4g04330 T19B17.5	Arabidopsis thaliana (Mouse-ear cress)	174		AT4G04330;
+Q94AX5	reviewed	PAM71_ARATH	Protein PAM71, chloroplastic (CA(2+)/H(+) ANTIPORTER 1) (GDT1-like protein 1) (PHOTOSYNTHESIS AFFECTED MUTANT71)	PAM71 CCHA1 At1g64150 F22C12.9	Arabidopsis thaliana (Mouse-ear cress)	370	CCHA1	AT1G64150;
+Q94B38	reviewed	GPT2_ARATH	Glucose-6-phosphate/phosphate translocator 2, chloroplastic (AtGPT2)	GPT2 At1g61800 F8K4.1	Arabidopsis thaliana (Mouse-ear cress)	388		AT1G61800;
+Q94BS2	reviewed	MET1_ARATH	Protein MET1, chloroplastic (PDZ domain, K-box domain, and TPR region containing protein)	MET1 GAN ZKT At1g55480 T5A14.12	Arabidopsis thaliana (Mouse-ear cress)	335	GAN ZKT	AT1G55480;
+Q94K66	reviewed	ELIP2_ARATH	Early light-induced protein 2, chloroplastic	ELIP2 At4g14690 dl3385w FCAALL.232	Arabidopsis thaliana (Mouse-ear cress)	193		AT4G14690;
+Q96289	reviewed	ZAT10_ARATH	Zinc finger protein ZAT10 (Salt-tolerance zinc finger)	ZAT10 STZ At1g27730 T22C5.18	Arabidopsis thaliana (Mouse-ear cress)	227	STZ	AT1G27730;
+Q9C639	reviewed	LHCA5_ARATH	Photosystem I chlorophyll a/b-binding protein 5, chloroplastic (Lhca5) (LHCI type III LHCA5)	LHCA5 At1g45474 F2G19.4	Arabidopsis thaliana (Mouse-ear cress)	256		AT1G45474;
+Q9C9K2	reviewed	CP123_ARATH	Calvin cycle protein CP12-3, chloroplastic (CP12 domain-containing protein 3) (Chloroplast protein 12-3)	CP12-3 At1g76560 F14G6.16	Arabidopsis thaliana (Mouse-ear cress)	134		AT1G76560;
+Q9C9L4	reviewed	HMOX3_ARATH	Heme oxygenase 3, chloroplastic (EC 1.14.14.18)	HO3 At1g69720 T6C23.8	Arabidopsis thaliana (Mouse-ear cress)	285		AT1G69720;
+Q9CA67	reviewed	CHLP_ARATH	Geranylgeranyl diphosphate reductase, chloroplastic (EC 1.3.1.83) (Geranylgeranyl reductase)	CHLP At1g74470 F1M20.15	Arabidopsis thaliana (Mouse-ear cress)	467		AT1G74470;
+Q9CAC5	reviewed	NDHL_ARATH	NAD(P)H-quinone oxidoreductase subunit L, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit L) (NDH subunit L) (NDH-L) (NADH-plastoquinone oxidoreductase subunit L) (Protein CHLORORESPIRATORY REDUCTION 23)	ndhL CRR23 NDH-L At1g70760 F15H11.1 F5A18.6	Arabidopsis thaliana (Mouse-ear cress)	191	CRR23 NDH-L	AT1G70760;
+Q9FEC1	reviewed	OHP2_ARATH	Light-harvesting complex-like protein OHP2, chloroplastic (One-helix protein 2) (Protein LIGHT-HARVESTING LIKE 6)	OHP2 LIL6 At1g34000 F12G12.18 T15K4.5	Arabidopsis thaliana (Mouse-ear cress)	172	LIL6	AT1G34000;
+Q9FH02	reviewed	FTSH5_ARATH	ATP-dependent zinc metalloprotease FTSH 5, chloroplastic (AtFTSH5) (EC 3.4.24.-) (Protein VARIEGATED 1)	FTSH5 FTSH2 VAR1 At5g42270 K5J14.7	Arabidopsis thaliana (Mouse-ear cress)	704	FTSH2 VAR1	AT5G42270;
+Q9FKW6	reviewed	FNRL1_ARATH	Ferredoxin--NADP reductase, leaf isozyme 1, chloroplastic (EC 1.18.1.2) (Leaf FNR 1) (AtLFNR1) (FNR-1)	LFNR1 PETH1 At5g66190 K2A18.27	Arabidopsis thaliana (Mouse-ear cress)	360	PETH1	AT5G66190;
+Q9FNB0	reviewed	CHLH_ARATH	Magnesium-chelatase subunit ChlH, chloroplastic (Mg-chelatase subunit H) (EC 6.6.1.1) (ABA-binding protein) (Mg-protoporphyrin IX chelatase subunit ChlH) (Protein CONDITIONAL CHLORINA) (Protein GENOMES UNCOUPLED 5) (Protein RAPID TRANSPIRATION IN DETACHED LEAVES 1)	CHLH ABAR CCH GUN5 RTL1 At5g13630 MSH12.9	Arabidopsis thaliana (Mouse-ear cress)	1381	ABAR CCH GUN5 RTL1	AT5G13630;
+Q9LD57	reviewed	PGKH1_ARATH	Phosphoglycerate kinase 1, chloroplastic (EC 2.7.2.3)	PGK1 At3g12780 MBK21.15	Arabidopsis thaliana (Mouse-ear cress)	481		AT3G12780;
+Q9LPW0	reviewed	G3PA2_ARATH	Glyceraldehyde-3-phosphate dehydrogenase GAPA2, chloroplastic (EC 1.2.1.13) (NADP-dependent glyceraldehydephosphate dehydrogenase A subunit 2)	GAPA2 At1g12900 F13K23.15	Arabidopsis thaliana (Mouse-ear cress)	399		AT1G12900;
+Q9LQC0	reviewed	HMOX4_ARATH	Heme oxygenase 4, chloroplastic (EC 1.14.14.18)	HO4 At1g58300 F19C14.8	Arabidopsis thaliana (Mouse-ear cress)	283		AT1G58300;
+Q9LR64	reviewed	PB27A_ARATH	Photosystem II repair protein PSB27-H1, chloroplastic (Psb27-H1) (Thylakoid lumenal protein PSB27-H1)	PSB27-1 At1g03600 F21B7.14 F21B7.21 F21B7.22 F21B7_140	Arabidopsis thaliana (Mouse-ear cress)	174		AT1G03600;
+Q9LU01	reviewed	Y3IP1_ARATH	Ycf3-interacting protein 1, chloroplastic (Protein CHLOROPLAST ENHANCING STRESS TOLERANCE) (AtCEST)	Y3IP1 CEST At5g44650	Arabidopsis thaliana (Mouse-ear cress)	280	CEST	AT5G44650;
+Q9LU10	reviewed	DEGP8_ARATH	Protease Do-like 8, chloroplastic (EC 3.4.21.-)	DEGP8 At5g39830 K13H13.1	Arabidopsis thaliana (Mouse-ear cress)	448		AT5G39830;
+Q9LU39	reviewed	GLUBP_ARATH	Glutamyl-tRNA reductase-binding protein, chloroplastic (AtGluTRBP) (GluTR-binding protein) (Protein PROTON GRADIENT REGULATION 7)	GLUTRBP PGR7 At3g21200 MXL8.5	Arabidopsis thaliana (Mouse-ear cress)	317	PGR7	AT3G21200;
+Q9LXR9	reviewed	PGPP1_ARATH	Phosphatidylglycerophosphate phosphatase 1, chloroplastic/mitochondrial (AtPGPP1) (PGP phosphatase 1) (EC 3.1.3.27)	PGPP1 At3g58830 T20N10.180	Arabidopsis thaliana (Mouse-ear cress)	348		AT3G58830;
+Q9LYN2	reviewed	FRI3_ARATH	Ferritin-3, chloroplastic (EC 1.16.3.1)	FER3 At3g56090 F18O21_50	Arabidopsis thaliana (Mouse-ear cress)	259		AT3G56090;
+Q9LZP9	reviewed	CP122_ARATH	Calvin cycle protein CP12-2, chloroplastic (CP12 domain-containing protein 2) (Chloroplast protein 12-2)	CP12-2 At3g62410 T12C14.110	Arabidopsis thaliana (Mouse-ear cress)	131		AT3G62410;
+Q9M024	reviewed	TAAC_ARATH	Thylakoid ADP,ATP carrier protein, chloroplastic (Thylakoid ADP/ATP translocase)	TAAC At5g01500 F7A7.20	Arabidopsis thaliana (Mouse-ear cress)	415		AT5G01500;
+Q9M158	reviewed	STR4_ARATH	Rhodanese-like domain-containing protein 4, chloroplastic (Protein THYLAKOID RHODANESE-LIKE) (Sulfurtransferase 4) (AtStr4)	STR4 TROL At4g01050 F2N1.31	Arabidopsis thaliana (Mouse-ear cress)	466	TROL	AT4G01050;
+Q9M2D2	reviewed	VCCN1_ARATH	Voltage-dependent chloride channel 1, chloroplastic (AtVCCN1) (BESTROPHIN-like protein 1) (AtBest1)	VCCN1 BEST1 At3g61320 T20K12.220	Arabidopsis thaliana (Mouse-ear cress)	410	BEST1	AT3G61320;
+Q9M3C6	reviewed	PSA3C_ARATH	Photosystem I assembly factor PSA3, chloroplastic (Protein PHOTOSYSTEM I ASSEMBLY 3) (Protein PIGMENT DEFECTIVE 329)	PSA3 PDE329 At3g55250 T26I12.130	Arabidopsis thaliana (Mouse-ear cress)	277	PDE329	AT3G55250;
+Q9M591	reviewed	CRD1_ARATH	Magnesium-protoporphyrin IX monomethyl ester [oxidative] cyclase, chloroplastic (Mg-protoporphyrin IX monomethyl ester oxidative cyclase) (EC 1.14.13.81) (Copper response defect 1 protein) (AtCrd1) (Dicarboxylate diiron protein) (AtZIP) (MPE-cyclase)	CRD1 ACSF AT103 CHL27 ZIP At3g56940 F24I3.20	Arabidopsis thaliana (Mouse-ear cress)	409	ACSF AT103 CHL27 ZIP	AT3G56940;
+Q9MA79	reviewed	F16P2_ARATH	Fructose-1,6-bisphosphatase, cytosolic (FBPase) (EC 3.1.3.11) (D-fructose-1,6-bisphosphate 1-phosphohydrolase) (Protein FRUCTOSE INSENSITIVE 1)	CYFBP FINS1 At1g43670 F2J6.2	Arabidopsis thaliana (Mouse-ear cress)	341	FINS1	AT1G43670;
+Q9MAH0	reviewed	CAPP1_ARATH	Phosphoenolpyruvate carboxylase 1 (AtPPC1) (PEPC 1) (PEPCase 1) (EC 4.1.1.31) (107-kDa PEPC polypeptide)	PPC1 p107 At1g53310 F12M16.21	Arabidopsis thaliana (Mouse-ear cress)	967	p107	AT1G53310;
+Q9S756	reviewed	FRI4_ARATH	Ferritin-4, chloroplastic (EC 1.16.3.1)	FER4 At2g40300 T07M07.18 T3G21.7	Arabidopsis thaliana (Mouse-ear cress)	259		AT2G40300;
+Q9S7H1	reviewed	PSAD1_ARATH	Photosystem I reaction center subunit II-1, chloroplastic (Photosystem I 20 kDa subunit 1) (PSI-D1)	psaD1 At4g02770 T5J8.7	Arabidopsis thaliana (Mouse-ear cress)	208		AT4G02770;
+Q9S7J7	reviewed	CB22_ARATH	Chlorophyll a-b binding protein 2.2, chloroplastic (Photosystem II light harvesting complex gene 2.2) (Protein LIGHT-HARVESTING CHLOROPHYLL B-BINDING 2.2)	LHCB2.2 At2g05070 F1O13.20	Arabidopsis thaliana (Mouse-ear cress)	265		AT2G05070;
+Q9S7M0	reviewed	CB3_ARATH	Chlorophyll a-b binding protein 3, chloroplastic (Light-harvesting chlorophyll B-binding protein 3) (LHCB3*1) (Lhcb3)	LHCB3 At5g54270 MDK4.9	Arabidopsis thaliana (Mouse-ear cress)	265		AT5G54270;
+Q9S7N7	reviewed	PSAG_ARATH	Photosystem I reaction center subunit V, chloroplastic (PSI-G)	PSAG At1g55670 F20N2.21 F20N2.33 F20N2_3	Arabidopsis thaliana (Mouse-ear cress)	160		AT1G55670;
+Q9S7W1	reviewed	CB4C_ARATH	Chlorophyll a-b binding protein CP29.3, chloroplastic (LHCB4.3) (LHCII protein 4.3)	LHCB4.3 At2g40100 F27I1.2	Arabidopsis thaliana (Mouse-ear cress)	276		AT2G40100;
+Q9S841	reviewed	PSBO2_ARATH	Oxygen-evolving enhancer protein 1-2, chloroplastic (OEE1) (33 kDa subunit of oxygen evolving system of photosystem II) (33 kDa thylakoid membrane protein) (Manganese-stabilizing protein 2) (MSP-2) (OEC 33 kDa subunit)	PSBO2 At3g50820 F18B3.100	Arabidopsis thaliana (Mouse-ear cress)	331		AT3G50820;
+Q9S9N6	reviewed	PNSB1_ARATH	Photosynthetic NDH subunit of subcomplex B 1, chloroplastic (Protein PnsB1) (NAD(P)H DEHYDROGENASE SUBUNIT 48) (NDH-DEPENDENT CYCLIC ELECTRON FLOW 1)	PNSB1 GT9 NDF1 NDH48 At1g15980 T24D18.8	Arabidopsis thaliana (Mouse-ear cress)	461	GT9 NDF1 NDH48	AT1G15980;
+Q9SAU2	reviewed	RPE_ARATH	Ribulose-5-phosphate-3-epimerase, chloroplastic (R5P3E) (EC 5.1.3.1) (Pentose-5-phosphate 3-epimerase) (Protein EMBRYO DEFECTIVE 2728)	RPE EMB2728 At5g61410 MFB13.19	Arabidopsis thaliana (Mouse-ear cress)	281	EMB2728	AT5G61410;
+Q9SEL7	reviewed	DEGP5_ARATH	Protease Do-like 5, chloroplastic (EC 3.4.21.-)	DEGP5 HHOA At4g18370 F28J12.30	Arabidopsis thaliana (Mouse-ear cress)	323	HHOA	AT4G18370;
+Q9SGH4	reviewed	PNSL3_ARATH	Photosynthetic NDH subunit of lumenal location 3, chloroplastic (PsbQ-like protein 2)	PNSL3 PQL1 PQL2 At3g01440 T13O15.8	Arabidopsis thaliana (Mouse-ear cress)	220	PQL1 PQL2	AT3G01440;
+Q9SHR7	reviewed	CB21_ARATH	Chlorophyll a-b binding protein 2.1, chloroplastic (Photosystem II light harvesting complex gene 2.1) (Protein LIGHT-HARVESTING CHLOROPHYLL B-BINDING 2.1)	LHCB2.1 LHCB2.3 At2g05100 F15L11.2	Arabidopsis thaliana (Mouse-ear cress)	265	LHCB2.3	AT2G05100;
+Q9SJE1	reviewed	CHLD_ARATH	Magnesium-chelatase subunit ChlD, chloroplastic (Mg-chelatase subunit D) (EC 6.6.1.1) (Mg-protoporphyrin IX chelatase subunit ChlD) (Protein ALBINA 1) (Protein PIGMENT DEFECTIVE EMBRYO 166)	CHLD ALB1 PDE166 At1g08520 T27G7.20	Arabidopsis thaliana (Mouse-ear cress)	760	ALB1 PDE166	AT1G08520;
+Q9SKP6	reviewed	TPIC_ARATH	Triosephosphate isomerase, chloroplastic (TIM) (Triose-phosphate isomerase) (EC 5.3.1.1)	TIM At2g21170 F26H11.7	Arabidopsis thaliana (Mouse-ear cress)	315		AT2G21170;
+Q9SKT0	reviewed	THF1_ARATH	Protein THYLAKOID FORMATION 1, chloroplastic	THF1 At2g20890 F5H14.14	Arabidopsis thaliana (Mouse-ear cress)	300		AT2G20890;
+Q9SL05	reviewed	PGR5_ARATH	Protein PROTON GRADIENT REGULATION 5, chloroplastic	PGR5 At2g05620 T20G20.3	Arabidopsis thaliana (Mouse-ear cress)	133		AT2G05620;
+Q9SNB7	reviewed	PP264_ARATH	Protein LOW PHOTOSYNTHETIC EFFICIENCY 1, chloroplastic	LPE1 At3g46610 F12A12.130	Arabidopsis thaliana (Mouse-ear cress)	665		AT3G46610;
+Q9SSA5	reviewed	CYP38_ARATH	Peptidyl-prolyl cis-trans isomerase CYP38, chloroplastic (PPIase CYP38) (EC 5.2.1.8) (Rotamase CYP38) (Thylakoid lumen PPIase)	CYP38 At3g01480 F4P13.3	Arabidopsis thaliana (Mouse-ear cress)	437		AT3G01480;
+Q9SSS9	reviewed	ATPD_ARATH	ATP synthase subunit delta, chloroplastic (ATP synthase F(1) sector subunit delta) (F-type ATPase subunit delta)	ATPD At4g09650 T25P22.90	Arabidopsis thaliana (Mouse-ear cress)	234		AT4G09650;
+Q9SY97	reviewed	LHCA3_ARATH	Photosystem I chlorophyll a/b-binding protein 3-1, chloroplastic (Lhca3*1) (LHCI type III LHCA3)	LHCA3 At1g61520 T25B24.12	Arabidopsis thaliana (Mouse-ear cress)	273		AT1G61520;
+Q9SYP2	reviewed	PFPA1_ARATH	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha 1 (PFP 1) (6-phosphofructokinase, pyrophosphate dependent 1) (PPi-PFK 1) (Pyrophosphate-dependent 6-phosphofructose-1-kinase 1)	PFP-ALPHA1 At1g20950 F9H16.6	Arabidopsis thaliana (Mouse-ear cress)	614		AT1G20950;
+Q9SYW8	reviewed	LHCA2_ARATH	Photosystem I chlorophyll a/b-binding protein 2, chloroplastic (Lhca2) (LHCI type III LHCA2)	LHCA2 At3g61470 F2A19.70	Arabidopsis thaliana (Mouse-ear cress)	257		AT3G61470;
+Q9SYX1	reviewed	LIL31_ARATH	Light-harvesting complex-like protein 3 isotype 1, chloroplastic (LHC-like protein 3 isoform 1)	LIL3.1 At4g17600 dl4835w	Arabidopsis thaliana (Mouse-ear cress)	262		AT4G17600;
+Q9SZC9	reviewed	HMA6_ARATH	Copper-transporting ATPase PAA1, chloroplastic (EC 7.2.2.8) (Protein HEAVY METAL ATPASE 6) (Protein glucose insensitive root 1)	PAA1 GIR1 HMA6 At4g33520 F17M5.280 T16L1.10	Arabidopsis thaliana (Mouse-ear cress)	949	GIR1 HMA6	AT4G33520;
+Q9T0A4	reviewed	NDHS_ARATH	NAD(P)H-quinone oxidoreductase subunit S, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit S) (NDH subunit S) (NADH-plastoquinone oxidoreductase subunit S) (Protein CHLORORESPIRATORY REDUCTION 31)	ndhS CRR31 At4g23890 T32A16.60	Arabidopsis thaliana (Mouse-ear cress)	250	CRR31	AT4G23890;
+Q9XF87	reviewed	CB24_ARATH	Chlorophyll a-b binding protein 2.4, chloroplastic (Photosystem II light harvesting complex gene 2.4) (Protein LIGHT-HARVESTING CHLOROPHYLL B-BINDING 2.4)	LHCB2.4 At3g27690 MGF10.9	Arabidopsis thaliana (Mouse-ear cress)	266		AT3G27690;
+Q9XF88	reviewed	CB4B_ARATH	Chlorophyll a-b binding protein CP29.2, chloroplastic (LHCB4.2) (LHCII protein 4.2)	LHCB4.2 At3g08940 T16O11.12	Arabidopsis thaliana (Mouse-ear cress)	287		AT3G08940;
+Q9XF89	reviewed	CB5_ARATH	Chlorophyll a-b binding protein CP26, chloroplastic (LHCB5) (LHCIIc) (Light-harvesting complex II protein 5)	LHCB5 At4g10340 F24G24.140	Arabidopsis thaliana (Mouse-ear cress)	280		AT4G10340;
+Q9XF91	reviewed	PSBS_ARATH	Photosystem II 22 kDa protein, chloroplastic (CP22) (Protein NONPHOTOCHEMICAL QUENCHING 4) (Protein PHOTOSYSTEM II SUBUNIT S)	PSBS NPQ4 At1g44575 T18F15.3	Arabidopsis thaliana (Mouse-ear cress)	265	NPQ4	AT1G44575;
+Q9XFT3	reviewed	PSBQ1_ARATH	Oxygen-evolving enhancer protein 3-1, chloroplastic (OEE3) (16 kDa subunit of oxygen evolving system of photosystem II) (OEC 16 kDa subunit)	PSBQ1 PSBQ PSBQA At4g21280 F7J7.220 T6K22.20	Arabidopsis thaliana (Mouse-ear cress)	224	PSBQ PSBQA	AT4G21280;
+Q9XI73	reviewed	PNSL2_ARATH	Photosynthetic NDH subunit of lumenal location 2, chloroplastic (PsbQ-like protein 1)	PNSL2 PQL1 PQL2 At1g14150 F7A19.23	Arabidopsis thaliana (Mouse-ear cress)	190	PQL1 PQL2	AT1G14150;
+Q9ZNX9	reviewed	SIGE_ARATH	RNA polymerase sigma factor sigE, chloroplastic/mitochondrial (Sigma factor E) (Sigma-E) (RNA polymerase sigma factor sig5) (Atsig5) (Sigma factor 5)	SIGE SIG5 At5g24120 MLE8.4	Arabidopsis thaliana (Mouse-ear cress)	517	SIG5	AT5G24120;
+Q9ZR03	reviewed	UCRIA_ARATH	Cytochrome b6-f complex iron-sulfur subunit, chloroplastic (EC 7.1.1.6) (Plastohydroquinone:plastocyanin oxidoreductase iron-sulfur protein) (Proton gradient regulation protein 1) (Rieske iron-sulfur protein) (ISP) (RISP)	petC PGR1 RISP At4g03280 F4C21.21	Arabidopsis thaliana (Mouse-ear cress)	229	PGR1 RISP	AT4G03280;
+A0A1B1W4S7	unreviewed	A0A1B1W4S7_ARATH	Photosystem II protein D1 (PSII D1 protein) (EC 1.10.3.9) (Photosystem II Q(B) protein)	psbA	Arabidopsis thaliana (Mouse-ear cress)	353		ATCG00020;
+A0A7G2FL73	unreviewed	A0A7G2FL73_ARATH	Photosystem II protein D1 (PSII D1 protein) (EC 1.10.3.9) (Photosystem II Q(B) protein)	psbA AT9943_LOCUS23351 AT9943_LOCUS23355	Arabidopsis thaliana (Mouse-ear cress)	353		
+A0A8F5S3Q3	unreviewed	A0A8F5S3Q3_ARATH	Photosystem II protein D1 (PSII D1 protein) (EC 1.10.3.9) (Photosystem II Q(B) protein)	psbA	Arabidopsis thaliana (Mouse-ear cress)	353		
+A0A8F5V7A7	unreviewed	A0A8F5V7A7_ARATH	Photosystem II protein D1 (PSII D1 protein) (EC 1.10.3.9) (Photosystem II Q(B) protein)	psbA	Arabidopsis thaliana (Mouse-ear cress)	353		
+B3H5S2	unreviewed	B3H5S2_ARATH	Ribulose bisphosphate carboxylase small subunit, chloroplastic (RuBisCO small subunit)	RBCS3B MXI10.13 MXI10_13 RBCS Rubisco small subunit 3B At5g38410	Arabidopsis thaliana (Mouse-ear cress)	186	MXI10.13 MXI10_13 RBCS Rubisco small subunit 3B	AT5G38410;
+B9DHG0	reviewed	PYG7_ARATH	Tetratricopeptide repeat domain-containing protein PYG7, chloroplastic (Protein PALE YELLOW GREEN 7)	PYG7 At1g22700 T22J18.13	Arabidopsis thaliana (Mouse-ear cress)	301		AT1G22700;
+F4IAG5	unreviewed	F4IAG5_ARATH	ATP-dependent Clp protease proteolytic subunit	CLPP6 NCLPP1 NCLPP6 NUCLEAR-ENCODED CLPP 1 At1g11750 F25C20.10 F25C20_10	Arabidopsis thaliana (Mouse-ear cress)	289	NCLPP1 NCLPP6 NUCLEAR-ENCODED CLPP 1	AT1G11750;
+O49292	reviewed	PPD4_ARATH	PsbP domain-containing protein 4, chloroplastic (OEC23-like protein 5)	PPD4 At1g77090 F22K20.16	Arabidopsis thaliana (Mouse-ear cress)	260		AT1G77090;
+O49347	reviewed	PSBY_ARATH	Photosystem II reaction center proteins PsbY, chloroplastic (L-arginine-metabolizing enzyme) (L-AME) [Cleaved into: Photosystem II reaction center protein PsbY-1, chloroplastic (PsbY-A1); Photosystem II reaction center protein PsbY-2, chloroplastic (PsbY-A2)]	PSBY At1g67740 F12A21.13	Arabidopsis thaliana (Mouse-ear cress)	189		AT1G67740;
+O49668	reviewed	PAM68_ARATH	Protein PAM68, chloroplastic (PHOTOSYNTHESIS AFFECTED MUTANT 68)	PAM68 At4g19100 T18B16.70	Arabidopsis thaliana (Mouse-ear cress)	214		AT4G19100;
+O80634	reviewed	PNSL1_ARATH	Photosynthetic NDH subunit of lumenal location 1, chloroplastic (PsbP-like protein 2)	PNSL1 PPL2 At2g39470 F12L6.13	Arabidopsis thaliana (Mouse-ear cress)	238	PPL2	AT2G39470;
+P0CC32	reviewed	NU2C1_ARATH	NAD(P)H-quinone oxidoreductase subunit 2 A, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase, subunit 2 A) (NADH-plastoquinone oxidoreductase subunit 2 A)	ndhB1 ndhB-A AtCg00890	Arabidopsis thaliana (Mouse-ear cress)	512	ndhB-A	ATCG00890;
+P0CC33	reviewed	NU2C2_ARATH	NAD(P)H-quinone oxidoreductase subunit 2 B, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase, subunit 2 B) (NADH-plastoquinone oxidoreductase subunit 2 B)	ndhB2 ndhB-B AtCg01250	Arabidopsis thaliana (Mouse-ear cress)	512	ndhB-B	ATCG01250;
+P10796	reviewed	RBS1B_ARATH	Ribulose bisphosphate carboxylase small subunit 1B, chloroplastic (RuBisCO small subunit 1B)	RBCS-1B ATS1B At5g38430 MXI10.15	Arabidopsis thaliana (Mouse-ear cress)	181	ATS1B	AT5G38430;
+P10797	reviewed	RBS2B_ARATH	Ribulose bisphosphate carboxylase small subunit 2B, chloroplastic (RuBisCO small subunit 2B)	RBCS-2B ATS2B At5g38420 MXI10.14	Arabidopsis thaliana (Mouse-ear cress)	181	ATS2B	AT5G38420;
+P16972	reviewed	FER2_ARATH	Ferredoxin-2, chloroplastic (AtFd2)	FD2 PETF PETF1 At1g60950 T7P1.9	Arabidopsis thaliana (Mouse-ear cress)	148	PETF PETF1	AT1G60950;
+P26289	reviewed	NU4LC_ARATH	NAD(P)H-quinone oxidoreductase subunit 4L, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit 4L) (NADH-plastoquinone oxidoreductase subunit 4L)	ndhE AtCg01070	Arabidopsis thaliana (Mouse-ear cress)	101		ATCG01070;
+P49107	reviewed	PSAN_ARATH	Photosystem I reaction center subunit N, chloroplastic (PSI-N)	PSAN At5g64040 MHJ24.2	Arabidopsis thaliana (Mouse-ear cress)	171		AT5G64040;
+P56753	reviewed	NDHH_ARATH	NAD(P)H-quinone oxidoreductase subunit H, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit H) (NADH-plastoquinone oxidoreductase 49 kDa subunit) (NADH-plastoquinone oxidoreductase subunit H)	ndhH AtCg01110	Arabidopsis thaliana (Mouse-ear cress)	393		ATCG01110;
+P56755	reviewed	NDHI_ARATH	NAD(P)H-quinone oxidoreductase subunit I, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit I) (NDH subunit I) (NADH-plastoquinone oxidoreductase subunit I)	ndhI AtCg01090	Arabidopsis thaliana (Mouse-ear cress)	172		ATCG01090;
+P56767	reviewed	PSAB_ARATH	Photosystem I P700 chlorophyll a apoprotein A2 (EC 1.97.1.12) (PSI-B) (PsaB)	psaB AtCg00340	Arabidopsis thaliana (Mouse-ear cress)	734		ATCG00340;
+P56771	reviewed	CYF_ARATH	Cytochrome f	petA AtCg00540	Arabidopsis thaliana (Mouse-ear cress)	320		ATCG00540;
+P56773	reviewed	CYB6_ARATH	Cytochrome b6	petB AtCg00720	Arabidopsis thaliana (Mouse-ear cress)	215		ATCG00720;
+P56777	reviewed	PSBB_ARATH	Photosystem II CP47 reaction center protein (PSII 47 kDa protein) (Protein CP-47)	psbB AtCg00680	Arabidopsis thaliana (Mouse-ear cress)	508		ATCG00680;
+P82715	reviewed	PPD5_ARATH	PsbP domain-containing protein 5, chloroplastic (OEC23-like protein 6) (PsbP-related thylakoid lumenal protein 4) (Thylakoid lumenal 35.8 kDa protein)	PPD5 At5g11450 F15N18.40	Arabidopsis thaliana (Mouse-ear cress)	297		AT5G11450;
+Q2V4B2	reviewed	PQL3_ARATH	PsbQ-like protein 3, chloroplastic	PQL3 At2g01918 F23I14 T23K3	Arabidopsis thaliana (Mouse-ear cress)	187		AT2G01918;
+Q39194	reviewed	PSBW_ARATH	Photosystem II reaction center W protein, chloroplastic (PSII 6.1 kDa protein)	PSBW At2g30570 T6B20.8	Arabidopsis thaliana (Mouse-ear cress)	133		AT2G30570;
+Q41932	reviewed	PSBQ2_ARATH	Oxygen-evolving enhancer protein 3-2, chloroplastic (OEE3) (16 kDa subunit of oxygen evolving system of photosystem II) (OEC 16 kDa subunit)	PSBQ2 PSBQB At4g05180 C17L7.100	Arabidopsis thaliana (Mouse-ear cress)	230	PSBQB	AT4G05180;
+Q42553	reviewed	IDI2_ARATH	Isopentenyl-diphosphate Delta-isomerase II, chloroplastic (EC 5.3.3.2) (Isopentenyl pyrophosphate isomerase II) (IPP isomerase II)	IPP2 At3g02780 F13E7.28	Arabidopsis thaliana (Mouse-ear cress)	284		AT3G02780;
+Q5GM68	reviewed	CAPP2_ARATH	Phosphoenolpyruvate carboxylase 2 (AtPPC2) (PEPC 2) (PEPCase 2) (EC 4.1.1.31)	PPC2 At2g42600 F14N22.13	Arabidopsis thaliana (Mouse-ear cress)	963		AT2G42600;
+Q84RQ7	reviewed	NIFU3_ARATH	NifU-like protein 3, chloroplastic (AtCNfu3) (AtCnfU-IVa)	NIFU3 CNFU3 NFU3 At4g25910 F20B18.20	Arabidopsis thaliana (Mouse-ear cress)	236	CNFU3 NFU3	AT4G25910;
+Q84VW9	reviewed	CAPP3_ARATH	Phosphoenolpyruvate carboxylase 3 (AtPPC3) (PEPC 3) (PEPCase 3) (EC 4.1.1.31)	PPC3 PEPC PPC At3g14940 K15M2.8	Arabidopsis thaliana (Mouse-ear cress)	968	PEPC PPC	AT3G14940;
+Q8L9X2	reviewed	RBCX2_ARATH	Chaperonin-like RbcX protein 2, chloroplastic (AtRBCX2)	RBCX2 At5g19855 F28I16 T29J13	Arabidopsis thaliana (Mouse-ear cress)	203		AT5G19855;
+Q8RXS1	reviewed	PNSB4_ARATH	Photosynthetic NDH subunit of subcomplex B 4, chloroplastic (Protein PnsB4) (NDH DEPENDENT FLOW 6) (NDH-DEPENDENT CYCLIC ELECTRON FLOW 6)	PNSB4 NDF6 At1g18730 F6A14.16	Arabidopsis thaliana (Mouse-ear cress)	175	NDF6	AT1G18730;
+Q93VA3	reviewed	CYC6_ARATH	Cytochrome c6, chloroplastic (Cytochrome c-552) (Atc6) (Cytochrome c-553) (Cytochrome c553) (Soluble cytochrome f)	PETJ At5g45040 K21C13.23	Arabidopsis thaliana (Mouse-ear cress)	175		AT5G45040;
+Q9C503	reviewed	NDF5_ARATH	Protein NDH-DEPENDENT CYCLIC ELECTRON FLOW 5	NDF5 At1g55370 F7A10.12 T18I3.2	Arabidopsis thaliana (Mouse-ear cress)	354		AT1G55370;
+Q9FJ82	reviewed	DAPB3_ARATH	Dihydrodipicolinate reductase-like protein CRR1, chloroplastic (4-hydroxy-tetrahydrodipicolinate reductase 3) (HTPA reductase 3) (Protein CHLORORESPIRATORY REDUCTION 1)	DAPB3 CRR1 At5g52100 MSG15.20	Arabidopsis thaliana (Mouse-ear cress)	298	CRR1	AT5G52100;
+Q9FK23	reviewed	MTEF8_ARATH	Transcription termination factor MTERF8, chloroplastic (Mitochondrial transcription termination factor 8) (Protein PLASTID TRANSCRIPTIONALLY ACTIVE 15)	MTERF8 PTAC15 At5g54180 K18G13.5	Arabidopsis thaliana (Mouse-ear cress)	500	PTAC15	AT5G54180;
+Q9LMQ2	unreviewed	Q9LMQ2_ARATH	Chlorophyll a-b binding protein, chloroplastic	LHCB6 CHLOROPHYLL PROTEIN 24 CP24 At1g15820 At1g15820/F7H2.16 F7H2.16 F7H2_16	Arabidopsis thaliana (Mouse-ear cress)	258	CHLOROPHYLL PROTEIN 24 CP24	AT1G15820;
+Q9LU21	reviewed	PNSB3_ARATH	Photosynthetic NDH subunit of subcomplex B 3, chloroplastic (Protein PnsB3) (NDH-DEPENDENT CYCLIC ELECTRON FLOW 4)	PNSB3 NDF4 At3g16250 MYA6.6	Arabidopsis thaliana (Mouse-ear cress)	204	NDF4	AT3G16250;
+Q9LXX5	reviewed	PPD6_ARATH	PsbP domain-containing protein 6, chloroplastic (OEC23-like protein 1)	PPD6 At3g56650 T5P19.300	Arabidopsis thaliana (Mouse-ear cress)	262		AT3G56650;
+Q9M0V6	reviewed	FNRR1_ARATH	Ferredoxin--NADP reductase, root isozyme 1, chloroplastic (EC 1.18.1.2) (Root FNR 1) (AtRFNR1)	RFNR1 PETH3 At4g05390 C6L9.70	Arabidopsis thaliana (Mouse-ear cress)	378	PETH3	AT4G05390;
+Q9S726	reviewed	RPI3_ARATH	Probable ribose-5-phosphate isomerase 3, chloroplastic (EC 5.3.1.6) (Phosphoriboisomerase 3) (Protein EMBRYO DEFECTIVE 3119)	RPI3 EMB3119 At3g04790 F7O18.28 T9J14.26	Arabidopsis thaliana (Mouse-ear cress)	276	EMB3119	AT3G04790;
+Q9S831	reviewed	PSAE1_ARATH	Photosystem I reaction center subunit IV A, chloroplastic (PSI-E A)	PSAE1 At4g28750 F16A16.140	Arabidopsis thaliana (Mouse-ear cress)	143		AT4G28750;
+Q9S9P8	reviewed	FNRR2_ARATH	Ferredoxin--NADP reductase, root isozyme 2, chloroplastic (EC 1.18.1.2) (Root FNR 2) (AtRFNR2)	RFNR2 PETH4 At1g30510 F26G16.13	Arabidopsis thaliana (Mouse-ear cress)	382	PETH4	AT1G30510;
+Q9SA56	reviewed	PSAD2_ARATH	Photosystem I reaction center subunit II-2, chloroplastic (Photosystem I 20 kDa subunit 2) (PSI-D2)	PSAD2 At1g03130 F10O3_4	Arabidopsis thaliana (Mouse-ear cress)	204		AT1G03130;
+Q9SFB3	reviewed	ATAB2_ARATH	Protein TAB2 homolog, chloroplastic (Protein ATAB2)	ATAB2 At3g08010 F17A17.35	Arabidopsis thaliana (Mouse-ear cress)	374		AT3G08010;
+Q9SHE8	reviewed	PSAF_ARATH	Photosystem I reaction center subunit III, chloroplastic (Light-harvesting complex I 17 kDa protein) (PSI-F)	PSAF At1g31330 T19E23.12	Arabidopsis thaliana (Mouse-ear cress)	221		AT1G31330;
+Q9SRY4	reviewed	LPA1_ARATH	Protein LOW PSII ACCUMULATION 1, chloroplastic	LPA1 At1g02910 F22D16.9	Arabidopsis thaliana (Mouse-ear cress)	453		AT1G02910;
+Q9SUI4	reviewed	PSAL_ARATH	Photosystem I reaction center subunit XI, chloroplastic (PSI-L) (PSI subunit V)	PSAL At4g12800 T20K18.150	Arabidopsis thaliana (Mouse-ear cress)	219		AT4G12800;
+Q9SYH1	reviewed	RSH3C_ARATH	Probable GTP diphosphokinase RSH3, chloroplastic (EC 2.7.6.5) (RelA/SpoT homolog 3) (AtRSH3) (ppGpp synthetase RSH3)	RSH3 At1g54130 F15I1.23	Arabidopsis thaliana (Mouse-ear cress)	715		AT1G54130;
+Q9XIL5	reviewed	PP154_ARATH	Pentatricopeptide repeat-containing protein At2g15820, chloroplastic (Protein ORGANELLE TRANSCRIPT PROCESSING 51) (AtOTP51)	OTP51 At2g15820 F19G14.18	Arabidopsis thaliana (Mouse-ear cress)	849		AT2G15820;
+Q9ZVE7	reviewed	CRR3_ARATH	Probable NAD(P)H dehydrogenase subunit CRR3, chloroplastic (Probable NDH subunit CRR3) (Protein CHLORORESPIRATORY REDUCTION 3)	CRR3 At2g01590	Arabidopsis thaliana (Mouse-ear cress)	174		AT2G01590;
+Q9ZVL6	reviewed	U603_ARATH	UPF0603 protein At1g54780, chloroplastic (Thylakoid lumen 18.3 kDa protein)	At1g54780 T22H22.19	Arabidopsis thaliana (Mouse-ear cress)	285		AT1G54780;
+Q9ZVZ9	reviewed	PB27B_ARATH	Photosystem II D1 precursor processing protein PSB27-H2, chloroplastic (Psb27-H2) (LOW PSII accumulation 19 protein) (LPA19) (Thylakoid lumenal protein PSB27-H2)	PSB27-2 LPA19 At1g05385 T25N20.4	Arabidopsis thaliana (Mouse-ear cress)	199	LPA19	AT1G05385;
+A0A178UM92	unreviewed	A0A178UM92_ARATH	Mg-protoporphyrin IX chelatase (EC 6.6.1.1)	AXX17_At5g44330	Arabidopsis thaliana (Mouse-ear cress)	418		
+A0A178UXM0	unreviewed	A0A178UXM0_ARATH	Mg-protoporphyrin IX chelatase (EC 6.6.1.1)	AXX17_At4g21730 AN1_LOCUS18566 C24_LOCUS18458	Arabidopsis thaliana (Mouse-ear cress)	424		
+A0A178VY74	unreviewed	A0A178VY74_ARATH	Photosystem I P700 chlorophyll a apoprotein A1 (EC 1.97.1.12) (PsaA)	AXX17_At2g27420	Arabidopsis thaliana (Mouse-ear cress)	727		
+A0A178W009	unreviewed	A0A178W009_ARATH	photosystem I (EC 1.97.1.12)	AXX17_At2g27430	Arabidopsis thaliana (Mouse-ear cress)	462		
+A0A178W355	unreviewed	A0A178W355_ARATH	Mg-protoporphyrin IX chelatase (EC 6.6.1.1)	AXX17_At1g08350 AN1_LOCUS927	Arabidopsis thaliana (Mouse-ear cress)	760		
+A0A1B1W4T4	unreviewed	A0A1B1W4T4_ARATH	Photosystem II CP43 reaction center protein (PSII 43 kDa protein) (Protein CP-43)	psbC	Arabidopsis thaliana (Mouse-ear cress)	473		ATCG00280;
+A0A1B1W4T6	unreviewed	A0A1B1W4T6_ARATH	Photosystem I P700 chlorophyll a apoprotein A1 (EC 1.97.1.12) (PSI-A) (PsaA)	psaA	Arabidopsis thaliana (Mouse-ear cress)	750		ATCG00350;
+A0A1B1W4U0	unreviewed	A0A1B1W4U0_ARATH	Photosystem II D2 protein (PSII D2 protein) (EC 1.10.3.9) (Photosystem Q(A) protein)	psbD	Arabidopsis thaliana (Mouse-ear cress)	353		ATCG00270;
+A0A1B1W4U2	unreviewed	A0A1B1W4U2_ARATH	Photosystem I P700 chlorophyll a apoprotein A2 (EC 1.97.1.12) (PSI-B) (PsaB)	psaB	Arabidopsis thaliana (Mouse-ear cress)	734		ATCG00340;
+A0A1B1W4U5	unreviewed	A0A1B1W4U5_ARATH	NAD(P)H-quinone oxidoreductase subunit K, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit K) (NADH-plastoquinone oxidoreductase subunit K)	ndhK psbG	Arabidopsis thaliana (Mouse-ear cress)	225	psbG	ATCG00430;
+A0A1B1W4U8	unreviewed	A0A1B1W4U8_ARATH	Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39)	rbcL	Arabidopsis thaliana (Mouse-ear cress)	479		ATCG00490;
+A0A1B1W4V0	unreviewed	A0A1B1W4V0_ARATH	NAD(P)H-quinone oxidoreductase subunit J, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase, subunit J) (NADH-plastoquinone oxidoreductase subunit J)	ndhJ	Arabidopsis thaliana (Mouse-ear cress)	158		ATCG00420;
+A0A1B1W4V1	unreviewed	A0A1B1W4V1_ARATH	NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit 3) (NADH-plastoquinone oxidoreductase subunit 3)	ndhC	Arabidopsis thaliana (Mouse-ear cress)	120		ATCG00440;
+A0A1B1W4V6	unreviewed	A0A1B1W4V6_ARATH	Cytochrome b559 subunit beta (PSII reaction center subunit VI)	psbF	Arabidopsis thaliana (Mouse-ear cress)	39		ATCG00570;
+A0A1B1W4V8	unreviewed	A0A1B1W4V8_ARATH	Cytochrome f	petA	Arabidopsis thaliana (Mouse-ear cress)	320		ATCG00540;
+A0A1B1W4W2	unreviewed	A0A1B1W4W2_ARATH	Cytochrome b559 subunit alpha (PSII reaction center subunit V)	psbE Atcg00580	Arabidopsis thaliana (Mouse-ear cress)	83		ATCG00580;
+A0A1B1W4W4	unreviewed	A0A1B1W4W4_ARATH	Cytochrome b6	petB	Arabidopsis thaliana (Mouse-ear cress)	202		
+A0A1B1W4Y4	unreviewed	A0A1B1W4Y4_ARATH	Photosystem I iron-sulfur center (EC 1.97.1.12) (9 kDa polypeptide) (PSI-C) (Photosystem I subunit VII) (PsaC)	psaC	Arabidopsis thaliana (Mouse-ear cress)	81		ATCG01060;
+A0A1B1W4Y8	unreviewed	A0A1B1W4Y8_ARATH	NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase, subunit 2) (NADH-plastoquinone oxidoreductase subunit 2)	ndhB	Arabidopsis thaliana (Mouse-ear cress)	513		
+A0A1B1W4Z4	unreviewed	A0A1B1W4Z4_ARATH	NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase, subunit 2) (NADH-plastoquinone oxidoreductase subunit 2)	ndhB	Arabidopsis thaliana (Mouse-ear cress)	512		
+A0A1B1W4Z8	unreviewed	A0A1B1W4Z8_ARATH	NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit 1) (NDH subunit 1) (NADH-plastoquinone oxidoreductase subunit 1)	ndhA	Arabidopsis thaliana (Mouse-ear cress)	361		
+A0A1B1W501	unreviewed	A0A1B1W501_ARATH	NAD(P)H-quinone oxidoreductase subunit 4L, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit 4L) (NADH-plastoquinone oxidoreductase subunit 4L)	ndhE	Arabidopsis thaliana (Mouse-ear cress)	101		ATCG01070;
+A0A1B1W502	unreviewed	A0A1B1W502_ARATH	NAD(P)H-quinone oxidoreductase subunit H, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase, subunit H) (NADH-plastoquinone oxidoreductase 49 kDa subunit) (NADH-plastoquinone oxidoreductase subunit H)	ndhH	Arabidopsis thaliana (Mouse-ear cress)	393		ATCG01110;
+A0A1B1W503	unreviewed	A0A1B1W503_ARATH	NAD(P)H-quinone oxidoreductase subunit I, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit I) (NDH subunit I) (NADH-plastoquinone oxidoreductase subunit I)	ndhI	Arabidopsis thaliana (Mouse-ear cress)	172		ATCG01090;
+A0A514YIY1	unreviewed	A0A514YIY1_ARATH	NAD(P)H-quinone oxidoreductase subunit 4L, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit 4L) (NADH-plastoquinone oxidoreductase subunit 4L)	ndhE	Arabidopsis thaliana (Mouse-ear cress)	101		
+A0A514YJ89	unreviewed	A0A514YJ89_ARATH	NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase, subunit 2) (NADH-plastoquinone oxidoreductase subunit 2)	ndhB	Arabidopsis thaliana (Mouse-ear cress)	512		
+A0A514YJ95	unreviewed	A0A514YJ95_ARATH	NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase, subunit 2) (NADH-plastoquinone oxidoreductase subunit 2)	ndhB	Arabidopsis thaliana (Mouse-ear cress)	513		
+A0A5S9TBL7	unreviewed	A0A5S9TBL7_ARATH	Mg-protoporphyrin IX chelatase (EC 6.6.1.1)	C24_LOCUS842	Arabidopsis thaliana (Mouse-ear cress)	759		
+A0A5S9YCI4	unreviewed	A0A5S9YCI4_ARATH	Mg-protoporphyrin IX chelatase (EC 6.6.1.1)	C24_LOCUS24657	Arabidopsis thaliana (Mouse-ear cress)	418		
+A0A654G8F7	unreviewed	A0A654G8F7_ARATH	Mg-protoporphyrin IX chelatase (EC 6.6.1.1)	AN1_LOCUS24821	Arabidopsis thaliana (Mouse-ear cress)	418		
+A0A7G2DRM3	unreviewed	A0A7G2DRM3_ARATH	Mg-protoporphyrin IX chelatase (EC 6.6.1.1)	AT9943_LOCUS686	Arabidopsis thaliana (Mouse-ear cress)	762		
+A0A7G2FHV5	unreviewed	A0A7G2FHV5_ARATH	Mg-protoporphyrin IX chelatase (EC 6.6.1.1)	AT9943_LOCUS21405	Arabidopsis thaliana (Mouse-ear cress)	418		
+A0A7G2FJJ0	unreviewed	A0A7G2FJJ0_ARATH	Cytochrome f	petA AT9943_LOCUS23348 AT9943_LOCUS23354	Arabidopsis thaliana (Mouse-ear cress)	320		
+A0A7G2FQN9	unreviewed	A0A7G2FQN9_ARATH	Photosystem II D2 protein (PSII D2 protein) (EC 1.10.3.9) (Photosystem Q(A) protein)	psbD AT9943_LOCUS23349	Arabidopsis thaliana (Mouse-ear cress)	359		
+A0A8F5GFN2	unreviewed	A0A8F5GFN2_ARATH	Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39)	rbcL	Arabidopsis thaliana (Mouse-ear cress)	479		
+A0A8F5GFR7	unreviewed	A0A8F5GFR7_ARATH	Photosystem II CP43 reaction center protein (PSII 43 kDa protein) (Protein CP-43)	psbC	Arabidopsis thaliana (Mouse-ear cress)	461		
+A0A8F5GJ22	unreviewed	A0A8F5GJ22_ARATH	Cytochrome b6	petB	Arabidopsis thaliana (Mouse-ear cress)	215		
+A0A8F5GJ77	unreviewed	A0A8F5GJ77_ARATH	NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit 1) (NDH subunit 1) (NADH-plastoquinone oxidoreductase subunit 1)	ndhA	Arabidopsis thaliana (Mouse-ear cress)	360		
+A0A8F5NZZ1	unreviewed	A0A8F5NZZ1_ARATH	NAD(P)H-quinone oxidoreductase subunit 4L, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit 4L) (NADH-plastoquinone oxidoreductase subunit 4L)	ndhE	Arabidopsis thaliana (Mouse-ear cress)	101		
+A0A8F5P158	unreviewed	A0A8F5P158_ARATH	Cytochrome b6	petB	Arabidopsis thaliana (Mouse-ear cress)	215		
+A0A8F5P166	unreviewed	A0A8F5P166_ARATH	Photosystem I P700 chlorophyll a apoprotein A2 (EC 1.97.1.12) (PSI-B) (PsaB)	psaB	Arabidopsis thaliana (Mouse-ear cress)	734		
+A0A8F5P2H6	unreviewed	A0A8F5P2H6_ARATH	NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase, subunit 2) (NADH-plastoquinone oxidoreductase subunit 2)	ndhB	Arabidopsis thaliana (Mouse-ear cress)	492		
+A0A8F5P390	unreviewed	A0A8F5P390_ARATH	Cytochrome b559 subunit alpha (PSII reaction center subunit V)	psbE	Arabidopsis thaliana (Mouse-ear cress)	83		
+A0A8F5P3A0	unreviewed	A0A8F5P3A0_ARATH	Photosystem II D2 protein (PSII D2 protein) (EC 1.10.3.9) (Photosystem Q(A) protein)	psbD	Arabidopsis thaliana (Mouse-ear cress)	353		
+A0A8F5P3B9	unreviewed	A0A8F5P3B9_ARATH	Photosystem II CP43 reaction center protein (PSII 43 kDa protein) (Protein CP-43)	psbC	Arabidopsis thaliana (Mouse-ear cress)	473		
+A0A8F5P3U5	unreviewed	A0A8F5P3U5_ARATH	Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39)	rbcL	Arabidopsis thaliana (Mouse-ear cress)	475		
+A0A8F5P3V4	unreviewed	A0A8F5P3V4_ARATH	NAD(P)H-quinone oxidoreductase subunit H, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase, subunit H) (NADH-plastoquinone oxidoreductase 49 kDa subunit) (NADH-plastoquinone oxidoreductase subunit H)	ndhH	Arabidopsis thaliana (Mouse-ear cress)	393		
+A0A8F5S1Q7	unreviewed	A0A8F5S1Q7_ARATH	NAD(P)H-quinone oxidoreductase subunit K, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit K) (NADH-plastoquinone oxidoreductase subunit K)	ndhK	Arabidopsis thaliana (Mouse-ear cress)	227		
+A0A8F5S1X0	unreviewed	A0A8F5S1X0_ARATH	Photosystem I P700 chlorophyll a apoprotein A1 (EC 1.97.1.12) (PSI-A) (PsaA)	psaA	Arabidopsis thaliana (Mouse-ear cress)	750		
+A0A8F5S2D1	unreviewed	A0A8F5S2D1_ARATH	NAD(P)H-quinone oxidoreductase subunit I, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit I) (NDH subunit I) (NADH-plastoquinone oxidoreductase subunit I)	ndhI	Arabidopsis thaliana (Mouse-ear cress)	161		
+A0A8F5S2E4	unreviewed	A0A8F5S2E4_ARATH	NAD(P)H-quinone oxidoreductase subunit J, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase, subunit J) (NADH-plastoquinone oxidoreductase subunit J)	ndhJ	Arabidopsis thaliana (Mouse-ear cress)	158		
+A0A8F5S3M3	unreviewed	A0A8F5S3M3_ARATH	NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit 1) (NDH subunit 1) (NADH-plastoquinone oxidoreductase subunit 1)	ndhA	Arabidopsis thaliana (Mouse-ear cress)	363		
+A0A8F5S3N0	unreviewed	A0A8F5S3N0_ARATH	NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit 3) (NADH-plastoquinone oxidoreductase subunit 3)	ndhC	Arabidopsis thaliana (Mouse-ear cress)	120		
+A0A8F5V778	unreviewed	A0A8F5V778_ARATH	NAD(P)H-quinone oxidoreductase subunit J, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase, subunit J) (NADH-plastoquinone oxidoreductase subunit J)	ndhJ	Arabidopsis thaliana (Mouse-ear cress)	158		
+A0A8F5V797	unreviewed	A0A8F5V797_ARATH	NAD(P)H-quinone oxidoreductase subunit K, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit K) (NADH-plastoquinone oxidoreductase subunit K)	ndhK	Arabidopsis thaliana (Mouse-ear cress)	225		
+A0A8F5V799	unreviewed	A0A8F5V799_ARATH	NAD(P)H-quinone oxidoreductase subunit H, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase, subunit H) (NADH-plastoquinone oxidoreductase 49 kDa subunit) (NADH-plastoquinone oxidoreductase subunit H)	ndhH	Arabidopsis thaliana (Mouse-ear cress)	393		
+A0A8F5V7B2	unreviewed	A0A8F5V7B2_ARATH	Photosystem II D2 protein (PSII D2 protein) (EC 1.10.3.9) (Photosystem Q(A) protein)	psbD	Arabidopsis thaliana (Mouse-ear cress)	353		
+A0A8F5V7B8	unreviewed	A0A8F5V7B8_ARATH	NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit 1) (NDH subunit 1) (NADH-plastoquinone oxidoreductase subunit 1)	ndhA	Arabidopsis thaliana (Mouse-ear cress)	363		
+A0A8F5V7C9	unreviewed	A0A8F5V7C9_ARATH	Photosystem II CP43 reaction center protein (PSII 43 kDa protein) (Protein CP-43)	psbC	Arabidopsis thaliana (Mouse-ear cress)	473		
+A0A8F5V8I7	unreviewed	A0A8F5V8I7_ARATH	Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39)	rbcL	Arabidopsis thaliana (Mouse-ear cress)	485		
+A0A8F5V8L5	unreviewed	A0A8F5V8L5_ARATH	Photosystem I iron-sulfur center (EC 1.97.1.12) (9 kDa polypeptide) (PSI-C) (Photosystem I subunit VII) (PsaC)	psaC	Arabidopsis thaliana (Mouse-ear cress)	81		
+A0A8F5V9C1	unreviewed	A0A8F5V9C1_ARATH	Cytochrome b559 subunit alpha (PSII reaction center subunit V)	psbE	Arabidopsis thaliana (Mouse-ear cress)	83		
+A0A8F5V9U0	unreviewed	A0A8F5V9U0_ARATH	NAD(P)H-quinone oxidoreductase subunit 4L, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit 4L) (NADH-plastoquinone oxidoreductase subunit 4L)	ndhE	Arabidopsis thaliana (Mouse-ear cress)	101		
+A0A8F5V9V7	unreviewed	A0A8F5V9V7_ARATH	Photosystem I P700 chlorophyll a apoprotein A2 (EC 1.97.1.12) (PSI-B) (PsaB)	psaA psaB	Arabidopsis thaliana (Mouse-ear cress)	738	psaB	
+A0A8F5VAU6	unreviewed	A0A8F5VAU6_ARATH	NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit 3) (NADH-plastoquinone oxidoreductase subunit 3)	ndhC	Arabidopsis thaliana (Mouse-ear cress)	120		
+A0A8F5VAX1	unreviewed	A0A8F5VAX1_ARATH	NAD(P)H-quinone oxidoreductase subunit I, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit I) (NDH subunit I) (NADH-plastoquinone oxidoreductase subunit I)	ndhI	Arabidopsis thaliana (Mouse-ear cress)	166		
+A0A8F5Z7U4	unreviewed	A0A8F5Z7U4_ARATH	NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase, subunit 2) (NADH-plastoquinone oxidoreductase subunit 2)	ndhB	Arabidopsis thaliana (Mouse-ear cress)	510		
+A0A8F5Z9N9	unreviewed	A0A8F5Z9N9_ARATH	Cytochrome b6	petB	Arabidopsis thaliana (Mouse-ear cress)	215		
+A0MFS5	reviewed	WTF1_ARATH	Protein WHAT'S THIS FACTOR 1 homolog, chloroplastic	At4g01037 A_IG002N01.30	Arabidopsis thaliana (Mouse-ear cress)	528		AT4G01037;
+A8MR05	unreviewed	A8MR05_ARATH	magnesium chelatase (EC 6.6.1.1)	GUN5 ABA-BINDING PROTEIN ABAR CCH CCH1 CHLH CONDITIONAL CHLORINA GENOMES UNCOUPLED 5 H SUBUNIT OF MG-CHELATASE At5g13630 T6I14.12	Arabidopsis thaliana (Mouse-ear cress)	1263	ABA-BINDING PROTEIN ABAR CCH CCH1 CHLH CONDITIONAL CHLORINA GENOMES UNCOUPLED 5 H SUBUNIT OF MG-CHELATASE	AT5G13630;
+F4I896	unreviewed	F4I896_ARATH	APO RNA-binding protein (DUF794)	APO1 At1g64810 F13O11.11 F13O11_11	Arabidopsis thaliana (Mouse-ear cress)	460		AT1G64810;
+F4J1L5	unreviewed	F4J1L5_ARATH	LOW protein: PPR containing-like protein	YS1 At3g22690	Arabidopsis thaliana (Mouse-ear cress)	938		AT3G22690;
+O22773	reviewed	TL16_ARATH	Thylakoid lumenal 16.5 kDa protein, chloroplastic	At4g02530 T10P11.17	Arabidopsis thaliana (Mouse-ear cress)	216		AT4G02530;
+O48722	reviewed	HMOX2_ARATH	Probable inactive heme oxygenase 2, chloroplastic (AtHO2)	HO2 At2g26550 T9J22.22	Arabidopsis thaliana (Mouse-ear cress)	299		AT2G26550;
+O49344	reviewed	PSBP2_ARATH	Putative oxygen-evolving enhancer protein 2-2 (OEE2)	PSBP2 At2g30790 T11J7.18	Arabidopsis thaliana (Mouse-ear cress)	125		AT2G30790;
+P10798	reviewed	RBS3B_ARATH	Ribulose bisphosphate carboxylase small subunit 3B, chloroplastic (RuBisCO small subunit 3B)	RBCS-3B ATS3B At5g38410 MXI10.13	Arabidopsis thaliana (Mouse-ear cress)	181	ATS3B	AT5G38410;
+P27202	reviewed	PSBR_ARATH	Photosystem II 10 kDa polypeptide, chloroplastic	PSBR ART1 At1g79040 YUP8H12R.34 YUP8H12R_29	Arabidopsis thaliana (Mouse-ear cress)	140	ART1	AT1G79040;
+P56751	reviewed	NU3C_ARATH	NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit 3) (NADH-plastoquinone oxidoreductase subunit 3)	ndhC AtCg00440	Arabidopsis thaliana (Mouse-ear cress)	120		ATCG00440;
+P56754	reviewed	NDHJ_ARATH	NAD(P)H-quinone oxidoreductase subunit J, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit J) (NADH-plastoquinone oxidoreductase subunit J)	ndhJ AtCg00420	Arabidopsis thaliana (Mouse-ear cress)	158		ATCG00420;
+P56756	reviewed	NDHK_ARATH	NAD(P)H-quinone oxidoreductase subunit K, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit K) (NADH-plastoquinone oxidoreductase subunit K)	ndhK psbG AtCg00430	Arabidopsis thaliana (Mouse-ear cress)	225	psbG	ATCG00430;
+P56774	reviewed	PETD_ARATH	Cytochrome b6-f complex subunit 4 (17 kDa polypeptide)	petD AtCg00730	Arabidopsis thaliana (Mouse-ear cress)	160		ATCG00730;
+P56776	reviewed	PETL_ARATH	Cytochrome b6-f complex subunit 6 (Cytochrome b6-f complex subunit PetL) (Cytochrome b6-f complex subunit VI)	petL AtCg00590	Arabidopsis thaliana (Mouse-ear cress)	31		ATCG00590;
+P56779	reviewed	PSBE_ARATH	Cytochrome b559 subunit alpha (PSII reaction center subunit V)	psbE AtCg00580	Arabidopsis thaliana (Mouse-ear cress)	83		ATCG00580;
+P56788	reviewed	YCF4_ARATH	Photosystem I assembly protein Ycf4	ycf4 AtCg00520	Arabidopsis thaliana (Mouse-ear cress)	184		ATCG00520;
+P62095	reviewed	PSBF_ARATH	Cytochrome b559 subunit beta (PSII reaction center subunit VI)	psbF AtCg00570	Arabidopsis thaliana (Mouse-ear cress)	39		ATCG00570;
+Q2UZ90	unreviewed	Q2UZ90_ARATH	Mg-protoporphyrin IX chelatase (EC 6.6.1.1)	chli-2	Arabidopsis thaliana (Mouse-ear cress)	418		
+Q37165	reviewed	NU1C_ARATH	NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit 1) (NDH subunit 1) (NADH-plastoquinone oxidoreductase subunit 1)	ndhA AtCg01100	Arabidopsis thaliana (Mouse-ear cress)	360		ATCG01100;
+Q39141	unreviewed	Q39141_ARATH	Chlorophyll a-b binding protein, chloroplastic	LHB1B2 Lhb1B2 LHCB1.5 At2g34420 At2g34420/T31E10.24 F13P17.32	Arabidopsis thaliana (Mouse-ear cress)	265	Lhb1B2 LHCB1.5	AT2G34420;
+Q39142	unreviewed	Q39142_ARATH	Chlorophyll a-b binding protein, chloroplastic	LHB1B1 Lhb1B1 LHCB1.4 At2g34430 F13P17.29	Arabidopsis thaliana (Mouse-ear cress)	266	Lhb1B1 LHCB1.4	AT2G34430;
+Q8GVE8	reviewed	CAPP4_ARATH	Phosphoenolpyruvate carboxylase 4 (AtPPC4) (PEPC 4) (PEPCase 4) (EC 4.1.1.31)	PPC4 At1g68750 F14K14.14 F24J5.1	Arabidopsis thaliana (Mouse-ear cress)	1032		AT1G68750;
+Q8L923	unreviewed	Q8L923_ARATH	At3g14395	MATI At3g14395	Arabidopsis thaliana (Mouse-ear cress)	75		AT3G14395;
+Q8VY52	reviewed	PPD2_ARATH	PsbP domain-containing protein 2, chloroplastic (PsbP-related thylakoid lumenal protein 3)	PPD2 At2g28605 T8O18.1	Arabidopsis thaliana (Mouse-ear cress)	232		AT2G28605;
+Q95695	reviewed	NU6C_ARATH	NAD(P)H-quinone oxidoreductase subunit 6, chloroplastic (EC 7.1.1.-) (NAD(P)H dehydrogenase subunit 6) (NADH-plastoquinone oxidoreductase subunit 6)	ndhG AtCg01080	Arabidopsis thaliana (Mouse-ear cress)	176		ATCG01080;
+Q9C9I7	unreviewed	Q9C9I7_ARATH	Rieske (2Fe-2S) domain-containing protein	PSB33 PhotoSystem B protein 33 At1g71500 At1g71500/F26A9_12 F26A9.12	Arabidopsis thaliana (Mouse-ear cress)	287	PhotoSystem B protein 33	AT1G71500;
+Q9C9K1	reviewed	CB7_ARATH	Chlorophyll a-b binding protein 7, chloroplastic (Light-harvesting chlorophyll B-binding protein 7) (AtLHCB7) (Lhcb7)	LHCB7 At1g76570 F14G6.17	Arabidopsis thaliana (Mouse-ear cress)	327		AT1G76570;
+Q9C9K3	reviewed	PFPA2_ARATH	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha 2 (PFP 2) (6-phosphofructokinase, pyrophosphate dependent 2) (PPi-PFK 2) (Pyrophosphate-dependent 6-phosphofructose-1-kinase 2)	PFP-ALPHA2 At1g76550 F14G6.15	Arabidopsis thaliana (Mouse-ear cress)	617		AT1G76550;
+Q9FHL4	reviewed	FTRA1_ARATH	Ferredoxin-thioredoxin reductase subunit A1, chloroplastic (FTR-A1) (Ferredoxin-thioredoxin reductase, variable chain FTRA1) (FTR-V 1)	FTRA1 At5g23440 K19M13.7	Arabidopsis thaliana (Mouse-ear cress)	182		AT5G23440;
+Q9M7I9	reviewed	STEP1_ARATH	Stress enhanced protein 1, chloroplastic	SEP1 At4g34190 F28A23.50	Arabidopsis thaliana (Mouse-ear cress)	146		AT4G34190;
+Q9S714	reviewed	PSAE2_ARATH	Photosystem I reaction center subunit IV B, chloroplastic (PSI-E B)	PSAE2 At2g20260 F11A3.19	Arabidopsis thaliana (Mouse-ear cress)	145		AT2G20260;
+Q9S720	reviewed	PPD3_ARATH	PsbP domain-containing protein 3, chloroplastic (OEC23-like protein 2)	PPD3 At1g76450 F14G6.5 F15M4.5	Arabidopsis thaliana (Mouse-ear cress)	247		AT1G76450;
+Q9SJ02	reviewed	STEP2_ARATH	Stress enhanced protein 2, chloroplastic	SEP2 At2g21970 F7D8.29	Arabidopsis thaliana (Mouse-ear cress)	202		AT2G21970;
+Q9SUI5	reviewed	PSAK_ARATH	Photosystem I reaction center subunit psaK, chloroplastic (PSI-K) (Photosystem I subunit X)	PSAK At1g30380 T4K22.2	Arabidopsis thaliana (Mouse-ear cress)	130		AT1G30380;
+Q9SUI6	reviewed	PSAH2_ARATH	Photosystem I reaction center subunit VI-2, chloroplastic (PSI-H1)	PSAH2 At1g52230 F9I5.11	Arabidopsis thaliana (Mouse-ear cress)	145		AT1G52230;
+Q9SUI7	reviewed	PSAH1_ARATH	Photosystem I reaction center subunit VI-1, chloroplastic (PSI-H1)	PSAH1 At3g16140 MSL1.18	Arabidopsis thaliana (Mouse-ear cress)	145		AT3G16140;
+A0A075M3N4	unreviewed	A0A075M3N4_ARATH	Ribulose bisphosphate carboxylase small subunit (RuBisCO small subunit)	rbcS	Arabidopsis thaliana (Mouse-ear cress)	163		
+A0A075M4Z6	unreviewed	A0A075M4Z6_ARATH	Ribulose bisphosphate carboxylase small subunit (RuBisCO small subunit)	rbcS	Arabidopsis thaliana (Mouse-ear cress)	163		
+A0A075M556	unreviewed	A0A075M556_ARATH	Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)	rbcL	Arabidopsis thaliana (Mouse-ear cress)	465		
+A0A075M569	unreviewed	A0A075M569_ARATH	Ribulose bisphosphate carboxylase small subunit (RuBisCO small subunit)	rbcS	Arabidopsis thaliana (Mouse-ear cress)	163		
+A0A0F7C956	unreviewed	A0A0F7C956_ARATH	Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)	rbcL	Arabidopsis thaliana (Mouse-ear cress)	463		
+A0A0K1CVP8	unreviewed	A0A0K1CVP8_ARATH	Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)		Arabidopsis thaliana (Mouse-ear cress)	200		
+A0A142I795	unreviewed	A0A142I795_ARATH	Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)	rbcL	Arabidopsis thaliana (Mouse-ear cress)	469		
+A0A178U9Q0	unreviewed	A0A178U9Q0_ARATH	magnesium chelatase (EC 6.6.1.1)	AXX17_At5g13050 AN1_LOCUS22129 AT9943_LOCUS19054 C24_LOCUS22020	Arabidopsis thaliana (Mouse-ear cress)	1381		
+A0A178UL15	unreviewed	A0A178UL15_ARATH	Ribulose bisphosphate carboxylase small subunit, chloroplastic (RuBisCO small subunit)	RBCS AXX17_At5g35730	Arabidopsis thaliana (Mouse-ear cress)	181		
+A0A178UP93	unreviewed	A0A178UP93_ARATH	Photosystem II stability/assembly factor	AXX17_At5g22660	Arabidopsis thaliana (Mouse-ear cress)	403		
+A0A178UQA8	unreviewed	A0A178UQA8_ARATH	Ribulose bisphosphate carboxylase small subunit, chloroplastic (RuBisCO small subunit)	RBCS AXX17_At5g35740	Arabidopsis thaliana (Mouse-ear cress)	188		
+A0A178UR02	unreviewed	A0A178UR02_ARATH	NADPH-protochlorophyllide oxidoreductase (EC 1.3.1.33)	AXX17_At5g53240 AN1_LOCUS25689 AT9943_LOCUS22133	Arabidopsis thaliana (Mouse-ear cress)	405		
+A0A178URY8	unreviewed	A0A178URY8_ARATH	Ribulose bisphosphate carboxylase small subunit, chloroplastic (RuBisCO small subunit)	RBCS AXX17_At5g35720 AN1_LOCUS23998 AT9943_LOCUS20742	Arabidopsis thaliana (Mouse-ear cress)	181		
+A0A178USW4	unreviewed	A0A178USW4_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At5g53320 AN1_LOCUS25698 AT9943_LOCUS22141 C24_LOCUS25525	Arabidopsis thaliana (Mouse-ear cress)	265		
+A0A178UV45	unreviewed	A0A178UV45_ARATH	Photosystem I reaction center subunit II, chloroplastic	AXX17_At4g03480 AN1_LOCUS17078 AT9943_LOCUS14676 C24_LOCUS16949	Arabidopsis thaliana (Mouse-ear cress)	208		
+A0A178UW55	unreviewed	A0A178UW55_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At4g11600 AN1_LOCUS17620	Arabidopsis thaliana (Mouse-ear cress)	280		
+A0A178V4E9	unreviewed	A0A178V4E9_ARATH	(thale cress) hypothetical protein (PSAE-1)	AXX17_At4g33090 AN1_LOCUS19663 AT9943_LOCUS16980 C24_LOCUS19556	Arabidopsis thaliana (Mouse-ear cress)	143		
+A0A178V669	unreviewed	A0A178V669_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At3g34070	Arabidopsis thaliana (Mouse-ear cress)	159		
+A0A178V6C5	unreviewed	A0A178V6C5_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At3g55750	Arabidopsis thaliana (Mouse-ear cress)	257		
+A0A178V808	unreviewed	A0A178V808_ARATH	NADPH-protochlorophyllide oxidoreductase (EC 1.3.1.33)	AXX17_At4g31570 AN1_LOCUS19513 C24_LOCUS19407	Arabidopsis thaliana (Mouse-ear cress)	401		
+A0A178VBT7	unreviewed	A0A178VBT7_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At3g49420 AN1_LOCUS15860 AT9943_LOCUS13650 C24_LOCUS15744	Arabidopsis thaliana (Mouse-ear cress)	241		
+A0A178VEE6	unreviewed	A0A178VEE6_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At3g41460 AN1_LOCUS15082 AT9943_LOCUS12974 C24_LOCUS14962	Arabidopsis thaliana (Mouse-ear cress)	251		
+A0A178VFM4	unreviewed	A0A178VFM4_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At3g08510 AN1_LOCUS12187 AT9943_LOCUS10475 C24_LOCUS12018	Arabidopsis thaliana (Mouse-ear cress)	287		
+A0A178VH55	unreviewed	A0A178VH55_ARATH	magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase (EC 1.14.13.81)	AXX17_At3g51530 AN1_LOCUS16072 AT9943_LOCUS13833 C24_LOCUS15954	Arabidopsis thaliana (Mouse-ear cress)	409		
+A0A178VHN7	unreviewed	A0A178VHN7_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At3g30210 AN1_LOCUS14275 C24_LOCUS14114	Arabidopsis thaliana (Mouse-ear cress)	266		
+A0A178VP48	unreviewed	A0A178VP48_ARATH	heme oxygenase (biliverdin-producing) (EC 1.14.14.18)	AXX17_At2g22530 AN1_LOCUS9059 C24_LOCUS8911	Arabidopsis thaliana (Mouse-ear cress)	282		
+A0A178VRB0	unreviewed	A0A178VRB0_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At2g30960 AN1_LOCUS9884 AT9943_LOCUS8469 C24_LOCUS9730	Arabidopsis thaliana (Mouse-ear cress)	265		
+A0A178VT95	unreviewed	A0A178VT95_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At2g04220	Arabidopsis thaliana (Mouse-ear cress)	265		
+A0A178VTY4	unreviewed	A0A178VTY4_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At2g37140 AN1_LOCUS10484 C24_LOCUS10328	Arabidopsis thaliana (Mouse-ear cress)	276		
+A0A178VW93	unreviewed	A0A178VW93_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At2g30970	Arabidopsis thaliana (Mouse-ear cress)	266		
+A0A178W1X5	unreviewed	A0A178W1X5_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At2g04230 AN1_LOCUS7539 AT9943_LOCUS6387 C24_LOCUS7413	Arabidopsis thaliana (Mouse-ear cress)	265		
+A0A178W2T0	unreviewed	A0A178W2T0_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At1g30300 AN1_LOCUS3035 AT9943_LOCUS2500 AT9943_LOCUS2501 C24_LOCUS2942 C24_LOCUS2943	Arabidopsis thaliana (Mouse-ear cress)	267		
+A0A178W4N4	unreviewed	A0A178W4N4_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At1g71050	Arabidopsis thaliana (Mouse-ear cress)	165		
+A0A178W5Y6	unreviewed	A0A178W5Y6_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At1g54730 AN1_LOCUS5136 AT9943_LOCUS4342 C24_LOCUS5011	Arabidopsis thaliana (Mouse-ear cress)	273		
+A0A178W7I8	unreviewed	A0A178W7I8_ARATH	Photosystem I reaction center subunit V, chloroplastic (PSI-G)	AXX17_At1g50290 AT9943_LOCUS4007	Arabidopsis thaliana (Mouse-ear cress)	160		
+A0A178W7Q1	unreviewed	A0A178W7Q1_ARATH	23 kDa subunit of oxygen evolving system of photosystem II (23 kDa thylakoid membrane protein) (OEC 23 kDa subunit)	AXX17_At1g06320 AN1_LOCUS728 AT9943_LOCUS516 C24_LOCUS643	Arabidopsis thaliana (Mouse-ear cress)	263		
+A0A178W817	unreviewed	A0A178W817_ARATH	geranylgeranyl diphosphate reductase (EC 1.3.1.83) (Geranylgeranyl reductase)	AXX17_At1g68850 AN1_LOCUS6489 AT9943_LOCUS5483 C24_LOCUS6377	Arabidopsis thaliana (Mouse-ear cress)	467		
+A0A178W876	unreviewed	A0A178W876_ARATH	Photosystem I reaction center subunit II, chloroplastic	AXX17_At1g02370 AN1_LOCUS352 C24_LOCUS263	Arabidopsis thaliana (Mouse-ear cress)	204		
+A0A178WB32	unreviewed	A0A178WB32_ARATH	Photosystem I reaction center subunit III (PSI-F)	AXX17_At1g31980 AN1_LOCUS3184 AT9943_LOCUS2641	Arabidopsis thaliana (Mouse-ear cress)	221		
+A0A178WCX9	unreviewed	A0A178WCX9_ARATH	Photosystem I reaction center subunit III (PSI-F)	AXX17_At1g31980	Arabidopsis thaliana (Mouse-ear cress)	153		
+A0A178WD57	unreviewed	A0A178WD57_ARATH	Ribulose bisphosphate carboxylase small subunit, chloroplastic (RuBisCO small subunit)	RBCS AXX17_At1g60950 AN1_LOCUS5719 AT9943_LOCUS4827 C24_LOCUS5607	Arabidopsis thaliana (Mouse-ear cress)	180		
+A0A178WEZ5	unreviewed	A0A178WEZ5_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At1g20100 AT9943_LOCUS1661 C24_LOCUS1966	Arabidopsis thaliana (Mouse-ear cress)	270		
+A0A178WFB8	unreviewed	A0A178WFB8_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At1g30310 AN1_LOCUS3036	Arabidopsis thaliana (Mouse-ear cress)	267		
+A0A178WI16	unreviewed	A0A178WI16_ARATH	PSI-K (Photosystem I subunit X)	AXX17_At1g30810 AN1_LOCUS3078 AT9943_LOCUS2544	Arabidopsis thaliana (Mouse-ear cress)	130		
+A0A178WK60	unreviewed	A0A178WK60_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At1g16590 AT9943_LOCUS1369	Arabidopsis thaliana (Mouse-ear cress)	256		
+A0A178WK98	unreviewed	A0A178WK98_ARATH	heme oxygenase (biliverdin-producing) (EC 1.14.14.18)	AXX17_At1g63840	Arabidopsis thaliana (Mouse-ear cress)	285		
+A0A178WKX1	unreviewed	A0A178WKX1_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At1g30320 AN1_LOCUS3037 AT9943_LOCUS2502 C24_LOCUS2944	Arabidopsis thaliana (Mouse-ear cress)	267		
+A0A178WLP9	unreviewed	A0A178WLP9_ARATH	Phosphoribulokinase (EC 2.7.1.19)	AXX17_At1g32760 AN1_LOCUS3249 AT9943_LOCUS2708 C24_LOCUS3164	Arabidopsis thaliana (Mouse-ear cress)	395		
+A0A178WML3	unreviewed	A0A178WML3_ARATH	Photosystem I reaction center subunit VI (PSI-H)	AXX17_At1g46490 AN1_LOCUS4333 C24_LOCUS4218	Arabidopsis thaliana (Mouse-ear cress)	145		
+A0A178WN67	unreviewed	A0A178WN67_ARATH	heme oxygenase (biliverdin-producing) (EC 1.14.14.18)	AXX17_At1g52280	Arabidopsis thaliana (Mouse-ear cress)	283		
+A0A178WNQ0	unreviewed	A0A178WNQ0_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At1g40960 AN1_LOCUS3810 C24_LOCUS3708	Arabidopsis thaliana (Mouse-ear cress)	256		
+A0A1B1W4S2	unreviewed	A0A1B1W4S2_ARATH	Photosystem II reaction center protein I (PSII-I) (PSII 4.8 kDa protein)	psbI	Arabidopsis thaliana (Mouse-ear cress)	36		ATCG00080;
+A0A1B1W4T1	unreviewed	A0A1B1W4T1_ARATH	Photosystem II reaction center protein K (PSII-K)	psbK	Arabidopsis thaliana (Mouse-ear cress)	61		ATCG00070;
+A0A1B1W4T8	unreviewed	A0A1B1W4T8_ARATH	Photosystem II reaction center protein M (PSII-M)	psbM	Arabidopsis thaliana (Mouse-ear cress)	34		ATCG00220;
+A0A1B1W4U1	unreviewed	A0A1B1W4U1_ARATH	Cytochrome b6-f complex subunit 8 (Cytochrome b6-f complex subunit PetN) (Cytochrome b6-f complex subunit VIII)	petN ycf6	Arabidopsis thaliana (Mouse-ear cress)	29	ycf6	ATCG00210;
+A0A1B1W4U3	unreviewed	A0A1B1W4U3_ARATH	Photosystem II reaction center protein Z (PSII-Z)	psbZ ycf9	Arabidopsis thaliana (Mouse-ear cress)	62	ycf9	ATCG00300;
+A0A1B1W4U7	unreviewed	A0A1B1W4U7_ARATH	Photosystem I assembly protein Ycf3	ycf3	Arabidopsis thaliana (Mouse-ear cress)	169		ATCG00360;
+A0A1B1W4U9	unreviewed	A0A1B1W4U9_ARATH	Photosystem I reaction center subunit VIII (PSI-I)	psaI	Arabidopsis thaliana (Mouse-ear cress)	37		ATCG00510;
+A0A1B1W4V4	unreviewed	A0A1B1W4V4_ARATH	Photosystem I assembly protein Ycf4	ycf4	Arabidopsis thaliana (Mouse-ear cress)	184		ATCG00520;
+A0A1B1W4V7	unreviewed	A0A1B1W4V7_ARATH	Photosystem II reaction center protein J (PSII-J)	psbJ	Arabidopsis thaliana (Mouse-ear cress)	40		ATCG00550;
+A0A1B1W4V9	unreviewed	A0A1B1W4V9_ARATH	Cytochrome b6-f complex subunit 6 (Cytochrome b6-f complex subunit PetL) (Cytochrome b6-f complex subunit VI)	petL Atcg00590	Arabidopsis thaliana (Mouse-ear cress)	31		ATCG00590;
+A0A1B1W4W0	unreviewed	A0A1B1W4W0_ARATH	Photosystem II reaction center protein L (PSII-L)	psbL	Arabidopsis thaliana (Mouse-ear cress)	38		ATCG00560;
+A0A1B1W4W1	unreviewed	A0A1B1W4W1_ARATH	Photosystem I reaction center subunit IX (PSI-J)	psaJ	Arabidopsis thaliana (Mouse-ear cress)	44		ATCG00630;
+A0A1B1W4W3	unreviewed	A0A1B1W4W3_ARATH	Cytochrome b6-f complex subunit 5 (Cytochrome b6-f complex subunit PetG) (Cytochrome b6-f complex subunit V)	petG	Arabidopsis thaliana (Mouse-ear cress)	37		ATCG00600;
+A0A1B1W4X0	unreviewed	A0A1B1W4X0_ARATH	Photosystem II CP47 reaction center protein (PSII 47 kDa protein) (Protein CP-47)	psbB	Arabidopsis thaliana (Mouse-ear cress)	508		ATCG00680;
+A0A1B1W4X1	unreviewed	A0A1B1W4X1_ARATH	Photosystem II reaction center protein T (PSII-T)	psbT	Arabidopsis thaliana (Mouse-ear cress)	33		ATCG00690;
+A0A1B1W4X2	unreviewed	A0A1B1W4X2_ARATH	Photosystem II reaction center protein H (PSII-H)	psbH	Arabidopsis thaliana (Mouse-ear cress)	73		ATCG00710;
+A0A1B1W4Y3	unreviewed	A0A1B1W4Y3_ARATH	Cytochrome b6-f complex subunit 4 (17 kDa polypeptide)	petD	Arabidopsis thaliana (Mouse-ear cress)	158		
+A0A1I9LMB4	unreviewed	A0A1I9LMB4_ARATH	Chlorophyll a-b binding protein, chloroplastic	LHCB23 LHCB2 LHCB2.3 LHCB2.4 At3g27690	Arabidopsis thaliana (Mouse-ear cress)	298	LHCB2 LHCB2.3 LHCB2.4	AT3G27690;
+A0A1P8AZ91	unreviewed	A0A1P8AZ91_ARATH	Chlorophyll a-b binding protein, chloroplastic	LHCB21 LHCB2 LHCB2.1 At2g05100 F15L11.2 F15L11_2	Arabidopsis thaliana (Mouse-ear cress)	317	LHCB2 LHCB2.1	AT2G05100;
+A0A1P8B2J8	unreviewed	A0A1P8B2J8_ARATH	Heme oxygenase 2	HO2 heme oxygenase 2 At2g26550 T9J22.22 T9J22_22	Arabidopsis thaliana (Mouse-ear cress)	284	heme oxygenase 2	AT2G26550;
+A0A1P8B6D0	unreviewed	A0A1P8B6D0_ARATH	PSI subunit V	PSAL photosystem I subunit l PSI-L At4g12800 T20K18.150 T20K18_150	Arabidopsis thaliana (Mouse-ear cress)	281	photosystem I subunit l PSI-L	AT4G12800;
+A0A384L3S5	unreviewed	A0A384L3S5_ARATH	Photosystem I reaction center subunit VI (PSI-H)	AXX17_At3g16940 AN1_LOCUS12999 AT9943_LOCUS11191 C24_LOCUS12829	Arabidopsis thaliana (Mouse-ear cress)	145		
+A0A384LAE0	unreviewed	A0A384LAE0_ARATH	Photosystem II 10 kDa polypeptide, chloroplastic	AXX17_At1g73790 AN1_LOCUS6953 AT9943_LOCUS5883 C24_LOCUS6839	Arabidopsis thaliana (Mouse-ear cress)	140		
+A0A384LC70	unreviewed	A0A384LC70_ARATH	Chlorophyll a-b binding protein, chloroplastic	AXX17_At5g00570 AN1_LOCUS20940 C24_LOCUS20837	Arabidopsis thaliana (Mouse-ear cress)	290		
+A0A384LMN8	unreviewed	A0A384LMN8_ARATH	NADPH-protochlorophyllide oxidoreductase (EC 1.3.1.33)	AXX17_At1g02900 AN1_LOCUS403 AT9943_LOCUS238 C24_LOCUS315	Arabidopsis thaliana (Mouse-ear cress)	401		
+A0A3G1M2D0	unreviewed	A0A3G1M2D0_ARATH	Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)	rbcL	Arabidopsis thaliana (Mouse-ear cress)	184		
+A0A482JZC1	unreviewed	A0A482JZC1_ARATH	Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)	rbcL	Arabidopsis thaliana (Mouse-ear cress)	183		
+A0A514YJB3	unreviewed	A0A514YJB3_ARATH	Cytochrome f	petA	Arabidopsis thaliana (Mouse-ear cress)	320		
+A0A5S9RSQ9	unreviewed	A0A5S9RSQ9_ARATH	Chlorophyll a-b binding protein, chloroplastic	C24_LOCUS1	Arabidopsis thaliana (Mouse-ear cress)	159		
+A0A5S9ULM2	unreviewed	A0A5S9ULM2_ARATH	Chlorophyll a-b binding protein, chloroplastic	C24_LOCUS1630	Arabidopsis thaliana (Mouse-ear cress)	258		
+A0A5S9WGW9	unreviewed	A0A5S9WGW9_ARATH	Photosystem I reaction center subunit III (PSI-F)	C24_LOCUS3097	Arabidopsis thaliana (Mouse-ear cress)	221		
+A0A5S9WMM5	unreviewed	A0A5S9WMM5_ARATH	Photosystem I reaction center subunit V, chloroplastic (PSI-G)	C24_LOCUS4583	Arabidopsis thaliana (Mouse-ear cress)	160		
+A0A5S9WR97	unreviewed	A0A5S9WR97_ARATH	heme oxygenase (biliverdin-producing) (EC 1.14.14.18)	C24_LOCUS5894	Arabidopsis thaliana (Mouse-ear cress)	285		
+A0A5S9WSC7	unreviewed	A0A5S9WSC7_ARATH	heme oxygenase (biliverdin-producing) (EC 1.14.14.18)	C24_LOCUS4775	Arabidopsis thaliana (Mouse-ear cress)	283		
+A0A5S9X1L9	unreviewed	A0A5S9X1L9_ARATH	Heme oxygenase 2	AN1_LOCUS9048 C24_LOCUS8900	Arabidopsis thaliana (Mouse-ear cress)	342		
+A0A5S9XJN7	unreviewed	A0A5S9XJN7_ARATH	OEE1	C24_LOCUS15324	Arabidopsis thaliana (Mouse-ear cress)	330		
+A0A5S9XQW7	unreviewed	A0A5S9XQW7_ARATH	Chlorophyll a-b binding protein, chloroplastic	C24_LOCUS17392	Arabidopsis thaliana (Mouse-ear cress)	97		
+A0A5S9XRN5	unreviewed	A0A5S9XRN5_ARATH	Chlorophyll a-b binding protein, chloroplastic	C24_LOCUS17515	Arabidopsis thaliana (Mouse-ear cress)	280		
+A0A5S9Y6J1	unreviewed	A0A5S9Y6J1_ARATH	Photosystem II stability/assembly factor	C24_LOCUS22936	Arabidopsis thaliana (Mouse-ear cress)	403		
+A0A5S9Y931	unreviewed	A0A5S9Y931_ARATH	Ribulose bisphosphate carboxylase small subunit, chloroplastic (RuBisCO small subunit)	RBCS C24_LOCUS23833	Arabidopsis thaliana (Mouse-ear cress)	186		
+A0A5S9YBC0	unreviewed	A0A5S9YBC0_ARATH	Ribulose bisphosphate carboxylase small subunit, chloroplastic (RuBisCO small subunit)	RBCS AN1_LOCUS24000 C24_LOCUS23835	Arabidopsis thaliana (Mouse-ear cress)	181		
+A0A5S9YDU5	unreviewed	A0A5S9YDU5_ARATH	NADPH-protochlorophyllide oxidoreductase (EC 1.3.1.33)	C24_LOCUS25516	Arabidopsis thaliana (Mouse-ear cress)	405		
+A0A654EA44	unreviewed	A0A654EA44_ARATH	Chlorophyll a-b binding protein, chloroplastic	AN1_LOCUS1714	Arabidopsis thaliana (Mouse-ear cress)	258		
+A0A654EG66	unreviewed	A0A654EG66_ARATH	Chlorophyll a-b binding protein, chloroplastic	AN1_LOCUS2052	Arabidopsis thaliana (Mouse-ear cress)	267		
+A0A654EK87	unreviewed	A0A654EK87_ARATH	Photosystem I reaction center subunit V, chloroplastic (PSI-G)	AN1_LOCUS4697	Arabidopsis thaliana (Mouse-ear cress)	160		
+A0A654EKV5	unreviewed	A0A654EKV5_ARATH	heme oxygenase (biliverdin-producing) (EC 1.14.14.18)	AN1_LOCUS4893 AT9943_LOCUS4156	Arabidopsis thaliana (Mouse-ear cress)	283		
+A0A654EMU9	unreviewed	A0A654EMU9_ARATH	heme oxygenase (biliverdin-producing) (EC 1.14.14.18)	AN1_LOCUS6004	Arabidopsis thaliana (Mouse-ear cress)	285		
+A0A654EPI1	unreviewed	A0A654EPI1_ARATH	Chlorophyll a-b binding protein, chloroplastic	AN1_LOCUS6696 AT9943_LOCUS5662 C24_LOCUS6582	Arabidopsis thaliana (Mouse-ear cress)	327		
+A0A654ETC9	unreviewed	A0A654ETC9_ARATH	Chlorophyll a-b binding protein, chloroplastic	AN1_LOCUS7538 AT9943_LOCUS6386 C24_LOCUS7412	Arabidopsis thaliana (Mouse-ear cress)	265		
+A0A654EYS2	unreviewed	A0A654EYS2_ARATH	Chlorophyll a-b binding protein, chloroplastic	AN1_LOCUS9885 AT9943_LOCUS8470 C24_LOCUS9731	Arabidopsis thaliana (Mouse-ear cress)	266		
+A0A654FDM2	unreviewed	A0A654FDM2_ARATH	Photosynthetic NDH subunit of lumenal location 3, chloroplastic	AN1_LOCUS11405	Arabidopsis thaliana (Mouse-ear cress)	220		
+A0A654FGK8	unreviewed	A0A654FGK8_ARATH	OEE1	AN1_LOCUS15441	Arabidopsis thaliana (Mouse-ear cress)	331		
+A0A654FJS0	unreviewed	A0A654FJS0_ARATH	Chlorophyll a-b binding protein, chloroplastic	AN1_LOCUS16521 AT9943_LOCUS14215 C24_LOCUS16401	Arabidopsis thaliana (Mouse-ear cress)	257		
+A0A654G449	unreviewed	A0A654G449_ARATH	Photosystem II stability/assembly factor	AN1_LOCUS23050	Arabidopsis thaliana (Mouse-ear cress)	403		
+A0A654G618	unreviewed	A0A654G618_ARATH	Ribulose bisphosphate carboxylase small subunit, chloroplastic (RuBisCO small subunit)	RBCS AN1_LOCUS23999 AT9943_LOCUS20743 C24_LOCUS23834	Arabidopsis thaliana (Mouse-ear cress)	181		
+A0A7G2DN75	unreviewed	A0A7G2DN75_ARATH	Pre-mRNA-splicing factor 18	AT9943_LOCUS193	Arabidopsis thaliana (Mouse-ear cress)	633		
+A0A7G2DYT7	unreviewed	A0A7G2DYT7_ARATH	Chlorophyll a-b binding protein, chloroplastic	AT9943_LOCUS3228	Arabidopsis thaliana (Mouse-ear cress)	256		
+A0A7G2E075	unreviewed	A0A7G2E075_ARATH	Photosystem I reaction center subunit VI (PSI-H)	AT9943_LOCUS3690	Arabidopsis thaliana (Mouse-ear cress)	129		
+A0A7G2E9A1	unreviewed	A0A7G2E9A1_ARATH	heme oxygenase (biliverdin-producing) (EC 1.14.14.18)	AT9943_LOCUS7765	Arabidopsis thaliana (Mouse-ear cress)	205		
+A0A7G2E9B1	unreviewed	A0A7G2E9B1_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS6465	Arabidopsis thaliana (Mouse-ear cress)	355		
+A0A7G2EEB6	unreviewed	A0A7G2EEB6_ARATH	PSII 6.1 kDa protein	AT9943_LOCUS8115	Arabidopsis thaliana (Mouse-ear cress)	760		
+A0A7G2EED8	unreviewed	A0A7G2EED8_ARATH	RNA helicase (EC 3.6.4.13)	AT9943_LOCUS8134	Arabidopsis thaliana (Mouse-ear cress)	1482		
+A0A7G2EG64	unreviewed	A0A7G2EG64_ARATH	Chlorophyll a-b binding protein, chloroplastic	AT9943_LOCUS9009	Arabidopsis thaliana (Mouse-ear cress)	397		
+A0A7G2ENY2	unreviewed	A0A7G2ENY2_ARATH	Chlorophyll a-b binding protein, chloroplastic	AT9943_LOCUS12224	Arabidopsis thaliana (Mouse-ear cress)	266		
+A0A7G2EQ63	unreviewed	A0A7G2EQ63_ARATH	Chlorophyll a-b binding protein, chloroplastic	AT9943_LOCUS12225	Arabidopsis thaliana (Mouse-ear cress)	275		
+A0A7G2EZH1	unreviewed	A0A7G2EZH1_ARATH	Chlorophyll a-b binding protein, chloroplastic	AT9943_LOCUS15190	Arabidopsis thaliana (Mouse-ear cress)	266		
+A0A7G2F4T1	unreviewed	A0A7G2F4T1_ARATH	Chlorophyll a-b binding protein, chloroplastic	AT9943_LOCUS18046	Arabidopsis thaliana (Mouse-ear cress)	290		
+A0A7G2F6L8	unreviewed	A0A7G2F6L8_ARATH	NADPH-protochlorophyllide oxidoreductase (EC 1.3.1.33)	AT9943_LOCUS16847	Arabidopsis thaliana (Mouse-ear cress)	372		
+A0A7G2FEU3	unreviewed	A0A7G2FEU3_ARATH	Ribulose bisphosphate carboxylase small subunit, chloroplastic (RuBisCO small subunit)	RBCS AT9943_LOCUS20744	Arabidopsis thaliana (Mouse-ear cress)	181		
+A0A7G2FFU9	unreviewed	A0A7G2FFU9_ARATH	Photosystem II stability/assembly factor	AT9943_LOCUS19844	Arabidopsis thaliana (Mouse-ear cress)	404		
+A0A7G2FNE9	unreviewed	A0A7G2FNE9_ARATH	Cytochrome f	AT9943_LOCUS23358	Arabidopsis thaliana (Mouse-ear cress)	231		
+A0A8F5GFT7	unreviewed	A0A8F5GFT7_ARATH	Cytochrome b6-f complex subunit 4 (17 kDa polypeptide)	petD	Arabidopsis thaliana (Mouse-ear cress)	160		
+A0A8F5J5F2	unreviewed	A0A8F5J5F2_ARATH	Photosystem II reaction center protein K (PSII-K)	psbK	Arabidopsis thaliana (Mouse-ear cress)	61		
+A0A8F5NY25	unreviewed	A0A8F5NY25_ARATH	Cytochrome b6-f complex subunit 6 (Cytochrome b6-f complex subunit PetL) (Cytochrome b6-f complex subunit VI)	petL	Arabidopsis thaliana (Mouse-ear cress)	31		
+A0A8F5NZW2	unreviewed	A0A8F5NZW2_ARATH	Photosystem I reaction center subunit IX (PSI-J)	psaJ	Arabidopsis thaliana (Mouse-ear cress)	44		
+A0A8F5NZX2	unreviewed	A0A8F5NZX2_ARATH	Photosystem II reaction center protein Z (PSII-Z)	psbZ	Arabidopsis thaliana (Mouse-ear cress)	62		
+A0A8F5P117	unreviewed	A0A8F5P117_ARATH	Photosystem II reaction center protein H (PSII-H)	psbH	Arabidopsis thaliana (Mouse-ear cress)	73		
+A0A8F5P129	unreviewed	A0A8F5P129_ARATH	Cytochrome f	petA	Arabidopsis thaliana (Mouse-ear cress)	320		
+A0A8F5P149	unreviewed	A0A8F5P149_ARATH	Cytochrome b559 subunit beta (PSII reaction center subunit VI)	psbF	Arabidopsis thaliana (Mouse-ear cress)	39		
+A0A8F5P2E6	unreviewed	A0A8F5P2E6_ARATH	Photosystem II reaction center protein J (PSII-J)	psbJ	Arabidopsis thaliana (Mouse-ear cress)	40		
+A0A8F5P2F6	unreviewed	A0A8F5P2F6_ARATH	Cytochrome b6-f complex subunit 4 (17 kDa polypeptide)	petD	Arabidopsis thaliana (Mouse-ear cress)	160		
+A0A8F5P2G4	unreviewed	A0A8F5P2G4_ARATH	Cytochrome b6-f complex subunit 5 (Cytochrome b6-f complex subunit PetG) (Cytochrome b6-f complex subunit V)	petG	Arabidopsis thaliana (Mouse-ear cress)	37		
+A0A8F5P3C6	unreviewed	A0A8F5P3C6_ARATH	Photosystem II reaction center protein T (PSII-T)	psbT	Arabidopsis thaliana (Mouse-ear cress)	35		
+A0A8F5P3R8	unreviewed	A0A8F5P3R8_ARATH	Photosystem II CP47 reaction center protein (PSII 47 kDa protein) (Protein CP-47)	psbB	Arabidopsis thaliana (Mouse-ear cress)	508		
+A0A8F5S1P5	unreviewed	A0A8F5S1P5_ARATH	Photosystem I assembly protein Ycf4	ycf4	Arabidopsis thaliana (Mouse-ear cress)	184		
+A0A8F5S1W0	unreviewed	A0A8F5S1W0_ARATH	Protein PsbN	psbN	Arabidopsis thaliana (Mouse-ear cress)	43		
+A0A8F5S2D6	unreviewed	A0A8F5S2D6_ARATH	Photosystem II reaction center protein K (PSII-K)	psbK	Arabidopsis thaliana (Mouse-ear cress)	61		
+A0A8F5S2E0	unreviewed	A0A8F5S2E0_ARATH	Cytochrome b6-f complex subunit 8 (Cytochrome b6-f complex subunit PetN) (Cytochrome b6-f complex subunit VIII)	petN	Arabidopsis thaliana (Mouse-ear cress)	29		
+A0A8F5S3M7	unreviewed	A0A8F5S3M7_ARATH	Photosystem II reaction center protein M (PSII-M)	psbM	Arabidopsis thaliana (Mouse-ear cress)	34		
+A0A8F5S3P7	unreviewed	A0A8F5S3P7_ARATH	Photosystem I assembly protein Ycf3	ycf3	Arabidopsis thaliana (Mouse-ear cress)	163		
+A0A8F5V785	unreviewed	A0A8F5V785_ARATH	Cytochrome b6-f complex subunit 6 (Cytochrome b6-f complex subunit PetL) (Cytochrome b6-f complex subunit VI)	petL	Arabidopsis thaliana (Mouse-ear cress)	31		
+A0A8F5V7M2	unreviewed	A0A8F5V7M2_ARATH	Photosystem II reaction center protein K (PSII-K)	psbK	Arabidopsis thaliana (Mouse-ear cress)	59		
+A0A8F5V8P3	unreviewed	A0A8F5V8P3_ARATH	Photosystem I reaction center subunit VIII (PSI-I)	psaI	Arabidopsis thaliana (Mouse-ear cress)	36		
+A0A8F5V9D0	unreviewed	A0A8F5V9D0_ARATH	Cytochrome b6-f complex subunit 4 (17 kDa polypeptide)	petD	Arabidopsis thaliana (Mouse-ear cress)	176		
+A0A8F5V9E3	unreviewed	A0A8F5V9E3_ARATH	Cytochrome f	petA	Arabidopsis thaliana (Mouse-ear cress)	320		
+A0A8F5V9F0	unreviewed	A0A8F5V9F0_ARATH	Photosystem II reaction center protein T (PSII-T)	psbT	Arabidopsis thaliana (Mouse-ear cress)	33		
+A0A8F5VAV5	unreviewed	A0A8F5VAV5_ARATH	Photosystem I reaction center subunit IX (PSI-J)	psaJ	Arabidopsis thaliana (Mouse-ear cress)	44		
+A0A8F5VAZ0	unreviewed	A0A8F5VAZ0_ARATH	Photosystem II reaction center protein Z (PSII-Z)	psbZ	Arabidopsis thaliana (Mouse-ear cress)	62		
+A0A8F5Z7T3	unreviewed	A0A8F5Z7T3_ARATH	Photosystem II reaction center protein J (PSII-J)	psbJ	Arabidopsis thaliana (Mouse-ear cress)	40		
+A0A8F5Z876	unreviewed	A0A8F5Z876_ARATH	Photosystem II CP47 reaction center protein (PSII 47 kDa protein) (Protein CP-47)	psbB	Arabidopsis thaliana (Mouse-ear cress)	508		
+A0A8F5Z997	unreviewed	A0A8F5Z997_ARATH	Photosystem I assembly protein Ycf4	ycf4	Arabidopsis thaliana (Mouse-ear cress)	184		
+A0A8F5Z9N0	unreviewed	A0A8F5Z9N0_ARATH	Photosystem I assembly protein Ycf3	ycf3	Arabidopsis thaliana (Mouse-ear cress)	168		
+A0A8F5ZAW1	unreviewed	A0A8F5ZAW1_ARATH	Photosystem II reaction center protein L (PSII-L)	psbL	Arabidopsis thaliana (Mouse-ear cress)	38		
+A0A8F5ZAW5	unreviewed	A0A8F5ZAW5_ARATH	Photosystem II reaction center protein H (PSII-H)	psbH	Arabidopsis thaliana (Mouse-ear cress)	73		
+A8MS75	unreviewed	A8MS75_ARATH	Chlorophyll a-b binding protein, chloroplastic	LHCA1 LHCI-730 At3g54890	Arabidopsis thaliana (Mouse-ear cress)	213	LHCI-730	AT3G54890;
+B0FFQ7	unreviewed	B0FFQ7_ARATH	NAD(P)H-quinone oxidoreductase	ndhJ	Arabidopsis thaliana (Mouse-ear cress)	125		
+C0Z280	unreviewed	C0Z280_ARATH	PSI-K (Photosystem I subunit X)	At1g30380	Arabidopsis thaliana (Mouse-ear cress)	74		AT1G30380;
+C0Z2T4	unreviewed	C0Z2T4_ARATH	23 kDa subunit of oxygen evolving system of photosystem II (23 kDa thylakoid membrane protein) (OEC 23 kDa subunit)	At1g06680	Arabidopsis thaliana (Mouse-ear cress)	95		
+C0Z346	unreviewed	C0Z346_ARATH	NADPH-protochlorophyllide oxidoreductase (EC 1.3.1.33)	At1g03630	Arabidopsis thaliana (Mouse-ear cress)	283		
+F4HRR5	unreviewed	F4HRR5_ARATH	Ribulose bisphosphate carboxylase small subunit (RuBisCO small subunit)	RBCS1A At1g67090 F1O19.14 F5A8.1 F5A8_1	Arabidopsis thaliana (Mouse-ear cress)	136		AT1G67090;
+F4I2F8	unreviewed	F4I2F8_ARATH	NADPH-protochlorophyllide oxidoreductase (EC 1.3.1.33)	POR POR C PORC At1g03630 F21B7.24	Arabidopsis thaliana (Mouse-ear cress)	399	POR C PORC	AT1G03630;
+F4I890	unreviewed	F4I890_ARATH	NDH-dependent cyclic electron flow 1	PNSB2 NDF2 NDH45 PnsB2 At1g64770 F13O11.8 F13O11_8	Arabidopsis thaliana (Mouse-ear cress)	367	NDF2 NDH45 PnsB2	AT1G64770;
+F4IGY6	unreviewed	F4IGY6_ARATH	Chlorophyll a-b binding protein, chloroplastic	LHCB43 LHCB4.3 At2g40100 F27I1.2 F27I1_2	Arabidopsis thaliana (Mouse-ear cress)	185	LHCB4.3	AT2G40100;
+F4IUL9	unreviewed	F4IUL9_ARATH	Heme oxygenase 2	HO2 heme oxygenase 2 At2g26550 T9J22.22 T9J22_22	Arabidopsis thaliana (Mouse-ear cress)	314	heme oxygenase 2	AT2G26550;
+F4IUM0	unreviewed	F4IUM0_ARATH	Heme oxygenase 2	HO2 heme oxygenase 2 At2g26550 T9J22.22 T9J22_22	Arabidopsis thaliana (Mouse-ear cress)	354	heme oxygenase 2	AT2G26550;
+F4J0U9	unreviewed	F4J0U9_ARATH	magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase (EC 1.14.13.81)	CRD1 ACSF CHL27 COPPER RESPONSE DEFECT 1 At3g56940 T8M16.1	Arabidopsis thaliana (Mouse-ear cress)	332	ACSF CHL27 COPPER RESPONSE DEFECT 1	AT3G56940;
+F4J7A7	reviewed	PPD7_ARATH	PsbP domain-containing protein 7, chloroplastic (Photosystem II reaction center PsbP family protein)	PPD7 At3g05410 F22F7.15	Arabidopsis thaliana (Mouse-ear cress)	280		AT3G05410;
+F4JE43	unreviewed	F4JE43_ARATH	Chlorophyll a-b binding protein, chloroplastic	LHCA1 LHCI-730 At3g54890	Arabidopsis thaliana (Mouse-ear cress)	207	LHCI-730	AT3G54890;
+F4JE46	unreviewed	F4JE46_ARATH	Chlorophyll a-b binding protein, chloroplastic	LHCA1 LHCI-730 At3g54890	Arabidopsis thaliana (Mouse-ear cress)	164	LHCI-730	AT3G54890;
+F4JM05	unreviewed	F4JM05_ARATH	Photosystem II reaction center Psb28 protein	PSB28 At4g28660 T5F17.110 T5F17_110	Arabidopsis thaliana (Mouse-ear cress)	198		AT4G28660;
+F4K8I1	unreviewed	F4K8I1_ARATH	Chlorophyll a-b binding protein, chloroplastic	At5g28450 F21B23.110 F21B23_110	Arabidopsis thaliana (Mouse-ear cress)	173		AT5G28450;
+F4KA76	unreviewed	F4KA76_ARATH	Ribulose bisphosphate carboxylase small subunit, chloroplastic (RuBisCO small subunit)	RBCS3B MXI10.13 MXI10_13 RBCS Rubisco small subunit 3B At5g38410	Arabidopsis thaliana (Mouse-ear cress)	174	MXI10.13 MXI10_13 RBCS Rubisco small subunit 3B	AT5G38410;
+F4KC80	unreviewed	F4KC80_ARATH	Photosystem I reaction center subunit PSI-N, chloroplast, putative / PSI-N, putative (PSAN)	PSAN MHJ24.2 MHJ24_2 PSI-N At5g64040	Arabidopsis thaliana (Mouse-ear cress)	181	MHJ24.2 MHJ24_2 PSI-N	AT5G64040;
+G0WXW0	unreviewed	G0WXW0_ARATH	Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)	rbcL	Arabidopsis thaliana (Mouse-ear cress)	212		
+H9AFL0	unreviewed	H9AFL0_ARATH	Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)	rbcL	Arabidopsis thaliana (Mouse-ear cress)	170		
+H9AFL1	unreviewed	H9AFL1_ARATH	Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)	rbcL	Arabidopsis thaliana (Mouse-ear cress)	180		
+P56768	reviewed	PSAI_ARATH	Photosystem I reaction center subunit VIII (PSI-I)	psaI AtCg00510	Arabidopsis thaliana (Mouse-ear cress)	37		ATCG00510;
+P56769	reviewed	PSAJ_ARATH	Photosystem I reaction center subunit IX (PSI-J)	psaJ AtCg00630	Arabidopsis thaliana (Mouse-ear cress)	44		ATCG00630;
+P56775	reviewed	PETG_ARATH	Cytochrome b6-f complex subunit 5 (Cytochrome b6-f complex subunit PetG) (Cytochrome b6-f complex subunit V)	petG AtCg00600	Arabidopsis thaliana (Mouse-ear cress)	37		ATCG00600;
+P56781	reviewed	PSBJ_ARATH	Photosystem II reaction center protein J (PSII-J)	psbJ AtCg00550	Arabidopsis thaliana (Mouse-ear cress)	40		ATCG00550;
+P56782	reviewed	PSBK_ARATH	Photosystem II reaction center protein K (PSII-K)	psbK AtCg00070	Arabidopsis thaliana (Mouse-ear cress)	61		ATCG00070;
+P56790	reviewed	PSBZ_ARATH	Photosystem II reaction center protein Z (PSII-Z)	psbZ ycf9 AtCg00300	Arabidopsis thaliana (Mouse-ear cress)	62	ycf9	ATCG00300;
+P60129	reviewed	PSBL_ARATH	Photosystem II reaction center protein L (PSII-L)	psbL AtCg00560	Arabidopsis thaliana (Mouse-ear cress)	38		ATCG00560;
+P61039	reviewed	PETN_ARATH	Cytochrome b6-f complex subunit 8 (Cytochrome b6-f complex subunit PetN) (Cytochrome b6-f complex subunit VIII)	petN ycf6 AtCg00210	Arabidopsis thaliana (Mouse-ear cress)	29	ycf6	ATCG00210;
+P61839	reviewed	PSBT_ARATH	Photosystem II reaction center protein T (PSII-T)	psbT ycf8 AtCg00690	Arabidopsis thaliana (Mouse-ear cress)	33	ycf8	ATCG00690;
+P61843	reviewed	YCF3_ARATH	Photosystem I assembly protein Ycf3	ycf3 AtCg00360	Arabidopsis thaliana (Mouse-ear cress)	168		ATCG00360;
+P62100	reviewed	PSBI_ARATH	Photosystem II reaction center protein I (PSII-I) (PSII 4.8 kDa protein)	psbI AtCg00080	Arabidopsis thaliana (Mouse-ear cress)	36		ATCG00080;
+P62109	reviewed	PSBM_ARATH	Photosystem II reaction center protein M (PSII-M)	psbM AtCg00220	Arabidopsis thaliana (Mouse-ear cress)	34		ATCG00220;
+P62113	reviewed	PSBN_ARATH	Protein PsbN	psbN AtCg00700	Arabidopsis thaliana (Mouse-ear cress)	43		ATCG00700;
+P82658	reviewed	TL19_ARATH	Thylakoid lumenal 19 kDa protein, chloroplastic (P19)	At3g63540 TEL3S	Arabidopsis thaliana (Mouse-ear cress)	229		AT3G63540;
+Q0WVW0	unreviewed	Q0WVW0_ARATH	NADPH-protochlorophyllide oxidoreductase (EC 1.3.1.33)	At1g03630	Arabidopsis thaliana (Mouse-ear cress)	401		AT1G03630;
+Q0WW97	unreviewed	Q0WW97_ARATH	Chlorophyll a-b binding protein, chloroplastic	At5g01530	Arabidopsis thaliana (Mouse-ear cress)	290		AT5G01530;
+Q0WWI7	unreviewed	Q0WWI7_ARATH	Photosystem II 10 kDa polypeptide, chloroplastic	At1g79040	Arabidopsis thaliana (Mouse-ear cress)	140		AT1G79040;
+Q0WWU6	unreviewed	Q0WWU6_ARATH	Photosystem I reaction center subunit VI (PSI-H)	At3g16140	Arabidopsis thaliana (Mouse-ear cress)	145		AT3G16140;
+Q39195	reviewed	PST2_ARATH	Photosystem II 5 kDa protein, chloroplastic (PSII-T) (Nuclear encoded psbT) (PsbTn)	PSBT At3g21055 MSA6.9	Arabidopsis thaliana (Mouse-ear cress)	103		AT3G21055;
+Q549N8	unreviewed	Q549N8_ARATH	Photosystem II core complex proteins psbY, chloroplastic		Arabidopsis thaliana (Mouse-ear cress)	189		AT1G67740;
+Q6NMP6	unreviewed	Q6NMP6_ARATH	Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)		Arabidopsis thaliana (Mouse-ear cress)	68		
+Q7HIW7	unreviewed	Q7HIW7_ARATH	Protein PsbN	psbN	Arabidopsis thaliana (Mouse-ear cress)	43		ATCG00700;
+Q7M1L1	unreviewed	Q7M1L1_ARATH	Chlorophyll a-b binding protein, chloroplastic		Arabidopsis thaliana (Mouse-ear cress)	52		
+Q85B88	unreviewed	Q85B88_ARATH	Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)	RBCL	Arabidopsis thaliana (Mouse-ear cress)	430		
+Q8GYN2	unreviewed	Q8GYN2_ARATH	Chaperone	HCF222 At5g15802 At5g15805	Arabidopsis thaliana (Mouse-ear cress)	99		AT5G15802;
+Q8HS55	unreviewed	Q8HS55_ARATH	Photosystem II CP47 reaction center protein	psbB	Arabidopsis thaliana (Mouse-ear cress)	471		
+Q8HT11	unreviewed	Q8HT11_ARATH	Photosystem II CP43 reaction center protein	psbC	Arabidopsis thaliana (Mouse-ear cress)	400		
+Q8HT12	unreviewed	Q8HT12_ARATH	Photosystem II D2 protein	psbD	Arabidopsis thaliana (Mouse-ear cress)	317		
+Q8LBP6	reviewed	FTRA2_ARATH	Ferredoxin-thioredoxin reductase subunit A2, chloroplastic (FTR-A2) (Ferredoxin-thioredoxin reductase, variable chain FTRA2) (FTR-V 2)	FTRA2 At5g08410 F8L15.14	Arabidopsis thaliana (Mouse-ear cress)	184		AT5G08410;
+Q8LCZ4	unreviewed	Q8LCZ4_ARATH	Chlorophyll a-b binding protein, chloroplastic		Arabidopsis thaliana (Mouse-ear cress)	266		
+Q8W0Y8	reviewed	PSB28_ARATH	Photosystem II reaction center PSB28 protein, chloroplastic (Photosystem II protein W-like)	PSB28 At4g28660 T5F17.110	Arabidopsis thaliana (Mouse-ear cress)	183		AT4G28660;
+Q9C5R6	unreviewed	Q9C5R6_ARATH	Chlorophyll a-b binding protein, chloroplastic	At2g34430/T31E10.23	Arabidopsis thaliana (Mouse-ear cress)	268		
+Q9C8S5	unreviewed	Q9C8S5_ARATH	Chlorophyll a-b binding protein, chloroplastic	T1P2.1	Arabidopsis thaliana (Mouse-ear cress)	249		
+Q9FPI3	unreviewed	Q9FPI3_ARATH	Chlorophyll a-b binding protein, chloroplastic	At3g47470/F1P2_20	Arabidopsis thaliana (Mouse-ear cress)	148		AT3G47470;
+Q9LIM5	unreviewed	Q9LIM5_ARATH	Chloroplast protein HCF243 (Serine/Threonine-kinase pakA-like protein)	HCF243 hcf243 At3g15095	Arabidopsis thaliana (Mouse-ear cress)	684	hcf243	AT3G15095;
+Q9SKI3	unreviewed	Q9SKI3_ARATH	Expressed protein (Photosystem II subunit X) (Putative PSII-X protein)	PSBX photosystem II subunit X PSII-X At2g06520 At2g06520/T12H3.7 T12H3.7 T12H3_7	Arabidopsis thaliana (Mouse-ear cress)	116	photosystem II subunit X PSII-X	AT2G06520;
+Q9SLI4	unreviewed	Q9SLI4_ARATH	At1g54500/F20D21_31 (Rubredoxin, putative) (Rubredoxin-like superfamily protein)	At1g54500 F20D21.31 F20D21_31	Arabidopsis thaliana (Mouse-ear cress)	195		AT1G54500;
+Q9SW65	unreviewed	Q9SW65_ARATH	Photosystem II manganese-stabilising protein (PsbO) family (Photosystem II oxygen-evolving complex like protein)	C7A10.130 AP22.76 AP22_76 At4g37230	Arabidopsis thaliana (Mouse-ear cress)	143	AP22.76 AP22_76	AT4G37230;
+Q9XF90	unreviewed	Q9XF90_ARATH	Chlorophyll a-b binding protein, chloroplastic	Lhcb6	Arabidopsis thaliana (Mouse-ear cress)	258		AT1G15820;
+X5ICS1	unreviewed	X5ICS1_ARATH	Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39)	rbcL	Arabidopsis thaliana (Mouse-ear cress)	442		
+A0A178U6Q9	unreviewed	A0A178U6Q9_ARATH	(thale cress) hypothetical protein (FTRA1)	AXX17_At5g23030 AN1_LOCUS23086 AT9943_LOCUS19876	Arabidopsis thaliana (Mouse-ear cress)	182		
+A0A178U9N5	unreviewed	A0A178U9N5_ARATH	PsbP domain protein (Mog1/PsbP/DUF1795-like photosystem II reaction center PsbP family protein)	PPD5 PsbP domain protein 5 At5g11450 F15N18.40 F15N18_40	Arabidopsis thaliana (Mouse-ear cress)	315	PsbP domain protein 5	AT5G11450;
+A0A178UC51	unreviewed	A0A178UC51_ARATH	Transmembrane protein	AXX17_At5g58810	Arabidopsis thaliana (Mouse-ear cress)	155		
+A0A178UC65	unreviewed	A0A178UC65_ARATH	(thale cress) hypothetical protein (PSAN)	AXX17_At5g63630 AN1_LOCUS26719 AT9943_LOCUS23000 C24_LOCUS26540	Arabidopsis thaliana (Mouse-ear cress)	171		
+A0A178UCL5	unreviewed	A0A178UCL5_ARATH	Uncharacterized protein	AXX17_At5g58810	Arabidopsis thaliana (Mouse-ear cress)	205		
+A0A178UCQ2	unreviewed	A0A178UCQ2_ARATH	RbcX2	AXX17_At5g19780 AN1_LOCUS22784	Arabidopsis thaliana (Mouse-ear cress)	203		
+A0A178UE47	unreviewed	A0A178UE47_ARATH	PGR5-like A protein	AXX17_At5g58810	Arabidopsis thaliana (Mouse-ear cress)	282		
+A0A178UGP4	unreviewed	A0A178UGP4_ARATH	Y3IP1	AXX17_At5g42910 AN1_LOCUS24681 C24_LOCUS24516	Arabidopsis thaliana (Mouse-ear cress)	280		
+A0A178UIM5	unreviewed	A0A178UIM5_ARATH	PsbP C-terminal domain-containing protein	At5g27390 AXX17_At5g27300 AN1_LOCUS23469	Arabidopsis thaliana (Mouse-ear cress)	241		
+A0A178UMM8	unreviewed	A0A178UMM8_ARATH	(thale cress) hypothetical protein (FTRA2)	AXX17_At5g08240 AN1_LOCUS21668 AT9943_LOCUS18661 C24_LOCUS21561	Arabidopsis thaliana (Mouse-ear cress)	184		
+A0A178UTK6	unreviewed	A0A178UTK6_ARATH	(thale cress) hypothetical protein (PSBO1)	AXX17_At5g66530 AN1_LOCUS26990 AT9943_LOCUS23243 C24_LOCUS26815	Arabidopsis thaliana (Mouse-ear cress)	332		
+A0A178UU75	unreviewed	A0A178UU75_ARATH	(thale cress) hypothetical protein	AXX17_At4g42410 AT9943_LOCUS17748	Arabidopsis thaliana (Mouse-ear cress)	99		
+A0A178UU76	unreviewed	A0A178UU76_ARATH	PGR5-LIKE A	AXX17_At4g26570 AN1_LOCUS19017 C24_LOCUS18919	Arabidopsis thaliana (Mouse-ear cress)	324		
+A0A178UV94	unreviewed	A0A178UV94_ARATH	PPD1	AXX17_At4g18120 AN1_LOCUS18219 C24_LOCUS18105	Arabidopsis thaliana (Mouse-ear cress)	287		
+A0A178UVG3	unreviewed	A0A178UVG3_ARATH	Maintenance of Photosystem II under High light 2 C-terminal domain-containing protein	AXX17_At4g03170 AN1_LOCUS17048 C24_LOCUS16919	Arabidopsis thaliana (Mouse-ear cress)	216		
+A0A178UX57	unreviewed	A0A178UX57_ARATH	PSII-Q	AXX17_At4g04980 AN1_LOCUS17203 C24_LOCUS17081	Arabidopsis thaliana (Mouse-ear cress)	230		
+A0A178UXI3	unreviewed	A0A178UXI3_ARATH	Photosystem II reaction center Psb28 protein	AXX17_At4g32990 AT9943_LOCUS16971	Arabidopsis thaliana (Mouse-ear cress)	123		
+A0A178UXK4	unreviewed	A0A178UXK4_ARATH	PSBQA	AXX17_At4g24640	Arabidopsis thaliana (Mouse-ear cress)	239		
+A0A178UXV2	unreviewed	A0A178UXV2_ARATH	HCF244	AXX17_At4g40280 AN1_LOCUS20366 C24_LOCUS20261	Arabidopsis thaliana (Mouse-ear cress)	395		
+A0A178UY46	unreviewed	A0A178UY46_ARATH	PSBQA	At4g21280 AXX17_At4g24640 C24_LOCUS18733	Arabidopsis thaliana (Mouse-ear cress)	223		
+A0A178V0R5	unreviewed	A0A178V0R5_ARATH	NdhS	AXX17_At4g27660 AN1_LOCUS19123 C24_LOCUS19023	Arabidopsis thaliana (Mouse-ear cress)	250		
+A0A178V1R6	unreviewed	A0A178V1R6_ARATH	PGRL1B	AXX17_At4g13460	Arabidopsis thaliana (Mouse-ear cress)	313		
+A0A178V4F9	unreviewed	A0A178V4F9_ARATH	Uncharacterized protein	AXX17_At4g06100	Arabidopsis thaliana (Mouse-ear cress)	88		
+A0A178V7V9	unreviewed	A0A178V7V9_ARATH	PSI subunit V	AXX17_At4g14440 AT9943_LOCUS15414	Arabidopsis thaliana (Mouse-ear cress)	72		
+A0A178V890	unreviewed	A0A178V890_ARATH	PsbP C-terminal domain-containing protein	AXX17_At3g04950	Arabidopsis thaliana (Mouse-ear cress)	280		
+A0A178V984	unreviewed	A0A178V984_ARATH	(thale cress) hypothetical protein	AXX17_At3g57810 AN1_LOCUS16746 AT9943_LOCUS14403 C24_LOCUS16617	Arabidopsis thaliana (Mouse-ear cress)	229		
+A0A178V9U4	unreviewed	A0A178V9U4_ARATH	(thale cress) hypothetical protein (PQL2)	AXX17_At3g00540 AT9943_LOCUS9809 C24_LOCUS11243	Arabidopsis thaliana (Mouse-ear cress)	220		
+A0A178VBH5	unreviewed	A0A178VBH5_ARATH	PSBO2	AXX17_At3g45080	Arabidopsis thaliana (Mouse-ear cress)	331		
+A0A178VEI8	unreviewed	A0A178VEI8_ARATH	(thale cress) hypothetical protein (PPL1)	AXX17_At3g49920 AN1_LOCUS15905 AT9943_LOCUS13692 C24_LOCUS15789	Arabidopsis thaliana (Mouse-ear cress)	230		
+A0A178VJJ9	unreviewed	A0A178VJJ9_ARATH	PDE329	AXX17_At3g49840	Arabidopsis thaliana (Mouse-ear cress)	277		
+A0A178VKI7	unreviewed	A0A178VKI7_ARATH	Uncharacterized protein	AXX17_At3g49460	Arabidopsis thaliana (Mouse-ear cress)	58		
+A0A178VQ32	unreviewed	A0A178VQ32_ARATH	PSII 6.1 kDa protein	AXX17_At2g26680 AN1_LOCUS9462 C24_LOCUS9314	Arabidopsis thaliana (Mouse-ear cress)	133		
+A0A178VRJ5	unreviewed	A0A178VRJ5_ARATH	PQL3	AXX17_At2g00930 C24_LOCUS7124	Arabidopsis thaliana (Mouse-ear cress)	187		
+A0A178VRQ7	unreviewed	A0A178VRQ7_ARATH	PQL3	AXX17_At2g00930	Arabidopsis thaliana (Mouse-ear cress)	84		
+A0A178VS61	unreviewed	A0A178VS61_ARATH	PsbP C-terminal domain-containing protein	AXX17_At2g26920	Arabidopsis thaliana (Mouse-ear cress)	257		
+A0A178VT67	unreviewed	A0A178VT67_ARATH	(thale cress) hypothetical protein (PPL2)	AXX17_At2g36410 AT9943_LOCUS8948	Arabidopsis thaliana (Mouse-ear cress)	238		
+A0A178VUD0	unreviewed	A0A178VUD0_ARATH	HO2	AXX17_At2g22410	Arabidopsis thaliana (Mouse-ear cress)	299		
+A0A178VUF3	unreviewed	A0A178VUF3_ARATH	PGR5	AXX17_At2g04690	Arabidopsis thaliana (Mouse-ear cress)	133		
+A0A178VVT4	unreviewed	A0A178VVT4_ARATH	(thale cress) hypothetical protein (CRR3)	AXX17_At2g00580 AN1_LOCUS7204 AT9943_LOCUS6112 C24_LOCUS7088	Arabidopsis thaliana (Mouse-ear cress)	174		
+A0A178VVU2	unreviewed	A0A178VVU2_ARATH	(thale cress) hypothetical protein (PSAE-2)	AXX17_At2g15560 AN1_LOCUS8382 AT9943_LOCUS7199	Arabidopsis thaliana (Mouse-ear cress)	145		
+A0A178VVV5	unreviewed	A0A178VVV5_ARATH	(thale cress) hypothetical protein (THF1)	AXX17_At2g16340 AN1_LOCUS8464 AT9943_LOCUS7260 C24_LOCUS8315	Arabidopsis thaliana (Mouse-ear cress)	300		
+A0A178VWD5	unreviewed	A0A178VWD5_ARATH	PsbP C-terminal domain-containing protein	AXX17_At2g24680	Arabidopsis thaliana (Mouse-ear cress)	232		
+A0A178W0S8	unreviewed	A0A178W0S8_ARATH	Root hair specific 4	AXX17_At2g31470 AN1_LOCUS9933 C24_LOCUS9780	Arabidopsis thaliana (Mouse-ear cress)	288		
+A0A178W0Y5	unreviewed	A0A178W0Y5_ARATH	PSBX	AXX17_At2g05440 AN1_LOCUS7622 C24_LOCUS7493	Arabidopsis thaliana (Mouse-ear cress)	116		
+A0A178W5Y9	unreviewed	A0A178W5Y9_ARATH	PQL2	AXX17_At1g14690 AN1_LOCUS1530 C24_LOCUS1446	Arabidopsis thaliana (Mouse-ear cress)	190		
+A0A178WF34	unreviewed	A0A178WF34_ARATH	PSB27	AXX17_At1g02870 AN1_LOCUS400	Arabidopsis thaliana (Mouse-ear cress)	174		
+A0A178WGH2	unreviewed	A0A178WGH2_ARATH	Photosystem II 10 kDa polypeptide, chloroplastic	AXX17_At1g73790	Arabidopsis thaliana (Mouse-ear cress)	77		
+A0A178WGP6	unreviewed	A0A178WGP6_ARATH	Photosystem II 10 kDa polypeptide, chloroplastic	AXX17_At1g73790	Arabidopsis thaliana (Mouse-ear cress)	92		
+A0A178WHC8	unreviewed	A0A178WHC8_ARATH	(thale cress) hypothetical protein	AXX17_At1g71600 AN1_LOCUS6751 AT9943_LOCUS5709	Arabidopsis thaliana (Mouse-ear cress)	260		
+A0A178WIF5	unreviewed	A0A178WIF5_ARATH	(thale cress) hypothetical protein (PnsB4)	AXX17_At1g19660 AT9943_LOCUS1621 C24_LOCUS1923	Arabidopsis thaliana (Mouse-ear cress)	174		
+A0A178WIH5	unreviewed	A0A178WIH5_ARATH	PnsB1	AXX17_At1g16750 AN1_LOCUS1731	Arabidopsis thaliana (Mouse-ear cress)	461		
+A0A178WII4	unreviewed	A0A178WII4_ARATH	(thale cress) hypothetical protein (PnsB4)	AXX17_At1g19660 AT9943_LOCUS1621	Arabidopsis thaliana (Mouse-ear cress)	175		
+A0A178WJJ8	unreviewed	A0A178WJJ8_ARATH	(thale cress) hypothetical protein	AXX17_At1g70920 AN1_LOCUS6683 AT9943_LOCUS5650 C24_LOCUS6569	Arabidopsis thaliana (Mouse-ear cress)	247		
+A0A178WJM6	unreviewed	A0A178WJM6_ARATH	Psb27-H1	AXX17_At1g04820 AN1_LOCUS589 C24_LOCUS505	Arabidopsis thaliana (Mouse-ear cress)	199		
+A0A178WM45	unreviewed	A0A178WM45_ARATH	RSH4	AXX17_At1g31430	Arabidopsis thaliana (Mouse-ear cress)	300		
+A0A1P8AS98	unreviewed	A0A1P8AS98_ARATH	NDH dependent flow 6	PNSB4 NDF6 NDH dependent flow 6 PnsB4 At1g18730 F6A14.16 F6A14_16	Arabidopsis thaliana (Mouse-ear cress)	128	NDF6 NDH dependent flow 6 PnsB4	AT1G18730;
+A0A1P8ASY3	unreviewed	A0A1P8ASY3_ARATH	Photosystem II 11 kDa protein-like protein	LPA19 LOW PSII ACCUMULATION 19 Psb27-H1 At1g05385	Arabidopsis thaliana (Mouse-ear cress)	145	LOW PSII ACCUMULATION 19 Psb27-H1	AT1G05385;
+A0A1P8B0Z4	unreviewed	A0A1P8B0Z4_ARATH	Chlororespiratory reduction 3	CRR3 CHLORORESPIRATORY REDUCTION 3 At2g01590 F2I9.21 F2I9_21	Arabidopsis thaliana (Mouse-ear cress)	174	CHLORORESPIRATORY REDUCTION 3	AT2G01590;
+A0A1P8B5G9	unreviewed	A0A1P8B5G9_ARATH	Chloroplast thylakoid lumen protein	MPH2 At4g02530 T10P11.17 T10P11_17	Arabidopsis thaliana (Mouse-ear cress)	249		AT4G02530;
+A0A1P8B5H3	unreviewed	A0A1P8B5H3_ARATH	Chloroplast thylakoid lumen protein	MPH2 At4g02530 T10P11.17 T10P11_17	Arabidopsis thaliana (Mouse-ear cress)	266		AT4G02530;
+A0A1P8BCG6	unreviewed	A0A1P8BCG6_ARATH	Chaperonin-like RbcX protein	RBCX2 AtRbcX2 RbcX2 At5g19855	Arabidopsis thaliana (Mouse-ear cress)	153	AtRbcX2 RbcX2	AT5G19855;
+A0A1P8BDN6	unreviewed	A0A1P8BDN6_ARATH	Ferredoxin/thioredoxin reductase subunit A (Variable subunit) 2	FTRA2 At5g08410 F8L15.14	Arabidopsis thaliana (Mouse-ear cress)	204		AT5G08410;
+A0A1P8BG37	unreviewed	A0A1P8BG37_ARATH	Photosystem II stability/assembly factor, chloroplast (HCF136)	HCF136 MYJ24.11 MYJ24_11 At5g23120	Arabidopsis thaliana (Mouse-ear cress)	426	MYJ24.11 MYJ24_11	AT5G23120;
+A0A2H1ZEN5	unreviewed	A0A2H1ZEN5_ARATH	PGR5-LIKE A	PGR5-LIKE PGR5-LIKE A PGRL1A At4g22890 F7H19.70 F7H19_70	Arabidopsis thaliana (Mouse-ear cress)	302	PGR5-LIKE A PGRL1A	AT4G22890;
+A0A384KCU5	unreviewed	A0A384KCU5_ARATH	(thale cress) hypothetical protein (YCF32)	AXX17_At1g61700 AN1_LOCUS5786 AT9943_LOCUS4892 C24_LOCUS5677	Arabidopsis thaliana (Mouse-ear cress)	189		
+A0A384KFK2	unreviewed	A0A384KFK2_ARATH	Uncharacterized protein	At5g44660 AXX17_At5g42920 AN1_LOCUS24682 C24_LOCUS24517	Arabidopsis thaliana (Mouse-ear cress)	423		
+A0A384KSV2	unreviewed	A0A384KSV2_ARATH	(thale cress) hypothetical protein (PPD6)	AXX17_At3g51250 AN1_LOCUS16042 AT9943_LOCUS13808 C24_LOCUS15924	Arabidopsis thaliana (Mouse-ear cress)	262		
+A0A384KVS7	unreviewed	A0A384KVS7_ARATH	(thale cress) hypothetical protein (PPD5)	AXX17_At5g11180 AN1_LOCUS21942 AT9943_LOCUS18891 C24_LOCUS21831	Arabidopsis thaliana (Mouse-ear cress)	315		
+A0A5S9SE99	unreviewed	A0A5S9SE99_ARATH	Photosystem II repair protein PSB27-H1, chloroplastic	C24_LOCUS312	Arabidopsis thaliana (Mouse-ear cress)	174		
+A0A5S9UMY1	unreviewed	A0A5S9UMY1_ARATH	Photosynthetic NDH subunit of subcomplex B 1, chloroplastic	C24_LOCUS1647	Arabidopsis thaliana (Mouse-ear cress)	461		
+A0A5S9WGI1	unreviewed	A0A5S9WGI1_ARATH	PSI-K (Photosystem I subunit X)	C24_LOCUS2987	Arabidopsis thaliana (Mouse-ear cress)	130		
+A0A5S9WID2	unreviewed	A0A5S9WID2_ARATH	Uncharacterized protein	C24_LOCUS3042	Arabidopsis thaliana (Mouse-ear cress)	300		
+A0A5S9WV31	unreviewed	A0A5S9WV31_ARATH	PsbP C-terminal domain-containing protein	C24_LOCUS6638	Arabidopsis thaliana (Mouse-ear cress)	260		
+A0A5S9WXB8	unreviewed	A0A5S9WXB8_ARATH	(thale cress) hypothetical protein	AN1_LOCUS7576 AT9943_LOCUS6421 C24_LOCUS7451	Arabidopsis thaliana (Mouse-ear cress)	133		
+A0A5S9WZU5	unreviewed	A0A5S9WZU5_ARATH	Uncharacterized protein	C24_LOCUS8234	Arabidopsis thaliana (Mouse-ear cress)	145		
+A0A5S9X280	unreviewed	A0A5S9X280_ARATH	PsbP C-terminal domain-containing protein	AN1_LOCUS9263 C24_LOCUS9113	Arabidopsis thaliana (Mouse-ear cress)	161		
+A0A5S9X9B8	unreviewed	A0A5S9X9B8_ARATH	PsbP C-terminal domain-containing protein	C24_LOCUS11677	Arabidopsis thaliana (Mouse-ear cress)	280		
+A0A5S9XQA5	unreviewed	A0A5S9XQA5_ARATH	Chaperonin-like RBCX protein 1, chloroplastic	AN1_LOCUS17301 C24_LOCUS17174	Arabidopsis thaliana (Mouse-ear cress)	174		
+A0A5S9XRH0	unreviewed	A0A5S9XRH0_ARATH	PGR5-like protein 1A, chloroplastic	C24_LOCUS17688	Arabidopsis thaliana (Mouse-ear cress)	313		
+A0A5S9XRT0	unreviewed	A0A5S9XRT0_ARATH	PSI subunit V	AN1_LOCUS17884 C24_LOCUS17772	Arabidopsis thaliana (Mouse-ear cress)	219		
+A0A5S9XUL6	unreviewed	A0A5S9XUL6_ARATH	Uncharacterized protein	C24_LOCUS18636	Arabidopsis thaliana (Mouse-ear cress)	389		
+A0A5S9XXM7	unreviewed	A0A5S9XXM7_ARATH	Photosystem II reaction center Psb28 protein	AN1_LOCUS19652 C24_LOCUS19545	Arabidopsis thaliana (Mouse-ear cress)	183		
+A0A5S9XZR6	unreviewed	A0A5S9XZR6_ARATH	Uncharacterized protein	C24_LOCUS20470	Arabidopsis thaliana (Mouse-ear cress)	145		
+A0A5S9Y5P2	unreviewed	A0A5S9Y5P2_ARATH	Chaperonin-like RbcX protein 2, chloroplastic	C24_LOCUS22669	Arabidopsis thaliana (Mouse-ear cress)	203		
+A0A5S9Y6X6	unreviewed	A0A5S9Y6X6_ARATH	Ferredoxin thioredoxin reductase alpha chain domain-containing protein	C24_LOCUS22970	Arabidopsis thaliana (Mouse-ear cress)	182		
+A0A5S9Y866	unreviewed	A0A5S9Y866_ARATH	PsbP C-terminal domain-containing protein	C24_LOCUS23347	Arabidopsis thaliana (Mouse-ear cress)	241		
+A0A654EB62	unreviewed	A0A654EB62_ARATH	NDH dependent flow 6	AN1_LOCUS2007	Arabidopsis thaliana (Mouse-ear cress)	175		
+A0A654EEA1	unreviewed	A0A654EEA1_ARATH	Uncharacterized protein	AN1_LOCUS3134	Arabidopsis thaliana (Mouse-ear cress)	299		
+A0A654ER75	unreviewed	A0A654ER75_ARATH	PsbQ-like protein 3, chloroplastic	AN1_LOCUS7241	Arabidopsis thaliana (Mouse-ear cress)	187		
+A0A654EZ43	unreviewed	A0A654EZ43_ARATH	PsbP C-terminal domain-containing protein	AN1_LOCUS9486	Arabidopsis thaliana (Mouse-ear cress)	125		
+A0A654F099	unreviewed	A0A654F099_ARATH	(thale cress) hypothetical protein	AN1_LOCUS10414 AT9943_LOCUS8948 C24_LOCUS10258	Arabidopsis thaliana (Mouse-ear cress)	230		
+A0A654F4E0	unreviewed	A0A654F4E0_ARATH	PsbP C-terminal domain-containing protein	AN1_LOCUS11843	Arabidopsis thaliana (Mouse-ear cress)	280		
+A0A654FII1	unreviewed	A0A654FII1_ARATH	(thale cress) hypothetical protein	AN1_LOCUS15897 AT9943_LOCUS13684 C24_LOCUS15781	Arabidopsis thaliana (Mouse-ear cress)	277		
+A0A654FND9	unreviewed	A0A654FND9_ARATH	PGR5-like protein 1A, chloroplastic	AN1_LOCUS17797	Arabidopsis thaliana (Mouse-ear cress)	313		
+A0A654FR78	unreviewed	A0A654FR78_ARATH	Uncharacterized protein	AN1_LOCUS18743	Arabidopsis thaliana (Mouse-ear cress)	393		
+A0A654FRD0	unreviewed	A0A654FRD0_ARATH	(thale cress) hypothetical protein	AN1_LOCUS18836 AT9943_LOCUS16237	Arabidopsis thaliana (Mouse-ear cress)	223		
+A0A654FWR8	unreviewed	A0A654FWR8_ARATH	Uncharacterized protein	AN1_LOCUS20573	Arabidopsis thaliana (Mouse-ear cress)	145		
+A0A654GCE4	unreviewed	A0A654GCE4_ARATH	PGR5-like A protein	At5g59400 AN1_LOCUS26241 C24_LOCUS26064	Arabidopsis thaliana (Mouse-ear cress)	299		
+A0A7G2DNL1	unreviewed	A0A7G2DNL1_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS397	Arabidopsis thaliana (Mouse-ear cress)	199		
+A0A7G2DQM2	unreviewed	A0A7G2DQM2_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS1207	Arabidopsis thaliana (Mouse-ear cress)	137		
+A0A7G2DRL9	unreviewed	A0A7G2DRL9_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS235	Arabidopsis thaliana (Mouse-ear cress)	174		
+A0A7G2DW68	unreviewed	A0A7G2DW68_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS1381	Arabidopsis thaliana (Mouse-ear cress)	461		
+A0A7G2DX86	unreviewed	A0A7G2DX86_ARATH	(thale cress) hypothetical protein	At1g30850 AT9943_LOCUS2593	Arabidopsis thaliana (Mouse-ear cress)	300		
+A0A7G2E897	unreviewed	A0A7G2E897_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS6146	Arabidopsis thaliana (Mouse-ear cress)	160		
+A0A7G2ED39	unreviewed	A0A7G2ED39_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS7937	Arabidopsis thaliana (Mouse-ear cress)	135		
+A0A7G2EDT5	unreviewed	A0A7G2EDT5_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS8514	Arabidopsis thaliana (Mouse-ear cress)	288		
+A0A7G2ELE9	unreviewed	A0A7G2ELE9_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS10181	Arabidopsis thaliana (Mouse-ear cress)	588		
+A0A7G2EQ41	unreviewed	A0A7G2EQ41_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS13280	Arabidopsis thaliana (Mouse-ear cress)	331		
+A0A7G2EUI6	unreviewed	A0A7G2EUI6_ARATH	Photosystem I reaction center subunit II, chloroplastic	AT9943_LOCUS14676	Arabidopsis thaliana (Mouse-ear cress)	97		
+A0A7G2EWL0	unreviewed	A0A7G2EWL0_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS15335	Arabidopsis thaliana (Mouse-ear cress)	230		
+A0A7G2EX62	unreviewed	A0A7G2EX62_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS14649	Arabidopsis thaliana (Mouse-ear cress)	207		
+A0A7G2EZU9	unreviewed	A0A7G2EZU9_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS15693	Arabidopsis thaliana (Mouse-ear cress)	494		
+A0A7G2EZY6	unreviewed	A0A7G2EZY6_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS16395	Arabidopsis thaliana (Mouse-ear cress)	304		
+A0A7G2F0D7	unreviewed	A0A7G2F0D7_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS16488	Arabidopsis thaliana (Mouse-ear cress)	250		
+A0A7G2F1A7	unreviewed	A0A7G2F1A7_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS14792	Arabidopsis thaliana (Mouse-ear cress)	223		
+A0A7G2F3G0	unreviewed	A0A7G2F3G0_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS17567	Arabidopsis thaliana (Mouse-ear cress)	752		
+A0A7G2F4L9	unreviewed	A0A7G2F4L9_ARATH	(thale cress) hypothetical protein	At4g20190 AT9943_LOCUS16154	Arabidopsis thaliana (Mouse-ear cress)	389		
+A0A7G2F8W7	unreviewed	A0A7G2F8W7_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS19608	Arabidopsis thaliana (Mouse-ear cress)	810		
+A0A7G2FAP9	unreviewed	A0A7G2FAP9_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS20208	Arabidopsis thaliana (Mouse-ear cress)	159		
+A0A7G2FI87	unreviewed	A0A7G2FI87_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS21298	Arabidopsis thaliana (Mouse-ear cress)	701		
+A8MRZ5	unreviewed	A8MRZ5_ARATH	NDH dependent flow 6	PNSB4 NDF6 NDH dependent flow 6 PnsB4 At1g18730 F6A14.16 F6A14_16	Arabidopsis thaliana (Mouse-ear cress)	138	NDF6 NDH dependent flow 6 PnsB4	AT1G18730;
+B3H6Z4	unreviewed	B3H6Z4_ARATH	NDH dependent flow 6	PNSB4 NDF6 NDH dependent flow 6 PnsB4 At1g18730 F6A14.16 F6A14_16	Arabidopsis thaliana (Mouse-ear cress)	161	NDF6 NDH dependent flow 6 PnsB4	AT1G18730;
+B9DH49	unreviewed	B9DH49_ARATH	AT3G56650 protein	At3g56650	Arabidopsis thaliana (Mouse-ear cress)	262		AT3G56650;
+C0Z2L7	unreviewed	C0Z2L7_ARATH	AT5G64040 protein	At5g64040	Arabidopsis thaliana (Mouse-ear cress)	103		AT5G64040;
+C0Z2Y2	unreviewed	C0Z2Y2_ARATH	Photosystem II 10 kDa polypeptide, chloroplastic	At1g79040	Arabidopsis thaliana (Mouse-ear cress)	77		
+C0Z2Z5	unreviewed	C0Z2Z5_ARATH	AT4G28750 protein	At4g28750	Arabidopsis thaliana (Mouse-ear cress)	120		
+C0Z330	unreviewed	C0Z330_ARATH	AT2G06520 protein	At2g06520	Arabidopsis thaliana (Mouse-ear cress)	67		AT2G06520;
+F4ICC6	unreviewed	F4ICC6_ARATH	NDH dependent flow 6	PNSB4 NDF6 NDH dependent flow 6 PnsB4 At1g18730 F6A14.16 F6A14_16	Arabidopsis thaliana (Mouse-ear cress)	174	NDF6 NDH dependent flow 6 PnsB4	AT1G18730;
+F4JPU9	unreviewed	F4JPU9_ARATH	PGR5-like B	PGRL1B PGR5-like B At4g11960 F16J13.30 F16J13_30	Arabidopsis thaliana (Mouse-ear cress)	296	PGR5-like B	AT4G11960;
+F4JQE2	unreviewed	F4JQE2_ARATH	FAD/NAD(P)-binding oxidoreductase family protein	PDE327 PIGMENT DEFECTIVE 327 At4g30720 T10C21.70 T10C21_70	Arabidopsis thaliana (Mouse-ear cress)	707	PIGMENT DEFECTIVE 327	AT4G30720;
+F4K4A6	unreviewed	F4K4A6_ARATH	Tagatose-6-phosphate ketose/aldose isomerase, putative (Mog1/PsbP/DUF1795-like photosystem II reaction center PsbP family protein)	At5g27390 F21A20.100 F21A20_100	Arabidopsis thaliana (Mouse-ear cress)	241		AT5G27390;
+F4KJ54	unreviewed	F4KJ54_ARATH	PGR5-like A protein	At5g59400 F2O15.8 F2O15_8	Arabidopsis thaliana (Mouse-ear cress)	266		AT5G59400;
+F4KJ55	unreviewed	F4KJ55_ARATH	PGR5-like A protein	At5g59400 F2O15.8 F2O15_8	Arabidopsis thaliana (Mouse-ear cress)	299		AT5G59400;
+O64755	unreviewed	O64755_ARATH	At2g34910 (Root hair specific protein)	At2g34910 F19I3.14 F19I3_14	Arabidopsis thaliana (Mouse-ear cress)	288		AT2G34910;
+O65433	unreviewed	O65433_ARATH	Uncharacterized protein AT4g20190 (Uncharacterized protein F1C12.110)	At4g20190 F1C12.110 F1C12_110	Arabidopsis thaliana (Mouse-ear cress)	389		AT4G20190;
+Q3ZVB0	unreviewed	Q3ZVB0_ARATH	PSII reaction center subunit VI	psbF	Arabidopsis thaliana (Mouse-ear cress)	27		
+Q3ZVB1	unreviewed	Q3ZVB1_ARATH	PSII reaction center subunit V	psbE	Arabidopsis thaliana (Mouse-ear cress)	55		
+Q6DST7	unreviewed	Q6DST7_ARATH	Root hair specific 4	At1g30850	Arabidopsis thaliana (Mouse-ear cress)	300		
+Q7FY22	unreviewed	Q7FY22_ARATH	AT4g28750	At4g28750/F16A16_140	Arabidopsis thaliana (Mouse-ear cress)	110		AT4G28750;
+Q8GWL5	unreviewed	Q8GWL5_ARATH	Uncharacterized protein At5g27390/F21A20_100	At5g27390/F21A20_100	Arabidopsis thaliana (Mouse-ear cress)	258		AT5G27390;
+Q8H127	unreviewed	Q8H127_ARATH	Putative photosystem I subunit PSI-E protein	At4g28750	Arabidopsis thaliana (Mouse-ear cress)	141		AT4G28750;
+Q8HS04	unreviewed	Q8HS04_ARATH	PsbJ	psbJ	Arabidopsis thaliana (Mouse-ear cress)	18		
+Q8LAL4	unreviewed	Q8LAL4_ARATH	Photosystem II core complex proteins psbY, chloroplastic		Arabidopsis thaliana (Mouse-ear cress)	185		AT1G67740;
+Q8LC56	unreviewed	Q8LC56_ARATH	PSI-K (Photosystem I subunit X)		Arabidopsis thaliana (Mouse-ear cress)	130		
+Q8LC58	unreviewed	Q8LC58_ARATH	Photosystem I reaction center subunit IV B, chloroplast (PSI-E B)		Arabidopsis thaliana (Mouse-ear cress)	143		AT2G20260;
+Q8LDH1	unreviewed	Q8LDH1_ARATH	PGR5-like A protein		Arabidopsis thaliana (Mouse-ear cress)	299		
+Q93V65	unreviewed	Q93V65_ARATH	AT5g59400/f2o15_60		Arabidopsis thaliana (Mouse-ear cress)	157		
+Q940Y6	unreviewed	Q940Y6_ARATH	AT4g27600/T29A15_90 (PfkB-like carbohydrate kinase family protein)	NARA5 At4g27600 T29A15.90 T29A15_90	Arabidopsis thaliana (Mouse-ear cress)	471		AT4G27600;
+Q944K9	unreviewed	Q944K9_ARATH	PSII 6.1 kDa protein		Arabidopsis thaliana (Mouse-ear cress)	112		AT2G30570;
+Q9FDY5	unreviewed	Q9FDY5_ARATH	Putative photosystem I subunit PSI-E	At4g28750	Arabidopsis thaliana (Mouse-ear cress)	115		
+Q9LTI9	unreviewed	Q9LTI9_ARATH	PGR5-like A protein		Arabidopsis thaliana (Mouse-ear cress)	282		
+Q9LU00	unreviewed	Q9LU00_ARATH	At5g44650 (At5g44660)	At5g44660 K15C23.11 K15C23_11	Arabidopsis thaliana (Mouse-ear cress)	423		AT5G44660;
+Q9SF54	unreviewed	Q9SF54_ARATH	At3g09490 (Tetratricopeptide repeat (TPR)-like superfamily protein)	F11F8_6 At3g09490	Arabidopsis thaliana (Mouse-ear cress)	334		AT3G09490;
+Q9ST33	unreviewed	Q9ST33_ARATH	Photosystem I subunit PSI-E	psaE	Arabidopsis thaliana (Mouse-ear cress)	38		
+Q9SY31	unreviewed	Q9SY31_ARATH	Root hair specific 4 (T17H7.17)	RSH4 root hair specific 4 At1g30850 T17H7.17 T17H7_17	Arabidopsis thaliana (Mouse-ear cress)	300	root hair specific 4	AT1G30850;

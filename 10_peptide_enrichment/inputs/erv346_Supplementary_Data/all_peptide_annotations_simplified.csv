@@ -1,0 +1,1752 @@
+Tribe...1,Tribe...2,cluster,profile length,Gene ID,function,SP ?,SSP,species,iso,tair
+1,f1,c192,43,tair10_AT1G09360.1,pectin methylesterase inhibitor,N,NA,tair10,1,AT1G09360
+1,f1,c192,43,tair10_AT1G09370.1,pectin methylesterase inhibitor,N,NA,tair10,1,AT1G09370
+1,f1,c117,43,tair10_AT1G10770.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT1G10770
+1,f1,c117,43,tair10_AT1G23350.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT1G23350
+1,f1,c53,41,tair10_AT1G48020.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT1G48020
+1,f1,c53,41,tair10_AT1G54620.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT1G54620
+1,f1,c192,43,tair10_AT1G55770.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT1G55770
+1,f1,c117,43,tair10_AT1G60760.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT1G60760
+1,f1,c117,43,tair10_AT1G70540.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT1G70540
+1,f1,c1435,46,tair10_AT2G31425.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT2G31425
+1,f1,c1435,46,tair10_AT2G31430.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT2G31430
+1,f1,c192,43,tair10_AT3G17130.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT3G17130
+1,f1,c53,41,tair10_AT3G17140.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT3G17140
+1,f1,c53,41,tair10_AT3G17150.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT3G17150
+1,f1,c53,41,tair10_AT3G17152.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT3G17152
+1,f1,c53,41,tair10_AT3G17220.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT3G17220
+1,f1,c3523,47,tair10_AT3G49330.1,pectin methylesterase inhibitor,N,NA,tair10,1,AT3G49330
+1,f1,c1435,46,tair10_AT3G55680.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT3G55680
+1,f1,c192,43,tair10_AT4G02250.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT4G02250
+1,f1,c3523,47,tair10_AT5G24370.1,pectin methylesterase inhibitor,N,NA,tair10,1,AT5G24370
+1,f1,c53,41,tair10_AT5G38610.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT5G38610
+1,f1,c53,41,tair10_AT5G46930.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT5G46930
+1,f1,c53,41,tair10_AT5G46940.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT5G46940
+1,f1,c53,41,tair10_AT5G46950.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT5G46950
+1,f1,c53,41,tair10_AT5G46960.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT5G46960
+1,f1,c53,41,tair10_AT5G46970.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT5G46970
+1,f1,c53,41,tair10_AT5G46980.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT5G46980
+1,f1,c53,41,tair10_AT5G46990.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT5G46990
+2,f2,c489,39,tair10_AT1G13620.1,GLV tribe,Y,GLV,tair10,1,AT1G13620
+2,f2,c411,42,tair10_AT2G03830.1,GLV tribe,Y,GLV,tair10,1,AT2G03830
+2,f2,c489,39,tair10_AT2G04025.1,GLV tribe,Y,GLV,tair10,1,AT2G04025
+2,f2,c306,40,tair10_AT3G02240.1,GLV4,Y,GLV,tair10,1,AT3G02240
+2,f2,c306,40,tair10_AT3G02242.1,GLV tribe (GLV4),Y,GLV,tair10,1,AT3G02242
+2,f2,c410,32,tair10_AT3G30350.1,GLV3,Y,GLV,tair10,1,AT3G30350
+2,f2,c306,40,tair10_AT4G16515.1,GLV1,Y,GLV,tair10,1,AT4G16515
+2,f2,c410,32,tair10_AT5G15725.1,GLV tribe (GLV3),Y,GLV,tair10,1,AT5G15725
+2,f2,c259,37,tair10_AT5G51451.1,GLV tribe,Y,GLV,tair10,1,AT5G51451
+2,f2,c489,39,tair10_AT5G60810.1,GLV tribe,Y,GLV,tair10,1,AT5G60810
+2,f2,c306,40,tair10_AT5G64770.1,GLV2,Y,GLV,tair10,1,AT5G64770
+3,f3,c266,36,tair10_AT1G62935.1,NA,?,NA,tair10,1,AT1G62935
+3,f3,c935,35,tair10_AT5G47920.1,NA,?,NA,tair10,1,AT5G47920
+4,f4,c8,48,tair10_AT1G52415.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT1G52415
+4,f4,c8,48,tair10_AT2G15050.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT2G15050
+4,f4,c8,48,tair10_AT2G15325.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT2G15325
+4,f4,c8,48,tair10_AT2G18370.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT2G18370
+4,f4,c69,45,tair10_AT2G37870.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT2G37870
+4,f4,c8,48,tair10_AT2G38530.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT2G38530
+4,f4,c8,48,tair10_AT2G38540.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT2G38540
+4,f4,c8,48,tair10_AT3G08770.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT3G08770
+4,f4,c8,48,tair10_AT3G51590.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT3G51590
+4,f4,c8,48,tair10_AT3G51600.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT3G51600
+4,f4,c69,45,tair10_AT3G53980.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT3G53980
+4,f4,c8,48,tair10_AT4G33355.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT4G33355
+4,f4,c8,48,tair10_AT5G01870.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT5G01870
+4,f4,c69,45,tair10_AT5G05960.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT5G05960
+4,f4,c8,48,tair10_AT5G44265.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT5G44265
+4,f4,c69,45,tair10_AT5G48485.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT5G48485
+4,f4,c69,45,tair10_AT5G48490.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT5G48490
+4,f4,c8,48,tair10_AT5G59310.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT5G59310
+4,f4,c8,48,tair10_AT5G59320.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT5G59320
+4,f4,c8,48,tair10_AT5G62065.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT5G62065
+5,f5,c7,13,tair10_AT1G05065.1,CLE20,Y,CLE,tair10,1,AT1G05065
+5,f5,c49,14,tair10_AT1G06225.1,CLE03,Y,CLE,tair10,1,AT1G06225
+5,f5,c7,13,tair10_AT1G25425.1,CLE43,Y,CLE,tair10,1,AT1G25425
+5,f5,c7,13,tair10_AT1G26600.1,CLE09,Y,CLE,tair10,1,AT1G26600
+5,f5,c7,13,tair10_AT1G49005.1,CLE11,Y,CLE,tair10,1,AT1G49005
+5,f5,c7,13,tair10_AT1G63245.1,CLE14,Y,CLE,tair10,1,AT1G63245
+5,f5,c196,17,tair10_AT1G67775.1,CLE08,Y,CLE,tair10,1,AT1G67775
+5,f5,c7,13,tair10_AT1G68795.1,CLE12,Y,CLE,tair10,1,AT1G68795
+5,f5,c7,13,tair10_AT1G69320.1,CLE10,Y,CLE,tair10,1,AT1G69320
+5,f5,c210,33,tair10_AT1G69588.1,CLE45,Y,CLE,tair10,1,AT1G69588
+5,f5,c7,13,tair10_AT1G69970.1,CLE26,Y,CLE,tair10,1,AT1G69970
+5,f5,c7,13,tair10_AT1G70895.1,NA,NA,CLE,tair10,1,AT1G70895
+5,f5,c49,14,tair10_AT1G73165.1,CLE01,Y,CLE,tair10,1,AT1G73165
+5,f5,c7,13,tair10_AT1G73965.1,CLE13,Y,CLE,tair10,1,AT1G73965
+5,f5,c49,14,tair10_AT2G31081.1,CLE04,Y,CLE,tair10,1,AT2G31081
+5,f5,c49,14,tair10_AT2G31082.1,CLE07,Y,CLE,tair10,1,AT2G31082
+5,f5,c49,14,tair10_AT2G31083.1,CLE05,Y,CLE,tair10,1,AT2G31083
+5,f5,c49,14,tair10_AT2G31085.1,CLE06,Y,CLE,tair10,1,AT2G31085
+5,f5,c7,13,tair10_AT3G24225.1,CLE19,Y,CLE,tair10,1,AT3G24225
+5,f5,c7,13,tair10_AT3G25905.1,CLE27,Y,CLE,tair10,1,AT3G25905
+5,f5,c7,13,tair10_AT3G28455.1,CLE25,Y,CLE,tair10,1,AT3G28455
+5,f5,c49,14,tair10_AT4G18510.1,CLE02,Y,CLE,tair10,1,AT4G18510
+5,f5,c7,13,tair10_AT5G12235.1,CLE22,Y,CLE,tair10,1,AT5G12235
+5,f5,c7,13,tair10_AT5G12990.1,CLE40,Y,CLE,tair10,1,AT5G12990
+5,f5,c7,13,tair10_AT5G64800.1,CLE21,Y,CLE,tair10,1,AT5G64800
+6,f6,c256,21,tair10_AT1G56233.1,defensin-like; cysteine-rich,? in both,NA,tair10,1,AT1G56233
+6,f6,c256,21,tair10_AT2G25295.1,defensin-like,? in both,NA,tair10,1,AT2G25295
+6,f6,c337,25,tair10_AT4G13955.1,defensin-like/beta-gal/LCR,? in both,NA,tair10,1,AT4G13955
+6,f6,c337,25,tair10_AT4G13968.1,NA,NA,NA,tair10,1,AT4G13968
+6,f6,c256,21,tair10_AT4G39917.1,LCR,? in both,NA,tair10,1,AT4G39917
+6,f6,c256,21,tair10_AT5G32619.1,defensin-like,? in both,NA,tair10,1,AT5G32619
+6,f6,c256,21,tair10_AT5G48945.1,LCR,? in both,NA,tair10,1,AT5G48945
+6,f6,c337,25,tair10_AT5G48953.1,LCR,? in both,NA,tair10,1,AT5G48953
+6,f6,c256,21,tair10_AT5G55131.1,defensin-like,? in both,NA,tair10,1,AT5G55131
+6,f6,c256,21,tair10_AT5G55132.1,defensin-like,? in both,NA,tair10,1,AT5G55132
+7,f7,c112,27,tair10_AT1G68765.1,IDA,Y,IDA/IDL,tair10,1,AT1G68765
+7,f7,c112,27,tair10_AT1G76952.1,IDL5,Y,IDA/IDL,tair10,1,AT1G76952
+7,f7,c112,27,tair10_AT3G18715.1,IDL4,Y,IDA/IDL,tair10,1,AT3G18715
+7,f7,c112,27,tair10_AT3G25655.1,IDL1,Y,IDA/IDL,tair10,1,AT3G25655
+7,f7,c1027,39,tair10_AT4G18335.1,IDA tribe,Y,IDA/IDL,tair10,1,AT4G18335
+7,f7,c112,27,tair10_AT5G09805.1,IDL3,Y,IDA/IDL,tair10,1,AT5G09805
+7,f7,c112,27,tair10_AT5G64667.1,IDL2,Y,IDA/IDL,tair10,1,AT5G64667
+8,f8,c134,25,tair10_AT5G43150.1,NA,NA,NA,tair10,1,AT5G43150
+9,f9,c213,30,tair10_AT2G34925.1,CLE42,Y,CLE,tair10,1,AT2G34925
+9,f9,c213,30,tair10_AT3G24770.1,CLE41,Y,CLE,tair10,1,AT3G24770
+9,f9,c213,30,tair10_AT4G13195.1,CLE44,Y,CLE,tair10,1,AT4G13195
+9,f9,c1238,49,tair10_AT5G59305.1,CLE46,Y,CLE,tair10,1,AT5G59305
+10,f10,c269,47,tair10_AT2G48130.1,glucanase/LTP/protease inhibitor,N,NA,tair10,1,AT2G48130
+10,f10,c269,47,tair10_AT3G22600.1,"protease inhibitor, seed storage, lipid transfer proteins",? in both,NA,tair10,1,AT3G22600
+10,f10,c269,47,tair10_AT4G14815.1,"protease inhibitor, seed storage, lipid transfer proteins",? in both,NA,tair10,1,AT4G14815
+11,f11,c70,38,tair10_AT1G55330.1,arabinogalactan,?,NA,tair10,1,AT1G55330
+11,f11,c156,46,tair10_AT2G41905.1,arabinogalactan/plastocyanin/LTPâ€¦,?,NA,tair10,1,AT2G41905
+11,f11,c70,38,tair10_AT3G13520.1,arabinogalactan,?,NA,tair10,1,AT3G13520
+11,f11,c156,46,tair10_AT3G20865.1,arabinogalactan/plastocyanin/LTPâ€¦,?,NA,tair10,1,AT3G20865
+11,f11,c156,46,tair10_AT3G57690.1,arabinogalactan/plastocyanin/LTPâ€¦,?,NA,tair10,1,AT3G57690
+11,f11,c70,38,tair10_AT4G26320.1,arabinogalactan,?,NA,tair10,1,AT4G26320
+11,f11,c70,38,tair10_AT5G11740.1,arabinogalactan,?,NA,tair10,1,AT5G11740
+11,f11,c70,38,tair10_AT5G56540.1,arabinogalactan,?,NA,tair10,1,AT5G56540
+12,f12,c71,26,tair10_AT1G09245.1,SI S1,? in both,NA,tair10,1,AT1G09245
+12,f12,c71,26,tair10_AT1G11765.1,SI S1,? in both,NA,tair10,1,AT1G11765
+12,f12,c71,26,tair10_AT1G28305.1,SI S1,? in both,NA,tair10,1,AT1G28305
+12,f12,c71,26,tair10_AT1G28306.1,SI S1,? in both,NA,tair10,1,AT1G28306
+12,f12,c71,26,tair10_AT1G51250.1,SI S1,? in both,NA,tair10,1,AT1G51250
+12,f12,c71,26,tair10_AT2G04115.1,NA,NA,NA,tair10,1,AT2G04115
+12,f12,c71,26,tair10_AT2G06090.1,SI S1,? in both,NA,tair10,1,AT2G06090
+12,f12,c71,26,tair10_AT2G23142.1,SI S1,? in both,NA,tair10,1,AT2G23142
+12,f12,c71,26,tair10_AT2G23148.1,SI S1,? in both,NA,tair10,1,AT2G23148
+12,f12,c71,26,tair10_AT3G10460.1,SI S1,? in both,NA,tair10,1,AT3G10460
+12,f12,c71,26,tair10_AT3G24060.1,SI S1,? in both,NA,tair10,1,AT3G24060
+12,f12,c71,26,tair10_AT3G26860.1,SI S1,? in both,NA,tair10,1,AT3G26860
+12,f12,c71,26,tair10_AT3G26870.1,SI S1,? in both,NA,tair10,1,AT3G26870
+12,f12,c71,26,tair10_AT3G26880.1,SI S1,? in both,NA,tair10,1,AT3G26880
+12,f12,c71,26,tair10_AT3G27680.1,SI S1,? in both,NA,tair10,1,AT3G27680
+12,f12,c4025,32,tair10_AT3G44170.1,SI S1,? in both,NA,tair10,1,AT3G44170
+12,f12,c71,26,tair10_AT4G10895.1,SI S1,? in both,NA,tair10,1,AT4G10895
+12,f12,c329,25,tair10_AT4G16295.1,SI S1,? in both,NA,tair10,1,AT4G16295
+12,f12,c329,25,tair10_AT4G29035.1,SI S1,? in both,NA,tair10,1,AT4G29035
+12,f12,c71,26,tair10_AT5G04047.1,SI S1,? in both,NA,tair10,1,AT5G04047
+12,f12,c71,26,tair10_AT5G04347.1,SI S1,? in both,NA,tair10,1,AT5G04347
+12,f12,c71,26,tair10_AT5G04350.1,SI S1,? in both,NA,tair10,1,AT5G04350
+12,f12,c329,25,tair10_AT5G11820.1,SI S1,? in both,NA,tair10,1,AT5G11820
+12,f12,c329,25,tair10_AT5G26050.1,SI S1,? in both,NA,tair10,1,AT5G26050
+12,f12,c329,25,tair10_AT5G26060.1,SI S1,? in both,NA,tair10,1,AT5G26060
+12,f12,c4025,32,tair10_AT5G26100.1,SI S1,? in both,NA,tair10,1,AT5G26100
+12,f12,c71,26,tair10_AT5G27238.1,SI S1,? in both,NA,tair10,1,AT5G27238
+12,f12,c71,26,tair10_AT5G38435.1,SI S1,? in both,NA,tair10,1,AT5G38435
+12,f12,c71,26,tair10_AT5G38440.1,SI S1,? in both,NA,tair10,1,AT5G38440
+12,f12,c71,26,tair10_AT5G39493.1,NA,NA,NA,tair10,1,AT5G39493
+13,f13,c1037,44,tair10_AT1G33265.1,NA,?,NA,tair10,1,AT1G33265
+13,f13,c663,48,tair10_AT1G50740.1,NA,NA,NA,tair10,1,AT1G50740
+14,f14,c105,36,tair10_AT1G33607.1,defensin-like,? in both,NA,tair10,1,AT1G33607
+14,f14,c105,36,tair10_AT1G64195.1,defensin-like,? in both,NA,tair10,1,AT1G64195
+14,f14,c105,36,tair10_AT1G69818.1,defensin-like,? in both,NA,tair10,1,AT1G69818
+14,f14,c105,36,tair10_AT1G69825.1,defensin-like,? in both,NA,tair10,1,AT1G69825
+14,f14,c223,44,tair10_AT4G08485.1,defensin-like,? in both,NA,tair10,1,AT4G08485
+14,f14,c223,44,tair10_AT4G08869.1,defensin-like,? in both,NA,tair10,1,AT4G08869
+14,f14,c223,44,tair10_AT4G08875.1,defensin-like,? in both,NA,tair10,1,AT4G08875
+14,f14,c105,36,tair10_AT4G14272.1,defensin-like,? in both,NA,tair10,1,AT4G14272
+14,f14,c105,36,tair10_AT4G14276.1,defensin-like,? in both,NA,tair10,1,AT4G14276
+14,f14,c105,36,tair10_AT4G18823.1,defensin-like,? in both,NA,tair10,1,AT4G18823
+14,f14,c105,36,tair10_AT5G08055.1,defensin-like,? in both,NA,tair10,1,AT5G08055
+14,f14,c105,36,tair10_AT5G08315.1,defensin-like,? in both,NA,tair10,1,AT5G08315
+14,f14,c105,36,tair10_AT5G16453.1,defensin-like,? in both,NA,tair10,1,AT5G16453
+14,f14,c223,44,tair10_AT5G18403.1,defensin-like,? in both,NA,tair10,1,AT5G18403
+14,f14,c223,44,tair10_AT5G18407.1,defensin-like,? in both,NA,tair10,1,AT5G18407
+14,f14,c105,36,tair10_AT5G19315.1,defensin-like,? in both,NA,tair10,1,AT5G19315
+14,f14,c105,36,tair10_AT5G39645.1,NA,NA,NA,tair10,1,AT5G39645
+14,f14,c223,44,tair10_AT5G43285.1,defensin-like,? in both,NA,tair10,1,AT5G43285
+14,f14,c223,44,tair10_AT5G43513.1,defensin-like,? in both,NA,tair10,1,AT5G43513
+14,f14,c223,44,tair10_AT5G43518.1,defensin-like,? in both,NA,tair10,1,AT5G43518
+14,f14,c223,44,tair10_AT5G43525.1,defensin-like,? in both,NA,tair10,1,AT5G43525
+14,f14,c223,44,tair10_AT5G48515.1,defensin-like,? in both,NA,tair10,1,AT5G48515
+14,f14,c223,44,tair10_AT5G48595.1,defensin-like,? in both,NA,tair10,1,AT5G48595
+14,f14,c223,44,tair10_AT5G48605.1,defensin-like,? in both,NA,tair10,1,AT5G48605
+14,f14,c223,44,tair10_AT5G50423.1,defensin-like,? in both,NA,tair10,1,AT5G50423
+14,f14,c105,36,tair10_AT5G52605.1,defensin-like,? in both,NA,tair10,1,AT5G52605
+14,f14,c223,44,tair10_AT5G60805.1,NA,NA,NA,tair10,1,AT5G60805
+18,f18,c385,34,tair10_AT1G09812.1,NA,NA,NA,tair10,1,AT1G09812
+18,f18,c385,34,tair10_AT1G58007.1,NA,NA,NA,tair10,1,AT1G58007
+18,f18,c121,22,tair10_AT3G30725.1,NA,NA,NA,tair10,1,AT3G30725
+18,f18,c121,22,tair10_AT4G25760.1,NA,NA,NA,tair10,1,AT4G25760
+18,f18,c121,22,tair10_AT5G24920.1,NA,NA,NA,tair10,1,AT5G24920
+18,f18,c121,22,tair10_AT5G38770.1,NA,NA,NA,tair10,1,AT5G38770
+18,f18,c121,22,tair10_AT5G57685.1,NA,NA,NA,tair10,1,AT5G57685
+18,f18,c385,34,tair10_AT5G65660.1,NA,NA,NA,tair10,1,AT5G65660
+19,f19,c122,40,tair10_AT2G32890.1,NA,NA,RALFL,tair10,1,AT2G32890
+19,f19,c122,40,tair10_AT3G29000.1,calcium-binding EF hand family protein,N,NA,tair10,1,AT3G29000
+19,f19,c122,40,tair10_AT3G47480.1,calcium-binding EF hand family protein,N,NA,tair10,1,AT3G47480
+19,f19,c122,40,tair10_AT3G59440.1,calcium-binding EF hand family protein,N,NA,tair10,1,AT3G59440
+20,f20,c124,38,tair10_AT1G71950.1,subtilase,N,NA,tair10,1,AT1G71950
+20,f20,c124,38,tair10_AT2G39851.1,subtilase,N,NA,tair10,1,AT2G39851
+21,f21,c1257,40,tair10_AT1G35430.1,NA,?,NA,tair10,1,AT1G35430
+21,f21,c1257,40,tair10_AT4G09170.1,NA,?,NA,tair10,1,AT4G09170
+23,f23,c94,38,tair10_AT2G18660.1,PNP-A,Y,PNP,tair10,1,AT2G18660
+23,f23,c94,38,tair10_AT4G30380.1,PNP-B?,Y,NA,tair10,1,AT4G30380
+25,f25,c6,42,tair10_AT1G22900.1,disease resistance-responsive family,N,NA,tair10,1,AT1G22900
+25,f25,c6,42,tair10_AT1G55210.1,disease resistance-responsive family,N,NA,tair10,1,AT1G55210
+25,f25,c6,42,tair10_AT1G58170.1,disease resistance-responsive family,N,NA,tair10,1,AT1G58170
+25,f25,c6,42,tair10_AT1G64160.1,disease resistance-responsive family,N,NA,tair10,1,AT1G64160
+25,f25,c6,42,tair10_AT1G65870.1,disease resistance-responsive family,N,NA,tair10,1,AT1G65870
+25,f25,c6,42,tair10_AT2G10930.1,NA,NA,NA,tair10,1,AT2G10930
+25,f25,c6,42,tair10_AT2G21100.1,disease resistance-responsive family,N,NA,tair10,1,AT2G21100
+25,f25,c6,42,tair10_AT2G21110.1,disease resistance-responsive family,N,NA,tair10,1,AT2G21110
+25,f25,c6,42,tair10_AT3G13650.1,disease resistance-responsive family,N,NA,tair10,1,AT3G13650
+25,f25,c6,42,tair10_AT3G13662.1,disease resistance-responsive family,N,NA,tair10,1,AT3G13662
+25,f25,c6,42,tair10_AT4G11180.1,disease resistance-responsive family,N,NA,tair10,1,AT4G11180
+25,f25,c6,42,tair10_AT4G11190.1,disease resistance-responsive family,N,NA,tair10,1,AT4G11190
+25,f25,c6,42,tair10_AT4G11210.1,disease resistance-responsive family,N,NA,tair10,1,AT4G11210
+25,f25,c6,42,tair10_AT4G23690.1,disease resistance-responsive family,N,NA,tair10,1,AT4G23690
+25,f25,c6,42,tair10_AT4G38700.1,disease resistance-responsive family,N,NA,tair10,1,AT4G38700
+25,f25,c6,42,tair10_AT5G42500.1,disease resistance-responsive family,N,NA,tair10,1,AT5G42500
+25,f25,c6,42,tair10_AT5G42510.1,disease resistance-responsive family,N,NA,tair10,1,AT5G42510
+25,f25,c6,42,tair10_AT5G49040.1,disease resistance-responsive family,N,NA,tair10,1,AT5G49040
+26,f26,c132,44,tair10_AT3G15360.1,NA,NA,NA,tair10,1,AT3G15360
+27,f27,c40,49,tair10_AT2G14378.1,ECA1 gametogenesis related,?,NA,tair10,1,AT2G14378
+27,f27,c133,40,tair10_AT2G22145.1,ECA1 gametogenesis related,?,NA,tair10,1,AT2G22145
+27,f27,c133,40,tair10_AT2G22155.1,ECA1 gametogenesis related,?,NA,tair10,1,AT2G22155
+27,f27,c40,49,tair10_AT2G24205.1,ECA1 gametogenesis related,?,NA,tair10,1,AT2G24205
+27,f27,c133,40,tair10_AT2G25312.1,ECA1 gametogenesis related,?,NA,tair10,1,AT2G25312
+27,f27,c40,49,tair10_AT2G27315.1,ECA1 gametogenesis related,?,NA,tair10,1,AT2G27315
+27,f27,c133,40,tair10_AT3G01322.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G01322
+27,f27,c133,40,tair10_AT3G01323.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G01323
+27,f27,c133,40,tair10_AT3G01324.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G01324
+27,f27,c133,40,tair10_AT3G01325.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G01325
+27,f27,c133,40,tair10_AT3G01326.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G01326
+27,f27,c133,40,tair10_AT3G01327.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G01327
+27,f27,c133,40,tair10_AT3G01328.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G01328
+27,f27,c133,40,tair10_AT3G01329.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G01329
+27,f27,c133,40,tair10_AT3G01331.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G01331
+27,f27,c40,49,tair10_AT3G03272.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G03272
+27,f27,c133,40,tair10_AT3G27425.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G27425
+27,f27,c40,49,tair10_AT3G42565.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G42565
+27,f27,c133,40,tair10_AT3G44428.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G44428
+27,f27,c133,40,tair10_AT3G45243.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G45243
+27,f27,c133,40,tair10_AT3G45245.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G45245
+27,f27,c133,40,tair10_AT3G45248.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G45248
+27,f27,c133,40,tair10_AT3G45252.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G45252
+27,f27,c133,40,tair10_AT3G45275.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G45275
+27,f27,c133,40,tair10_AT3G45285.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G45285
+27,f27,c40,49,tair10_AT3G48675.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G48675
+27,f27,c40,49,tair10_AT3G50570.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G50570
+27,f27,c40,49,tair10_AT4G09545.1,ECA1 gametogenesis related,?,NA,tair10,1,AT4G09545
+27,f27,c40,49,tair10_AT4G35165.1,ECA1 gametogenesis related,?,NA,tair10,1,AT4G35165
+27,f27,c133,40,tair10_AT5G14995.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G14995
+27,f27,c40,49,tair10_AT5G15000.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G15000
+27,f27,c40,49,tair10_AT5G17340.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G17340
+27,f27,c40,49,tair10_AT5G36310.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36310
+27,f27,c40,49,tair10_AT5G36320.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36320
+27,f27,c40,49,tair10_AT5G36330.1,NA,NA,NA,tair10,1,AT5G36330
+27,f27,c40,49,tair10_AT5G36340.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36340
+27,f27,c40,49,tair10_AT5G36350.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36350
+27,f27,c40,49,tair10_AT5G36360.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36360
+27,f27,c40,49,tair10_AT5G36370.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36370
+27,f27,c40,49,tair10_AT5G36380.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36380
+27,f27,c40,49,tair10_AT5G36390.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36390
+27,f27,c40,49,tair10_AT5G36400.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36400
+27,f27,c40,49,tair10_AT5G36410.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36410
+27,f27,c40,49,tair10_AT5G36420.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36420
+27,f27,c40,49,tair10_AT5G36430.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36430
+27,f27,c40,49,tair10_AT5G36440.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36440
+27,f27,c40,49,tair10_AT5G36450.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36450
+27,f27,c40,49,tair10_AT5G36460.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36460
+27,f27,c40,49,tair10_AT5G36470.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36470
+27,f27,c40,49,tair10_AT5G36480.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36480
+27,f27,c40,49,tair10_AT5G36490.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36490
+27,f27,c40,49,tair10_AT5G36500.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36500
+27,f27,c40,49,tair10_AT5G36520.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36520
+27,f27,c40,49,tair10_AT5G36540.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36540
+27,f27,c40,49,tair10_AT5G36550.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36550
+27,f27,c40,49,tair10_AT5G36657.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36657
+27,f27,c40,49,tair10_AT5G36658.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36658
+27,f27,c40,49,tair10_AT5G36659.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36659
+27,f27,c40,49,tair10_AT5G36661.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36661
+27,f27,c40,49,tair10_AT5G36662.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36662
+27,f27,c40,49,tair10_AT5G36738.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36738
+27,f27,c40,49,tair10_AT5G36739.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G36739
+27,f27,c40,49,tair10_AT5G42895.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G42895
+27,f27,c40,49,tair10_AT5G44495.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G44495
+27,f27,c40,49,tair10_AT5G48210.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G48210
+27,f27,c40,49,tair10_AT5G51105.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G51105
+27,f27,c40,49,tair10_AT5G52965.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G52965
+27,f27,c40,49,tair10_AT5G52975.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G52975
+27,f27,c40,49,tair10_AT5G60945.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G60945
+27,f27,c40,49,tair10_AT5G60964.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G60964
+28,f28,c651,46,tair10_AT3G05975.1,NA,?,NA,tair10,1,AT3G05975
+28,f28,c1433,46,tair10_AT4G23930.1,NA,?,NA,tair10,1,AT4G23930
+29,f29,c143,49,tair10_AT1G61255.1,glysin-rich,?,NA,tair10,1,AT1G61255
+29,f29,c143,49,tair10_AT1G75550.1,glycine-rich,?,NA,tair10,1,AT1G75550
+29,f29,c143,49,tair10_AT2G19000.1,glysin-rich,?,NA,tair10,1,AT2G19000
+29,f29,c143,49,tair10_AT4G21620.1,glysin-rich,?,NA,tair10,1,AT4G21620
+30,f30,c154,42,tair10_AT1G06980.1,NA,?,NA,tair10,1,AT1G06980
+30,f30,c154,42,tair10_AT1G29195.1,NA,NA,NA,tair10,1,AT1G29195
+30,f30,c154,42,tair10_AT2G30230.1,NA,?,NA,tair10,1,AT2G30230
+31,f31,c158,34,tair10_AT3G06090.1,PIPL2,?,PIP/PIPL,tair10,1,AT3G06090
+31,f31,c158,34,tair10_AT4G28460.1,PIP1,?,PIP/PIPL,tair10,1,AT4G28460
+31,f31,c158,34,tair10_AT4G37295.1,PIPL3,?,PIP/PIPL,tair10,1,AT4G37295
+31,f31,c158,34,tair10_AT5G43066.1,PIPL4,?,PIP/PIPL,tair10,1,AT5G43066
+34,f34,c694,42,tair10_AT2G22470.1,arabinogalactan,?,NA,tair10,1,AT2G22470
+34,f34,c694,42,tair10_AT4G40090.1,NA,NA,NA,tair10,1,AT4G40090
+34,f34,c694,42,tair10_AT5G10430.1,arabinogalactan,?,NA,tair10,1,AT5G10430
+34,f34,c694,42,tair10_AT5G65390.1,arabinogalactan,?,NA,tair10,1,AT5G65390
+35,f35,c370,28,tair10_AT1G16950.1,CEP2,Y,CEP,tair10,1,AT1G16950
+35,f35,c370,28,tair10_AT1G29290.1,CEP2-like,Y,CEP,tair10,1,AT1G29290
+35,f35,c370,28,tair10_AT2G40530.1,CEP2-like,Y,CEP,tair10,1,AT2G40530
+35,f35,c370,28,tair10_AT5G05300.1,IDA tribe,Y,IDA/IDL,tair10,1,AT5G05300
+36,f36,c1887,42,tair10_AT5G60650.1,NA,?,NA,tair10,1,AT5G60650
+45,f45,c232,36,tair10_AT1G17700.1,NA,NA,NA,tair10,1,AT1G17700
+45,f45,c232,36,tair10_AT3G13720.1,NA,NA,NA,tair10,1,AT3G13720
+45,f45,c232,36,tair10_AT4G29658.1,NA,NA,NA,tair10,1,AT4G29658
+45,f45,c232,36,tair10_AT5G56230.1,NA,NA,NA,tair10,1,AT5G56230
+48,f48,c2127,41,tair10_AT2G41390.1,NA,?,NA,tair10,1,AT2G41390
+48,f48,c2127,41,tair10_AT2G41400.1,NA,?,NA,tair10,1,AT2G41400
+48,f48,c2127,41,tair10_AT5G05020.1,NA,?,NA,tair10,1,AT5G05020
+53,f53,c57,27,tair10_AT1G13590.1,PSK1,Y,NA,tair10,1,AT1G13590
+53,f53,c57,27,tair10_AT2G22860.1,PSK2,Y,NA,tair10,1,AT2G22860
+53,f53,c57,27,tair10_AT2G22942.1,PSK-related,Y,PSK,tair10,1,AT2G22942
+53,f53,c57,27,tair10_AT3G44735.1,PSK3,Y,NA,tair10,1,AT3G44735
+53,f53,c57,27,tair10_AT3G49780.1,PSK4,Y,PSK,tair10,1,AT3G49780
+53,f53,c57,27,tair10_AT4G37720.1,PSK6,Y,PSK,tair10,1,AT4G37720
+53,f53,c57,27,tair10_AT5G65870.1,PSK5,Y,PSK,tair10,1,AT5G65870
+54,f54,c534,41,tair10_AT3G09280.1,NA,?,NA,tair10,1,AT3G09280
+57,f57,c930,50,tair10_AT2G36145.1,NA,NA,NA,tair10,1,AT2G36145
+59,f59,c36,44,tair10_AT1G17800.1,"copper ion binding, electron transport - uclacyanin/basic blue protein",N,NA,tair10,1,AT1G17800
+59,f59,c36,44,tair10_AT2G02850.1,"copper ion binding, electron transport - uclacyanin/basic blue protein",N,NA,tair10,1,AT2G02850
+59,f59,c2843,50,tair10_AT4G12880.1,"copper ion binding, electron transport - uclacyanin/basic blue protein",N,NA,tair10,1,AT4G12880
+60,f60,c420,25,tair10_AT1G31772.1,NA,NA,NA,tair10,1,AT1G31772
+61,f61,c312,29,tair10_AT4G28290.1,NA,?,NA,tair10,1,AT4G28290
+61,f61,c312,29,tair10_AT5G42110.1,NA,NA,NA,tair10,1,AT5G42110
+62,f62,c790,38,tair10_AT1G23965.1,NA,NA,NA,tair10,1,AT1G23965
+64,f64,c32,42,tair10_AT1G03700.1,integral membrane family protein,N,NA,tair10,1,AT1G03700
+64,f64,c32,42,tair10_AT1G79780.1,NA,NA,NA,tair10,1,AT1G79780
+64,f64,c472,47,tair10_AT2G39518.1,integral membrane family protein,N,NA,tair10,1,AT2G39518
+64,f64,c472,47,tair10_AT2G39530.1,integral membrane family protein,N,NA,tair10,1,AT2G39530
+64,f64,c32,42,tair10_AT4G03540.1,integral membrane family protein,N,NA,tair10,1,AT4G03540
+64,f64,c32,42,tair10_AT4G15610.1,NA,NA,NA,tair10,1,AT4G15610
+64,f64,c32,42,tair10_AT4G15620.1,NA,NA,NA,tair10,1,AT4G15620
+64,f64,c32,42,tair10_AT4G15630.1,NA,NA,NA,tair10,1,AT4G15630
+64,f64,c32,42,tair10_AT4G16442.1,integral membrane family protein,N,NA,tair10,1,AT4G16442
+64,f64,c32,42,tair10_AT4G20390.1,integral membrane family protein,N,NA,tair10,1,AT4G20390
+64,f64,c32,42,tair10_AT4G25040.1,NA,NA,NA,tair10,1,AT4G25040
+64,f64,c32,42,tair10_AT4G25830.1,integral membrane family protein,N,NA,tair10,1,AT4G25830
+64,f64,c32,42,tair10_AT5G15290.1,NA,NA,NA,tair10,1,AT5G15290
+64,f64,c32,42,tair10_AT5G44550.1,integral membrane family protein,N,NA,tair10,1,AT5G44550
+71,f71,c383,41,tair10_AT1G47540.1,trypsin inhibitor,N,NA,tair10,1,AT1G47540
+71,f71,c383,41,tair10_AT2G22805.1,defensin-like,? in both,NA,tair10,1,AT2G22805
+71,f71,c383,41,tair10_AT2G22807.1,defensin-like,? in both,NA,tair10,1,AT2G22807
+71,f71,c383,41,tair10_AT2G22941.1,defensin-like,? in both,NA,tair10,1,AT2G22941
+71,f71,c383,41,tair10_AT2G43510.1,trypsin inhibitor,N,NA,tair10,1,AT2G43510
+71,f71,c383,41,tair10_AT2G43520.1,trypsin inhibitor,N,NA,tair10,1,AT2G43520
+71,f71,c383,41,tair10_AT2G43530.1,trypsin inhibitor,N,NA,tair10,1,AT2G43530
+71,f71,c383,41,tair10_AT2G43535.1,trypsin inhibitor,N,NA,tair10,1,AT2G43535
+71,f71,c383,41,tair10_AT2G43550.1,trypsin inhibitor,N,NA,tair10,1,AT2G43550
+72,f72,c490,48,tair10_AT4G22210.1,defensin-like,? in both,NA,tair10,1,AT4G22210
+72,f72,c490,48,tair10_AT4G22212.1,defensin-like,? in both,NA,tair10,1,AT4G22212
+72,f72,c490,48,tair10_AT4G22214.1,NA,NA,NA,tair10,1,AT4G22214
+72,f72,c490,48,tair10_AT4G22217.1,NA,NA,NA,tair10,1,AT4G22217
+72,f72,c490,48,tair10_AT4G22230.1,defensin-like,? in both,NA,tair10,1,AT4G22230
+72,f72,c490,48,tair10_AT4G22235.1,defensin-like,? in both,NA,tair10,1,AT4G22235
+74,f74,c43,23,tair10_AT1G07175.1,PSY tribe,Y,PSY,tair10,1,AT1G07175
+74,f74,c43,23,tair10_AT1G74458.1,PSY tribe,Y,PSY,tair10,1,AT1G74458
+74,f74,c43,23,tair10_AT2G29995.1,PSY tribe,Y,PSY,tair10,1,AT2G29995
+74,f74,c43,23,tair10_AT3G47295.1,PSY tribe,Y,PSY,tair10,1,AT3G47295
+74,f74,c43,23,tair10_AT3G47510.1,PSY tribe,Y,PSY,tair10,1,AT3G47510
+74,f74,c43,23,tair10_AT5G53486.1,PSY tribe,Y,PSY,tair10,1,AT5G53486
+74,f74,c43,23,tair10_AT5G58650.1,PSY1,Y,PSY,tair10,1,AT5G58650
+77,f77,c62,40,tair10_AT1G13380.1,NA,?,NA,tair10,1,AT1G13380
+77,f77,c62,40,tair10_AT1G52910.1,NA,?,NA,tair10,1,AT1G52910
+77,f77,c62,40,tair10_AT1G61065.1,NA,?,NA,tair10,1,AT1G61065
+77,f77,c62,40,tair10_AT3G15480.1,NA,?,NA,tair10,1,AT3G15480
+77,f77,c62,40,tair10_AT4G27435.1,NA,?,NA,tair10,1,AT4G27435
+88,f88,c100,42,tair10_AT1G65295.1,NA,?,NA,tair10,1,AT1G65295
+88,f88,c100,42,tair10_AT5G01015.1,NA,?,NA,tair10,1,AT5G01015
+91,f91,c1012,37,tair10_AT3G07460.1,NA,?,NA,tair10,1,AT3G07460
+93,f93,c1014,50,tair10_AT1G31170.1,sulfiredoxin,N,NA,tair10,1,AT1G31170
+99,f99,c101,46,tair10_AT1G05785.1,NA,NA,NA,tair10,1,AT1G05785
+99,f99,c101,46,tair10_AT3G03180.1,NA,NA,NA,tair10,1,AT3G03180
+99,f99,c101,46,tair10_AT3G49420.1,NA,NA,NA,tair10,1,AT3G49420
+99,f99,c101,46,tair10_AT5G01430.1,NA,NA,NA,tair10,1,AT5G01430
+103,f103,c1023,49,tair10_AT1G24450.1,RNA binding / ribonuclease III,N,NA,tair10,1,AT1G24450
+104,f104,c1024,48,tair10_AT1G55670.1,NA,NA,NA,tair10,1,AT1G55670
+107,f107,c1028,49,tair10_ATCG00070.1,NA,NA,NA,tair10,1,ATCG00070
+111,f111,c1031,40,tair10_AT5G60335.1,NA,NA,NA,tair10,1,AT5G60335
+126,f126,c1047,46,tair10_AT4G27140.1,storage protein,N,NA,tair10,1,AT4G27140
+126,f126,c1047,46,tair10_AT4G27150.1,storage protein,N,NA,tair10,1,AT4G27150
+126,f126,c1047,46,tair10_AT4G27160.1,storage protein,N,NA,tair10,1,AT4G27160
+126,f126,c1047,46,tair10_AT4G27170.1,storage protein,N,NA,tair10,1,AT4G27170
+126,f126,c1047,46,tair10_AT5G54740.1,storage protein,N,NA,tair10,1,AT5G54740
+129,f129,c104,47,tair10_AT3G44280.1,hyaluronan mediated motility receptor-related,N,NA,tair10,1,AT3G44280
+129,f129,c104,47,tair10_AT5G06265.1,hyaluronan mediated motility receptor-related,N,NA,tair10,1,AT5G06265
+129,f129,c104,47,tair10_AT5G22280.1,hyaluronan mediated motility receptor-related,N,NA,tair10,1,AT5G22280
+132,f132,c1052,49,tair10_AT1G28250.1,NA,NA,NA,tair10,1,AT1G28250
+147,f147,c1067,27,tair10_AT2G07739.1,mitochondrion,N,NA,tair10,1,AT2G07739
+147,f147,c1067,27,tair10_ATMG00370.1,mitochondrion,N,NA,tair10,1,ATMG00370
+150,f150,c106,47,tair10_AT3G29970.1,NA,NA,NA,tair10,1,AT3G29970
+150,f150,c106,47,tair10_AT3G48140.1,senescence associated,?,NA,tair10,1,AT3G48140
+173,f173,c1090,34,tair10_ATCG00220.1,plast,N,NA,tair10,1,ATCG00220
+184,f184,c10,38,tair10_AT1G07747.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT1G07747
+184,f184,c10,38,tair10_AT1G43665.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT1G43665
+184,f184,c10,38,tair10_AT1G43666.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT1G43666
+184,f184,c10,38,tair10_AT1G43667.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT1G43667
+184,f184,c10,38,tair10_AT1G48750.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT1G48750
+184,f184,c10,38,tair10_AT1G66850.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT1G66850
+184,f184,c10,38,tair10_AT1G73780.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT1G73780
+184,f184,c10,38,tair10_AT1G76965.1,NA,NA,NA,tair10,1,AT1G76965
+184,f184,c10,38,tair10_AT2G14846.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT2G14846
+184,f184,c10,38,tair10_AT2G16592.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT2G16592
+184,f184,c10,38,tair10_AT2G16594.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT2G16594
+184,f184,c10,38,tair10_AT3G07450.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT3G07450
+184,f184,c10,38,tair10_AT3G11825.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT3G11825
+184,f184,c10,38,tair10_AT3G18280.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT3G18280
+184,f184,c10,38,tair10_AT3G29152.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT3G29152
+184,f184,c10,38,tair10_AT3G52130.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT3G52130
+184,f184,c10,38,tair10_AT3G57310.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT3G57310
+184,f184,c10,38,tair10_AT3G59455.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT3G59455
+184,f184,c10,38,tair10_AT4G12825.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT4G12825
+184,f184,c10,38,tair10_AT5G38160.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT5G38160
+184,f184,c10,38,tair10_AT5G38170.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT5G38170
+184,f184,c10,38,tair10_AT5G38180.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT5G38180
+184,f184,c10,38,tair10_AT5G38195.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT5G38195
+184,f184,c10,38,tair10_AT5G38197.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT5G38197
+184,f184,c10,38,tair10_AT5G55410.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT5G55410
+184,f184,c10,38,tair10_AT5G55450.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT5G55450
+184,f184,c10,38,tair10_AT5G55460.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT5G55460
+185,f185,c1100,44,tair10_AT5G07475.1,plastocyanin-like,N,NA,tair10,1,AT5G07475
+195,f195,c110,23,tair10_AT1G47485.1,CEP1,Y,CEP,tair10,1,AT1G47485
+195,f195,c110,23,tair10_AT1G59835.1,CEP1-like,Y,CEP,tair10,1,AT1G59835
+195,f195,c110,23,tair10_AT2G23440.1,CEP1-like,Y,CEP,tair10,1,AT2G23440
+195,f195,c110,23,tair10_AT2G35612.1,CEP1-like,Y,CEP,tair10,1,AT2G35612
+195,f195,c110,23,tair10_AT5G66815.1,CEP1-like,Y,CEP,tair10,1,AT5G66815
+195,f195,c110,23,tair10_AT5G66816.1,CEP1 tribe,Y,CEP,tair10,1,AT5G66816
+202,f202,c1117,38,tair10_AT5G39370.1,NA,NA,NA,tair10,1,AT5G39370
+204,f204,c1119,43,tair10_AT1G74520.1,NA,NA,NA,tair10,1,AT1G74520
+204,f204,c1119,43,tair10_AT2G42820.1,NA,NA,NA,tair10,1,AT2G42820
+205,f205,c111,28,tair10_AT1G23050.1,hydroxyP-rich glycoprotein/plastocyanin-like,N,NA,tair10,1,AT1G23050
+205,f205,c111,28,tair10_AT1G70985.1,hydroxyP-rich glycoprotein/plastocyanin-like,N,NA,tair10,1,AT1G70985
+205,f205,c111,28,tair10_AT3G06750.1,hydroxyP-rich glycoprotein/plastocyanin-like,N,NA,tair10,1,AT3G06750
+205,f205,c111,28,tair10_AT4G16140.1,hydroxyP-rich glycoprotein/plastocyanin-like,N,NA,tair10,1,AT4G16140
+205,f205,c111,28,tair10_AT5G11990.1,hydroxyP-rich glycoprotein/plastocyanin-like,N,NA,tair10,1,AT5G11990
+205,f205,c111,28,tair10_AT5G49280.1,hydroxyP-rich glycoprotein/plastocyanin-like,N,NA,tair10,1,AT5G49280
+216,f216,c1130,40,tair10_AT1G49260.1,NA,?,NA,tair10,1,AT1G49260
+221,f221,c1135,47,tair10_AT1G62000.1,NA,?,NA,tair10,1,AT1G62000
+221,f221,c1135,47,tair10_AT1G62060.1,NA,?,NA,tair10,1,AT1G62060
+221,f221,c1135,47,tair10_AT1G62080.1,NA,?,NA,tair10,1,AT1G62080
+221,f221,c1135,47,tair10_AT1G62220.1,NA,?,NA,tair10,1,AT1G62220
+226,f226,c113,47,tair10_AT1G04340.1,lesion inducing protein,?,NA,tair10,1,AT1G04340
+226,f226,c113,47,tair10_AT3G23175.1,NA,NA,NA,tair10,1,AT3G23175
+226,f226,c113,47,tair10_AT4G14420.1,lesion inducing protein,?,NA,tair10,1,AT4G14420
+226,f226,c113,47,tair10_AT5G43460.1,lesion inducing protein,?,NA,tair10,1,AT5G43460
+227,f227,c1140,38,tair10_AT3G11591.1,NA,?,NA,tair10,1,AT3G11591
+229,f229,c1142,46,tair10_AT2G37195.1,NA,?,NA,tair10,1,AT2G37195
+230,f230,c1143,33,tair10_AT3G18510.1,NA,NA,NA,tair10,1,AT3G18510
+237,f237,c114,35,tair10_AT2G41225.1,NA,?,NA,tair10,1,AT2G41225
+237,f237,c114,35,tair10_AT2G41230.1,NA,NA,NA,tair10,1,AT2G41230
+237,f237,c114,35,tair10_AT4G14315.1,NA,?,NA,tair10,1,AT4G14315
+244,f244,c1156,42,tair10_AT1G07135.1,glycine-rich,?,NA,tair10,1,AT1G07135
+244,f244,c1156,42,tair10_AT3G04640.1,glycine-rich,?,NA,tair10,1,AT3G04640
+245,f245,c1157,48,tair10_AT2G01400.1,NA,?,NA,tair10,1,AT2G01400
+247,f247,c1159,24,tair10_AT2G31005.1,NA,NA,NA,tair10,1,AT2G31005
+248,f248,c115,28,tair10_AT1G10717.1,MEG-related,?,NA,tair10,1,AT1G10717
+248,f248,c115,28,tair10_AT1G10745.1,MEG-related,?,NA,tair10,1,AT1G10745
+248,f248,c115,28,tair10_AT1G10747.1,MEG-related,?,NA,tair10,1,AT1G10747
+248,f248,c115,28,tair10_AT1G27135.1,MEG-related,?,NA,tair10,1,AT1G27135
+248,f248,c115,28,tair10_AT2G41415.1,MEG-related,?,NA,tair10,1,AT2G41415
+248,f248,c115,28,tair10_AT5G50345.1,MEG-related,?,NA,tair10,1,AT5G50345
+248,f248,c115,28,tair10_AT5G61605.1,MEG-related,?,NA,tair10,1,AT5G61605
+259,f259,c116,29,tair10_AT1G49000.1,NA,NA,NA,tair10,1,AT1G49000
+259,f259,c116,29,tair10_AT3G14760.1,NA,NA,NA,tair10,1,AT3G14760
+259,f259,c116,29,tair10_AT3G18560.1,NA,NA,NA,tair10,1,AT3G18560
+275,f275,c1187,28,tair10_AT3G13175.1,NA,?,NA,tair10,1,AT3G13175
+288,f288,c1199,49,tair10_AT2G03420.1,NA,NA,NA,tair10,1,AT2G03420
+290,f290,c11,45,tair10_AT1G10588.1,GASA-related,Y,GASA,tair10,1,AT1G10588
+290,f290,c11,45,tair10_AT1G22690.1,GASA09,Y,GASA,tair10,1,AT1G22690
+290,f290,c11,45,tair10_AT1G74670.1,GASA06,Y,GASA,tair10,1,AT1G74670
+290,f290,c11,45,tair10_AT1G75750.1,GASA01,Y,GASA,tair10,1,AT1G75750
+290,f290,c11,45,tair10_AT2G14900.1,GASA07,Y,GASA,tair10,1,AT2G14900
+290,f290,c11,45,tair10_AT2G18420.1,GASA11,Y,GASA,tair10,1,AT2G18420
+290,f290,c11,45,tair10_AT2G30810.1,GASA12,Y,GASA,tair10,1,AT2G30810
+290,f290,c11,45,tair10_AT2G39540.1,GASA08,Y,GASA,tair10,1,AT2G39540
+290,f290,c11,45,tair10_AT3G02885.1,GASA05,Y,GASA,tair10,1,AT3G02885
+290,f290,c11,45,tair10_AT3G10185.1,GASA13,Y,GASA,tair10,1,AT3G10185
+290,f290,c11,45,tair10_AT4G09600.1,GASA03,Y,GASA,tair10,1,AT4G09600
+290,f290,c11,45,tair10_AT4G09610.1,GASA02,Y,GASA,tair10,1,AT4G09610
+290,f290,c11,45,tair10_AT5G15230.1,GASA04,Y,GASA,tair10,1,AT5G15230
+290,f290,c11,45,tair10_AT5G59845.1,GASA10,Y,GASA,tair10,1,AT5G59845
+298,f298,c1207,37,tair10_AT2G03040.1,NA,?,NA,tair10,1,AT2G03040
+299,f299,c1208,37,tair10_AT2G14247.1,NA,NA,NA,tair10,1,AT2G14247
+299,f299,c1208,37,tair10_AT4G33666.1,NA,NA,NA,tair10,1,AT4G33666
+309,f309,c1218,37,tair10_AT1G79390.1,NA,NA,NA,tair10,1,AT1G79390
+312,f312,c1221,50,tair10_AT5G40950.1,NA,NA,NA,tair10,1,AT5G40950
+313,f313,c1222,37,tair10_AT5G06380.1,NA,NA,NA,tair10,1,AT5G06380
+316,f316,c1225,43,tair10_AT1G68238.1,NA,NA,NA,tair10,1,AT1G68238
+316,f316,c1225,43,tair10_AT3G18250.1,NA,NA,NA,tair10,1,AT3G18250
+322,f322,c1231,46,tair10_AT1G50080.1,NA,NA,NA,tair10,1,AT1G50080
+322,f322,c1231,46,tair10_AT2G19146.1,NA,NA,NA,tair10,1,AT2G19146
+322,f322,c1231,46,tair10_AT4G10613.1,NA,NA,NA,tair10,1,AT4G10613
+329,f329,c1239,44,tair10_AT5G03120.1,NA,NA,NA,tair10,1,AT5G03120
+332,f332,c1242,25,tair10_AT1G13607.1,defensin-like,? in both,NA,tair10,1,AT1G13607
+332,f332,c1242,25,tair10_AT1G13608.1,defensin-like,? in both,NA,tair10,1,AT1G13608
+332,f332,c1242,25,tair10_AT1G13609.1,defensin-like,? in both,NA,tair10,1,AT1G13609
+332,f332,c1242,25,tair10_AT1G47317.1,defensin-like,? in both,NA,tair10,1,AT1G47317
+344,f344,c1254,50,tair10_AT3G44890.1,NA,NA,NA,tair10,1,AT3G44890
+346,f346,c1256,42,tair10_AT5G35870.1,NA,NA,NA,tair10,1,AT5G35870
+346,f346,c1256,42,tair10_AT5G55650.1,NA,NA,NA,tair10,1,AT5G55650
+357,f357,c1268,42,tair10_AT5G05950.1,NA,NA,NA,tair10,1,AT5G05950
+359,f359,c126,26,tair10_AT1G76750.1,ECA1 gametogenesis related,?,NA,tair10,1,AT1G76750
+359,f359,c126,26,tair10_AT2G21740.1,ECA1 gametogenesis related,?,NA,tair10,1,AT2G21740
+359,f359,c126,26,tair10_AT2G21750.1,ECA1 gametogenesis related,?,NA,tair10,1,AT2G21750
+359,f359,c126,26,tair10_AT4G39340.1,ECA1 gametogenesis related,?,NA,tair10,1,AT4G39340
+359,f359,c126,26,tair10_AT5G64720.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G64720
+372,f372,c1283,33,tair10_AT1G22885.1,NA,?,NA,tair10,1,AT1G22885
+372,f372,c1283,33,tair10_AT1G22890.1,NA,?,NA,tair10,1,AT1G22890
+372,f372,c1283,33,tair10_AT5G44568.1,NA,?,NA,tair10,1,AT5G44568
+379,f379,c128,28,tair10_AT5G20650.1,copper transporter,N,NA,tair10,1,AT5G20650
+383,f383,c1293,40,tair10_AT3G45020.1,ribosomal protein,N,NA,tair10,1,AT3G45020
+388,f388,c1298,46,tair10_AT2G04622.1,NA,?,NA,tair10,1,AT2G04622
+388,f388,c1298,46,tair10_AT3G03826.1,NA,?,NA,tair10,1,AT3G03826
+388,f388,c1298,46,tair10_AT3G03828.1,NA,?,NA,tair10,1,AT3G03828
+388,f388,c1298,46,tair10_AT5G43695.1,NA,?,NA,tair10,1,AT5G43695
+390,f390,c129,50,tair10_AT1G02620.1,GTP-binding,N,NA,tair10,1,AT1G02620
+390,f390,c129,50,tair10_AT1G09180.1,GTP-binding,N,NA,tair10,1,AT1G09180
+390,f390,c129,50,tair10_AT1G56330.1,GTP-binding,N,NA,tair10,1,AT1G56330
+390,f390,c129,50,tair10_AT3G62560.1,GTP-binding,N,NA,tair10,1,AT3G62560
+390,f390,c129,50,tair10_AT4G02080.1,GTP-binding,N,NA,tair10,1,AT4G02080
+394,f394,c1302,49,tair10_AT1G68590.1,NA,NA,NA,tair10,1,AT1G68590
+397,f397,c1305,50,tair10_AT5G10700.1,NA,NA,NA,tair10,1,AT5G10700
+399,f399,c1307,45,tair10_AT3G22210.1,NA,?,NA,tair10,1,AT3G22210
+402,f402,c130,39,tair10_AT1G12390.1,integral membrane protein of COPII-coated ER-derived vesicles,?,NA,tair10,1,AT1G12390
+402,f402,c130,39,tair10_AT1G62880.1,integral membrane protein of COPII-coated ER-derived vesicles,?,NA,tair10,1,AT1G62880
+402,f402,c130,39,tair10_AT3G12180.1,integral membrane protein of COPII-coated ER-derived vesicles,?,NA,tair10,1,AT3G12180
+402,f402,c130,39,tair10_AT4G12090.1,integral membrane protein of COPII-coated ER-derived vesicles,?,NA,tair10,1,AT4G12090
+408,f408,c1315,49,tair10_AT5G21910.1,"copper ion binding, electron transport - uclacyanin/basic blue protein",N,NA,tair10,1,AT5G21910
+413,f413,c131,36,tair10_AT2G22170.1,lipid-associated,? in both,NA,tair10,1,AT2G22170
+413,f413,c131,36,tair10_AT4G39730.1,lipid-associated,? in both,NA,tair10,1,AT4G39730
+418,f418,c1324,47,tair10_AT1G30972.1,thionin,? in both,NA,tair10,1,AT1G30972
+418,f418,c1324,47,tair10_AT1G30974.1,thionin,? in both,NA,tair10,1,AT1G30974
+446,f446,c1354,15,tair10_AT5G53710.1,NA,?,NA,tair10,1,AT5G53710
+460,f460,c1367,30,tair10_AT5G07550.1,NA,?,NA,tair10,1,AT5G07550
+460,f460,c1367,30,tair10_AT5G07571.1,NA,NA,NA,tair10,1,AT5G07571
+463,f463,c136,48,tair10_AT1G48440.1,NA,?,NA,tair10,1,AT1G48440
+463,f463,c136,48,tair10_AT3G03160.1,NA,?,NA,tair10,1,AT3G03160
+463,f463,c136,48,tair10_AT3G17780.1,NA,?,NA,tair10,1,AT3G17780
+463,f463,c136,48,tair10_AT5G17190.1,NA,?,NA,tair10,1,AT5G17190
+496,f496,c139,49,tair10_AT1G32470.1,NA,NA,NA,tair10,1,AT1G32470
+496,f496,c139,49,tair10_AT2G35120.1,glycine cleavage,?,NA,tair10,1,AT2G35120
+498,f498,c1400,50,tair10_AT3G03010.1,NA,?,NA,tair10,1,AT3G03010
+498,f498,c1400,50,tair10_AT5G16870.1,NA,?,NA,tair10,1,AT5G16870
+499,f499,c1401,49,tair10_ATMG00530.1,mitochondrion,N,NA,tair10,1,ATMG00530
+515,f515,c1416,47,tair10_AT3G23760.1,glycosyl transferase,N,NA,tair10,1,AT3G23760
+523,f523,c1423,49,tair10_AT5G51720.1,NA,NA,NA,tair10,1,AT5G51720
+534,f534,c1434,50,tair10_AT3G51510.1,NA,NA,NA,tair10,1,AT3G51510
+552,f552,c1452,50,tair10_AT5G57565.1,NA,NA,NA,tair10,1,AT5G57565
+555,f555,c1455,40,tair10_AT5G64880.1,NA,?,NA,tair10,1,AT5G64880
+572,f572,c1470,36,tair10_AT5G18850.1,NA,?,NA,tair10,1,AT5G18850
+582,f582,c147,50,tair10_AT3G49870.1,NA,NA,NA,tair10,1,AT3G49870
+582,f582,c147,50,tair10_AT5G37680.1,NA,NA,NA,tair10,1,AT5G37680
+582,f582,c147,50,tair10_AT5G67560.1,NA,NA,NA,tair10,1,AT5G67560
+593,f593,c148,47,tair10_AT2G35605.1,NA,NA,NA,tair10,1,AT2G35605
+593,f593,c148,47,tair10_AT3G03590.1,SWIB complex BAF60b,N,NA,tair10,1,AT3G03590
+593,f593,c148,47,tair10_AT4G34290.1,SWIB complex BAF60b,N,NA,tair10,1,AT4G34290
+604,f604,c149,49,tair10_AT5G03345.1,NA,?,NA,tair10,1,AT5G03345
+605,f605,c14,44,tair10_AT1G10630.1,NA,NA,NA,tair10,1,AT1G10630
+605,f605,c14,44,tair10_AT1G23490.1,NA,NA,NA,tair10,1,AT1G23490
+605,f605,c14,44,tair10_AT1G70490.1,NA,NA,NA,tair10,1,AT1G70490
+605,f605,c14,44,tair10_AT2G47170.1,NA,NA,NA,tair10,1,AT2G47170
+605,f605,c14,44,tair10_AT3G22950.1,NA,NA,NA,tair10,1,AT3G22950
+605,f605,c14,44,tair10_AT3G62290.1,NA,NA,NA,tair10,1,AT3G62290
+605,f605,c14,44,tair10_AT5G14670.1,NA,NA,NA,tair10,1,AT5G14670
+616,f616,c150,46,tair10_AT2G35736.1,NA,?,NA,tair10,1,AT2G35736
+616,f616,c150,46,tair10_AT4G25225.1,NA,?,NA,tair10,1,AT4G25225
+627,f627,c151,50,tair10_AT1G04480.1,NA,NA,NA,tair10,1,AT1G04480
+627,f627,c151,50,tair10_AT2G33370.1,NA,NA,NA,tair10,1,AT2G33370
+627,f627,c151,50,tair10_AT3G04400.1,NA,NA,NA,tair10,1,AT3G04400
+638,f638,c152,50,tair10_AT1G52600.1,NA,NA,NA,tair10,1,AT1G52600
+638,f638,c152,50,tair10_AT3G15710.1,NA,NA,NA,tair10,1,AT3G15710
+655,f655,c1545,33,tair10_AT5G01075.1,beta-galactosidase,N,NA,tair10,1,AT5G01075
+679,f679,c1570,29,tair10_AT4G04800.1,reductase,N,NA,tair10,1,AT4G04800
+685,f685,c1576,50,tair10_AT4G22630.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT4G22630
+685,f685,c1576,50,tair10_AT4G22666.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT4G22666
+704,f704,c1594,35,tair10_AT4G16980.1,arabinogalactan/plastocyanin,?,NA,tair10,1,AT4G16980
+708,f708,c1598,42,tair10_AT1G63522.1,defensin-like,? in both,NA,tair10,1,AT1G63522
+708,f708,c1598,42,tair10_AT1G63535.1,NA,NA,NA,tair10,1,AT1G63535
+708,f708,c1598,42,tair10_AT1G68905.1,defensin-like,? in both,NA,tair10,1,AT1G68905
+712,f712,c1600,40,tair10_AT1G06010.1,NA,?,NA,tair10,1,AT1G06010
+722,f722,c160,33,tair10_AT5G02120.1,NA,NA,NA,tair10,1,AT5G02120
+724,f724,c1611,39,tair10_AT2G16505.1,MEG-related,?,NA,tair10,1,AT2G16505
+724,f724,c1611,39,tair10_AT2G16535.1,MEG-related,?,NA,tair10,1,AT2G16535
+730,f730,c1618,30,tair10_AT4G10250.1,HSP,N,NA,tair10,1,AT4G10250
+732,f732,c161,49,tair10_AT2G35795.1,DNA-J HS N-term domain,N,NA,tair10,1,AT2G35795
+732,f732,c161,49,tair10_AT3G09700.1,DNA-J HS N-term domain,N,NA,tair10,1,AT3G09700
+732,f732,c161,49,tair10_AT5G03030.1,DNA-J HS N-term domain,N,NA,tair10,1,AT5G03030
+742,f742,c162,44,tair10_AT1G32410.1,NA,NA,NA,tair10,1,AT1G32410
+742,f742,c162,44,tair10_AT3G11530.1,vacuolar sorting,N,NA,tair10,1,AT3G11530
+749,f749,c1636,26,tair10_AT1G28375.1,NA,?,NA,tair10,1,AT1G28375
+749,f749,c1636,26,tair10_AT5G04030.1,NA,?,NA,tair10,1,AT5G04030
+749,f749,c1636,26,tair10_AT5G24316.1,NA,?,NA,tair10,1,AT5G24316
+751,f751,c1638,49,tair10_AT1G29810.1,dehydratase,N,NA,tair10,1,AT1G29810
+753,f753,c163,50,tair10_AT1G01230.1,NA,NA,NA,tair10,1,AT1G01230
+753,f753,c163,50,tair10_AT5G42000.1,NA,NA,NA,tair10,1,AT5G42000
+754,f754,c1640,44,tair10_AT3G07568.1,NA,?,NA,tair10,1,AT3G07568
+774,f774,c165,39,tair10_AT4G15910.1,NA,NA,NA,tair10,1,AT4G15910
+784,f784,c166,42,tair10_AT3G52790.1,peptidoglycan-binding LysM domain,?,NA,tair10,1,AT3G52790
+784,f784,c166,42,tair10_AT4G25433.1,peptidoglycan-binding LysM domain,?,NA,tair10,1,AT4G25433
+784,f784,c166,42,tair10_AT5G62150.1,peptidoglycan-binding LysM domain,?,NA,tair10,1,AT5G62150
+795,f795,c167,32,tair10_AT1G54445.1,defensin-like/beta-gal/LCR,? in both,NA,tair10,1,AT1G54445
+795,f795,c167,32,tair10_AT3G42473.1,LCR,? in both,NA,tair10,1,AT3G42473
+796,f796,c1681,50,tair10_AT4G03240.1,NA,NA,NA,tair10,1,AT4G03240
+816,f816,c16,35,tair10_AT2G20585.1,NA,NA,NA,tair10,1,AT2G20585
+816,f816,c16,35,tair10_AT5G11630.1,NA,NA,NA,tair10,1,AT5G11630
+825,f825,c170,24,tair10_AT1G20823.1,NA,NA,NA,tair10,1,AT1G20823
+825,f825,c170,24,tair10_AT1G76410.1,NA,NA,NA,tair10,1,AT1G76410
+825,f825,c170,24,tair10_AT2G17450.1,NA,NA,NA,tair10,1,AT2G17450
+825,f825,c170,24,tair10_AT4G35480.1,NA,NA,NA,tair10,1,AT4G35480
+826,f826,c1710,41,tair10_AT4G30450.1,glycine-rich,?,NA,tair10,1,AT4G30450
+829,f829,c1714,40,tair10_AT1G64640.1,hydroxyP-rich glycoprotein/plastocyanin-like,N,NA,tair10,1,AT1G64640
+832,f832,c1717,32,tair10_AT5G54585.1,NA,NA,NA,tair10,1,AT5G54585
+834,f834,c1719,47,tair10_AT2G10557.1,NA,NA,NA,tair10,1,AT2G10557
+834,f834,c1719,47,tair10_AT3G28674.1,NA,NA,NA,tair10,1,AT3G28674
+834,f834,c1719,47,tair10_AT5G04853.1,NA,NA,NA,tair10,1,AT5G04853
+839,f839,c1723,27,tair10_AT2G32785.1,RALF-related,Y,RALFL,tair10,1,AT2G32785
+839,f839,c1723,27,tair10_AT2G32788.1,RALF-related,Y,RALFL,tair10,1,AT2G32788
+845,f845,c172,35,tair10_AT1G05070.1,NA,?,NA,tair10,1,AT1G05070
+845,f845,c172,35,tair10_AT2G24290.1,NA,?,NA,tair10,1,AT2G24290
+845,f845,c172,35,tair10_AT2G32580.1,NA,?,NA,tair10,1,AT2G32580
+845,f845,c172,35,tair10_AT4G04360.1,NA,NA,NA,tair10,1,AT4G04360
+845,f845,c172,35,tair10_AT4G30996.1,NA,?,NA,tair10,1,AT4G30996
+847,f847,c1731,29,tair10_AT1G53282.1,thionin,? in both,NA,tair10,1,AT1G53282
+847,f847,c1731,29,tair10_AT1G53285.1,NA,?,NA,tair10,1,AT1G53285
+847,f847,c1731,29,tair10_AT3G48205.1,thionin/stigma specific,? in both,NA,tair10,1,AT3G48205
+848,f848,c1732,47,tair10_AT2G06166.1,defensin-like,? in both,NA,tair10,1,AT2G06166
+848,f848,c1732,47,tair10_AT4G17713.1,defensin-like,? in both,NA,tair10,1,AT4G17713
+848,f848,c1732,47,tair10_AT4G17718.1,defensin-like,? in both,NA,tair10,1,AT4G17718
+850,f850,c1734,47,tair10_AT5G47130.1,Bax inhibitor-1,N,NA,tair10,1,AT5G47130
+851,f851,c1735,41,tair10_AT1G31720.1,NA,NA,NA,tair10,1,AT1G31720
+853,f853,c1737,38,tair10_AT1G21395.1,thionin,? in both,NA,tair10,1,AT1G21395
+853,f853,c1737,38,tair10_AT2G26865.1,thionin,? in both,NA,tair10,1,AT2G26865
+853,f853,c1737,38,tair10_AT2G36724.1,thionin,? in both,NA,tair10,1,AT2G36724
+865,f865,c1749,38,tair10_AT4G27652.1,NA,?,NA,tair10,1,AT4G27652
+865,f865,c1749,38,tair10_AT4G27657.1,NA,?,NA,tair10,1,AT4G27657
+865,f865,c1749,38,tair10_AT5G54145.1,NA,?,NA,tair10,1,AT5G54145
+866,f866,c174,44,tair10_AT1G16840.1,NA,NA,NA,tair10,1,AT1G16840
+866,f866,c174,44,tair10_AT1G78890.1,NA,NA,NA,tair10,1,AT1G78890
+870,f870,c1753,24,tair10_AT1G20590.1,NA,NA,NA,tair10,1,AT1G20590
+875,f875,c1758,32,tair10_AT1G12064.1,NA,?,NA,tair10,1,AT1G12064
+877,f877,c175,50,tair10_AT3G11780.1,MD-2-related lipid recognition domain-containing,N,NA,tair10,1,AT3G11780
+877,f877,c175,50,tair10_AT3G44100.1,MD-2-related lipid recognition domain-containing,N,NA,tair10,1,AT3G44100
+877,f877,c175,50,tair10_AT5G06480.1,MD-2-related lipid recognition domain-containing,N,NA,tair10,1,AT5G06480
+878,f878,c1760,25,tair10_AT1G14455.1,NA,?,NA,tair10,1,AT1G14455
+878,f878,c1760,25,tair10_AT2G02498.1,NA,NA,NA,tair10,1,AT2G02498
+878,f878,c1760,25,tair10_AT2G19802.1,NA,?,NA,tair10,1,AT2G19802
+888,f888,c176,31,tair10_AT1G06515.1,NA,?,NA,tair10,1,AT1G06515
+888,f888,c176,31,tair10_AT2G30942.1,NA,?,NA,tair10,1,AT2G30942
+902,f902,c1782,46,tair10_AT2G14282.1,SCRL,? in both,SCRL,tair10,1,AT2G14282
+902,f902,c1782,46,tair10_AT2G25685.1,SCRL,? in both,SCRL,tair10,1,AT2G25685
+902,f902,c1782,46,tair10_AT3G27503.1,SCRL,? in both,SCRL,tair10,1,AT3G27503
+919,f919,c179,41,tair10_AT2G16385.1,NA,?,NA,tair10,1,AT2G16385
+919,f919,c179,41,tair10_AT4G34600.1,NA,?,NA,tair10,1,AT4G34600
+930,f930,c180,48,tair10_AT3G27840.1,NA,NA,NA,tair10,1,AT3G27840
+932,f932,c1811,17,tair10_AT1G18773.1,NA,NA,NA,tair10,1,AT1G18773
+953,f953,c1832,42,tair10_AT1G18486.1,NA,?,NA,tair10,1,AT1G18486
+953,f953,c1832,42,tair10_AT4G02655.1,NA,?,NA,tair10,1,AT4G02655
+961,f961,c183,47,tair10_AT5G07230.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT5G07230
+961,f961,c183,47,tair10_AT5G52160.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT5G52160
+961,f961,c183,47,tair10_AT5G62080.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT5G62080
+965,f965,c1843,28,tair10_AT1G15900.1,NA,NA,NA,tair10,1,AT1G15900
+971,f971,c184,49,tair10_AT2G20562.1,NA,?,NA,tair10,1,AT2G20562
+971,f971,c184,49,tair10_AT2G31090.1,NA,?,NA,tair10,1,AT2G31090
+982,f982,c185,45,tair10_AT1G45190.1,ECA1 gametogenesis related,?,NA,tair10,1,AT1G45190
+982,f982,c185,45,tair10_AT1G47450.1,ECA1 gametogenesis related,?,NA,tair10,1,AT1G47450
+982,f982,c185,45,tair10_AT1G47470.1,ECA1 gametogenesis related,?,NA,tair10,1,AT1G47470
+982,f982,c185,45,tair10_AT1G52970.1,ECA1 gametogenesis related,?,NA,tair10,1,AT1G52970
+982,f982,c185,45,tair10_AT2G04031.1,ECA1 gametogenesis related,?,NA,tair10,1,AT2G04031
+982,f982,c185,45,tair10_AT2G04037.1,ECA1 gametogenesis related,?,NA,tair10,1,AT2G04037
+982,f982,c185,45,tair10_AT2G04041.1,ECA1 gametogenesis related,?,NA,tair10,1,AT2G04041
+982,f982,c185,45,tair10_AT2G21655.1,ECA1 gametogenesis related,?,NA,tair10,1,AT2G21655
+982,f982,c185,45,tair10_AT2G21727.1,ECA1 gametogenesis related,?,NA,tair10,1,AT2G21727
+982,f982,c185,45,tair10_AT2G25482.1,ECA1 gametogenesis related,?,NA,tair10,1,AT2G25482
+982,f982,c185,45,tair10_AT3G01185.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G01185
+982,f982,c185,45,tair10_AT3G11990.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G11990
+982,f982,c185,45,tair10_AT3G29797.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G29797
+982,f982,c185,45,tair10_AT3G30247.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G30247
+982,f982,c185,45,tair10_AT4G13261.1,ECA1 gametogenesis related,?,NA,tair10,1,AT4G13261
+982,f982,c185,45,tair10_AT4G13263.1,ECA1 gametogenesis related,?,NA,tair10,1,AT4G13263
+982,f982,c185,45,tair10_AT5G35405.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G35405
+990,f990,c1867,23,tair10_AT2G01175.1,NA,NA,NA,tair10,1,AT2G01175
+1003,f1003,c187,50,tair10_AT2G37120.1,NA,NA,NA,tair10,1,AT2G37120
+1003,f1003,c187,50,tair10_AT3G09735.1,NA,NA,NA,tair10,1,AT3G09735
+1003,f1003,c187,50,tair10_AT3G53370.1,NA,NA,NA,tair10,1,AT3G53370
+1013,f1013,c188,37,tair10_AT3G54040.1,photoassimilate-responsive protein-related,?,NA,tair10,1,AT3G54040
+1013,f1013,c188,37,tair10_AT5G52390.1,photoassimilate-responsive protein-related,?,NA,tair10,1,AT5G52390
+1017,f1017,c1893,24,tair10_AT1G26710.1,NA,?,NA,tair10,1,AT1G26710
+1017,f1017,c1893,24,tair10_AT1G26720.1,NA,?,NA,tair10,1,AT1G26720
+1031,f1031,c1908,50,tair10_AT5G07510.1,glycine-rich,?,NA,tair10,1,AT5G07510
+1032,f1032,c190,42,tair10_AT5G14602.1,NA,?,NA,tair10,1,AT5G14602
+1032,f1032,c190,42,tair10_AT5G18150.1,NA,?,NA,tair10,1,AT5G18150
+1032,f1032,c190,42,tair10_AT5G58375.1,NA,?,NA,tair10,1,AT5G58375
+1039,f1039,c1916,21,tair10_AT5G10780.1,NA,NA,NA,tair10,1,AT5G10780
+1043,f1043,c191,40,tair10_AT1G05575.1,NA,NA,NA,tair10,1,AT1G05575
+1043,f1043,c191,40,tair10_AT2G31945.1,NA,?,NA,tair10,1,AT2G31945
+1062,f1062,c193,46,tair10_AT1G70720.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT1G70720
+1062,f1062,c193,46,tair10_AT3G62820.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT3G62820
+1062,f1062,c193,46,tair10_AT4G25250.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT4G25250
+1073,f1073,c194,35,tair10_AT1G08695.1,SCR,? in both,SCRL,tair10,1,AT1G08695
+1073,f1073,c194,35,tair10_AT1G60983.1,SCR,? in both,SCRL,tair10,1,AT1G60983
+1073,f1073,c194,35,tair10_AT1G60985.1,SCR,? in both,SCRL,tair10,1,AT1G60985
+1073,f1073,c194,35,tair10_AT1G60986.1,SCR,? in both,SCRL,tair10,1,AT1G60986
+1073,f1073,c194,35,tair10_AT1G60987.1,SCR,? in both,SCRL,tair10,1,AT1G60987
+1073,f1073,c194,35,tair10_AT1G60989.1,SCR,? in both,SCRL,tair10,1,AT1G60989
+1073,f1073,c194,35,tair10_AT1G65113.1,SCR,? in both,SCRL,tair10,1,AT1G65113
+1073,f1073,c194,35,tair10_AT2G05117.1,SCR,? in both,SCRL,tair10,1,AT2G05117
+1073,f1073,c194,35,tair10_AT4G10457.1,SCR,? in both,SCRL,tair10,1,AT4G10457
+1073,f1073,c194,35,tair10_AT4G15733.1,SCR,? in both,SCRL,tair10,1,AT4G15733
+1073,f1073,c194,35,tair10_AT4G15735.1,SCR,? in both,SCRL,tair10,1,AT4G15735
+1073,f1073,c194,35,tair10_AT4G22105.1,SCR,? in both,SCRL,tair10,1,AT4G22105
+1073,f1073,c194,35,tair10_AT4G22115.1,SCR,? in both,SCRL,tair10,1,AT4G22115
+1073,f1073,c194,35,tair10_AT5G45875.1,SCR,? in both,SCRL,tair10,1,AT5G45875
+1076,f1076,c1952,41,tair10_AT2G47930.1,arabinogalactan/plastocyanin/LTPâ€¦,?,NA,tair10,1,AT2G47930
+1078,f1078,c1954,37,tair10_AT4G12930.1,NA,?,NA,tair10,1,AT4G12930
+1078,f1078,c1954,37,tair10_AT4G12940.1,NA,?,NA,tair10,1,AT4G12940
+1078,f1078,c1954,37,tair10_AT4G28930.1,NA,?,NA,tair10,1,AT4G28930
+1084,f1084,c195,36,tair10_AT1G52180.1,intrinsic,N,NA,tair10,1,AT1G52180
+1084,f1084,c195,36,tair10_AT2G29870.1,NA,NA,NA,tair10,1,AT2G29870
+1094,f1094,c1970,42,tair10_AT4G30770.1,NA,?,NA,tair10,1,AT4G30770
+1104,f1104,c197,46,tair10_AT1G05210.1,NA,?,NA,tair10,1,AT1G05210
+1104,f1104,c197,46,tair10_AT1G05220.1,NA,?,NA,tair10,1,AT1G05220
+1104,f1104,c197,46,tair10_AT2G32380.1,NA,?,NA,tair10,1,AT2G32380
+1110,f1110,c1986,43,tair10_AT1G62790.1,"protease inhibitor, seed storage, lipid transfer proteins",? in both,NA,tair10,1,AT1G62790
+1110,f1110,c1986,43,tair10_AT4G12360.1,"protease inhibitor, seed storage, lipid transfer proteins",? in both,NA,tair10,1,AT4G12360
+1117,f1117,c1993,50,tair10_AT1G32210.1,NA,NA,NA,tair10,1,AT1G32210
+1119,f1119,c1996,30,tair10_AT3G20450.1,NA,?,NA,tair10,1,AT3G20450
+1124,f1124,c19,44,tair10_AT3G01940.1,NA,?,NA,tair10,1,AT3G01940
+1124,f1124,c19,44,tair10_AT3G01950.1,NA,?,NA,tair10,1,AT3G01950
+1124,f1124,c19,44,tair10_AT3G27027.1,NA,?,NA,tair10,1,AT3G27027
+1124,f1124,c19,44,tair10_AT3G27030.1,NA,?,NA,tair10,1,AT3G27030
+1124,f1124,c19,44,tair10_AT3G48660.1,NA,?,NA,tair10,1,AT3G48660
+1124,f1124,c19,44,tair10_AT5G08391.1,NA,?,NA,tair10,1,AT5G08391
+1124,f1124,c19,44,tair10_AT5G14110.1,NA,?,NA,tair10,1,AT5G14110
+1124,f1124,c19,44,tair10_AT5G40960.1,NA,?,NA,tair10,1,AT5G40960
+1124,f1124,c19,44,tair10_AT5G40970.1,NA,?,NA,tair10,1,AT5G40970
+1124,f1124,c19,44,tair10_AT5G40980.1,NA,?,NA,tair10,1,AT5G40980
+1124,f1124,c19,44,tair10_AT5G50560.1,NA,?,NA,tair10,1,AT5G50560
+1124,f1124,c19,44,tair10_AT5G50660.1,NA,?,NA,tair10,1,AT5G50660
+1124,f1124,c19,44,tair10_AT5G63500.1,NA,?,NA,tair10,1,AT5G63500
+1125,f1125,c1,15,tair10_AT1G15100.1,zinc finger (C3HC4-type RING finger),N,NA,tair10,1,AT1G15100
+1125,f1125,c1,15,tair10_AT1G24580.1,NA,NA,NA,tair10,1,AT1G24580
+1125,f1125,c1,15,tair10_AT1G51930.1,zinc finger (C3HC4-type RING finger),N,NA,tair10,1,AT1G51930
+1125,f1125,c1,15,tair10_AT1G53010.1,zinc finger (C3HC4-type RING finger),N,NA,tair10,1,AT1G53010
+1125,f1125,c1,15,tair10_AT2G01150.1,zinc finger (C3HC4-type RING finger),N,NA,tair10,1,AT2G01150
+1125,f1125,c1,15,tair10_AT2G04240.1,NA,NA,NA,tair10,1,AT2G04240
+1125,f1125,c1,15,tair10_AT2G18670.1,NA,NA,NA,tair10,1,AT2G18670
+1125,f1125,c1,15,tair10_AT2G28920.1,NA,NA,NA,tair10,1,AT2G28920
+1125,f1125,c1,15,tair10_AT2G34000.1,zinc finger (C3HC4-type RING finger),N,NA,tair10,1,AT2G34000
+1125,f1125,c1,15,tair10_AT2G44578.1,NA,NA,NA,tair10,1,AT2G44578
+1125,f1125,c1,15,tair10_AT2G44581.1,NA,NA,NA,tair10,1,AT2G44581
+1125,f1125,c1,15,tair10_AT3G05870.1,NA,NA,NA,tair10,1,AT3G05870
+1125,f1125,c1,15,tair10_AT3G07200.1,NA,NA,NA,tair10,1,AT3G07200
+1125,f1125,c1,15,tair10_AT3G10910.1,NA,NA,NA,tair10,1,AT3G10910
+1125,f1125,c1,15,tair10_AT3G11110.1,NA,NA,NA,tair10,1,AT3G11110
+1125,f1125,c1,15,tair10_AT3G19140.1,zinc finger (C3HC4-type RING finger),N,NA,tair10,1,AT3G19140
+1125,f1125,c1,15,tair10_AT3G43430.1,zinc finger (C3HC4-type RING finger),N,NA,tair10,1,AT3G43430
+1125,f1125,c1,15,tair10_AT3G61460.1,NA,NA,NA,tair10,1,AT3G61460
+1125,f1125,c1,15,tair10_AT4G17245.1,NA,NA,NA,tair10,1,AT4G17245
+1125,f1125,c1,15,tair10_AT4G24015.1,NA,NA,NA,tair10,1,AT4G24015
+1125,f1125,c1,15,tair10_AT5G01880.1,NA,NA,NA,tair10,1,AT5G01880
+1125,f1125,c1,15,tair10_AT5G05280.1,NA,NA,NA,tair10,1,AT5G05280
+1125,f1125,c1,15,tair10_AT5G06490.1,NA,NA,NA,tair10,1,AT5G06490
+1125,f1125,c1,15,tair10_AT5G07040.1,zinc finger (C3HC4-type RING finger),N,NA,tair10,1,AT5G07040
+1125,f1125,c1,15,tair10_AT5G20885.1,zinc finger (C3HC4-type RING finger),N,NA,tair10,1,AT5G20885
+1125,f1125,c1,15,tair10_AT5G41400.1,zinc finger (C3HC4-type RING finger),N,NA,tair10,1,AT5G41400
+1125,f1125,c1,15,tair10_AT5G41430.1,zinc finger (C3HC4-type RING finger),N,NA,tair10,1,AT5G41430
+1125,f1125,c1,15,tair10_AT5G41440.1,zinc finger (C3HC4-type RING finger),N,NA,tair10,1,AT5G41440
+1125,f1125,c1,15,tair10_AT5G41450.1,zinc finger (C3HC4-type RING finger),N,NA,tair10,1,AT5G41450
+1125,f1125,c1,15,tair10_AT5G42200.1,NA,NA,NA,tair10,1,AT5G42200
+1125,f1125,c1,15,tair10_AT5G47610.1,zinc finger (C3HC4-type RING finger),N,NA,tair10,1,AT5G47610
+1135,f1135,c200,49,tair10_AT2G37975.1,NA,?,NA,tair10,1,AT2G37975
+1135,f1135,c200,49,tair10_AT3G54085.1,NA,?,NA,tair10,1,AT3G54085
+1137,f1137,c2011,27,tair10_AT1G59885.1,NA,?,NA,tair10,1,AT1G59885
+1146,f1146,c201,38,tair10_AT1G55265.1,NA,?,NA,tair10,1,AT1G55265
+1146,f1146,c201,38,tair10_AT1G61667.1,NA,?,NA,tair10,1,AT1G61667
+1146,f1146,c201,38,tair10_AT3G07470.1,NA,?,NA,tair10,1,AT3G07470
+1146,f1146,c201,38,tair10_AT5G54530.1,NA,?,NA,tair10,1,AT5G54530
+1157,f1157,c202,33,tair10_AT1G15757.1,defensin-like,? in both,NA,tair10,1,AT1G15757
+1157,f1157,c202,33,tair10_AT1G56553.1,defensin-like,? in both,NA,tair10,1,AT1G56553
+1157,f1157,c202,33,tair10_AT1G58055.1,defensin-like,? in both,NA,tair10,1,AT1G58055
+1157,f1157,c202,33,tair10_AT2G12465.1,defensin-like,? in both,NA,tair10,1,AT2G12465
+1157,f1157,c202,33,tair10_AT2G12475.1,defensin-like,? in both,NA,tair10,1,AT2G12475
+1157,f1157,c202,33,tair10_AT2G20463.1,defensin-like,? in both,NA,tair10,1,AT2G20463
+1157,f1157,c202,33,tair10_AT2G20465.1,defensin-like,? in both,NA,tair10,1,AT2G20465
+1157,f1157,c202,33,tair10_AT2G40995.1,defensin-like,? in both,NA,tair10,1,AT2G40995
+1157,f1157,c202,33,tair10_AT3G63360.1,defensin-like,? in both,NA,tair10,1,AT3G63360
+1157,f1157,c202,33,tair10_AT4G08028.1,defensin-like,? in both,NA,tair10,1,AT4G08028
+1157,f1157,c202,33,tair10_AT5G08505.1,defensin-like,? in both,NA,tair10,1,AT5G08505
+1157,f1157,c202,33,tair10_AT5G27495.1,defensin-like,? in both,NA,tair10,1,AT5G27495
+1157,f1157,c202,33,tair10_AT5G42223.1,defensin-like,? in both,NA,tair10,1,AT5G42223
+1157,f1157,c202,33,tair10_AT5G42232.1,defensin-like,? in both,NA,tair10,1,AT5G42232
+1157,f1157,c202,33,tair10_AT5G42235.1,defensin-like,? in both,NA,tair10,1,AT5G42235
+1157,f1157,c202,33,tair10_AT5G59105.1,defensin-like,? in both,NA,tair10,1,AT5G59105
+1158,f1158,c2030,33,tair10_AT1G30515.1,NA,?,NA,tair10,1,AT1G30515
+1158,f1158,c2030,33,tair10_AT4G21740.1,NA,?,NA,tair10,1,AT4G21740
+1165,f1165,c2038,36,tair10_AT5G22970.1,SI S1,? in both,NA,tair10,1,AT5G22970
+1165,f1165,c2038,36,tair10_AT5G60000.1,SI S1,? in both,NA,tair10,1,AT5G60000
+1167,f1167,c203,38,tair10_AT1G27290.1,NA,NA,NA,tair10,1,AT1G27290
+1174,f1174,c2046,33,tair10_AT2G14110.1,NA,NA,NA,tair10,1,AT2G14110
+1178,f1178,c204,49,tair10_AT2G24810.1,thaumatin,N,NA,tair10,1,AT2G24810
+1189,f1189,c205,44,tair10_AT1G72060.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT1G72060
+1194,f1194,c2064,48,tair10_AT3G05810.1,NA,NA,NA,tair10,1,AT3G05810
+1194,f1194,c2064,48,tair10_AT5G26800.1,NA,NA,NA,tair10,1,AT5G26800
+1200,f1200,c206,46,tair10_AT3G25220.1,peptidyl-prolyl cis-trans isomerases,N,NA,tair10,1,AT3G25220
+1200,f1200,c206,46,tair10_AT5G48580.1,peptidyl-prolyl cis-trans isomerases,N,NA,tair10,1,AT5G48580
+1233,f1233,c20,18,tair10_AT1G34245.1,EPF1 tribe,Y,EPF,tair10,1,AT1G34245
+1233,f1233,c20,18,tair10_AT1G71866.1,NA,NA,EPF,tair10,1,AT1G71866
+1233,f1233,c20,18,tair10_AT1G80133.1,EPF1 tribe,Y,EPF,tair10,1,AT1G80133
+1233,f1233,c20,18,tair10_AT2G20875.1,EPF1,Y,EPF,tair10,1,AT2G20875
+1233,f1233,c20,18,tair10_AT3G13898.1,NA,NA,EPF,tair10,1,AT3G13898
+1233,f1233,c20,18,tair10_AT3G22820.1,EPF1 tribe,Y,EPF,tair10,1,AT3G22820
+1233,f1233,c20,18,tair10_AT4G14723.1,EPF1 tribe,Y,EPF,tair10,1,AT4G14723
+1233,f1233,c20,18,tair10_AT4G37810.1,EPF1 tribe,Y,EPF,tair10,1,AT4G37810
+1233,f1233,c20,18,tair10_AT5G10310.1,EPF1 tribe,Y,EPF,tair10,1,AT5G10310
+1239,f1239,c2106,37,tair10_AT2G23755.1,NA,?,NA,tair10,1,AT2G23755
+1252,f1252,c2119,48,tair10_AT5G45040.1,NA,NA,NA,tair10,1,AT5G45040
+1253,f1253,c211,39,tair10_AT3G52105.1,NA,?,NA,tair10,1,AT3G52105
+1263,f1263,c212,45,tair10_AT1G09330.1,NA,NA,NA,tair10,1,AT1G09330
+1284,f1284,c214,44,tair10_AT2G20515.1,NA,?,NA,tair10,1,AT2G20515
+1296,f1296,c2160,32,tair10_AT3G43110.1,NA,NA,NA,tair10,1,AT3G43110
+1296,f1296,c2160,32,tair10_AT5G20790.1,NA,NA,NA,tair10,1,AT5G20790
+1328,f1328,c2192,38,tair10_AT1G16825.1,NA,NA,NA,tair10,1,AT1G16825
+1328,f1328,c2192,38,tair10_AT1G78895.1,NA,NA,NA,tair10,1,AT1G78895
+1336,f1336,c21,23,tair10_AT1G28335.1,cystein-rich,? in both,NA,tair10,1,AT1G28335
+1336,f1336,c21,23,tair10_AT1G49435.1,cystein-rich,? in both,NA,tair10,1,AT1G49435
+1336,f1336,c21,23,tair10_AT2G10535.1,cystein-rich,? in both,NA,tair10,1,AT2G10535
+1336,f1336,c21,23,tair10_AT2G14935.1,cystein-rich,? in both,NA,tair10,1,AT2G14935
+1336,f1336,c21,23,tair10_AT2G15535.1,cystein-rich,? in both,NA,tair10,1,AT2G15535
+1336,f1336,c21,23,tair10_AT2G22121.1,cystein-rich,? in both,NA,tair10,1,AT2G22121
+1336,f1336,c21,23,tair10_AT2G25344.1,cystein-rich,? in both,NA,tair10,1,AT2G25344
+1336,f1336,c21,23,tair10_AT2G27145.1,LCR,? in both,NA,tair10,1,AT2G27145
+1336,f1336,c21,23,tair10_AT2G28355.1,LCR,? in both,NA,tair10,1,AT2G28355
+1336,f1336,c21,23,tair10_AT2G28405.1,LCR,? in both,NA,tair10,1,AT2G28405
+1336,f1336,c21,23,tair10_AT3G04943.1,cystein-rich,? in both,NA,tair10,1,AT3G04943
+1336,f1336,c21,23,tair10_AT3G04945.1,cystein-rich,? in both,NA,tair10,1,AT3G04945
+1336,f1336,c21,23,tair10_AT3G20993.1,cystein-rich,? in both,NA,tair10,1,AT3G20993
+1336,f1336,c21,23,tair10_AT3G20997.1,cystein-rich,? in both,NA,tair10,1,AT3G20997
+1336,f1336,c21,23,tair10_AT3G23165.1,cystein-rich,? in both,NA,tair10,1,AT3G23165
+1336,f1336,c21,23,tair10_AT3G23167.1,cystein-rich,? in both,NA,tair10,1,AT3G23167
+1336,f1336,c21,23,tair10_AT3G25265.1,cystein-rich,? in both,NA,tair10,1,AT3G25265
+1336,f1336,c21,23,tair10_AT3G43083.1,LCR,? in both,NA,tair10,1,AT3G43083
+1336,f1336,c21,23,tair10_AT3G43505.1,cystein-rich,? in both,NA,tair10,1,AT3G43505
+1336,f1336,c21,23,tair10_AT3G61172.1,cystein-rich,? in both,NA,tair10,1,AT3G61172
+1336,f1336,c21,23,tair10_AT3G61175.1,cystein-rich,? in both,NA,tair10,1,AT3G61175
+1336,f1336,c21,23,tair10_AT3G61177.1,cystein-rich,? in both,NA,tair10,1,AT3G61177
+1336,f1336,c21,23,tair10_AT3G61182.1,cystein-rich,? in both,NA,tair10,1,AT3G61182
+1336,f1336,c21,23,tair10_AT4G09153.1,cystein-rich,? in both,NA,tair10,1,AT4G09153
+1336,f1336,c21,23,tair10_AT4G09647.1,cystein-rich,? in both,NA,tair10,1,AT4G09647
+1336,f1336,c21,23,tair10_AT4G09795.1,cystein-rich,? in both,NA,tair10,1,AT4G09795
+1336,f1336,c21,23,tair10_AT4G09984.1,cystein-rich,? in both,NA,tair10,1,AT4G09984
+1336,f1336,c21,23,tair10_AT4G10595.1,cystein-rich,? in both,NA,tair10,1,AT4G10595
+1336,f1336,c21,23,tair10_AT4G10603.1,cystein-rich,? in both,NA,tair10,1,AT4G10603
+1336,f1336,c21,23,tair10_AT4G11485.1,LCR,? in both,NA,tair10,1,AT4G11485
+1336,f1336,c21,23,tair10_AT4G11760.1,LCR,? in both,NA,tair10,1,AT4G11760
+1336,f1336,c21,23,tair10_AT4G13095.1,cystein-rich,? in both,NA,tair10,1,AT4G13095
+1336,f1336,c21,23,tair10_AT4G19038.1,cystein-rich,? in both,NA,tair10,1,AT4G19038
+1336,f1336,c21,23,tair10_AT4G19905.1,cystein-rich,? in both,NA,tair10,1,AT4G19905
+1336,f1336,c21,23,tair10_AT4G29273.1,cystein-rich,? in both,NA,tair10,1,AT4G29273
+1336,f1336,c21,23,tair10_AT4G29280.1,cystein-rich,? in both,NA,tair10,1,AT4G29280
+1336,f1336,c21,23,tair10_AT4G29283.1,cystein-rich,? in both,NA,tair10,1,AT4G29283
+1336,f1336,c21,23,tair10_AT4G29285.1,cystein-rich,? in both,NA,tair10,1,AT4G29285
+1336,f1336,c21,23,tair10_AT4G29290.1,cystein-rich,? in both,NA,tair10,1,AT4G29290
+1336,f1336,c21,23,tair10_AT4G29300.1,cystein-rich,? in both,NA,tair10,1,AT4G29300
+1336,f1336,c21,23,tair10_AT4G29305.1,cystein-rich,? in both,NA,tair10,1,AT4G29305
+1336,f1336,c21,23,tair10_AT4G30070.1,cystein-rich,? in both,NA,tair10,1,AT4G30070
+1336,f1336,c21,23,tair10_AT4G30074.1,cystein-rich,? in both,NA,tair10,1,AT4G30074
+1336,f1336,c21,23,tair10_AT5G38317.1,cystein-rich,? in both,NA,tair10,1,AT5G38317
+1336,f1336,c21,23,tair10_AT5G38330.1,cystein-rich,? in both,NA,tair10,1,AT5G38330
+1336,f1336,c21,23,tair10_AT5G42242.1,cystein-rich,? in both,NA,tair10,1,AT5G42242
+1336,f1336,c21,23,tair10_AT5G42797.1,cystein-rich,? in both,NA,tair10,1,AT5G42797
+1336,f1336,c21,23,tair10_AT5G47075.1,cystein-rich,? in both,NA,tair10,1,AT5G47075
+1336,f1336,c21,23,tair10_AT5G47077.1,cystein-rich,? in both,NA,tair10,1,AT5G47077
+1336,f1336,c21,23,tair10_AT5G47175.1,cystein-rich,? in both,NA,tair10,1,AT5G47175
+1336,f1336,c21,23,tair10_AT5G48543.1,LCR,? in both,NA,tair10,1,AT5G48543
+1336,f1336,c21,23,tair10_AT5G48905.1,cystein-rich,? in both,NA,tair10,1,AT5G48905
+1346,f1346,c220,49,tair10_AT4G00860.1,ozone-induced,N,NA,tair10,1,AT4G00860
+1368,f1368,c222,33,tair10_AT2G41475.1,embryo-specific,?,NA,tair10,1,AT2G41475
+1368,f1368,c222,33,tair10_AT5G62200.1,embryo-specific,?,NA,tair10,1,AT5G62200
+1388,f1388,c224,42,tair10_AT1G11500.1,NA,?,NA,tair10,1,AT1G11500
+1388,f1388,c224,42,tair10_AT2G32280.1,NA,?,NA,tair10,1,AT2G32280
+1388,f1388,c224,42,tair10_AT4G21310.1,NA,?,NA,tair10,1,AT4G21310
+1391,f1391,c2252,36,tair10_AT5G45469.1,NA,NA,NA,tair10,1,AT5G45469
+1442,f1442,c22,35,tair10_AT1G30795.1,NA,?,NA,tair10,1,AT1G30795
+1442,f1442,c22,35,tair10_AT2G22510.1,hydroxyP-rich glycoprotein,?,NA,tair10,1,AT2G22510
+1442,f1442,c22,35,tair10_AT2G34870.1,NA,?,NA,tair10,1,AT2G34870
+1442,f1442,c22,35,tair10_AT4G38080.1,hydroxyP-rich glycoprotein,?,NA,tair10,1,AT4G38080
+1442,f1442,c22,35,tair10_AT5G09520.1,hydroxyP-rich glycoprotein,?,NA,tair10,1,AT5G09520
+1453,f1453,c230,45,tair10_AT2G06925.1,phospholipase,N,NA,tair10,1,AT2G06925
+1469,f1469,c2324,29,tair10_AT1G20470.1,NA,NA,NA,tair10,1,AT1G20470
+1485,f1485,c233,50,tair10_AT1G09645.1,NA,?,NA,tair10,1,AT1G09645
+1485,f1485,c233,50,tair10_AT1G57765.1,NA,?,NA,tair10,1,AT1G57765
+1528,f1528,c237,37,tair10_AT1G49800.1,PIPL1,?,PIP/PIPL,tair10,1,AT1G49800
+1528,f1528,c237,37,tair10_AT2G23270.1,PIP3,?,PIP/PIPL,tair10,1,AT2G23270
+1528,f1528,c237,37,tair10_AT4G37290.1,PIP2,?,PIP/PIPL,tair10,1,AT4G37290
+1539,f1539,c238,45,tair10_AT5G14105.1,NA,?,NA,tair10,1,AT5G14105
+1540,f1540,c2390,48,tair10_AT1G24520.1,arabinogalactan/plastocyanin,?,NA,tair10,1,AT1G24520
+1540,f1540,c2390,48,tair10_AT3G26110.1,hydroxyP-rich glycoprotein/plastocyanin-like,N,NA,tair10,1,AT3G26110
+1546,f1546,c2396,33,tair10_AT5G64620.1,pectinesterase inhibitor,N,NA,tair10,1,AT5G64620
+1550,f1550,c239,32,tair10_AT1G56415.1,cystein-rich,? in both,NA,tair10,1,AT1G56415
+1550,f1550,c239,32,tair10_AT2G20595.1,thionin,? in both,NA,tair10,1,AT2G20595
+1550,f1550,c239,32,tair10_AT2G20597.1,thionin,? in both,NA,tair10,1,AT2G20597
+1550,f1550,c239,32,tair10_AT2G20605.1,thionin,? in both,NA,tair10,1,AT2G20605
+1550,f1550,c239,32,tair10_AT2G20618.1,thionin,? in both,NA,tair10,1,AT2G20618
+1550,f1550,c239,32,tair10_AT2G20619.1,thionin,? in both,NA,tair10,1,AT2G20619
+1550,f1550,c239,32,tair10_AT3G44718.1,thionin,? in both,NA,tair10,1,AT3G44718
+1550,f1550,c239,32,tair10_AT5G26673.1,thionin/stigma specific,? in both,NA,tair10,1,AT5G26673
+1550,f1550,c239,32,tair10_AT5G26692.1,thionin,? in both,NA,tair10,1,AT5G26692
+1550,f1550,c239,32,tair10_AT5G26717.1,thionin,? in both,NA,tair10,1,AT5G26717
+1550,f1550,c239,32,tair10_AT5G58412.1,thionin,? in both,NA,tair10,1,AT5G58412
+1550,f1550,c239,32,tair10_AT5G63063.1,thionin/stigma specific,? in both,NA,tair10,1,AT5G63063
+1550,f1550,c239,32,tair10_AT5G63085.1,thionin,? in both,NA,tair10,1,AT5G63085
+1550,f1550,c239,32,tair10_AT5G63087.1,thionin,? in both,NA,tair10,1,AT5G63087
+1572,f1572,c241,43,tair10_AT3G01130.1,AUCSIA-related tribe,Y,NA,tair10,1,AT3G01130
+1572,f1572,c241,43,tair10_AT5G15320.1,AUCSIA-related tribe,Y,NA,tair10,1,AT5G15320
+1583,f1583,c242,40,tair10_ATCG00550.1,plast,N,NA,tair10,1,ATCG00550
+1615,f1615,c245,47,tair10_AT3G59280.1,TRX1/signaling,?,NA,tair10,1,AT3G59280
+1615,f1615,c245,47,tair10_AT5G61880.1,TRX1/signaling,?,NA,tair10,1,AT5G61880
+1625,f1625,c246,48,tair10_AT3G05230.1,signal peptidase,N,NA,tair10,1,AT3G05230
+1625,f1625,c246,48,tair10_AT5G27430.1,signal peptidase,N,NA,tair10,1,AT5G27430
+1635,f1635,c2479,45,tair10_AT5G42530.1,NA,NA,NA,tair10,1,AT5G42530
+1667,f1667,c250,50,tair10_ATCG01070.1,in plast,N,NA,tair10,1,ATCG01070
+1667,f1667,c250,50,tair10_ATMG00650.1,in mitochondrion,N,NA,tair10,1,ATMG00650
+1674,f1674,c2516,36,tair10_AT1G13830.1,arabinogalactan/plastocyanin/LTPâ€¦,?,NA,tair10,1,AT1G13830
+1674,f1674,c2516,36,tair10_AT2G03505.1,"protease inhibitor, seed storage, lipid transfer proteins/hydrolase/plastocyanin/AGP",? in both,NA,tair10,1,AT2G03505
+1694,f1694,c2534,42,tair10_AT3G44140.1,NA,NA,NA,tair10,1,AT3G44140
+1700,f1700,c253,37,tair10_ATCG00600.1,plast,N,NA,tair10,1,ATCG00600
+1743,f1743,c257,46,tair10_AT1G48590.1,NA,NA,NA,tair10,1,AT1G48590
+1763,f1763,c2598,35,tair10_AT5G46873.1,defensin-like,? in both,NA,tair10,1,AT5G46873
+1763,f1763,c2598,35,tair10_AT5G46877.1,defensin-like,? in both,NA,tair10,1,AT5G46877
+1765,f1765,c25,39,tair10_AT1G19610.1,defensin-like,? in both,NA,tair10,1,AT1G19610
+1765,f1765,c25,39,tair10_AT1G35537.1,defensin-like,? in both,NA,tair10,1,AT1G35537
+1765,f1765,c25,39,tair10_AT1G55010.1,defensin-like,? in both,NA,tair10,1,AT1G55010
+1765,f1765,c25,39,tair10_AT1G61070.1,defensin-like,? in both,NA,tair10,1,AT1G61070
+1765,f1765,c25,39,tair10_AT1G75830.1,defensin-like,? in both,NA,tair10,1,AT1G75830
+1765,f1765,c25,39,tair10_AT2G02100.1,defensin-like,? in both,NA,tair10,1,AT2G02100
+1765,f1765,c25,39,tair10_AT2G02120.1,defensin-like,? in both,NA,tair10,1,AT2G02120
+1765,f1765,c25,39,tair10_AT2G02130.1,defensin-like,? in both,NA,tair10,1,AT2G02130
+1765,f1765,c25,39,tair10_AT2G02140.1,defensin-like,? in both,NA,tair10,1,AT2G02140
+1765,f1765,c25,39,tair10_AT2G02147.1,defensin-like,? in both,NA,tair10,1,AT2G02147
+1765,f1765,c25,39,tair10_AT2G19893.1,"methytransferase, defensin-like",N,NA,tair10,1,AT2G19893
+1765,f1765,c25,39,tair10_AT2G26010.1,defensin-like,? in both,NA,tair10,1,AT2G26010
+1765,f1765,c25,39,tair10_AT2G26020.1,defensin-like,? in both,NA,tair10,1,AT2G26020
+1765,f1765,c25,39,tair10_AT2G31953.1,defensin-like,? in both,NA,tair10,1,AT2G31953
+1765,f1765,c25,39,tair10_AT2G31957.1,defensin-like,? in both,NA,tair10,1,AT2G31957
+1765,f1765,c25,39,tair10_AT3G04903.1,NA,NA,NA,tair10,1,AT3G04903
+1765,f1765,c25,39,tair10_AT3G27831.1,defensin-like,? in both,NA,tair10,1,AT3G27831
+1765,f1765,c25,39,tair10_AT3G27835.1,defensin-like,? in both,NA,tair10,1,AT3G27835
+1765,f1765,c25,39,tair10_AT4G29033.1,defensin-like,? in both,NA,tair10,1,AT4G29033
+1765,f1765,c25,39,tair10_AT5G44420.1,defensin-like,? in both,NA,tair10,1,AT5G44420
+1765,f1765,c25,39,tair10_AT5G44430.1,defensin-like,? in both,NA,tair10,1,AT5G44430
+1765,f1765,c25,39,tair10_AT5G63660.1,defensin-like,? in both,NA,tair10,1,AT5G63660
+1776,f1776,c260,42,tair10_AT5G16250.1,NA,NA,NA,tair10,1,AT5G16250
+1776,f1776,c260,42,tair10_AT5G36710.1,NA,NA,NA,tair10,1,AT5G36710
+1776,f1776,c260,42,tair10_AT5G36800.1,NA,NA,NA,tair10,1,AT5G36800
+1787,f1787,c261,36,tair10_AT2G34585.1,NA,?,NA,tair10,1,AT2G34585
+1787,f1787,c261,36,tair10_AT3G52420.1,outer envelope protein,N,NA,tair10,1,AT3G52420
+1787,f1787,c261,36,tair10_AT3G63160.1,NA,NA,NA,tair10,1,AT3G63160
+1791,f1791,c2623,46,tair10_AT1G29418.1,NA,?,NA,tair10,1,AT1G29418
+1792,f1792,c2624,42,tair10_AT1G18650.1,hydrolase/betaglucosidase,N,NA,tair10,1,AT1G18650
+1792,f1792,c2624,42,tair10_AT5G08000.1,hydrolase/betaglucosidase,N,NA,tair10,1,AT5G08000
+1798,f1798,c262,49,tair10_AT1G36980.1,NA,?,NA,tair10,1,AT1G36980
+1823,f1823,c2652,35,tair10_AT5G42635.1,NA,NA,NA,tair10,1,AT5G42635
+1831,f1831,c265,43,tair10_AT1G10030.1,ERG28,N,NA,tair10,1,AT1G10030
+1852,f1852,c267,38,tair10_AT1G52565.1,NA,?,NA,tair10,1,AT1G52565
+1852,f1852,c267,38,tair10_AT3G15760.1,NA,?,NA,tair10,1,AT3G15760
+1873,f1873,c26,22,tair10_AT2G11910.1,NA,NA,NA,tair10,1,AT2G11910
+1873,f1873,c26,22,tair10_AT2G22080.1,NA,?,NA,tair10,1,AT2G22080
+1873,f1873,c26,22,tair10_AT5G17590.1,nuclear proteins,N,NA,tair10,1,AT5G17590
+1884,f1884,c270,50,tair10_AT5G14030.1,translocon-associated protein beta,N,NA,tair10,1,AT5G14030
+1895,f1895,c271,39,tair10_AT2G17880.1,NA,NA,NA,tair10,1,AT2G17880
+1906,f1906,c272,30,tair10_AT5G28450.1,NA,NA,NA,tair10,1,AT5G28450
+1911,f1911,c2734,45,tair10_AT2G24762.1,NA,NA,NA,tair10,1,AT2G24762
+1911,f1911,c2734,45,tair10_AT4G31730.1,NA,NA,NA,tair10,1,AT4G31730
+1917,f1917,c273,37,tair10_AT1G54860.1,Putative GPI-anchored protein,N,NA,tair10,1,AT1G54860
+1917,f1917,c273,37,tair10_AT3G06035.1,Putative GPI-anchored protein,N,NA,tair10,1,AT3G06035
+1917,f1917,c273,37,tair10_AT5G19230.1,Putative GPI-anchored protein,N,NA,tair10,1,AT5G19230
+1917,f1917,c273,37,tair10_AT5G19240.1,Putative GPI-anchored protein,N,NA,tair10,1,AT5G19240
+1917,f1917,c273,37,tair10_AT5G19250.1,Putative GPI-anchored protein,N,NA,tair10,1,AT5G19250
+1928,f1928,c274,32,tair10_AT4G24960.1,membrane transport,N,NA,tair10,1,AT4G24960
+1928,f1928,c274,32,tair10_AT5G50720.1,membrane transport,N,NA,tair10,1,AT5G50720
+1933,f1933,c2754,44,tair10_AT1G75810.1,NA,NA,NA,tair10,1,AT1G75810
+1960,f1960,c277,24,tair10_AT1G19380.1,NA,NA,NA,tair10,1,AT1G19380
+1960,f1960,c277,24,tair10_AT4G36660.1,NA,NA,NA,tair10,1,AT4G36660
+1960,f1960,c277,24,tair10_AT5G65650.1,NA,NA,NA,tair10,1,AT5G65650
+1961,f1961,c2780,43,tair10_AT5G52780.1,NA,NA,NA,tair10,1,AT5G52780
+1964,f1964,c2783,50,tair10_AT1G17090.1,NA,NA,NA,tair10,1,AT1G17090
+2012,f2012,c2827,41,tair10_AT2G28507.1,NA,?,NA,tair10,1,AT2G28507
+2026,f2026,c2840,46,tair10_AT4G29460.1,phospholipase,N,NA,tair10,1,AT4G29460
+2026,f2026,c2840,46,tair10_AT4G29470.1,phospholipase,N,NA,tair10,1,AT4G29470
+2036,f2036,c2850,39,tair10_AT2G37478.1,Conserved peptide upstream ORF,N,NA,tair10,1,AT2G37478
+2036,f2036,c2850,39,tair10_AT3G53668.1,Conserved peptide upstream ORF,N,NA,tair10,1,AT3G53668
+2039,f2039,c2853,40,tair10_AT3G30160.1,NA,NA,NA,tair10,1,AT3G30160
+2050,f2050,c2863,48,tair10_AT1G36622.1,NA,?,NA,tair10,1,AT1G36622
+2050,f2050,c2863,48,tair10_AT1G36640.1,NA,?,NA,tair10,1,AT1G36640
+2077,f2077,c288,37,tair10_AT1G07795.1,NA,NA,NA,tair10,1,AT1G07795
+2077,f2077,c288,37,tair10_AT2G28725.1,NA,?,NA,tair10,1,AT2G28725
+2077,f2077,c288,37,tair10_AT2G37530.1,NA,?,NA,tair10,1,AT2G37530
+2086,f2086,c2898,43,tair10_AT1G56320.1,NA,?,NA,tair10,1,AT1G56320
+2088,f2088,c289,46,tair10_AT3G15395.1,NA,NA,NA,tair10,1,AT3G15395
+2104,f2104,c2913,49,tair10_AT1G50900.1,NA,NA,NA,tair10,1,AT1G50900
+2111,f2111,c291,31,tair10_AT5G19860.1,NA,?,NA,tair10,1,AT5G19860
+2143,f2143,c294,35,tair10_AT2G20700.1,NA,?,NA,tair10,1,AT2G20700
+2143,f2143,c294,35,tair10_AT4G26466.1,NA,?,NA,tair10,1,AT4G26466
+2143,f2143,c294,35,tair10_AT5G56170.1,NA,?,NA,tair10,1,AT5G56170
+2175,f2175,c297,34,tair10_AT3G01700.1,"protease inhibitor, seed storage, lipid transfer proteins/hydrolase/plastocyanin/AGP",? in both,NA,tair10,1,AT3G01700
+2175,f2175,c297,34,tair10_AT3G27416.1,"protease inhibitor, seed storage, lipid transfer proteins/hydrolase/plastocyanin/AGP",? in both,NA,tair10,1,AT3G27416
+2175,f2175,c297,34,tair10_AT5G14380.1,"protease inhibitor, seed storage, lipid transfer proteins/hydrolase/plastocyanin/AGP",? in both,NA,tair10,1,AT5G14380
+2198,f2198,c29,35,tair10_AT2G31980.1,cysteine protease inhibitor,N,NA,tair10,1,AT2G31980
+2198,f2198,c29,35,tair10_AT2G40880.1,cysteine protease inhibitor,N,NA,tair10,1,AT2G40880
+2198,f2198,c29,35,tair10_AT4G16500.1,cysteine protease inhibitor,N,NA,tair10,1,AT4G16500
+2198,f2198,c29,35,tair10_AT5G47550.1,cysteine protease inhibitor,N,NA,tair10,1,AT5G47550
+2229,f2229,c302,38,tair10_AT3G47070.1,NA,?,NA,tair10,1,AT3G47070
+2239,f2239,c303,42,tair10_AT1G07960.1,protein disulfide isomerase,N,NA,tair10,1,AT1G07960
+2264,f2264,c3062,45,tair10_AT2G24395.1,NA,NA,NA,tair10,1,AT2G24395
+2275,f2275,c3073,49,tair10_AT5G46871.1,defensin-like,? in both,NA,tair10,1,AT5G46871
+2275,f2275,c3073,49,tair10_AT5G46874.1,defensin-like,? in both,NA,tair10,1,AT5G46874
+2291,f2291,c3088,48,tair10_AT3G43720.1,"protease inhibitor, seed storage, lipid transfer proteins",? in both,NA,tair10,1,AT3G43720
+2305,f2305,c30,41,tair10_AT4G10265.1,wound-responsive,?,NA,tair10,1,AT4G10265
+2305,f2305,c30,41,tair10_AT4G10270.1,NA,NA,NA,tair10,1,AT4G10270
+2305,f2305,c30,41,tair10_AT4G28240.1,NA,NA,NA,tair10,1,AT4G28240
+2326,f2326,c311,22,tair10_AT1G75717.1,NA,NA,NA,tair10,1,AT1G75717
+2346,f2346,c313,50,tair10_AT5G20165.1,NA,?,NA,tair10,1,AT5G20165
+2368,f2368,c315,49,tair10_AT4G26710.1,ATP synthase subunit H,N,NA,tair10,1,AT4G26710
+2368,f2368,c315,49,tair10_AT5G55290.1,ATP synthase subunit H,N,NA,tair10,1,AT5G55290
+2387,f2387,c3178,45,tair10_AT1G49500.1,NA,?,NA,tair10,1,AT1G49500
+2387,f2387,c3178,45,tair10_AT3G19030.1,NA,NA,NA,tair10,1,AT3G19030
+2412,f2412,c31,35,tair10_AT1G77370.1,glutaredoxin/CXIP1,N,NA,tair10,1,AT1G77370
+2412,f2412,c31,35,tair10_AT3G54900.1,glutaredoxin/CXIP1,N,NA,tair10,1,AT3G54900
+2412,f2412,c31,35,tair10_AT5G20500.1,glutaredoxin/CXIP1,N,NA,tair10,1,AT5G20500
+2423,f2423,c320,39,tair10_AT3G44020.1,NA,NA,NA,tair10,1,AT3G44020
+2423,f2423,c320,39,tair10_AT5G43260.1,DNA-J related,N,NA,tair10,1,AT5G43260
+2425,f2425,c3211,44,tair10_AT3G45320.1,NA,?,NA,tair10,1,AT3G45320
+2425,f2425,c3211,44,tair10_AT5G60330.1,NA,?,NA,tair10,1,AT5G60330
+2463,f2463,c324,42,tair10_AT5G53650.1,NA,?,NA,tair10,1,AT5G53650
+2471,f2471,c3258,43,tair10_AT3G01230.1,NA,?,NA,tair10,1,AT3G01230
+2471,f2471,c3258,43,tair10_AT3G01240.1,NA,?,NA,tair10,1,AT3G01240
+2508,f2508,c3292,50,tair10_AT2G07692.1,NA,NA,NA,tair10,1,AT2G07692
+2508,f2508,c3292,50,tair10_ATMG01300.1,NA,NA,NA,tair10,1,ATMG01300
+2522,f2522,c3307,50,tair10_AT2G37600.1,NA,NA,NA,tair10,1,AT2G37600
+2525,f2525,c330,26,tair10_AT2G41997.1,defensin-like,? in both,NA,tair10,1,AT2G41997
+2536,f2536,c331,43,tair10_AT2G24693.1,defensin-like/beta-gal/LCR,? in both,NA,tair10,1,AT2G24693
+2538,f2538,c3321,42,tair10_AT2G46390.1,NA,?,NA,tair10,1,AT2G46390
+2547,f2547,c332,41,tair10_AT1G52720.1,NA,?,NA,tair10,1,AT1G52720
+2547,f2547,c332,41,tair10_AT3G15630.1,NA,NA,NA,tair10,1,AT3G15630
+2558,f2558,c333,34,tair10_ATCG00080.1,plast,N,NA,tair10,1,ATCG00080
+2569,f2569,c334,49,tair10_AT1G03730.1,NA,NA,NA,tair10,1,AT1G03730
+2569,f2569,c334,49,tair10_AT4G03600.1,NA,NA,NA,tair10,1,AT4G03600
+2569,f2569,c334,49,tair10_AT4G28330.1,NA,NA,NA,tair10,1,AT4G28330
+2569,f2569,c334,49,tair10_AT4G28340.1,NA,NA,NA,tair10,1,AT4G28340
+2569,f2569,c334,49,tair10_AT5G50175.1,NA,?,NA,tair10,1,AT5G50175
+2580,f2580,c335,38,tair10_AT1G06135.1,IDA tribe,Y,IDA/IDL,tair10,1,AT1G06135
+2580,f2580,c335,38,tair10_AT1G06137.1,IDA tribe,Y,IDA/IDL,tair10,1,AT1G06137
+2580,f2580,c335,38,tair10_AT2G31335.1,IDA tribe,Y,IDA/IDL,tair10,1,AT2G31335
+2580,f2580,c335,38,tair10_AT2G31345.1,IDA tribe,Y,IDA/IDL,tair10,1,AT2G31345
+2591,f2591,c336,47,tair10_AT3G61980.1,serine protease inhibitor,N,NA,tair10,1,AT3G61980
+2591,f2591,c336,47,tair10_AT4G01575.1,serine protease inhibitor,N,NA,tair10,1,AT4G01575
+2612,f2612,c338,49,tair10_AT4G31130.1,NA,?,NA,tair10,1,AT4G31130
+2620,f2620,c3398,38,tair10_AT3G22530.1,NA,NA,NA,tair10,1,AT3G22530
+2622,f2622,c339,47,tair10_AT5G26330.1,"protease inhibitor, seed storage, lipid transfer proteins/hydrolase/plastocyanin/AGP",? in both,NA,tair10,1,AT5G26330
+2632,f2632,c3408,48,tair10_AT1G25472.1,NA,NA,NA,tair10,1,AT1G25472
+2632,f2632,c3408,48,tair10_AT1G68552.1,NA,NA,NA,tair10,1,AT1G68552
+2656,f2656,c342,49,tair10_AT1G05780.1,NA,?,NA,tair10,1,AT1G05780
+2656,f2656,c342,49,tair10_AT2G31710.1,NA,?,NA,tair10,1,AT2G31710
+2667,f2667,c343,45,tair10_AT3G29170.1,NA,NA,NA,tair10,1,AT3G29170
+2684,f2684,c3455,48,tair10_AT1G70040.1,NA,?,NA,tair10,1,AT1G70040
+2684,f2684,c3455,48,tair10_AT1G70120.1,NA,?,NA,tair10,1,AT1G70120
+2690,f2690,c3460,40,tair10_AT4G07965.1,NA,NA,NA,tair10,1,AT4G07965
+2691,f2691,c3461,39,tair10_AT3G44716.1,NA,?,NA,tair10,1,AT3G44716
+2700,f2700,c346,43,tair10_AT5G64816.1,NA,?,NA,tair10,1,AT5G64816
+2714,f2714,c3482,50,tair10_AT3G06600.1,NA,NA,NA,tair10,1,AT3G06600
+2733,f2733,c349,50,tair10_AT1G53035.1,NA,?,NA,tair10,1,AT1G53035
+2733,f2733,c349,50,tair10_AT3G15358.1,NA,?,NA,tair10,1,AT3G15358
+2744,f2744,c350,50,tair10_ATCG01080.1,plast,N,NA,tair10,1,ATCG01080
+2755,f2755,c351,50,tair10_ATCG00580.1,NA,NA,NA,tair10,1,ATCG00580
+2764,f2764,c352,45,tair10_AT1G17410.1,NDPK,N,NA,tair10,1,AT1G17410
+2764,f2764,c352,45,tair10_AT4G09320.1,NDPK,N,NA,tair10,1,AT4G09320
+2792,f2792,c3556,49,tair10_AT1G72530.1,NA,NA,NA,tair10,1,AT1G72530
+2807,f2807,c356,46,tair10_AT4G29735.1,NA,?,NA,tair10,1,AT4G29735
+2817,f2817,c3579,46,tair10_AT1G19500.1,NA,?,NA,tair10,1,AT1G19500
+2817,f2817,c3579,46,tair10_AT2G35765.1,NA,?,NA,tair10,1,AT2G35765
+2818,f2818,c357,43,tair10_AT2G17850.1,NA,?,NA,tair10,1,AT2G17850
+2829,f2829,c358,50,tair10_AT5G08335.1,NA,NA,NA,tair10,1,AT5G08335
+2829,f2829,c358,50,tair10_AT5G23320.1,methyltransferase,N,NA,tair10,1,AT5G23320
+2832,f2832,c3592,49,tair10_AT5G10625.1,NA,NA,NA,tair10,1,AT5G10625
+2832,f2832,c3592,49,tair10_AT5G24860.1,NA,NA,NA,tair10,1,AT5G24860
+2863,f2863,c361,41,tair10_AT1G16850.1,NA,?,NA,tair10,1,AT1G16850
+2863,f2863,c361,41,tair10_AT5G64820.1,NA,?,NA,tair10,1,AT5G64820
+2886,f2886,c3640,42,tair10_AT2G20390.1,NA,NA,NA,tair10,1,AT2G20390
+2916,f2916,c366,50,tair10_AT5G09225.1,NA,?,NA,tair10,1,AT5G09225
+2941,f2941,c3693,45,tair10_AT1G73890.1,"protease inhibitor, seed storage, lipid transfer proteins",? in both,NA,tair10,1,AT1G73890
+2942,f2942,c3694,50,tair10_AT1G44940.1,NA,NA,NA,tair10,1,AT1G44940
+2980,f2980,c372,50,tair10_AT1G44414.1,NA,NA,NA,tair10,1,AT1G44414
+2991,f2991,c373,30,tair10_AT1G17285.1,NA,?,NA,tair10,1,AT1G17285
+2999,f2999,c3747,43,tair10_AT3G45093.1,endopeptidase inhibitor,N,NA,tair10,1,AT3G45093
+2999,f2999,c3747,43,tair10_AT5G43401.1,defensin-like,? in both,NA,tair10,1,AT5G43401
+3002,f3002,c374,48,tair10_AT2G21600.1,NA,NA,NA,tair10,1,AT2G21600
+3002,f3002,c374,48,tair10_AT4G39220.1,NA,NA,NA,tair10,1,AT4G39220
+3003,f3003,c3750,44,tair10_AT1G62422.1,NA,NA,NA,tair10,1,AT1G62422
+3024,f3024,c376,38,tair10_AT5G10745.1,NA,?,NA,tair10,1,AT5G10745
+3024,f3024,c376,38,tair10_AT5G24980.1,NA,?,NA,tair10,1,AT5G24980
+3028,f3028,c3773,42,tair10_AT1G58265.1,NA,NA,NA,tair10,1,AT1G58265
+3044,f3044,c378,49,tair10_AT2G30570.1,PSII,N,NA,tair10,1,AT2G30570
+3054,f3054,c3799,32,tair10_AT1G73550.1,NA,?,NA,tair10,1,AT1G73550
+3055,f3055,c379,39,tair10_ATCG00570.1,plast,N,NA,tair10,1,ATCG00570
+3056,f3056,c37,28,tair10_AT1G02813.1,NA,?,NA,tair10,1,AT1G02813
+3056,f3056,c37,28,tair10_AT1G02816.1,NA,?,NA,tair10,1,AT1G02816
+3056,f3056,c37,28,tair10_AT4G02360.1,NA,?,NA,tair10,1,AT4G02360
+3056,f3056,c37,28,tair10_AT4G02370.1,NA,?,NA,tair10,1,AT4G02370
+3056,f3056,c37,28,tair10_AT5G19590.1,NA,?,NA,tair10,1,AT5G19590
+3067,f3067,c380,50,tair10_ATCG00300.1,plast,N,NA,tair10,1,ATCG00300
+3070,f3070,c3812,38,tair10_AT4G30662.1,glucanase/LTP/protease inhibitor,N,NA,tair10,1,AT4G30662
+3070,f3070,c3812,38,tair10_AT4G30670.1,NA,NA,NA,tair10,1,AT4G30670
+3071,f3071,c3813,48,tair10_AT1G48940.1,arabinogalactan/plastocyanin,?,NA,tair10,1,AT1G48940
+3071,f3071,c3813,48,tair10_AT3G18590.1,arabinogalactan/plastocyanin,?,NA,tair10,1,AT3G18590
+3078,f3078,c381,38,tair10_ATCG00560.1,plast,N,NA,tair10,1,ATCG00560
+3081,f3081,c3822,27,tair10_AT5G22960.1,NA,NA,NA,tair10,1,AT5G22960
+3111,f3111,c3851,47,tair10_AT5G37480.1,NA,NA,NA,tair10,1,AT5G37480
+3130,f3130,c386,43,tair10_AT1G65820.1,glutathione s-transferase,?,NA,tair10,1,AT1G65820
+3141,f3141,c387,40,tair10_AT3G27160.1,NA,NA,NA,tair10,1,AT3G27160
+3146,f3146,c3884,44,tair10_AT4G20420.1,NA,?,NA,tair10,1,AT4G20420
+3146,f3146,c3884,44,tair10_AT5G44540.1,NA,?,NA,tair10,1,AT5G44540
+3154,f3154,c3892,29,tair10_AT4G27930.1,NA,NA,NA,tair10,1,AT4G27930
+3176,f3176,c3912,41,tair10_AT2G18162.1,Conserved peptide upstream ORF,N,NA,tair10,1,AT2G18162
+3176,f3176,c3912,41,tair10_AT4G34588.1,NA,NA,NA,tair10,1,AT4G34588
+3205,f3205,c393,48,tair10_AT1G65720.1,NA,?,NA,tair10,1,AT1G65720
+3205,f3205,c393,48,tair10_AT5G53592.1,NA,NA,NA,tair10,1,AT5G53592
+3210,f3210,c3944,49,tair10_AT2G42530.1,NA,NA,NA,tair10,1,AT2G42530
+3242,f3242,c3973,49,tair10_AT1G65484.1,NA,?,NA,tair10,1,AT1G65484
+3260,f3260,c398,44,tair10_AT2G22425.1,signal peptidase,N,NA,tair10,1,AT2G22425
+3260,f3260,c398,44,tair10_AT4G40042.1,signal peptidase,N,NA,tair10,1,AT4G40042
+3271,f3271,c399,50,tair10_AT2G07751.1,dehydrogenase,N,NA,tair10,1,AT2G07751
+3271,f3271,c399,50,tair10_ATCG00440.1,dehydrogenase,N,NA,tair10,1,ATCG00440
+3271,f3271,c399,50,tair10_ATMG00990.1,dehydrogenase,N,NA,tair10,1,ATMG00990
+3272,f3272,c39,36,tair10_AT1G05835.1,TPD tribe,Y,TPD,tair10,1,AT1G05835
+3272,f3272,c39,36,tair10_AT1G32583.1,TPD tribe,Y,TPD,tair10,1,AT1G32583
+3272,f3272,c39,36,tair10_AT4G24972.1,TPD1,Y,TPD,tair10,1,AT4G24972
+3272,f3272,c39,36,tair10_AT4G32090.1,TPD tribe,Y,TPD,tair10,1,AT4G32090
+3272,f3272,c39,36,tair10_AT4G32100.1,NA,NA,TPD,tair10,1,AT4G32100
+3272,f3272,c39,36,tair10_AT4G32105.1,TPD tribe,Y,TPD,tair10,1,AT4G32105
+3272,f3272,c39,36,tair10_AT4G32110.1,TPD tribe,Y,TPD,tair10,1,AT4G32110
+3273,f3273,c3,47,tair10_AT1G12090.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT1G12090
+3273,f3273,c3,47,tair10_AT1G12100.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT1G12100
+3273,f3273,c3,47,tair10_AT1G62510.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT1G62510
+3273,f3273,c3,47,tair10_AT2G45180.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT2G45180
+3273,f3273,c3,47,tair10_AT4G00165.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT4G00165
+3273,f3273,c3,47,tair10_AT4G12470.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT4G12470
+3273,f3273,c3,47,tair10_AT4G12480.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT4G12480
+3273,f3273,c3,47,tair10_AT4G12490.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT4G12490
+3273,f3273,c3,47,tair10_AT4G12500.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT4G12500
+3273,f3273,c3,47,tair10_AT4G12510.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT4G12510
+3273,f3273,c3,47,tair10_AT4G12520.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT4G12520
+3273,f3273,c3,47,tair10_AT4G12530.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT4G12530
+3273,f3273,c3,47,tair10_AT4G12545.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT4G12545
+3273,f3273,c3,47,tair10_AT4G12550.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT4G12550
+3273,f3273,c3,47,tair10_AT4G22460.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT4G22460
+3273,f3273,c3,47,tair10_AT4G22490.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT4G22490
+3273,f3273,c3,47,tair10_AT4G22513.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT4G22513
+3273,f3273,c3,47,tair10_AT4G22517.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT4G22517
+3273,f3273,c3,47,tair10_AT4G22520.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT4G22520
+3273,f3273,c3,47,tair10_AT5G46890.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT5G46890
+3273,f3273,c3,47,tair10_AT5G46900.1,"Extensin-like, LTP, protease inhibitor",? in both,NA,tair10,1,AT5G46900
+3283,f3283,c400,37,tair10_AT3G12587.1,NA,?,NA,tair10,1,AT3G12587
+3283,f3283,c400,37,tair10_AT5G02502.1,NA,?,NA,tair10,1,AT5G02502
+3293,f3293,c401,39,tair10_AT4G38060.1,NA,NA,NA,tair10,1,AT4G38060
+3303,f3303,c402,42,tair10_AT1G21930.1,NA,NA,NA,tair10,1,AT1G21930
+3303,f3303,c402,42,tair10_AT3G42150.1,NA,NA,NA,tair10,1,AT3G42150
+3358,f3358,c407,48,tair10_AT1G60660.1,heme-binding,N,NA,tair10,1,AT1G60660
+3359,f3359,c4080,34,tair10_AT2G15170.1,NA,NA,NA,tair10,1,AT2G15170
+3429,f3429,c4146,40,tair10_AT3G28190.1,NA,?,NA,tair10,1,AT3G28190
+3434,f3434,c4150,28,tair10_AT3G28918.1,NA,NA,NA,tair10,1,AT3G28918
+3434,f3434,c4150,28,tair10_AT3G43722.1,NA,NA,NA,tair10,1,AT3G43722
+3462,f3462,c4176,40,tair10_AT2G24880.1,self-incompatibility protein-related,?,NA,tair10,1,AT2G24880
+3462,f3462,c4176,40,tair10_AT3G54925.1,self-incompatibility protein-related,?,NA,tair10,1,AT3G54925
+3477,f3477,c418,31,tair10_AT2G06983.1,SCR,? in both,SCRL,tair10,1,AT2G06983
+3477,f3477,c418,31,tair10_AT3G23715.1,SCR,? in both,SCRL,tair10,1,AT3G23715
+3477,f3477,c418,31,tair10_AT3G23727.1,SCR,? in both,SCRL,tair10,1,AT3G23727
+3477,f3477,c418,31,tair10_AT4G10115.1,SCR,? in both,SCRL,tair10,1,AT4G10115
+3477,f3477,c418,31,tair10_AT4G10767.1,NA,NA,SCRL,tair10,1,AT4G10767
+3477,f3477,c418,31,tair10_AT4G14785.1,SCR,? in both,SCRL,tair10,1,AT4G14785
+3477,f3477,c418,31,tair10_AT4G32714.1,SCR,? in both,SCRL,tair10,1,AT4G32714
+3477,f3477,c418,31,tair10_AT4G32717.1,SCR,? in both,SCRL,tair10,1,AT4G32717
+3477,f3477,c418,31,tair10_AT4G33465.1,SCR,? in both,SCRL,tair10,1,AT4G33465
+3501,f3501,c4212,35,tair10_AT1G32310.1,NA,NA,NA,tair10,1,AT1G32310
+3509,f3509,c421,41,tair10_AT1G14755.1,cystein-rich,? in both,NA,tair10,1,AT1G14755
+3509,f3509,c421,41,tair10_AT1G34047.1,defensin-like,? in both,NA,tair10,1,AT1G34047
+3509,f3509,c421,41,tair10_AT2G36255.1,defensin-like,? in both,NA,tair10,1,AT2G36255
+3509,f3509,c421,41,tair10_AT3G05727.1,defensin-like,? in both,NA,tair10,1,AT3G05727
+3509,f3509,c421,41,tair10_AT3G05730.1,defensin-like,? in both,NA,tair10,1,AT3G05730
+3509,f3509,c421,41,tair10_AT3G59930.1,defensin-like,? in both,NA,tair10,1,AT3G59930
+3509,f3509,c421,41,tair10_AT4G11393.1,defensin-like,? in both,NA,tair10,1,AT4G11393
+3509,f3509,c421,41,tair10_AT5G33355.1,defensin-like,? in both,NA,tair10,1,AT5G33355
+3528,f3528,c4238,41,tair10_AT5G44570.1,NA,NA,NA,tair10,1,AT5G44570
+3530,f3530,c423,35,tair10_AT1G51913.1,cryptdin (class of defensin),?,NA,tair10,1,AT1G51913
+3530,f3530,c423,35,tair10_AT1G51915.1,cryptdin (class of defensin),?,NA,tair10,1,AT1G51915
+3530,f3530,c423,35,tair10_AT1G51920.1,cryptdin (class of defensin),?,NA,tair10,1,AT1G51920
+3530,f3530,c423,35,tair10_AT3G21351.1,NA,NA,NA,tair10,1,AT3G21351
+3530,f3530,c423,35,tair10_AT3G21352.1,cryptdin (class of defensin),?,NA,tair10,1,AT3G21352
+3539,f3539,c4249,33,tair10_AT5G04790.1,NA,NA,NA,tair10,1,AT5G04790
+3540,f3540,c424,35,tair10_ATCG00510.1,plast,N,NA,tair10,1,ATCG00510
+3544,f3544,c4253,29,tair10_AT4G12950.1,NA,?,NA,tair10,1,AT4G12950
+3544,f3544,c4253,29,tair10_AT4G29980.1,NA,?,NA,tair10,1,AT4G29980
+3551,f3551,c425,15,tair10_AT5G15802.1,NA,?,NA,tair10,1,AT5G15802
+3573,f3573,c427,43,tair10_AT4G16444.1,NA,NA,NA,tair10,1,AT4G16444
+3595,f3595,c429,43,tair10_ATCG00700.1,plast,N,NA,tair10,1,ATCG00700
+3596,f3596,c42,43,tair10_AT2G27710.1,ribosomal protein,N,NA,tair10,1,AT2G27710
+3596,f3596,c42,43,tair10_AT2G27720.1,ribosomal protein,N,NA,tair10,1,AT2G27720
+3596,f3596,c42,43,tair10_AT3G44590.1,ribosomal protein,N,NA,tair10,1,AT3G44590
+3604,f3604,c4307,50,tair10_AT1G45015.1,NA,NA,NA,tair10,1,AT1G45015
+3614,f3614,c4316,36,tair10_AT5G07842.1,Conserved peptide upstream ORF,N,NA,tair10,1,AT5G07842
+3614,f3614,c4316,36,tair10_AT5G61228.1,Conserved peptide upstream ORF,N,NA,tair10,1,AT5G61228
+3638,f3638,c4338,50,tair10_AT3G21730.1,aldolase,N,NA,tair10,1,AT3G21730
+3651,f3651,c434,42,tair10_AT1G36380.1,reductase,N,NA,tair10,1,AT1G36380
+3662,f3662,c435,29,tair10_ATCG00210.1,plast,N,NA,tair10,1,ATCG00210
+3673,f3673,c436,50,tair10_AT1G28150.1,NA,NA,NA,tair10,1,AT1G28150
+3691,f3691,c4387,29,tair10_AT5G40855.1,NA,NA,NA,tair10,1,AT5G40855
+3719,f3719,c4412,39,tair10_AT1G18871.1,NA,NA,NA,tair10,1,AT1G18871
+3757,f3757,c4448,22,tair10_AT2G07110.1,NA,NA,NA,tair10,1,AT2G07110
+3770,f3770,c445,50,tair10_AT3G17626.1,NA,NA,NA,tair10,1,AT3G17626
+3780,f3780,c446,50,tair10_AT4G08280.1,NA,?,NA,tair10,1,AT4G08280
+3791,f3791,c447,36,tair10_AT4G17085.1,NA,?,NA,tair10,1,AT4G17085
+3813,f3813,c449,43,tair10_ATCG00630.1,plast,N,NA,tair10,1,ATCG00630
+3822,f3822,c4507,40,tair10_AT2G04378.1,beta-galactosidase,N,NA,tair10,1,AT2G04378
+3824,f3824,c4509,31,tair10_AT1G58225.1,NA,NA,NA,tair10,1,AT1G58225
+3858,f3858,c453,49,tair10_AT1G30845.1,NA,NA,NA,tair10,1,AT1G30845
+3869,f3869,c454,46,tair10_AT3G57062.1,NA,?,NA,tair10,1,AT3G57062
+3879,f3879,c455,42,tair10_AT5G26790.1,NA,NA,NA,tair10,1,AT5G26790
+3890,f3890,c456,35,tair10_AT3G16660.1,NA,?,NA,tair10,1,AT3G16660
+3890,f3890,c456,35,tair10_AT3G16670.1,NA,?,NA,tair10,1,AT3G16670
+3923,f3923,c45,28,tair10_AT1G57550.1,rare-cold-inducible,N,NA,tair10,1,AT1G57550
+3923,f3923,c45,28,tair10_AT2G24040.1,rare-cold-inducible,N,NA,tair10,1,AT2G24040
+3923,f3923,c45,28,tair10_AT2G38905.1,rare-cold-inducible,N,NA,tair10,1,AT2G38905
+3923,f3923,c45,28,tair10_AT3G05880.1,rare-cold-inducible,N,NA,tair10,1,AT3G05880
+3923,f3923,c45,28,tair10_AT3G05890.1,rare-cold-inducible,N,NA,tair10,1,AT3G05890
+3923,f3923,c45,28,tair10_AT4G28088.1,NA,NA,NA,tair10,1,AT4G28088
+3923,f3923,c45,28,tair10_AT4G30650.1,rare-cold-inducible,N,NA,tair10,1,AT4G30650
+3923,f3923,c45,28,tair10_AT4G30660.1,rare-cold-inducible,N,NA,tair10,1,AT4G30660
+3934,f3934,c460,49,tair10_AT2G33740.1,NA,NA,NA,tair10,1,AT2G33740
+3977,f3977,c464,49,tair10_AT2G38140.1,ribosomal protein,N,NA,tair10,1,AT2G38140
+4010,f4010,c467,40,tair10_AT3G46430.1,NA,NA,NA,tair10,1,AT3G46430
+4010,f4010,c467,40,tair10_AT5G59613.1,NA,NA,NA,tair10,1,AT5G59613
+4031,f4031,c4699,50,tair10_AT5G10605.1,NA,NA,NA,tair10,1,AT5G10605
+4033,f4033,c46,49,tair10_AT5G45320.1,NA,?,NA,tair10,1,AT5G45320
+4037,f4037,c4703,50,tair10_ATCG00420.1,NA,NA,NA,tair10,1,ATCG00420
+4044,f4044,c470,50,tair10_AT1G77350.1,NA,?,NA,tair10,1,AT1G77350
+4076,f4076,c473,48,tair10_AT1G67090.1,RBSC,N,NA,tair10,1,AT1G67090
+4076,f4076,c473,48,tair10_AT5G38410.1,RBSC,N,NA,tair10,1,AT5G38410
+4076,f4076,c473,48,tair10_AT5G38420.1,NA,NA,NA,tair10,1,AT5G38420
+4076,f4076,c473,48,tair10_AT5G38430.1,RBSC,N,NA,tair10,1,AT5G38430
+4097,f4097,c4760,50,tair10_AT4G01915.1,NA,?,NA,tair10,1,AT4G01915
+4105,f4105,c4768,50,tair10_AT4G09210.1,NA,NA,NA,tair10,1,AT4G09210
+4105,f4105,c4768,50,tair10_AT4G09260.1,NA,NA,NA,tair10,1,AT4G09260
+4120,f4120,c4781,50,tair10_AT2G07672.1,NA,NA,NA,tair10,1,AT2G07672
+4120,f4120,c4781,50,tair10_ATMG01050.1,NA,NA,NA,tair10,1,ATMG01050
+4127,f4127,c478,50,tair10_AT3G56910.1,NA,NA,NA,tair10,1,AT3G56910
+4132,f4132,c484,48,tair10_AT1G08380.1,NA,NA,NA,tair10,1,AT1G08380
+4133,f4133,c485,28,tair10_AT1G35435.1,defensin-like,? in both,NA,tair10,1,AT1G35435
+4133,f4133,c485,28,tair10_AT5G23212.1,defensin-like,? in both,NA,tair10,1,AT5G23212
+4133,f4133,c485,28,tair10_AT5G37473.1,defensin-like,? in both,NA,tair10,1,AT5G37473
+4133,f4133,c485,28,tair10_AT5G37474.1,defensin-like,? in both,NA,tair10,1,AT5G37474
+4133,f4133,c485,28,tair10_AT5G51845.1,defensin-like,? in both,NA,tair10,1,AT5G51845
+4133,f4133,c485,28,tair10_AT5G60553.1,defensin-like,? in both,NA,tair10,1,AT5G60553
+4133,f4133,c485,28,tair10_AT5G60615.1,"methytransferase, defensin-like",N,NA,tair10,1,AT5G60615
+4136,f4136,c488,43,tair10_AT1G31335.1,NA,?,NA,tair10,1,AT1G31335
+4137,f4137,c48,25,tair10_AT2G21180.1,NA,NA,NA,tair10,1,AT2G21180
+4137,f4137,c48,25,tair10_AT2G31940.1,"copper ion binding, electron transport - uclacyanin/basic blue protein",N,NA,tair10,1,AT2G31940
+4137,f4137,c48,25,tair10_AT3G06890.1,NA,NA,NA,tair10,1,AT3G06890
+4137,f4137,c48,25,tair10_AT5G19875.1,NA,NA,NA,tair10,1,AT5G19875
+4137,f4137,c48,25,tair10_AT5G42146.1,NA,NA,NA,tair10,1,AT5G42146
+4139,f4139,c492,44,tair10_AT1G25275.1,NA,?,NA,tair10,1,AT1G25275
+4142,f4142,c495,49,tair10_AT2G23940.1,NA,NA,NA,tair10,1,AT2G23940
+4142,f4142,c495,49,tair10_AT4G30500.1,NA,NA,NA,tair10,1,AT4G30500
+4145,f4145,c498,28,tair10_AT2G24615.1,defensin-like,? in both,NA,tair10,1,AT2G24615
+4145,f4145,c498,28,tair10_AT2G24625.1,defensin-like,? in both,NA,tair10,1,AT2G24625
+4145,f4145,c498,28,tair10_AT5G39365.1,defensin-like,? in both,NA,tair10,1,AT5G39365
+4146,f4146,c499,50,tair10_AT1G80860.1,methytransferase,N,NA,tair10,1,AT1G80860
+4147,f4147,c4,43,tair10_AT1G50060.1,PR-related,? in both,NA,tair10,1,AT1G50060
+4147,f4147,c4,43,tair10_AT2G14580.1,PR-related,? in both,NA,tair10,1,AT2G14580
+4147,f4147,c4,43,tair10_AT2G14610.1,PR-related,? in both,NA,tair10,1,AT2G14610
+4147,f4147,c4,43,tair10_AT2G19970.1,PR-related,? in both,NA,tair10,1,AT2G19970
+4147,f4147,c4,43,tair10_AT2G19980.1,PR-related,? in both,NA,tair10,1,AT2G19980
+4147,f4147,c4,43,tair10_AT2G19990.1,PR-related,? in both,NA,tair10,1,AT2G19990
+4147,f4147,c4,43,tair10_AT3G09590.1,PR-related,? in both,NA,tair10,1,AT3G09590
+4147,f4147,c4,43,tair10_AT3G19690.1,PR-related,? in both,NA,tair10,1,AT3G19690
+4147,f4147,c4,43,tair10_AT4G07820.1,PR-related,? in both,NA,tair10,1,AT4G07820
+4147,f4147,c4,43,tair10_AT4G25780.1,PR-related,? in both,NA,tair10,1,AT4G25780
+4147,f4147,c4,43,tair10_AT4G30320.1,PR-related,? in both,NA,tair10,1,AT4G30320
+4147,f4147,c4,43,tair10_AT4G31470.1,PR-related,? in both,NA,tair10,1,AT4G31470
+4147,f4147,c4,43,tair10_AT4G33710.1,PR-related,? in both,NA,tair10,1,AT4G33710
+4147,f4147,c4,43,tair10_AT4G33720.1,PR-related,? in both,NA,tair10,1,AT4G33720
+4147,f4147,c4,43,tair10_AT4G33730.1,PR-related,? in both,NA,tair10,1,AT4G33730
+4147,f4147,c4,43,tair10_AT5G26130.1,PR-related,? in both,NA,tair10,1,AT5G26130
+4147,f4147,c4,43,tair10_AT5G66590.1,PR-related,? in both,NA,tair10,1,AT5G66590
+4151,f4151,c503,48,tair10_ATCG00520.1,NA,NA,NA,tair10,1,ATCG00520
+4153,f4153,c505,31,tair10_ATMG00310.1,NA,NA,NA,tair10,1,ATMG00310
+4155,f4155,c507,48,tair10_AT4G12970.1,NA,?,EPF,tair10,1,AT4G12970
+4158,f4158,c50,30,tair10_AT5G48175.1,NA,NA,NA,tair10,1,AT5G48175
+4161,f4161,c512,34,tair10_AT1G49715.1,defensin-like,? in both,NA,tair10,1,AT1G49715
+4161,f4161,c512,34,tair10_AT1G73603.1,LCR,? in both,NA,tair10,1,AT1G73603
+4161,f4161,c512,34,tair10_AT1G73607.1,LCR,? in both,NA,tair10,1,AT1G73607
+4161,f4161,c512,34,tair10_AT2G20208.1,LCR,? in both,NA,tair10,1,AT2G20208
+4161,f4161,c512,34,tair10_AT2G29045.1,LCR,? in both,NA,tair10,1,AT2G29045
+4161,f4161,c512,34,tair10_AT4G30064.1,LCR,? in both,NA,tair10,1,AT4G30064
+4161,f4161,c512,34,tair10_AT4G30067.1,LCR,? in both,NA,tair10,1,AT4G30067
+4163,f4163,c514,33,tair10_AT4G13235.1,defensin-like,? in both,NA,tair10,1,AT4G13235
+4164,f4164,c515,48,tair10_AT4G34190.1,NA,NA,NA,tair10,1,AT4G34190
+4169,f4169,c51,49,tair10_AT1G19910.1,NA,NA,NA,tair10,1,AT1G19910
+4169,f4169,c51,49,tair10_AT1G75630.1,NA,NA,NA,tair10,1,AT1G75630
+4169,f4169,c51,49,tair10_AT2G16510.1,NA,NA,NA,tair10,1,AT2G16510
+4169,f4169,c51,49,tair10_AT2G25610.1,ATPase,N,NA,tair10,1,AT2G25610
+4169,f4169,c51,49,tair10_AT4G32530.1,ATPase,N,NA,tair10,1,AT4G32530
+4169,f4169,c51,49,tair10_AT4G34720.1,NA,NA,NA,tair10,1,AT4G34720
+4169,f4169,c51,49,tair10_AT4G38920.1,NA,NA,NA,tair10,1,AT4G38920
+4169,f4169,c51,49,tair10_ATCG00140.1,in plast,N,NA,tair10,1,ATCG00140
+4170,f4170,c520,41,tair10_AT2G22960.1,carboxipeptidase,N,NA,tair10,1,AT2G22960
+4173,f4173,c523,35,tair10_AT4G20150.1,NA,?,NA,tair10,1,AT4G20150
+4176,f4176,c526,37,tair10_AT3G09085.1,NA,NA,NA,tair10,1,AT3G09085
+4178,f4178,c529,35,tair10_AT3G13275.1,NA,?,NA,tair10,1,AT3G13275
+4180,f4180,c530,50,tair10_AT1G34350.1,NA,NA,NA,tair10,1,AT1G34350
+4183,f4183,c533,50,tair10_AT5G22875.1,NA,?,NA,tair10,1,AT5G22875
+4185,f4185,c536,43,tair10_AT2G07707.1,mitochondrion,N,NA,tair10,1,AT2G07707
+4185,f4185,c536,43,tair10_ATMG00480.1,mitochondrion,N,NA,tair10,1,ATMG00480
+4187,f4187,c538,31,tair10_AT2G47540.1,PRP and Ole e 1 allergen/extensin,?,NA,tair10,1,AT2G47540
+4187,f4187,c538,31,tair10_AT3G09925.1,pollen Ole e 1 and extensin,?,NA,tair10,1,AT3G09925
+4187,f4187,c538,31,tair10_AT4G02270.1,PRP and Ole e 1 allergen/extensin,?,NA,tair10,1,AT4G02270
+4189,f4189,c540,48,tair10_AT2G47380.1,NA,NA,NA,tair10,1,AT2G47380
+4189,f4189,c540,48,tair10_AT5G61310.1,NA,NA,NA,tair10,1,AT5G61310
+4204,f4204,c555,43,tair10_AT1G42480.1,NA,?,NA,tair10,1,AT1G42480
+4206,f4206,c558,47,tair10_AT1G69828.1,defensin-like,? in both,NA,tair10,1,AT1G69828
+4208,f4208,c55,35,tair10_AT2G46330.1,arabinogalactan,?,NA,tair10,1,AT2G46330
+4208,f4208,c55,35,tair10_AT3G61640.1,arabinogalactan,?,NA,tair10,1,AT3G61640
+4208,f4208,c55,35,tair10_AT5G24105.1,arabinogalactan,?,NA,tair10,1,AT5G24105
+4208,f4208,c55,35,tair10_AT5G53250.1,arabinogalactan,?,NA,tair10,1,AT5G53250
+4214,f4214,c566,49,tair10_AT4G15460.1,NA,?,NA,tair10,1,AT4G15460
+4215,f4215,c567,47,tair10_AT1G24145.1,NA,NA,NA,tair10,1,AT1G24145
+4215,f4215,c567,47,tair10_AT3G29780.1,RALFL27,Y,RALFL,tair10,1,AT3G29780
+4215,f4215,c567,47,tair10_AT5G38980.1,RALF tribe,Y,NA,tair10,1,AT5G38980
+4217,f4217,c569,50,tair10_AT1G03600.1,NA,NA,NA,tair10,1,AT1G03600
+4218,f4218,c56,46,tair10_AT1G66852.1,glycosyl hydrolase,N,NA,tair10,1,AT1G66852
+4218,f4218,c56,46,tair10_AT1G66855.1,glycosyl hydrolase,N,NA,tair10,1,AT1G66855
+4218,f4218,c56,46,tair10_AT1G66870.1,glycosyl hydrolase,N,NA,tair10,1,AT1G66870
+4218,f4218,c56,46,tair10_AT1G78520.1,glycosyl hydrolase,N,NA,tair10,1,AT1G78520
+4218,f4218,c56,46,tair10_AT2G42930.1,glycosyl hydrolase,N,NA,tair10,1,AT2G42930
+4218,f4218,c56,46,tair10_AT2G43660.1,glycosyl hydrolase,N,NA,tair10,1,AT2G43660
+4218,f4218,c56,46,tair10_AT2G43670.1,glycosyl hydrolase,N,NA,tair10,1,AT2G43670
+4218,f4218,c56,46,tair10_AT4G09090.1,glycosyl hydrolase,N,NA,tair10,1,AT4G09090
+4218,f4218,c56,46,tair10_AT4G09462.1,glycosyl hydrolase,N,NA,tair10,1,AT4G09462
+4218,f4218,c56,46,tair10_AT4G09464.1,glycosyl hydrolase,N,NA,tair10,1,AT4G09464
+4218,f4218,c56,46,tair10_AT4G09465.1,glycosyl hydrolase,N,NA,tair10,1,AT4G09465
+4218,f4218,c56,46,tair10_AT4G09466.1,glycosyl hydrolase,N,NA,tair10,1,AT4G09466
+4218,f4218,c56,46,tair10_AT4G09467.1,glycosyl hydrolase,N,NA,tair10,1,AT4G09467
+4218,f4218,c56,46,tair10_AT4G16165.1,glycosyl hydrolase,N,NA,tair10,1,AT4G16165
+4218,f4218,c56,46,tair10_AT5G35740.1,glycosyl hydrolase,N,NA,tair10,1,AT5G35740
+4218,f4218,c56,46,tair10_AT5G53600.1,glycosyl hydrolase,N,NA,tair10,1,AT5G53600
+4218,f4218,c56,46,tair10_AT5G53610.1,glycosyl hydrolase,N,NA,tair10,1,AT5G53610
+4218,f4218,c56,46,tair10_AT5G63225.1,glycosyl hydrolase,N,NA,tair10,1,AT5G63225
+4218,f4218,c56,46,tair10_AT5G63230.1,glycosyl hydrolase,N,NA,tair10,1,AT5G63230
+4218,f4218,c56,46,tair10_AT5G63240.1,glycosyl hydrolase,N,NA,tair10,1,AT5G63240
+4218,f4218,c56,46,tair10_AT5G63250.1,glycosyl hydrolase,N,NA,tair10,1,AT5G63250
+4222,f4222,c574,35,tair10_AT1G29070.1,NA,NA,NA,tair10,1,AT1G29070
+4224,f4224,c576,48,tair10_AT3G13845.1,NA,?,NA,tair10,1,AT3G13845
+4227,f4227,c579,41,tair10_AT1G54215.1,(hydroxy)proline rich,?,NA,tair10,1,AT1G54215
+4227,f4227,c579,41,tair10_AT1G72600.1,(hydroxy)proline rich,?,NA,tair10,1,AT1G72600
+4230,f4230,c583,42,tair10_AT5G64080.1,"protease inhibitor, seed storage, lipid transfer proteins",? in both,NA,tair10,1,AT5G64080
+4233,f4233,c586,45,tair10_AT5G16490.1,NA,NA,NA,tair10,1,AT5G16490
+4234,f4234,c587,50,tair10_AT1G48140.1,mannosyltransferase,N,NA,tair10,1,AT1G48140
+4248,f4248,c5,39,tair10_AT1G02900.1,RALFL01,Y,RALFL,tair10,1,AT1G02900
+4248,f4248,c5,39,tair10_AT1G23145.1,RALFL02,Y,RALFL,tair10,1,AT1G23145
+4248,f4248,c5,39,tair10_AT1G23147.1,RALFL03,Y,RALFL,tair10,1,AT1G23147
+4248,f4248,c5,39,tair10_AT1G28270.1,RALFL04,Y,RALFL,tair10,1,AT1G28270
+4248,f4248,c5,39,tair10_AT1G35467.1,RALFL05,Y,RALFL,tair10,1,AT1G35467
+4248,f4248,c5,39,tair10_AT1G60625.1,RALFL06,Y,RALFL,tair10,1,AT1G60625
+4248,f4248,c5,39,tair10_AT1G60815.1,RALFL07,Y,RALFL,tair10,1,AT1G60815
+4248,f4248,c5,39,tair10_AT1G60913.1,RALF-related,Y,RALFL,tair10,1,AT1G60913
+4248,f4248,c5,39,tair10_AT1G61563.1,RALFL08,Y,RALFL,tair10,1,AT1G61563
+4248,f4248,c5,39,tair10_AT1G61566.1,RALFL09,Y,RALFL,tair10,1,AT1G61566
+4248,f4248,c5,39,tair10_AT2G19020.1,RALFL10,Y,RALFL,tair10,1,AT2G19020
+4248,f4248,c5,39,tair10_AT2G19030.1,RALFL11,Y,RALFL,tair10,1,AT2G19030
+4248,f4248,c5,39,tair10_AT2G19040.1,RALFL12,Y,RALFL,tair10,1,AT2G19040
+4248,f4248,c5,39,tair10_AT2G19045.1,RALFL13,Y,RALFL,tair10,1,AT2G19045
+4248,f4248,c5,39,tair10_AT2G20660.1,RALFL14,Y,RALFL,tair10,1,AT2G20660
+4248,f4248,c5,39,tair10_AT2G22055.1,RALFL15,Y,RALFL,tair10,1,AT2G22055
+4248,f4248,c5,39,tair10_AT2G32835.1,RALFL16,Y,RALFL,tair10,1,AT2G32835
+4248,f4248,c5,39,tair10_AT2G32885.1,RALF-related,Y,RALFL,tair10,1,AT2G32885
+4248,f4248,c5,39,tair10_AT2G33130.1,RALFL18,Y,RALFL,tair10,1,AT2G33130
+4248,f4248,c5,39,tair10_AT2G33775.1,RALFL19,Y,RALFL,tair10,1,AT2G33775
+4248,f4248,c5,39,tair10_AT2G34825.1,RALFL20,Y,RALFL,tair10,1,AT2G34825
+4248,f4248,c5,39,tair10_AT3G04735.1,RALFL21,Y,RALFL,tair10,1,AT3G04735
+4248,f4248,c5,39,tair10_AT3G05490.1,RALFL22,Y,RALFL,tair10,1,AT3G05490
+4248,f4248,c5,39,tair10_AT3G16570.1,RALFL23,Y,RALFL,tair10,1,AT3G16570
+4248,f4248,c5,39,tair10_AT3G23805.1,RALFL24,Y,RALFL,tair10,1,AT3G23805
+4248,f4248,c5,39,tair10_AT3G25165.1,RALFL25,Y,RALFL,tair10,1,AT3G25165
+4248,f4248,c5,39,tair10_AT3G25170.1,RALFL26,Y,RALFL,tair10,1,AT3G25170
+4248,f4248,c5,39,tair10_AT4G11510.1,RALFL28,Y,RALFL,tair10,1,AT4G11510
+4248,f4248,c5,39,tair10_AT4G11653.1,RALFL29,Y,RALFL,tair10,1,AT4G11653
+4248,f4248,c5,39,tair10_AT4G13075.1,RALFL30,Y,RALFL,tair10,1,AT4G13075
+4248,f4248,c5,39,tair10_AT4G13950.1,RALFL31,Y,RALFL,tair10,1,AT4G13950
+4248,f4248,c5,39,tair10_AT4G14010.1,RALFL32,Y,RALFL,tair10,1,AT4G14010
+4248,f4248,c5,39,tair10_AT4G15800.1,RALFL33,Y,RALFL,tair10,1,AT4G15800
+4248,f4248,c5,39,tair10_AT5G67070.1,RALFL34,Y,RALFL,tair10,1,AT5G67070
+4250,f4250,c601,49,tair10_AT1G05720.1,selenoprotein,N,NA,tair10,1,AT1G05720
+4252,f4252,c604,48,tair10_AT4G12731.1,NA,NA,NA,tair10,1,AT4G12731
+4252,f4252,c604,48,tair10_AT4G12735.1,NA,?,NA,tair10,1,AT4G12735
+4253,f4253,c605,41,tair10_AT1G17860.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT1G17860
+4254,f4254,c606,35,tair10_AT1G13755.1,defensin-like/beta-gal/LCR,? in both,NA,tair10,1,AT1G13755
+4254,f4254,c606,35,tair10_AT3G24508.1,defensin-like,? in both,NA,tair10,1,AT3G24508
+4254,f4254,c606,35,tair10_AT3G24510.1,defensin-like,? in both,NA,tair10,1,AT3G24510
+4254,f4254,c606,35,tair10_AT3G24513.1,defensin-like,? in both,NA,tair10,1,AT3G24513
+4254,f4254,c606,35,tair10_AT5G56368.1,defensin-like,? in both,NA,tair10,1,AT5G56368
+4254,f4254,c606,35,tair10_AT5G56369.1,defensin-like,? in both,NA,tair10,1,AT5G56369
+4255,f4255,c607,40,tair10_AT2G40113.1,NA,?,NA,tair10,1,AT2G40113
+4255,f4255,c607,40,tair10_AT4G17215.1,NA,?,NA,tair10,1,AT4G17215
+4255,f4255,c607,40,tair10_AT5G47635.1,NA,?,NA,tair10,1,AT5G47635
+4258,f4258,c60,44,tair10_AT1G45215.1,ECA1 gametogenesis related,?,NA,tair10,1,AT1G45215
+4258,f4258,c60,44,tair10_AT1G45221.1,ECA1 gametogenesis related,?,NA,tair10,1,AT1G45221
+4258,f4258,c60,44,tair10_AT1G45223.1,ECA1 gametogenesis related,?,NA,tair10,1,AT1G45223
+4258,f4258,c60,44,tair10_AT1G57760.1,ECA1 gametogenesis related,?,NA,tair10,1,AT1G57760
+4258,f4258,c60,44,tair10_AT1G57775.1,ECA1 gametogenesis related,?,NA,tair10,1,AT1G57775
+4258,f4258,c60,44,tair10_AT1G57777.1,ECA1 gametogenesis related,?,NA,tair10,1,AT1G57777
+4258,f4258,c60,44,tair10_AT3G30383.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G30383
+4258,f4258,c60,44,tair10_AT3G30385.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G30385
+4258,f4258,c60,44,tair10_AT3G30387.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G30387
+4258,f4258,c60,44,tair10_AT3G44115.1,ECA1 gametogenesis related,?,NA,tair10,1,AT3G44115
+4258,f4258,c60,44,tair10_AT4G07515.1,ECA1 gametogenesis related,?,NA,tair10,1,AT4G07515
+4258,f4258,c60,44,tair10_AT4G08025.1,ECA1 gametogenesis related,?,NA,tair10,1,AT4G08025
+4258,f4258,c60,44,tair10_AT5G34881.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G34881
+4258,f4258,c60,44,tair10_AT5G34882.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G34882
+4258,f4258,c60,44,tair10_AT5G34883.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G34883
+4258,f4258,c60,44,tair10_AT5G34885.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G34885
+4258,f4258,c60,44,tair10_AT5G34887.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G34887
+4258,f4258,c60,44,tair10_AT5G34905.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G34905
+4258,f4258,c60,44,tair10_AT5G42567.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G42567
+4258,f4258,c60,44,tair10_AT5G42955.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G42955
+4258,f4258,c60,44,tair10_AT5G42957.1,ECA1 gametogenesis related,?,NA,tair10,1,AT5G42957
+4259,f4259,c610,47,tair10_AT1G49410.1,NA,NA,NA,tair10,1,AT1G49410
+4261,f4261,c612,48,tair10_AT1G74340.1,phosphate-mannose biosynthesis,N,NA,tair10,1,AT1G74340
+4264,f4264,c615,32,tair10_AT1G13605.1,"methytransferase, defensin-like",N,NA,tair10,1,AT1G13605
+4264,f4264,c615,32,tair10_AT1G64107.1,"methytransferase, defensin-like",N,NA,tair10,1,AT1G64107
+4264,f4264,c615,32,tair10_AT1G65352.1,"methytransferase, defensin-like",N,NA,tair10,1,AT1G65352
+4264,f4264,c615,32,tair10_AT1G68907.1,defensin-like,? in both,NA,tair10,1,AT1G68907
+4264,f4264,c615,32,tair10_AT5G23035.1,"methytransferase, defensin-like",N,NA,tair10,1,AT5G23035
+4264,f4264,c615,32,tair10_AT5G62623.1,"methytransferase, defensin-like",N,NA,tair10,1,AT5G62623
+4264,f4264,c615,32,tair10_AT5G62627.1,"methytransferase, defensin-like",N,NA,tair10,1,AT5G62627
+4273,f4273,c623,49,tair10_AT3G21055.1,NA,NA,NA,tair10,1,AT3G21055
+4274,f4274,c624,48,tair10_AT5G54855.1,extensin/Ole e 1 allergen,?,NA,tair10,1,AT5G54855
+4287,f4287,c637,43,tair10_AT5G03460.1,NA,?,NA,tair10,1,AT5G03460
+4288,f4288,c638,49,tair10_AT2G19690.1,phospholipase,N,NA,tair10,1,AT2G19690
+4289,f4289,c639,41,tair10_AT3G45160.1,NA,?,NA,tair10,1,AT3G45160
+4297,f4297,c646,50,tair10_AT2G21290.1,NA,NA,NA,tair10,1,AT2G21290
+4304,f4304,c654,49,tair10_AT3G08610.1,NA,?,NA,tair10,1,AT3G08610
+4308,f4308,c658,36,tair10_AT3G58100.1,NA,NA,NA,tair10,1,AT3G58100
+4310,f4310,c65,41,tair10_AT1G49405.1,NA,NA,NA,tair10,1,AT1G49405
+4310,f4310,c65,41,tair10_AT2G28370.1,NA,NA,NA,tair10,1,AT2G28370
+4310,f4310,c65,41,tair10_AT3G23200.1,NA,NA,NA,tair10,1,AT3G23200
+4310,f4310,c65,41,tair10_AT3G50810.1,NA,NA,NA,tair10,1,AT3G50810
+4310,f4310,c65,41,tair10_AT3G53850.1,integral membrane family protein,N,NA,tair10,1,AT3G53850
+4310,f4310,c65,41,tair10_AT4G37235.1,NA,NA,NA,tair10,1,AT4G37235
+4310,f4310,c65,41,tair10_AT5G02060.1,integral membrane family protein,N,NA,tair10,1,AT5G02060
+4311,f4311,c660,40,tair10_AT2G39500.1,NA,NA,NA,tair10,1,AT2G39500
+4318,f4318,c668,31,tair10_ATCG00590.1,NA,NA,NA,tair10,1,ATCG00590
+4319,f4319,c669,47,tair10_AT1G54980.1,pectin methylesterase inhibitor,N,NA,tair10,1,AT1G54980
+4319,f4319,c669,47,tair10_AT4G24640.1,pectin methylesterase inhibitor,N,NA,tair10,1,AT4G24640
+4319,f4319,c669,47,tair10_AT5G50030.1,pectin methylesterase inhibitor,N,NA,tair10,1,AT5G50030
+4319,f4319,c669,47,tair10_AT5G50040.1,pectin methylesterase inhibitor,N,NA,tair10,1,AT5G50040
+4319,f4319,c669,47,tair10_AT5G50050.1,pectin methylesterase inhibitor,N,NA,tair10,1,AT5G50050
+4319,f4319,c669,47,tair10_AT5G50060.1,pectin methylesterase inhibitor,N,NA,tair10,1,AT5G50060
+4319,f4319,c669,47,tair10_AT5G50070.1,pectin methylesterase inhibitor,N,NA,tair10,1,AT5G50070
+4329,f4329,c67,26,tair10_AT2G05380.1,glycine-rich,? in both,NA,tair10,1,AT2G05380
+4329,f4329,c67,26,tair10_AT2G05520.1,glycine-rich,? in both,NA,tair10,1,AT2G05520
+4329,f4329,c67,26,tair10_AT2G05530.1,glycine-rich,? in both,NA,tair10,1,AT2G05530
+4329,f4329,c67,26,tair10_AT2G05540.1,glycine-rich,? in both,NA,tair10,1,AT2G05540
+4329,f4329,c67,26,tair10_AT2G41280.1,glycine-rich,? in both,NA,tair10,1,AT2G41280
+4335,f4335,c685,38,tair10_AT3G49270.1,PSY tribe,Y,PSY,tair10,1,AT3G49270
+4335,f4335,c685,38,tair10_AT3G49300.1,PSY tribe,Y,PSY,tair10,1,AT3G49300
+4335,f4335,c685,38,tair10_AT3G49305.1,PSY tribe,Y,PSY,tair10,1,AT3G49305
+4335,f4335,c685,38,tair10_AT3G49307.1,NA,?,PSY,tair10,1,AT3G49307
+4336,f4336,c686,30,tair10_AT2G11005.1,NA,NA,NA,tair10,1,AT2G11005
+4340,f4340,c68,41,tair10_AT1G17080.1,NA,NA,NA,tair10,1,AT1G17080
+4340,f4340,c68,41,tair10_AT1G29970.1,NA,NA,NA,tair10,1,AT1G29970
+4340,f4340,c68,41,tair10_AT1G53560.1,NA,NA,NA,tair10,1,AT1G53560
+4340,f4340,c68,41,tair10_AT3G14595.1,NA,NA,NA,tair10,1,AT3G14595
+4340,f4340,c68,41,tair10_AT4G26060.1,NA,NA,NA,tair10,1,AT4G26060
+4347,f4347,c698,37,tair10_AT2G25060.1,plastocyanin-like,N,NA,tair10,1,AT2G25060
+4347,f4347,c698,37,tair10_AT4G31840.1,plastocyanin-like,N,NA,tair10,1,AT4G31840
+4347,f4347,c698,37,tair10_AT5G25090.1,plastocyanin-like,N,NA,tair10,1,AT5G25090
+4363,f4363,c718,41,tair10_AT1G21500.1,NA,NA,NA,tair10,1,AT1G21500
+4369,f4369,c724,32,tair10_AT2G43018.1,Conserved peptide upstream ORF,N,NA,tair10,1,AT2G43018
+4374,f4374,c729,39,tair10_AT2G31050.1,arabinogalactan/plastocyanin/LTPâ€¦,?,NA,tair10,1,AT2G31050
+4375,f4375,c72,43,tair10_AT1G29140.1,PRP and Ole e 1 allergen/extensin,?,NA,tair10,1,AT1G29140
+4375,f4375,c72,43,tair10_AT1G78040.1,PRP and Ole e 1 allergen/extensin,?,NA,tair10,1,AT1G78040
+4375,f4375,c72,43,tair10_AT4G08685.1,PRP and Ole e 1 allergen/extensin,?,NA,tair10,1,AT4G08685
+4375,f4375,c72,43,tair10_AT4G18596.1,PRP and Ole e 1 allergen/extensin,?,NA,tair10,1,AT4G18596
+4375,f4375,c72,43,tair10_AT5G10130.1,PRP and Ole e 1 allergen/extensin,?,NA,tair10,1,AT5G10130
+4375,f4375,c72,43,tair10_AT5G45880.1,PRP and Ole e 1 allergen/extensin,?,NA,tair10,1,AT5G45880
+4385,f4385,c739,44,tair10_AT2G27385.1,NA,?,NA,tair10,1,AT2G27385
+4385,f4385,c739,44,tair10_AT5G22430.1,NA,?,NA,tair10,1,AT5G22430
+4386,f4386,c73,25,tair10_AT2G21200.1,auxin-responsive,?,NA,tair10,1,AT2G21200
+4386,f4386,c73,25,tair10_AT3G09870.1,NA,NA,NA,tair10,1,AT3G09870
+4386,f4386,c73,25,tair10_AT4G13790.1,NA,NA,NA,tair10,1,AT4G13790
+4386,f4386,c73,25,tair10_AT5G18020.1,NA,NA,NA,tair10,1,AT5G18020
+4386,f4386,c73,25,tair10_AT5G18050.1,NA,NA,NA,tair10,1,AT5G18050
+4386,f4386,c73,25,tair10_AT5G18060.1,auxin-responsive,?,NA,tair10,1,AT5G18060
+4388,f4388,c742,48,tair10_AT1G63840.1,zinc finger (C3HC4-type RING finger),N,NA,tair10,1,AT1G63840
+4391,f4391,c745,41,tair10_AT3G55390.1,NA,NA,NA,tair10,1,AT3G55390
+4393,f4393,c748,48,tair10_AT3G27340.1,NA,NA,NA,tair10,1,AT3G27340
+4395,f4395,c74,47,tair10_AT1G12663.1,thionin,? in both,NA,tair10,1,AT1G12663
+4395,f4395,c74,47,tair10_AT1G12672.1,NA,NA,NA,tair10,1,AT1G12672
+4395,f4395,c74,47,tair10_AT1G63055.1,thionin,? in both,NA,tair10,1,AT1G63055
+4395,f4395,c74,47,tair10_AT1G63057.1,thionin,? in both,NA,tair10,1,AT1G63057
+4395,f4395,c74,47,tair10_AT1G66100.1,thionin,? in both,NA,tair10,1,AT1G66100
+4395,f4395,c74,47,tair10_AT1G72260.1,thionin,? in both,NA,tair10,1,AT1G72260
+4395,f4395,c74,47,tair10_AT2G15010.1,thionin,? in both,NA,tair10,1,AT2G15010
+4395,f4395,c74,47,tair10_AT5G36910.1,thionin,? in both,NA,tair10,1,AT5G36910
+4396,f4396,c750,48,tair10_AT1G67785.1,NA,NA,NA,tair10,1,AT1G67785
+4401,f4401,c755,39,tair10_AT5G54600.1,NA,NA,NA,tair10,1,AT5G54600
+4404,f4404,c758,18,tair10_AT2G20070.1,defensin-like,? in both,NA,tair10,1,AT2G20070
+4404,f4404,c758,18,tair10_AT2G21725.1,defensin-like,? in both,NA,tair10,1,AT2G21725
+4409,f4409,c762,48,tair10_AT2G47770.1,NA,NA,NA,tair10,1,AT2G47770
+4412,f4412,c765,38,tair10_AT5G14345.1,"copper ion binding, electron transport - uclacyanin/basic blue protein",N,NA,tair10,1,AT5G14345
+4413,f4413,c766,38,tair10_AT5G44565.1,NA,?,NA,tair10,1,AT5G44565
+4413,f4413,c766,38,tair10_AT5G44574.1,NA,?,NA,tair10,1,AT5G44574
+4413,f4413,c766,38,tair10_AT5G44575.1,NA,?,NA,tair10,1,AT5G44575
+4413,f4413,c766,38,tair10_AT5G44578.1,NA,NA,NA,tair10,1,AT5G44578
+4413,f4413,c766,38,tair10_AT5G44580.1,NA,?,NA,tair10,1,AT5G44580
+4413,f4413,c766,38,tair10_AT5G44582.1,NA,?,NA,tair10,1,AT5G44582
+4417,f4417,c76,27,tair10_AT2G27330.1,RNA recognition motif (RRM)-containing protein,N,NA,tair10,1,AT2G27330
+4417,f4417,c76,27,tair10_AT2G37510.1,RNA recognition motif (RRM)-containing protein,N,NA,tair10,1,AT2G37510
+4417,f4417,c76,27,tair10_AT4G20030.1,NA,NA,NA,tair10,1,AT4G20030
+4417,f4417,c76,27,tair10_AT5G54580.1,NA,NA,NA,tair10,1,AT5G54580
+4419,f4419,c771,41,tair10_AT2G35850.1,NA,?,NA,tair10,1,AT2G35850
+4419,f4419,c771,41,tair10_AT3G52360.1,NA,?,NA,tair10,1,AT3G52360
+4423,f4423,c776,50,tair10_AT2G20870.1,cell wall protein precursor,N,NA,tair10,1,AT2G20870
+4426,f4426,c779,50,tair10_AT3G07910.1,NA,NA,NA,tair10,1,AT3G07910
+4429,f4429,c782,26,tair10_AT2G04034.1,defensin-like,? in both,NA,tair10,1,AT2G04034
+4429,f4429,c782,26,tair10_AT2G04045.1,defensin-like,? in both,NA,tair10,1,AT2G04045
+4429,f4429,c782,26,tair10_AT2G04046.1,defensin-like,? in both,NA,tair10,1,AT2G04046
+4429,f4429,c782,26,tair10_AT2G04925.1,defensin-like,? in both,NA,tair10,1,AT2G04925
+4429,f4429,c782,26,tair10_AT2G21465.1,endopeptidase inhibitor,N,NA,tair10,1,AT2G21465
+4429,f4429,c782,26,tair10_AT2G25185.1,defensin-like,? in both,NA,tair10,1,AT2G25185
+4430,f4430,c783,46,tair10_AT1G04555.1,NA,?,NA,tair10,1,AT1G04555
+4432,f4432,c785,42,tair10_AT1G57630.1,NA,NA,NA,tair10,1,AT1G57630
+4433,f4433,c786,49,tair10_AT2G18196.1,NA,NA,NA,tair10,1,AT2G18196
+4433,f4433,c786,49,tair10_AT3G56891.1,NA,NA,NA,tair10,1,AT3G56891
+4435,f4435,c789,49,tair10_AT2G20260.1,NA,NA,NA,tair10,1,AT2G20260
+4435,f4435,c789,49,tair10_AT4G28750.1,NA,NA,NA,tair10,1,AT4G28750
+4436,f4436,c78,45,tair10_AT1G32280.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT1G32280
+4436,f4436,c78,45,tair10_AT2G13295.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT2G13295
+4436,f4436,c78,45,tair10_AT4G30880.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT4G30880
+4436,f4436,c78,45,tair10_AT4G33550.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT4G33550
+4436,f4436,c78,45,tair10_AT5G56480.1,"protease inhibitor, seed storage, lipid transfer proteins",N,NA,tair10,1,AT5G56480
+4437,f4437,c791,49,tair10_AT1G16170.1,NA,NA,NA,tair10,1,AT1G16170
+4437,f4437,c791,49,tair10_AT1G79660.1,NA,NA,NA,tair10,1,AT1G79660
+4445,f4445,c799,50,tair10_AT1G07830.1,ribosomal protein,N,NA,tair10,1,AT1G07830
+4446,f4446,c79,31,tair10_AT1G04645.1,SI S1,? in both,NA,tair10,1,AT1G04645
+4446,f4446,c79,31,tair10_AT1G26795.1,SI S1,? in both,NA,tair10,1,AT1G26795
+4446,f4446,c79,31,tair10_AT1G26796.1,SI S1,? in both,NA,tair10,1,AT1G26796
+4446,f4446,c79,31,tair10_AT1G26797.1,SI S1,? in both,NA,tair10,1,AT1G26797
+4446,f4446,c79,31,tair10_AT1G26798.1,SI S1,? in both,NA,tair10,1,AT1G26798
+4446,f4446,c79,31,tair10_AT1G26799.1,SI S1,? in both,NA,tair10,1,AT1G26799
+4446,f4446,c79,31,tair10_AT1G56385.1,SI S1,? in both,NA,tair10,1,AT1G56385
+4446,f4446,c79,31,tair10_AT3G16960.1,SI S1,? in both,NA,tair10,1,AT3G16960
+4446,f4446,c79,31,tair10_AT3G17080.1,SI S1,? in both,NA,tair10,1,AT3G17080
+4446,f4446,c79,31,tair10_AT3G24065.1,SI S1,? in both,NA,tair10,1,AT3G24065
+4446,f4446,c79,31,tair10_AT3G24068.1,SI S1,? in both,NA,tair10,1,AT3G24068
+4446,f4446,c79,31,tair10_AT3G55252.1,SI S1,? in both,NA,tair10,1,AT3G55252
+4446,f4446,c79,31,tair10_AT3G55254.1,SI S1,? in both,NA,tair10,1,AT3G55254
+4446,f4446,c79,31,tair10_AT3G55665.1,SI S1,? in both,NA,tair10,1,AT3G55665
+4446,f4446,c79,31,tair10_AT3G55672.1,SI S1,? in both,NA,tair10,1,AT3G55672
+4446,f4446,c79,31,tair10_AT3G55677.1,SI S1,? in both,NA,tair10,1,AT3G55677
+4446,f4446,c79,31,tair10_AT3G57840.1,SI S1,? in both,NA,tair10,1,AT3G57840
+4446,f4446,c79,31,tair10_AT4G16195.1,SI S1,? in both,NA,tair10,1,AT4G16195
+4446,f4446,c79,31,tair10_AT4G24973.1,SI S1,? in both,NA,tair10,1,AT4G24973
+4446,f4446,c79,31,tair10_AT4G24974.1,SI S1,? in both,NA,tair10,1,AT4G24974
+4446,f4446,c79,31,tair10_AT4G24975.1,SI S1,? in both,NA,tair10,1,AT4G24975
+4446,f4446,c79,31,tair10_AT5G06020.1,SI S1,? in both,NA,tair10,1,AT5G06020
+4446,f4446,c79,31,tair10_AT5G06030.1,SI S1,? in both,NA,tair10,1,AT5G06030
+4446,f4446,c79,31,tair10_AT5G12060.1,SI S1,? in both,NA,tair10,1,AT5G12060
+4446,f4446,c79,31,tair10_AT5G12070.1,SI S1,? in both,NA,tair10,1,AT5G12070
+4449,f4449,c802,39,tair10_AT5G54980.1,NA,NA,NA,tair10,1,AT5G54980
+4452,f4452,c805,24,tair10_AT4G02980.1,ABP1,N,NA,tair10,1,AT4G02980
+4455,f4455,c809,48,tair10_AT4G22830.1,NA,NA,NA,tair10,1,AT4G22830
+4467,f4467,c81,39,tair10_AT2G25890.1,NA,NA,NA,tair10,1,AT2G25890
+4467,f4467,c81,39,tair10_AT3G18570.1,NA,NA,NA,tair10,1,AT3G18570
+4467,f4467,c81,39,tair10_AT5G40420.1,NA,NA,NA,tair10,1,AT5G40420
+4467,f4467,c81,39,tair10_AT5G51210.1,NA,NA,NA,tair10,1,AT5G51210
+4469,f4469,c821,35,tair10_ATCG00690.1,NA,NA,NA,tair10,1,ATCG00690
+4471,f4471,c823,47,tair10_AT1G20340.1,NA,NA,NA,tair10,1,AT1G20340
+4475,f4475,c827,25,tair10_AT2G19850.1,NA,NA,NA,tair10,1,AT2G19850
+4475,f4475,c827,25,tair10_AT4G04030.1,NA,NA,NA,tair10,1,AT4G04030
+4476,f4476,c829,47,tair10_AT1G34640.1,NA,?,NA,tair10,1,AT1G34640
+4477,f4477,c82,49,tair10_AT1G11925.1,thionin/stigma specific,? in both,NA,tair10,1,AT1G11925
+4477,f4477,c82,49,tair10_AT1G50720.1,thionin/stigma specific,? in both,NA,tair10,1,AT1G50720
+4477,f4477,c82,49,tair10_AT1G53130.1,thionin/stigma specific,? in both,NA,tair10,1,AT1G53130
+4477,f4477,c82,49,tair10_AT4G26880.1,thionin/stigma specific,? in both,NA,tair10,1,AT4G26880
+4477,f4477,c82,49,tair10_AT5G55110.1,thionin/stigma specific,? in both,NA,tair10,1,AT5G55110
+4485,f4485,c837,48,tair10_AT3G44380.1,NA,?,NA,tair10,1,AT3G44380
+4486,f4486,c838,43,tair10_AT4G26055.1,NA,?,NA,tair10,1,AT4G26055
+4486,f4486,c838,43,tair10_AT5G57080.1,NA,?,NA,tair10,1,AT5G57080
+4491,f4491,c842,49,tair10_AT4G35490.1,NA,NA,NA,tair10,1,AT4G35490
+4502,f4502,c853,42,tair10_AT1G11362.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT1G11362
+4502,f4502,c853,42,tair10_AT1G11593.1,NA,NA,NA,tair10,1,AT1G11593
+4502,f4502,c853,42,tair10_AT1G50325.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT1G50325
+4502,f4502,c853,42,tair10_AT3G27999.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT3G27999
+4502,f4502,c853,42,tair10_AT4G03945.1,invertase/pectin methylesterase inhibitor family protein,N,NA,tair10,1,AT4G03945
+4516,f4516,c866,38,tair10_AT1G65486.1,NA,?,NA,tair10,1,AT1G65486
+4516,f4516,c866,38,tair10_AT1G65490.1,NA,?,NA,tair10,1,AT1G65490
+4516,f4516,c866,38,tair10_AT1G65500.1,NA,?,NA,tair10,1,AT1G65500
+4516,f4516,c866,38,tair10_AT1G65510.1,NA,?,NA,tair10,1,AT1G65510
+4516,f4516,c866,38,tair10_AT5G36920.1,NA,NA,NA,tair10,1,AT5G36920
+4519,f4519,c869,31,tair10_AT5G20120.1,NA,NA,NA,tair10,1,AT5G20120
+4520,f4520,c86,39,tair10_AT1G21835.1,thionin,? in both,NA,tair10,1,AT1G21835
+4520,f4520,c86,39,tair10_AT1G21864.1,thionin,? in both,NA,tair10,1,AT1G21864
+4520,f4520,c86,39,tair10_AT1G21866.1,thionin,? in both,NA,tair10,1,AT1G21866
+4520,f4520,c86,39,tair10_AT1G21925.1,thionin,? in both,NA,tair10,1,AT1G21925
+4520,f4520,c86,39,tair10_AT1G21928.1,thionin,? in both,NA,tair10,1,AT1G21928
+4520,f4520,c86,39,tair10_AT1G34792.1,thionin,? in both,NA,tair10,1,AT1G34792
+4520,f4520,c86,39,tair10_AT1G34795.1,thionin,? in both,NA,tair10,1,AT1G34795
+4520,f4520,c86,39,tair10_AT1G34800.1,thionin,? in both,NA,tair10,1,AT1G34800
+4520,f4520,c86,39,tair10_AT1G34805.1,thionin,? in both,NA,tair10,1,AT1G34805
+4520,f4520,c86,39,tair10_AT1G34810.1,thionin,? in both,NA,tair10,1,AT1G34810
+4520,f4520,c86,39,tair10_AT1G34815.1,thionin,? in both,NA,tair10,1,AT1G34815
+4520,f4520,c86,39,tair10_AT1G34820.1,thionin,? in both,NA,tair10,1,AT1G34820
+4520,f4520,c86,39,tair10_AT1G34825.1,thionin,? in both,NA,tair10,1,AT1G34825
+4520,f4520,c86,39,tair10_AT1G34830.1,thionin,? in both,NA,tair10,1,AT1G34830
+4520,f4520,c86,39,tair10_AT1G34840.1,thionin,? in both,NA,tair10,1,AT1G34840
+4520,f4520,c86,39,tair10_AT1G34850.1,thionin,? in both,NA,tair10,1,AT1G34850
+4520,f4520,c86,39,tair10_AT1G34860.1,thionin,? in both,NA,tair10,1,AT1G34860
+4520,f4520,c86,39,tair10_AT1G34930.1,thionin,? in both,NA,tair10,1,AT1G34930
+4520,f4520,c86,39,tair10_AT1G35035.1,thionin,? in both,NA,tair10,1,AT1G35035
+4520,f4520,c86,39,tair10_AT1G54775.1,NA,NA,NA,tair10,1,AT1G54775
+4520,f4520,c86,39,tair10_AT1G58242.1,thionin,? in both,NA,tair10,1,AT1G58242
+4520,f4520,c86,39,tair10_AT1G58245.1,thionin,? in both,NA,tair10,1,AT1G58245
+4520,f4520,c86,39,tair10_AT1G58248.1,thionin,? in both,NA,tair10,1,AT1G58248
+4520,f4520,c86,39,tair10_AT1G77682.1,thionin,? in both,NA,tair10,1,AT1G77682
+4520,f4520,c86,39,tair10_AT3G24465.1,thionin,? in both,NA,tair10,1,AT3G24465
+4520,f4520,c86,39,tair10_AT5G34828.1,thionin,? in both,NA,tair10,1,AT5G34828
+4520,f4520,c86,39,tair10_AT5G36720.1,thionin,? in both,NA,tair10,1,AT5G36720
+4520,f4520,c86,39,tair10_AT5G36805.1,thionin,? in both,NA,tair10,1,AT5G36805
+4520,f4520,c86,39,tair10_AT5G38378.1,thionin,? in both,NA,tair10,1,AT5G38378
+4521,f4521,c870,45,tair10_AT3G01070.1,plastocyanin-like,N,NA,tair10,1,AT3G01070
+4521,f4521,c870,45,tair10_AT5G15350.1,plastocyanin-like,N,NA,tair10,1,AT5G15350
+4530,f4530,c879,50,tair10_AT1G74880.1,NA,NA,NA,tair10,1,AT1G74880
+4532,f4532,c880,50,tair10_AT3G56490.1,NA,NA,NA,tair10,1,AT3G56490
+4551,f4551,c898,33,tair10_AT1G24062.1,defensin-like,? in both,NA,tair10,1,AT1G24062
+4551,f4551,c898,33,tair10_AT1G77093.1,defensin-like,? in both,NA,tair10,1,AT1G77093
+4551,f4551,c898,33,tair10_AT2G25305.1,defensin-like,? in both,NA,tair10,1,AT2G25305
+4551,f4551,c898,33,tair10_AT5G54215.1,defensin-like,? in both,NA,tair10,1,AT5G54215
+4551,f4551,c898,33,tair10_AT5G54220.1,defensin-like,? in both,NA,tair10,1,AT5G54220
+4552,f4552,c899,46,tair10_AT3G45230.1,hydroxyproline rich,?,NA,tair10,1,AT3G45230
+4552,f4552,c899,46,tair10_AT5G60630.1,hydroxyproline rich,?,NA,tair10,1,AT5G60630
+4555,f4555,c902,46,tair10_AT5G65880.1,NA,?,NA,tair10,1,AT5G65880
+4562,f4562,c90,27,tair10_AT1G32763.1,defensin-like,? in both,NA,tair10,1,AT1G32763
+4562,f4562,c90,27,tair10_AT1G59833.1,defensin-like,? in both,NA,tair10,1,AT1G59833
+4562,f4562,c90,27,tair10_AT1G61688.1,defensin-like,? in both,NA,tair10,1,AT1G61688
+4562,f4562,c90,27,tair10_AT1G76954.1,defensin-like,? in both,NA,tair10,1,AT1G76954
+4562,f4562,c90,27,tair10_AT2G03913.1,defensin-like,? in both,NA,tair10,1,AT2G03913
+4562,f4562,c90,27,tair10_AT2G03931.1,defensin-like,? in both,NA,tair10,1,AT2G03931
+4562,f4562,c90,27,tair10_AT2G03932.1,NA,NA,NA,tair10,1,AT2G03932
+4562,f4562,c90,27,tair10_AT2G03933.1,defensin-like,? in both,NA,tair10,1,AT2G03933
+4562,f4562,c90,27,tair10_AT2G03936.1,defensin-like,? in both,NA,tair10,1,AT2G03936
+4562,f4562,c90,27,tair10_AT2G03955.1,defensin-like,? in both,NA,tair10,1,AT2G03955
+4562,f4562,c90,27,tair10_AT2G13542.1,defensin-like,? in both,NA,tair10,1,AT2G13542
+4562,f4562,c90,27,tair10_AT2G14365.1,defensin-like,? in both,NA,tair10,1,AT2G14365
+4562,f4562,c90,27,tair10_AT2G33233.1,defensin-like,? in both,NA,tair10,1,AT2G33233
+4562,f4562,c90,27,tair10_AT2G34123.1,defensin-like,? in both,NA,tair10,1,AT2G34123
+4562,f4562,c90,27,tair10_AT2G42885.1,defensin-like,? in both,NA,tair10,1,AT2G42885
+4562,f4562,c90,27,tair10_AT3G04540.1,NA,NA,NA,tair10,1,AT3G04540
+4562,f4562,c90,27,tair10_AT3G04545.1,defensin-like,? in both,NA,tair10,1,AT3G04545
+4562,f4562,c90,27,tair10_AT3G06985.1,defensin-like,? in both,NA,tair10,1,AT3G06985
+4562,f4562,c90,27,tair10_AT3G07005.1,defensin-like,? in both,NA,tair10,1,AT3G07005
+4562,f4562,c90,27,tair10_AT3G16895.1,defensin-like,? in both,NA,tair10,1,AT3G16895
+4562,f4562,c90,27,tair10_AT3G17155.1,defensin-like,? in both,NA,tair10,1,AT3G17155
+4562,f4562,c90,27,tair10_AT3G48231.1,defensin-like,? in both,NA,tair10,1,AT3G48231
+4562,f4562,c90,27,tair10_AT5G19172.1,defensin-like,? in both,NA,tair10,1,AT5G19172
+4562,f4562,c90,27,tair10_AT5G19175.1,defensin-like,? in both,NA,tair10,1,AT5G19175
+4562,f4562,c90,27,tair10_AT5G28288.1,defensin-like,? in both,NA,tair10,1,AT5G28288
+4562,f4562,c90,27,tair10_AT5G40155.1,defensin-like,? in both,NA,tair10,1,AT5G40155
+4562,f4562,c90,27,tair10_AT5G54225.1,defensin-like,? in both,NA,tair10,1,AT5G54225
+4567,f4567,c914,47,tair10_AT2G23670.1,NA,NA,NA,tair10,1,AT2G23670
+4568,f4568,c915,47,tair10_AT3G26960.1,NA,?,NA,tair10,1,AT3G26960
+4568,f4568,c915,47,tair10_AT5G41050.1,NA,?,NA,tair10,1,AT5G41050
+4571,f4571,c918,46,tair10_AT4G10280.1,NA,?,NA,tair10,1,AT4G10280
+4575,f4575,c921,33,tair10_AT5G17610.1,NA,?,NA,tair10,1,AT5G17610
+4577,f4577,c923,35,tair10_AT2G14890.1,arabinogalactan,?,NA,tair10,1,AT2G14890
+4577,f4577,c923,35,tair10_AT2G23130.1,arabinogalactan,?,NA,tair10,1,AT2G23130
+4583,f4583,c931,49,tair10_AT3G12030.1,NA,NA,NA,tair10,1,AT3G12030
+4583,f4583,c931,49,tair10_AT5G06660.1,NA,NA,NA,tair10,1,AT5G06660
+4585,f4585,c933,45,tair10_AT3G12880.1,methylesterase inhibitor,N,NA,tair10,1,AT3G12880
+4585,f4585,c933,45,tair10_AT4G00872.1,NA,NA,NA,tair10,1,AT4G00872
+4585,f4585,c933,45,tair10_AT4G15750.1,methylesterase inhibitor,N,NA,tair10,1,AT4G15750
+4589,f4589,c938,45,tair10_AT5G17870.1,NA,NA,NA,tair10,1,AT5G17870
+4591,f4591,c93,33,tair10_AT1G04560.1,AWPM-19-like membrane family protein,N,NA,tair10,1,AT1G04560
+4591,f4591,c93,33,tair10_AT1G29520.1,NA,NA,NA,tair10,1,AT1G29520
+4591,f4591,c93,33,tair10_AT5G18970.1,AWPM-19-like membrane family protein,N,NA,tair10,1,AT5G18970
+4591,f4591,c93,33,tair10_AT5G46530.1,NA,NA,NA,tair10,1,AT5G46530
+4592,f4592,c940,47,tair10_AT4G28025.1,NA,NA,NA,tair10,1,AT4G28025
+4594,f4594,c942,43,tair10_AT5G64310.1,arabinogalactan/plastocyanin/LTPâ€¦,?,NA,tair10,1,AT5G64310
+4597,f4597,c945,45,tair10_AT5G16660.1,NA,NA,NA,tair10,1,AT5G16660
+4605,f4605,c953,50,tair10_ATMG00080.1,NA,NA,NA,tair10,1,ATMG00080
+4621,f4621,c968,48,tair10_AT5G58990.1,NA,NA,NA,tair10,1,AT5G58990
+4623,f4623,c96,46,tair10_AT2G34700.1,PRP and Ole e 1 allergen/extensin,?,NA,tair10,1,AT2G34700
+4623,f4623,c96,46,tair10_AT2G47530.1,PRP and Ole e 1 allergen/extensin,?,NA,tair10,1,AT2G47530
+4623,f4623,c96,46,tair10_AT5G05500.1,PRP and Ole e 1 allergen/extensin,?,NA,tair10,1,AT5G05500
+4628,f4628,c974,44,tair10_AT4G28085.1,NA,?,NA,tair10,1,AT4G28085
+4628,f4628,c974,44,tair10_AT5G57887.1,NA,?,NA,tair10,1,AT5G57887
+4632,f4632,c978,37,tair10_AT3G53050.1,sugar binding,N,NA,tair10,1,AT3G53050
+4632,f4632,c978,37,tair10_AT3G53065.1,sugar binding,N,NA,tair10,1,AT3G53065
+4632,f4632,c978,37,tair10_AT3G53070.1,defensin-like/beta-gal/LCR,? in both,NA,tair10,1,AT3G53070
+4632,f4632,c978,37,tair10_AT3G53075.1,sugar binding,N,NA,tair10,1,AT3G53075
+4632,f4632,c978,37,tair10_AT3G53080.1,sugar binding,N,NA,tair10,1,AT3G53080
+4636,f4636,c981,33,tair10_AT1G02405.1,(hydroxy)proline rich,?,NA,tair10,1,AT1G02405
+4636,f4636,c981,33,tair10_AT1G23040.1,(hydroxy)proline rich,?,NA,tair10,1,AT1G23040
+4640,f4640,c985,47,tair10_AT2G26370.1,NA,NA,NA,tair10,1,AT2G26370
+4640,f4640,c985,47,tair10_AT5G23820.1,lipid recognition,?,NA,tair10,1,AT5G23820
+4640,f4640,c985,47,tair10_AT5G23830.1,lipid recognition,?,NA,tair10,1,AT5G23830
+4640,f4640,c985,47,tair10_AT5G23840.1,lipid recognition,?,NA,tair10,1,AT5G23840
+4645,f4645,c991,40,tair10_AT1G18280.1,arabinogalactan/plastocyanin/LTPâ€¦,?,NA,tair10,1,AT1G18280
+4645,f4645,c991,40,tair10_AT1G73560.1,arabinogalactan/plastocyanin/LTPâ€¦,?,NA,tair10,1,AT1G73560
+4646,f4646,c992,44,tair10_AT1G14345.1,NA,NA,NA,tair10,1,AT1G14345
+4652,f4652,c998,50,tair10_AT3G13120.1,NA,NA,NA,tair10,1,AT3G13120
+4654,f4654,c99,47,tair10_AT4G01150.1,NA,NA,NA,tair10,1,AT4G01150
+4661,f4661,c17,9,tair10_AT1G12665.1,thionin,? in both,NA,tair10,1,AT1G12665
+4661,f4661,c17,9,tair10_AT3G03776.1,NA,NA,NA,tair10,1,AT3G03776
+4661,f4661,c17,9,tair10_AT3G20850.1,proline rich,?,NA,tair10,1,AT3G20850
+4661,f4661,c17,9,tair10_AT3G22070.1,NA,?,NA,tair10,1,AT3G22070
+4661,f4661,c17,9,tair10_AT5G12880.1,NA,?,NA,tair10,1,AT5G12880
+4661,f4661,c17,9,tair10_AT5G19800.1,(hydroxy)proline rich,?,NA,tair10,1,AT5G19800
+4661,f4661,c17,9,tair10_AT5G26070.1,(hydroxy)proline rich,?,NA,tair10,1,AT5G26070
+4661,f4661,c17,9,tair10_AT5G26080.1,proline rich,?,NA,tair10,1,AT5G26080
+4672,f4672,c2,25,tair10_AT1G04800.1,glycine-rich,? in both,NA,tair10,1,AT1G04800
+4672,f4672,c2,25,tair10_AT1G11850.1,glycine-rich,? in both,NA,tair10,1,AT1G11850
+4672,f4672,c2,25,tair10_AT1G53620.1,glycine-rich,? in both,NA,tair10,1,AT1G53620
+4672,f4672,c2,25,tair10_AT2G05440.1,glycine-rich,? in both,NA,tair10,1,AT2G05440
+4672,f4672,c2,25,tair10_AT2G05510.1,glycine-rich,? in both,NA,tair10,1,AT2G05510
+4672,f4672,c2,25,tair10_AT3G14480.1,glycine-rich,? in both,NA,tair10,1,AT3G14480
+4672,f4672,c2,25,tair10_AT3G20470.1,NA,NA,NA,tair10,1,AT3G20470
+4672,f4672,c2,25,tair10_AT3G24250.1,glycine-rich,? in both,NA,tair10,1,AT3G24250
+4672,f4672,c2,25,tair10_AT3G27200.1,arabinogalactan/plastocyanin,?,NA,tair10,1,AT3G27200
+4672,f4672,c2,25,tair10_AT3G44950.1,NA,?,NA,tair10,1,AT3G44950
+4672,f4672,c2,25,tair10_AT3G55790.1,glycine-rich,? in both,NA,tair10,1,AT3G55790
+4672,f4672,c2,25,tair10_AT4G08230.1,NA,NA,NA,tair10,1,AT4G08230
+4672,f4672,c2,25,tair10_AT4G14301.1,NA,NA,NA,tair10,1,AT4G14301
+4672,f4672,c2,25,tair10_AT4G29020.1,glycine-rich,? in both,NA,tair10,1,AT4G29020
+4672,f4672,c2,25,tair10_AT4G29030.1,glycine-rich,? in both,NA,tair10,1,AT4G29030
+4672,f4672,c2,25,tair10_AT4G30460.1,glycine-rich,? in both,NA,tair10,1,AT4G30460
+4672,f4672,c2,25,tair10_AT5G61660.1,glycine-rich,? in both,NA,tair10,1,AT5G61660
+4677,f4677,c690,12,tair10_AT1G65845.1,NA,NA,NA,tair10,1,AT1G65845
+4685,f4685,c475,NA,tair10_AT3G26740.1,light responsive protein-related,?,NA,tair10,1,AT3G26740

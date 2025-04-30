@@ -1,0 +1,375 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length	Gene Names (synonym)	TAIR
+C0LGQ5	reviewed	GSO1_ARATH	LRR receptor-like serine/threonine-protein kinase GSO1 (EC 2.7.11.1) (Protein GASSHO 1) (Protein SCHENGEN 3)	GSO1 SGN3 At4g20140 F1C12.60	Arabidopsis thaliana (Mouse-ear cress)	1249	SGN3	AT4G20140;
+F4I718	reviewed	CSI3_ARATH	Protein CELLULOSE SYNTHASE INTERACTIVE 3	CSI3 At1g77460 T5M16.5	Arabidopsis thaliana (Mouse-ear cress)	2136		AT1G77460;
+F4IHS9	reviewed	UXT1_ARATH	UDP-xylose transporter 1	UXT1 At2g28315 T1B3.18	Arabidopsis thaliana (Mouse-ear cress)	342		AT2G28315;
+F4IIM1	reviewed	CSI1_ARATH	Protein CELLULOSE SYNTHASE INTERACTIVE 1 (Protein POM-POM 2)	CSI1 POM2 At2g22125 T16B14.2	Arabidopsis thaliana (Mouse-ear cress)	2150	POM2	AT2G22125;
+F4IVV0	reviewed	RIC1_ARATH	CRIB domain-containing protein RIC1 (ROP-interactive CRIB motif-containing protein 1) (Target of ROP protein RIC1)	RIC1 At2g33460 F4P9.23	Arabidopsis thaliana (Mouse-ear cress)	224		AT2G33460;
+F4KGM7	unreviewed	F4KGM7_ARATH	Exocyst subunit Exo70 family protein	EXO70A1 ATEXO70A1 At5g03540 F12E4.330 F12E4_330	Arabidopsis thaliana (Mouse-ear cress)	664	ATEXO70A1	AT5G03540;
+O22943	reviewed	STL1_ARATH	Probable glycosyltransferase STELLO1 (EC 2.4.-.-)	STL1 At2g41770 T11A7.13	Arabidopsis thaliana (Mouse-ear cress)	771		AT2G41770;
+O48946	reviewed	CESA1_ARATH	Cellulose synthase A catalytic subunit 1 [UDP-forming] (AtCesA1) (EC 2.4.1.12) (Protein RADIALLY SWOLLEN 1) (AtRSW1)	CESA1 RSW1 At4g32410 F8B4.110	Arabidopsis thaliana (Mouse-ear cress)	1081	RSW1	AT4G32410;
+O64614	reviewed	YIP4A_ARATH	Protein YIP4a (YPT/RAB GTPase-interacting protein 4a) (YIP4a)	YIP4A At2g18840 MSF3.22	Arabidopsis thaliana (Mouse-ear cress)	281		AT2G18840;
+O80434	reviewed	LAC4_ARATH	Laccase-4 (EC 1.10.3.2) (Benzenediol:oxygen oxidoreductase 4) (Diphenol oxidase 4) (Protein IRREGULAR XYLEM 12) (Urishiol oxidase 4)	IRX12 LAC4 At2g38080 F16M14.1	Arabidopsis thaliana (Mouse-ear cress)	558	LAC4	AT2G38080;
+O80501	reviewed	RAH1B_ARATH	Ras-related protein RABH1b (AtRABH1b) (Ras-related protein Rab6A) (AtRab6A)	RABH1B RAB6A At2g44610 F16B22.10	Arabidopsis thaliana (Mouse-ear cress)	208	RAB6A	AT2G44610;
+O80803	reviewed	XTH17_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 17 (At-XTH17) (XTH-17) (EC 2.4.1.207)	XTH17 XTR1 At1g65310 T8F5.9	Arabidopsis thaliana (Mouse-ear cress)	282	XTR1	AT1G65310;
+O81417	reviewed	SRPP_ARATH	Protein SEED AND ROOT HAIR PROTECTIVE PROTEIN (Protein ROOT HAIR SPECIFIC 13)	SRPP RHS13 At4g02270 T2H3.4	Arabidopsis thaliana (Mouse-ear cress)	165	RHS13	AT4G02270;
+P24806	reviewed	XTH24_ARATH	Xyloglucan endotransglucosylase/hydrolase protein 24 (At-XTH24) (XTH-24) (EC 2.4.1.207) (Endo-xyloglucan transferase) (Meristem protein 5) (MERI-5 protein) (MERI5 protein) (Xyloglucan endo-1,4-beta-D-glucanase)	XTH24 MERI-5 MERI5B SEN4 At4g30270 F9N11.120	Arabidopsis thaliana (Mouse-ear cress)	269	MERI-5 MERI5B SEN4	AT4G30270;
+P28185	reviewed	RAA1A_ARATH	Ras-related protein RABA1a (AtRABA1a) (Ras-related protein Ara-2) (Ras-related protein Rab11E) (AtRab11E)	RABA1A ARA-2 RAB11E At1g06400 T2D23.10 T2D23_5	Arabidopsis thaliana (Mouse-ear cress)	216	ARA-2 RAB11E	AT1G06400;
+P42697	reviewed	DRP1A_ARATH	Phragmoplastin DRP1A (EC 3.6.5.-) (Dynamin-like protein 1) (Dynamin-like protein 1A) (Dynamin-related protein 1A) (AtDRP1A) (Protein RADIAL SWELLING 9)	DRP1A ADL1 ADL1A AG68 RSW9 At5g42080 MJC20.19	Arabidopsis thaliana (Mouse-ear cress)	610	ADL1 ADL1A AG68 RSW9	AT5G42080;
+P93042	reviewed	RHD3_ARATH	Protein ROOT HAIR DEFECTIVE 3 (EC 3.6.5.-) (Protein FRAGILE FIBER 4) (Protein SEY1 homolog 1)	RHD3 FRA4 At3g13870 MCP4.11	Arabidopsis thaliana (Mouse-ear cress)	802	FRA4	AT3G13870;
+P93046	reviewed	XTH31_ARATH	Xyloglucan endotransglucosylase/hydrolase protein 31 (At-XTH31) (AtXTR8) (XTH-31) (EC 2.4.1.207) (EC 3.2.1.151)	XTH31 ATXG XTR8 At3g44990 F14D17.60	Arabidopsis thaliana (Mouse-ear cress)	293	ATXG XTR8	AT3G44990;
+Q0WPA5	reviewed	MSR2_ARATH	Protein MANNAN SYNTHESIS-RELATED 2 (AtMSR2) (EC 2.4.1.-) (O-fucosyltransferase 12) (O-FucT-12) (O-fucosyltransferase family protein)	MSR2 OFUT12 At1g51630 F19C24.14	Arabidopsis thaliana (Mouse-ear cress)	423	OFUT12	AT1G51630;
+Q0WPN7	reviewed	CGR3_ARATH	Probable pectin methylesterase CGR3 (EC 2.1.1.-) (Cotton Golgi-related 3)	CGR3 At5g65810 K22J17.2	Arabidopsis thaliana (Mouse-ear cress)	258		AT5G65810;
+Q0WV13	reviewed	GAUTD_ARATH	Probable galacturonosyltransferase 13 (EC 2.4.1.-)	GAUT13 At3g01040 T4P13.28	Arabidopsis thaliana (Mouse-ear cress)	533		AT3G01040;
+Q0WW17	reviewed	RWA2_ARATH	Protein REDUCED WALL ACETYLATION 2 (EC 2.3.1.-)	RWA2 At3g06550 F5E6.12	Arabidopsis thaliana (Mouse-ear cress)	545		AT3G06550;
+Q38857	reviewed	XTH22_ARATH	Xyloglucan endotransglucosylase/hydrolase protein 22 (At-XTH22) (XTH-22) (EC 2.4.1.207) (Touch protein 4)	XTH22 TCH4 At5g57560 MUA2.13	Arabidopsis thaliana (Mouse-ear cress)	284	TCH4	AT5G57560;
+Q38909	reviewed	XTH28_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 28 (At-XTH28) (XTH-28) (EC 2.4.1.207)	XTH28 EXGT-A2 XTR2 At1g14720 F10B6.12 F10B6.29	Arabidopsis thaliana (Mouse-ear cress)	332	EXGT-A2 XTR2	AT1G14720;
+Q38911	reviewed	XTH15_ARATH	Xyloglucan endotransglucosylase/hydrolase protein 15 (At-XTH15) (XTH-15) (EC 2.4.1.207) (EC 3.2.1.151)	XTH15 XTR7 At4g14130 dl3105c FCAALL.173	Arabidopsis thaliana (Mouse-ear cress)	289	XTR7	AT4G14130;
+Q39085	reviewed	DIM_ARATH	Delta(24)-sterol reductase (EC 1.3.1.72) (Cell elongation protein DIMINUTO) (Cell elongation protein Dwarf1) (Protein CABBAGE1) (Protein ENHANCED VERY-LOW-FLUENCE RESPONSE 1)	DIM CBB1 DWF1 EVE1 At3g19820 MPN9.6	Arabidopsis thaliana (Mouse-ear cress)	561	CBB1 DWF1 EVE1	AT3G19820;
+Q39099	reviewed	XTH4_ARATH	Xyloglucan endotransglucosylase/hydrolase protein 4 (At-XTH4) (XTH-4) (EC 2.4.1.207)	XTH4 EXGT-A1 EXT At2g06850 T9F8.4	Arabidopsis thaliana (Mouse-ear cress)	296	EXGT-A1 EXT	AT2G06850;
+Q39258	reviewed	VATE1_ARATH	V-type proton ATPase subunit E1 (V-ATPase subunit E1) (Protein EMBRYO DEFECTIVE 2448) (Vacuolar H(+)-ATPase subunit E isoform 1) (Vacuolar proton pump subunit E1)	VHA-E1 EMB2448 TUF TUFF VATE At4g11150 F2P3.10 T22B4.130	Arabidopsis thaliana (Mouse-ear cress)	230	EMB2448 TUF TUFF VATE	AT4G11150;
+Q66GQ5	reviewed	RWA3_ARATH	Protein REDUCED WALL ACETYLATION 3 (EC 2.3.1.-)	RWA3 At2g34410 F13P17.23	Arabidopsis thaliana (Mouse-ear cress)	540		AT2G34410;
+Q6R0C4	reviewed	MYB52_ARATH	Transcription factor MYB52 (Myb-related protein 52) (AtMYB52) (Protein ABA-HYPERSENSITIVE 1)	MYB52 AHS1 At1g17950 F2H15.17	Arabidopsis thaliana (Mouse-ear cress)	249	AHS1	AT1G17950;
+Q7XZU3	reviewed	SAC1_ARATH	Phosphatidylinositol-3-phosphatase SAC1 (AtSAC1) (EC 3.1.3.64) (Factor-induced gene 4-like protein) (AtFIG4) (Phosphatidylinositol 3,5-bisphosphate 5-phosphatase SAC1) (Phosphatidylinositol-4-phosphate phosphatase) (Protein FRAGILE FIBER 7) (Protein SUPPRESSOR OF ACTIN 1) (SAC domain protein 1)	SAC1 FIG4 FRA7 At1g22620 F12K8.3 T22J18.20	Arabidopsis thaliana (Mouse-ear cress)	912	FIG4 FRA7	AT1G22620;
+Q84JA6	reviewed	CESA4_ARATH	Cellulose synthase A catalytic subunit 4 [UDP-forming] (AtCesA4) (EC 2.4.1.12) (Protein IRREGULAR XYLEM 5) (AtIRX5)	CESA4 IRX5 At5g44030 MRH10.14	Arabidopsis thaliana (Mouse-ear cress)	1049	IRX5	AT5G44030;
+Q8GS71	reviewed	KN4A_ARATH	Kinesin-like protein KIN-4A (AtKINESIN-4A) (Protein FRAGILE FIBER 1)	KIN4A FRA1 At5g47820 MCA23.16	Arabidopsis thaliana (Mouse-ear cress)	1035	FRA1	AT5G47820;
+Q8GWT1	reviewed	GAUTE_ARATH	Probable galacturonosyltransferase 14 (EC 2.4.1.-)	GAUT14 At5g15470 T20K14.80	Arabidopsis thaliana (Mouse-ear cress)	532		AT5G15470;
+Q8GWW4	reviewed	GUX2_ARATH	UDP-glucuronate:xylan alpha-glucuronosyltransferase 2 (UDP-GlcA:xylan glucuronyltransferase 2) (EC 2.4.1.-) (Glycogenin-like protein 2) (Plant glycogenin-like starch initiation protein 3) (Protein GLUCURONIC ACID SUBSTITUTION OF XYLAN 2) (AtGUX2)	GUX2 PGSIP3 At4g33330/At4g33340 F17M5.90/F17M5.100	Arabidopsis thaliana (Mouse-ear cress)	596	PGSIP3	AT4G33330;
+Q8L778	reviewed	CESA5_ARATH	Cellulose synthase A catalytic subunit 5 [UDP-forming] (AtCesA5) (EC 2.4.1.12)	CESA5 At5g09870 MYH9.8	Arabidopsis thaliana (Mouse-ear cress)	1069		AT5G09870;
+Q8L7C8	reviewed	RWA1_ARATH	Protein REDUCED WALL ACETYLATION 1 (EC 2.3.1.-)	RWA1 At5g46340 MPL12.14	Arabidopsis thaliana (Mouse-ear cress)	540		AT5G46340;
+Q8L8Q7	reviewed	COBL2_ARATH	COBRA-like protein 2	COBL2 At3g29810 K17E7.7; COBL3 At1gXXXXX F21N10.4	Arabidopsis thaliana (Mouse-ear cress)	441	; 	AT3G29810;
+Q8LBX7	reviewed	TED6_ARATH	Protein TRACHEARY ELEMENT DIFFERENTIATION-RELATED 6	TED6 At1g43790 F28H19.19	Arabidopsis thaliana (Mouse-ear cress)	116		AT1G43790;
+Q8LC45	reviewed	XTH33_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 33 (At-XTH33) (XTH-33) (EC 2.4.1.207)	XTH33 At1g10550 T10O24.17	Arabidopsis thaliana (Mouse-ear cress)	310		AT1G10550;
+Q8LDS2	reviewed	XTH27_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 27 (At-XTH27) (XTH-27) (EC 2.4.1.207)	XTH27 EXGT-A3 At2g01850 T23K3.4	Arabidopsis thaliana (Mouse-ear cress)	333	EXGT-A3	AT2G01850;
+Q8LDW9	reviewed	XTH9_ARATH	Xyloglucan endotransglucosylase/hydrolase protein 9 (At-XTH9) (XTH-9) (EC 2.4.1.207)	XTH9 EXGT-A6 XTR16 At4g03210 F4C21.14	Arabidopsis thaliana (Mouse-ear cress)	290	EXGT-A6 XTR16	AT4G03210;
+Q8LPG9	reviewed	IQD14_ARATH	Protein IQ-DOMAIN 14 (AtIQD14)	IQD14 At2g43680 F18O19.21	Arabidopsis thaliana (Mouse-ear cress)	668		AT2G43680;
+Q8LPK5	reviewed	CESA8_ARATH	Cellulose synthase A catalytic subunit 8 [UDP-forming] (AtCesA8) (EC 2.4.1.12) (Protein IRREGULAR XYLEM 1) (AtIRX1) (Protein LEAF WILTING 2)	CESA8 IRX1 LEW2 At4g18780 F28A21.190	Arabidopsis thaliana (Mouse-ear cress)	985	IRX1 LEW2	AT4G18780;
+Q8VWF1	reviewed	SH3P2_ARATH	SH3 domain-containing protein 2 (AtSH3P2)	SH3P2 At4g34660 T4L20.240	Arabidopsis thaliana (Mouse-ear cress)	368		AT4G34660;
+Q8VXZ5	reviewed	XG113_ARATH	Arabinosyltransferase XEG113 (EC 2.4.2.-) (Protein LATERAL ROOT DEVELOPMENT 5) (Xyloglucanase 113)	XEG113 LRD5 At2g35610	Arabidopsis thaliana (Mouse-ear cress)	644	LRD5	AT2G35610;
+Q93V56	reviewed	IPYR1_ARATH	Soluble inorganic pyrophosphatase 1 (EC 3.6.1.1) (Pyrophosphate phospho-hydrolase 1) (PPase 1)	PPA1 At1g01050 T25K16.5	Arabidopsis thaliana (Mouse-ear cress)	212		AT1G01050;
+Q93V66	reviewed	FAX1_ARATH	Protein FATTY ACID EXPORT 1, chloroplastic (At-FAX1)	FAX1 At3g57280 F28O9.130	Arabidopsis thaliana (Mouse-ear cress)	226		AT3G57280;
+Q93VH1	reviewed	YIP4B_ARATH	Protein YIP4b (YPT/RAB GTPase-interacting protein 4b) (YIP4b)	YIP4B YIP2 At4g30260 F9N11.110	Arabidopsis thaliana (Mouse-ear cress)	280	YIP2	AT4G30260;
+Q93W95	reviewed	PMTD_ARATH	Probable pectin methyltransferase QUA3 (EC 2.1.1.-) (Protein QUASIMODO 3)	QUA3 PMT13 At4g00740 F15P23.2	Arabidopsis thaliana (Mouse-ear cress)	600	PMT13	AT4G00740;
+Q93ZC9	reviewed	GLAK1_ARATH	Glucuronokinase 1 (AtGlcAK1) (EC 2.7.1.43)	GLCAK1 At3g01640 F4P13.18	Arabidopsis thaliana (Mouse-ear cress)	362		AT3G01640;
+Q940B8	reviewed	KN13A_ARATH	Kinesin-like protein KIN-13A (AtKINESIN-13A) (AtKIN13A)	KIN13A KINESIN-13A At3g16630 MGL6.9	Arabidopsis thaliana (Mouse-ear cress)	794	KINESIN-13A	AT3G16630;
+Q940Q8	reviewed	IX10L_ARATH	Probable beta-1,4-xylosyltransferase IRX10L (EC 2.4.2.-) (Glucuronoxylan glucuronosyltransferase 1) (AtGUT1) (Glucuronoxylan glucuronosyltransferase 2) (AtGUT2) (Protein IRREGULAR XYLEM 10-like) (Xylan xylosyltransferase IRX10L)	IRX10L GUT1 GUT2 At5g61840 MAC9.17	Arabidopsis thaliana (Mouse-ear cress)	415	GUT1 GUT2	AT5G61840;
+Q941L0	reviewed	CESA3_ARATH	Cellulose synthase A catalytic subunit 3 [UDP-forming] (AtCesA3) (EC 2.4.1.12) (Constitutive expression of VSP1 protein 1) (Isoxaben-resistant protein 1) (Ath-B) (Protein ECTOPIC LIGNIN 1) (Protein RADIALLY SWOLLEN 5) (AtRSW5)	CESA3 ATHB CEV1 ELI1 IXR1 RSW5 At5g05170 K2A11.4	Arabidopsis thaliana (Mouse-ear cress)	1065	ATHB CEV1 ELI1 IXR1 RSW5	AT5G05170;
+Q946Y7	reviewed	SYP61_ARATH	Syntaxin-61 (AtSYP61) (Osmotic stress-sensitive mutant 1) (Protein SYNTAXIN OF PLANTS 61)	SYP61 OSM1 At1g28490 F3M18.7	Arabidopsis thaliana (Mouse-ear cress)	245	OSM1	AT1G28490;
+Q94AP3	reviewed	WAT1_ARATH	Protein WALLS ARE THIN 1	WAT1 At1g75500 F10A5.28 F1B16.19	Arabidopsis thaliana (Mouse-ear cress)	389		AT1G75500;
+Q94CD1	reviewed	HHT1_ARATH	Omega-hydroxypalmitate O-feruloyl transferase (EC 2.3.1.188) (Omega-hydroxyacid hydroxycinnamoyltransferase) (Protein ALIPHATIC SUBERIN FERULOYL TRANSFERASE)	HHT1 ASFT At5g41040 MEE6.11	Arabidopsis thaliana (Mouse-ear cress)	457	ASFT	AT5G41040;
+Q94FN2	reviewed	MOR1_ARATH	Protein MOR1 (Protein GEM1) (Protein GEMINI POLLEN 1) (Protein MICROTUBULE ORGANIZATION 1) (Protein RID5) (Protein ROOT INITIATION DEFECTIVE 5)	MOR1 GEM1 RID5 At2g35630 T20F21.17	Arabidopsis thaliana (Mouse-ear cress)	1978	GEM1 RID5	AT2G35630;
+Q94JQ6	reviewed	CESA6_ARATH	Cellulose synthase A catalytic subunit 6 [UDP-forming] (AtCesA6) (EC 2.4.1.12) (AraxCelA) (Isoxaben-resistant protein 2) (Protein PROCUSTE 1) (Protein QUILL)	CESA6 IXR2 PRC1 QUI At5g64740 MVP7.7	Arabidopsis thaliana (Mouse-ear cress)	1084	IXR2 PRC1 QUI	AT5G64740;
+Q9C7W7	reviewed	UGE4_ARATH	UDP-glucose 4-epimerase 4 (AtUGE4) (EC 5.1.3.2) (Protein ROOT EPIDERMAL BULGER 1) (Protein ROOT HAIR DEFECTIVE 1) (UDP-galactose 4-epimerase 4)	UGE4 REB1 RHD1 At1g64440 F15H21.11 F1N19.2	Arabidopsis thaliana (Mouse-ear cress)	348	REB1 RHD1	AT1G64440;
+Q9C9Q8	reviewed	PMTT_ARATH	Probable pectin methyltransferase QUA2 (EC 2.1.1.-) (Protein OVERSENSITIVE TO SUGAR 1) (Protein QUASIMODO 2) (Protein TUMOROUS SHOOT DEVELOPMENT 2)	QUA2 OSU1 TSD2 At1g78240 F3F9.21 T11I11.18	Arabidopsis thaliana (Mouse-ear cress)	684	OSU1 TSD2	AT1G78240;
+Q9C9X0	reviewed	MP701_ARATH	Microtubule-associated protein 70-1 (AtMAP70-1) (70 kDa microtubule-associated protein 1)	MAP70.1 At1g68060 T23K23.9	Arabidopsis thaliana (Mouse-ear cress)	622		AT1G68060;
+Q9C9Z9	reviewed	ELD1_ARATH	Glycosyltransferase-like KOBITO 1 (EC 2.4.1.-) (Protein ABA INSENSITIVE 8) (Protein ELONGATION DEFECTIVE 1)	ELD1 ABI8 KOB1 At3g08550 F17O14.2	Arabidopsis thaliana (Mouse-ear cress)	533	ABI8 KOB1	AT3G08550;
+Q9FFD5	reviewed	RIC4_ARATH	CRIB domain-containing protein RIC4 (ROP-interactive CRIB motif-containing protein 4) (Target of ROP protein RIC4)	RIC4 At5g16490 MQK4.23	Arabidopsis thaliana (Mouse-ear cress)	153		AT5G16490;
+Q9FIZ3	reviewed	GSO2_ARATH	LRR receptor-like serine/threonine-protein kinase GSO2 (EC 2.7.11.1) (Protein EMBRYO SAC DEVELOPMENT ARREST 23) (Protein GASSHO 2)	GSO2 EDA23 At5g44700 K23L20.3	Arabidopsis thaliana (Mouse-ear cress)	1252	EDA23	AT5G44700;
+Q9FXG3	reviewed	RWA4_ARATH	Protein REDUCED WALL ACETYLATION 4 (EC 2.3.1.-)	RWA4 At1g29890 F1N18.7	Arabidopsis thaliana (Mouse-ear cress)	540		AT1G29890;
+Q9FZJ1	reviewed	IRX10_ARATH	Probable beta-1,4-xylosyltransferase IRX10 (EC 2.4.2.-) (Glucuronoxylan glucuronosyltransferase 1) (AtGUT1) (Glucuronoxylan glucuronosyltransferase 2) (Protein IRREGULAR XYLEM 10) (Xylan xylosyltransferase IRX10)	IRX10 GUT1 GUT2 At1g27440 F17L21.23	Arabidopsis thaliana (Mouse-ear cress)	412	GUT1 GUT2	AT1G27440;
+Q9LE59	reviewed	GAUT1_ARATH	Polygalacturonate 4-alpha-galacturonosyltransferase (EC 2.4.1.43) (Alpha-1,4-galacturonosyltransferase 1) (Galacturonosyltransferase 1) (Like glycosyl transferase 1)	GAUT1 JS36 LGT1 At3g61130 T20K12.30	Arabidopsis thaliana (Mouse-ear cress)	673	JS36 LGT1	AT3G61130;
+Q9LFW1	reviewed	RGP2_ARATH	UDP-arabinopyranose mutase 2 (EC 5.4.99.30) (Reversibly glycosylated polypeptide 2) (AtRGP2) (UDP-L-arabinose mutase 2)	RGP2 At5g15650 F14F8_30	Arabidopsis thaliana (Mouse-ear cress)	360		AT5G15650;
+Q9LIN9	reviewed	PAGR_ARATH	Protein PECTIC ARABINOGALACTAN SYNTHESIS-RELATED (EC 2.4.1.-) (O-fucosyltransferase 26) (O-FucT-26) (O-fucosyltransferase family protein)	PAGR OFUT26 At3g26370 F20C19.9	Arabidopsis thaliana (Mouse-ear cress)	557	OFUT26	AT3G26370;
+Q9LJR7	reviewed	XTH3_ARATH	Xyloglucan endotransglucosylase/hydrolase protein 3 (At-XTH3) (XTH-3) (EC 2.4.1.207)	XTH3 At3g25050 K3G3.6	Arabidopsis thaliana (Mouse-ear cress)	290		AT3G25050;
+Q9LJU0	reviewed	CBL10_ARATH	COBRA-like protein 10	COBL10 At3g20580 K10D20.11	Arabidopsis thaliana (Mouse-ear cress)	672		AT3G20580;
+Q9LSB1	reviewed	GUX1_ARATH	UDP-glucuronate:xylan alpha-glucuronosyltransferase 1 (UDP-GlcA:xylan glucuronyltransferase 1) (EC 2.4.1.-) (Glycogenin-like protein 1) (Plant glycogenin-like starch initiation protein 1) (Protein GLUCURONIC ACID SUBSTITUTION OF XYLAN 1) (AtGUX1)	GUX1 PGSIP1 At3g18660 MVE11.2	Arabidopsis thaliana (Mouse-ear cress)	659	PGSIP1	AT3G18660;
+Q9LSG3	reviewed	GAUT8_ARATH	Galacturonosyltransferase 8 (EC 2.4.1.-) (Glycosyltransferase QUASIMODO1)	GAUT8 QUA1 At3g25140 MJL12.8	Arabidopsis thaliana (Mouse-ear cress)	559	QUA1	AT3G25140;
+Q9LT31	reviewed	VPS9A_ARATH	Vacuolar protein sorting-associated protein 9A (AtVPS9a)	VPS9A VPS9 At3g19770 MMB12.26	Arabidopsis thaliana (Mouse-ear cress)	520	VPS9	AT3G19770;
+Q9LU40	reviewed	MSR1_ARATH	Protein MANNAN SYNTHESIS-RELATED 1 (AtMSR1) (EC 2.4.1.-) (O-fucosyltransferase 25) (O-FucT-25) (O-fucosyltransferase family protein)	MSR1 OFUT25 At3g21190 MXL8.4	Arabidopsis thaliana (Mouse-ear cress)	422	OFUT25	AT3G21190;
+Q9LXV2	reviewed	MYB46_ARATH	Transcription factor MYB46 (Myb-related protein 46) (AtMYB46)	MYB46 At5g12870 T24H18.40	Arabidopsis thaliana (Mouse-ear cress)	280		AT5G12870;
+Q9M0D1	reviewed	XTH19_ARATH	Xyloglucan endotransglucosylase/hydrolase protein 19 (At-XTH19) (XTH-19) (EC 2.4.1.207)	XTH19 At4g30290 F17I23.370	Arabidopsis thaliana (Mouse-ear cress)	277		AT4G30290;
+Q9M146	reviewed	MGP4_ARATH	UDP-D-xylose:L-fucose alpha-1,3-D-xylosyltransferase MGP4 (EC 2.4.2.-) (Protein MALE GAMETOPHYTE DEFECTIVE 4) (Rhamnogalacturonan xylosyltransferase MGP4)	MGP4 At4g01220 F2N1.35	Arabidopsis thaliana (Mouse-ear cress)	360		AT4G01220;
+Q9M199	reviewed	IQD13_ARATH	Protein IQ-DOMAIN 13 (AtIQD13)	IQD13 At3g59690 T16L24.240	Arabidopsis thaliana (Mouse-ear cress)	517		AT3G59690;
+Q9M2Y6	reviewed	CGR2_ARATH	Probable pectin methylesterase CGR2 (EC 2.1.1.-) (Cotton Golgi-related 2)	CGR2 At3g49720 T16K5.70	Arabidopsis thaliana (Mouse-ear cress)	261		AT3G49720;
+Q9M3B8	reviewed	PHIP1_ARATH	Phragmoplastin interacting protein 1	PHIP1 At3g55340 T26I12.220	Arabidopsis thaliana (Mouse-ear cress)	597		AT3G55340;
+Q9MA17	reviewed	SMB_ARATH	Protein SOMBRERO (NAC domain-containing protein 33) (ANAC033)	SMB NAC033 At1g79580 F20B17.1	Arabidopsis thaliana (Mouse-ear cress)	371	NAC033	AT1G79580;
+Q9SA77	reviewed	ARAE1_ARATH	UDP-arabinose 4-epimerase 1 (EC 5.1.3.5) (UDP-D-xylose 4-epimerase 1)	MUR4 At1g30620 T5I8.7	Arabidopsis thaliana (Mouse-ear cress)	419		AT1G30620;
+Q9SCN0	reviewed	STL2_ARATH	Probable glycosyltransferase STELLO2 (EC 2.4.-.-)	STL2 At3g57420 T8H10.20	Arabidopsis thaliana (Mouse-ear cress)	765		AT3G57420;
+Q9SEX2	reviewed	KTNA1_ARATH	Katanin p60 ATPase-containing subunit A1 (Katanin p60 subunit A1) (EC 5.6.1.1) (CAD ATPase) (Katanin-1) (AtKTN1) (Katanin-like microtubule-severing protein) (AtKSS) (Protein BOTERO 1) (Protein ECTOPIC ROOT HAIR 3) (Protein FAT ROOT) (Protein FRAGILE FIBER 2) (AtAAA1) (p60 katanin) (Atp60)	AAA1 BOT1 ERH3 FRA2 FTR KSS KTN1 LUE1 At1g80350 F5I6.10	Arabidopsis thaliana (Mouse-ear cress)	523	BOT1 ERH3 FRA2 FTR KSS KTN1 LUE1	AT1G80350;
+Q9SH31	reviewed	GT16_ARATH	Xyloglucan-specific galacturonosyltransferase 1 (EC 2.4.1.-) (Glycosyltransferase 16) (Protein ROOT HAIR SPECIFIC 8) (Protein exostosin)	GT16 RHS8 XUT1 At1g63450 F2K11.17	Arabidopsis thaliana (Mouse-ear cress)	664	RHS8 XUT1	AT1G63450;
+Q9SMQ6	reviewed	RAA4B_ARATH	Ras-related protein RABA4b (AtRABA4b) (Ras-related protein GB3) (AtGB3) (Ras-related protein Rab11G) (AtRab11G)	RABA4B GB3 RAB11G At4g39990 T5J17.160	Arabidopsis thaliana (Mouse-ear cress)	224	GB3 RAB11G	AT4G39990;
+Q9SRE4	reviewed	URGT1_ARATH	UDP-rhamnose/UDP-galactose transporter 1 (UDP-Rha/UDP-Gal transporter 1) (UDP-galactose transporter 2) (At-UDP-GalT2)	URGT1 UDP-GALT2 At1g76670 F28O16.4	Arabidopsis thaliana (Mouse-ear cress)	347	UDP-GALT2	AT1G76670;
+Q9SRT9	reviewed	RGP1_ARATH	UDP-arabinopyranose mutase 1 (EC 5.4.99.30) (Reversibly glycosylated polypeptide 1) (AtRGP1) (UDP-L-arabinose mutase 1)	RGP1 At3g02230 F14P3.12	Arabidopsis thaliana (Mouse-ear cress)	357		AT3G02230;
+Q9SRW9	reviewed	CSLD5_ARATH	Cellulose synthase-like protein D5 (AtCslD5) (EC 2.4.1.-)	CSLD5 At1g02730 F22D16.26	Arabidopsis thaliana (Mouse-ear cress)	1181		AT1G02730;
+Q9SWH5	reviewed	FUT1_ARATH	Galactoside 2-alpha-L-fucosyltransferase (EC 2.4.1.-) (Xyloglucan alpha-(1,2)-fucosyltransferase) (AtFUT1)	FUT1 FT1 MUR2 At2g03220 T18E12.11	Arabidopsis thaliana (Mouse-ear cress)	558	FT1 MUR2	AT2G03220;
+Q9SWW6	reviewed	CESA7_ARATH	Cellulose synthase A catalytic subunit 7 [UDP-forming] (AtCesA7) (EC 2.4.1.12) (Protein FRAGILE FIBER 5) (Protein IRREGULAR XYLEM 3) (AtIRX3)	CESA7 FRA5 IRX3 At5g17420 T10B6.80	Arabidopsis thaliana (Mouse-ear cress)	1026	FRA5 IRX3	AT5G17420;
+Q9SXC4	reviewed	IRX9H_ARATH	Probable beta-1,4-xylosyltransferase IRX9H (EC 2.4.2.-) (Protein IRREGULAR XYLEM 9 homolog) (Xylan xylosyltransferase IRX9H)	IRX9H At1g27600 T17H3.10 T22C5.4	Arabidopsis thaliana (Mouse-ear cress)	394		AT1G27600;
+Q9SYM4	reviewed	TPS1_ARATH	Alpha,alpha-trehalose-phosphate synthase [UDP-forming] 1 (EC 2.4.1.15) (Trehalose-6-phosphate synthase 1) (AtTPS1)	TPS1 At1g78580 T30F21.9	Arabidopsis thaliana (Mouse-ear cress)	942		AT1G78580;
+Q9T0A7	reviewed	UGE2_ARATH	UDP-glucose 4-epimerase 2 (AtUGE2) (EC 5.1.3.2) (UDP-galactose 4-epimerase 2)	UGE2 At4g23920 T32A16.90	Arabidopsis thaliana (Mouse-ear cress)	350		AT4G23920;
+Q9XEE9	reviewed	ALG11_ARATH	GDP-Man:Man(3)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase (EC 2.4.1.131) (Alpha-1,2-mannosyltransferase ALG11) (Asparagine-linked glycosylation protein 11) (Protein LEAF WILTING 3)	ALG11 LEW3 At2g40190 T07M07.7	Arabidopsis thaliana (Mouse-ear cress)	463	LEW3	AT2G40190;
+Q9ZQC6	reviewed	IRX9_ARATH	Beta-1,4-xylosyltransferase IRX9 (EC 2.4.2.24) (Protein IRREGULAR XYLEM 9) (Xylan xylosyltransferase IRX9)	IRX9 At2g37090 T2N18.15	Arabidopsis thaliana (Mouse-ear cress)	351		AT2G37090;
+Q9ZSJ0	reviewed	RGXT2_ARATH	UDP-D-xylose:L-fucose alpha-1,3-D-xylosyltransferase (EC 2.4.2.-) (Rhamnogalacturonan xylosyltransferase 2)	RGXT2 At4g01750 T15B16.9 T7B11.1	Arabidopsis thaliana (Mouse-ear cress)	367		AT4G01750;
+Q9ZSJ2	reviewed	RGXT1_ARATH	UDP-D-xylose:L-fucose alpha-1,3-D-xylosyltransferase 1 (EC 2.4.2.-) (Rhamnogalacturonan xylosyltransferase 1)	RGXT1 At4g01770 T15B16.8 T7B11.3	Arabidopsis thaliana (Mouse-ear cress)	361		AT4G01770;
+Q9ZSU4	reviewed	XTH14_ARATH	Xyloglucan endotransglucosylase/hydrolase protein 14 (At-XTH14) (XTH-14) (EC 2.4.1.207)	XTH14 XTR9 At4g25820 F14M19.100	Arabidopsis thaliana (Mouse-ear cress)	287	XTR9	AT4G25820;
+Q9ZTW3	reviewed	VA721_ARATH	Vesicle-associated membrane protein 721 (AtVAMP721) (v-SNARE synaptobrevin 7B) (AtVAMP7B)	VAMP721 VAMP7B At1g04750 F13M7.26 F13M7_23 T1G11.1	Arabidopsis thaliana (Mouse-ear cress)	219	VAMP7B	AT1G04750;
+Q9ZUV3	reviewed	IRX7_ARATH	Probable glucuronoxylan glucuronosyltransferase IRX7 (EC 2.4.1.-) (Protein FRAGILE FIBER 8) (Protein IRREGULAR XYLEM 7)	IRX7 FRA8 At2g28110 F24D13.10	Arabidopsis thaliana (Mouse-ear cress)	448	FRA8	AT2G28110;
+Q9ZV40	reviewed	XTH21_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 21 (At-XTH21) (XTH-21) (EC 2.4.1.207)	XTH21 XTR17 At2g18800 MSF3.18	Arabidopsis thaliana (Mouse-ear cress)	305	XTR17	AT2G18800;
+O22807	reviewed	GALS1_ARATH	Galactan beta-1,4-galactosyltransferase GALS1 (EC 2.4.1.-) (Beta-1,4-galactan synthase) (Galactan synthase 1)	GALS1 At2g33570	Arabidopsis thaliana (Mouse-ear cress)	496		AT2G33570;
+O65431	reviewed	GALS3_ARATH	Galactan beta-1,4-galactosyltransferase GALS3 (EC 2.4.1.-) (Beta-1,4-galactan synthase) (Galactan synthase 3)	GALS3 At4g20170 F1C12.90	Arabidopsis thaliana (Mouse-ear cress)	504		AT4G20170;
+O65684	reviewed	CIF2_ARATH	Protein CASPARIAN STRIP INTEGRITY FACTOR 2	CIF2 At4g34600 T4L20.180	Arabidopsis thaliana (Mouse-ear cress)	83		AT4G34600;
+Q38907	reviewed	XTH25_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 25 (At-XTH25) (XTH-25) (EC 2.4.1.207)	XTH25 EXGT-A5 XTR3 At5g57550 MUA2.12	Arabidopsis thaliana (Mouse-ear cress)	284	EXGT-A5 XTR3	AT5G57550;
+Q38908	reviewed	XTH30_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 30 (At-XTH30) (XTH-30) (EC 2.4.1.207)	XTH30 XTR4 At1g32170 F3C3.5	Arabidopsis thaliana (Mouse-ear cress)	343	XTR4	AT1G32170;
+Q38910	reviewed	XTH23_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 23 (At-XTH23) (XTH-23) (EC 2.4.1.207)	XTH23 XTR6 At4g25810 F14M19.90	Arabidopsis thaliana (Mouse-ear cress)	286	XTR6	AT4G25810;
+Q6NQL4	reviewed	KDSA2_ARATH	2-dehydro-3-deoxyphosphooctonate aldolase 2 (EC 2.5.1.55) (3-deoxy-D-manno-octulosonic acid 8-phosphate synthase) (KDO-8-phosphate synthase 2) (AtkdsA2) (KDO 8-P synthase) (KDOPS) (Phospho-2-dehydro-3-deoxyoctonate aldolase)	KDSA2 kdsA At1g16340 F3O9.14	Arabidopsis thaliana (Mouse-ear cress)	291	kdsA	AT1G16340;
+Q84MD2	reviewed	CIF1_ARATH	Protein CASPARIAN STRIP INTEGRITY FACTOR 1	CIF1 At2g16385 F16F14	Arabidopsis thaliana (Mouse-ear cress)	83		AT2G16385;
+Q84WP6	reviewed	NAC43_ARATH	NAC domain-containing protein 43 (ANAC043) (Protein EMBRYO DEFECTIVE 2301) (Protein NAC SECONDARY WALL THICKENING PROMOTING FACTOR 1)	NAC043 EMB2301 NST1 At2g46770 F19D11.5	Arabidopsis thaliana (Mouse-ear cress)	365	EMB2301 NST1	AT2G46770;
+Q8GYX3	reviewed	MP705_ARATH	Microtubule-associated protein 70-5 (AtMAP70-5) (70 kDa microtubule-associated protein 5)	MAP70.5 At4g17220 dl4645c FCAALL.385	Arabidopsis thaliana (Mouse-ear cress)	513		AT4G17220;
+Q8L7H3	reviewed	XTH29_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 29 (At-XTH29) (XTH-29) (EC 2.4.1.207)	XTH29 XTR13 At4g18990 F13C5.160	Arabidopsis thaliana (Mouse-ear cress)	357	XTR13	AT4G18990;
+Q8L9A9	reviewed	XTH8_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 8 (At-XTH8) (XTH-8) (EC 2.4.1.207)	XTH8 At1g11545 T23J18.21	Arabidopsis thaliana (Mouse-ear cress)	305		AT1G11545;
+Q8LER3	reviewed	XTH7_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 7 (At-XTH7) (XTH-7) (EC 2.4.1.207)	XTH7 XTR15 At4g37800 T28I19.80	Arabidopsis thaliana (Mouse-ear cress)	293	XTR15	AT4G37800;
+Q8LF99	reviewed	XTH6_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 6 (At-XTH6) (XTH-6) (EC 2.4.1.207)	XTH6 XTR10 At5g65730 MPA24.8	Arabidopsis thaliana (Mouse-ear cress)	292	XTR10	AT5G65730;
+Q8LG58	reviewed	XTH16_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 16 (At-XTH16) (XTH-16) (EC 2.4.1.207)	XTH16 At3g23730 MYM9.11	Arabidopsis thaliana (Mouse-ear cress)	291		AT3G23730;
+Q8W4A7	reviewed	GUX3_ARATH	Putative UDP-glucuronate:xylan alpha-glucuronosyltransferase 3 (UDP-GlcA:xylan glucuronyltransferase 3) (EC 2.4.1.-) (Glycogenin-like protein 3) (Plant glycogenin-like starch initiation protein 2) (Protein GLUCURONIC ACID SUBSTITUTION OF XYLAN 3) (AtGUX3)	GUX3 PGSIP2 At1g77130 T14N5.1	Arabidopsis thaliana (Mouse-ear cress)	618	PGSIP2	AT1G77130;
+Q94KT8	reviewed	COBRA_ARATH	Protein COBRA (Cell expansion protein)	COB At5g60920 MSL3.40	Arabidopsis thaliana (Mouse-ear cress)	456		AT5G60920;
+Q9AV97	reviewed	KDSA1_ARATH	2-dehydro-3-deoxyphosphooctonate aldolase 1 (EC 2.5.1.55) (3-deoxy-D-manno-octulosonic acid 8-phosphate synthase) (KDO-8-phosphate synthase 1) (AtkdsA1) (KDO 8-P synthase) (KDOPS) (Phospho-2-dehydro-3-deoxyoctonate aldolase)	KDSA1 At1g79500 T8K14.8	Arabidopsis thaliana (Mouse-ear cress)	290		AT1G79500;
+Q9C878	reviewed	BRN1_ARATH	Protein BEARSKIN1 (NAC domain-containing protein 15) (ANAC015)	BRN1 NAC015 At1g33280 T16O9.16	Arabidopsis thaliana (Mouse-ear cress)	305	NAC015	AT1G33280;
+Q9CA71	reviewed	FUT3_ARATH	Fucosyltransferase 3 (AtFUT3) (EC 2.4.1.-)	FUT3 At1g74420 F1M20.10	Arabidopsis thaliana (Mouse-ear cress)	521		AT1G74420;
+Q9FI31	reviewed	XTH20_ARATH	Xyloglucan endotransglucosylase/hydrolase protein 20 (At-XTH20) (XTH-20) (EC 2.4.1.207)	XTH20 At5g48070 MDN11.15	Arabidopsis thaliana (Mouse-ear cress)	282		AT5G48070;
+Q9FI79	reviewed	TED7_ARATH	Protein TRACHEARY ELEMENT DIFFERENTIATION-RELATED 7	TED7 At5g48920 K19E20.3	Arabidopsis thaliana (Mouse-ear cress)	205		AT5G48920;
+Q9FIF9	reviewed	RAA2D_ARATH	Ras-related protein RABA2d (AtRABA2d)	RABA2D At5g59150 MNC17.6	Arabidopsis thaliana (Mouse-ear cress)	217		AT5G59150;
+Q9FKL8	reviewed	XTH13_ARATH	Putative xyloglucan endotransglucosylase/hydrolase protein 13 (At-XTH13) (XTH-13) (EC 2.4.1.207)	XTH13 At5g57540 MUA2.11	Arabidopsis thaliana (Mouse-ear cress)	284		AT5G57540;
+Q9FKL9	reviewed	XTH12_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 12 (At-XTH12) (XTH-12) (EC 2.4.1.207)	XTH12 At5g57530 MUA2.10	Arabidopsis thaliana (Mouse-ear cress)	285		AT5G57530;
+Q9FLA5	reviewed	ARAD2_ARATH	Probable arabinosyltransferase ARAD2 (EC 2.4.2.-) (Arabinan alpha-1,5-arabinosyltransferase) (L-Arabinosyltransferase) (Protein ARABINAN DEFICIENT 2)	ARAD2 At5g44930 K21C13.11	Arabidopsis thaliana (Mouse-ear cress)	443		AT5G44930;
+Q9FWY9	reviewed	GATL5_ARATH	Probable galacturonosyltransferase-like 5 (EC 2.4.1.-)	GATL5 At1g02720 T14P4.1 T14P4.8	Arabidopsis thaliana (Mouse-ear cress)	361		AT1G02720;
+Q9LNK1	reviewed	RABA3_ARATH	Ras-related protein RABA3 (AtRABA3)	RABA3 At1g01200 F6F3.1	Arabidopsis thaliana (Mouse-ear cress)	237		AT1G01200;
+Q9LNW1	reviewed	RAA2B_ARATH	Ras-related protein RABA2b (AtRABA2b)	RABA2B At1g07410 F22G5.24	Arabidopsis thaliana (Mouse-ear cress)	214		AT1G07410;
+Q9LPI7	reviewed	NAC12_ARATH	NAC domain-containing protein 12 (ANAC012) (Protein NAC SECONDARY WALL THICKENING PROMOTING 3) (Protein SECONDARY WALL-ASSOCIATED NAC DOMAIN PROTEIN 1)	NAC012 NST3 SND1 At1g32770 F6N18.15	Arabidopsis thaliana (Mouse-ear cress)	358	NST3 SND1	AT1G32770;
+Q9LTZ9	reviewed	GALS2_ARATH	Galactan beta-1,4-galactosyltransferase GALS2 (EC 2.4.1.-) (Beta-1,4-galactan synthase) (Galactan synthase 2)	GALS2 At5g44670 K15C23.12	Arabidopsis thaliana (Mouse-ear cress)	519		AT5G44670;
+Q9M0D2	reviewed	XTH18_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 18 (At-XTH18) (XTH-18) (EC 2.4.1.207)	XTH18 At4g30280 F17I23.380	Arabidopsis thaliana (Mouse-ear cress)	282		AT4G30280;
+Q9SJL9	reviewed	XTH32_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 32 (At-XTH32) (XTH-32) (EC 2.4.1.207)	XTH32 At2g36870 T1J8.5	Arabidopsis thaliana (Mouse-ear cress)	299		AT2G36870;
+Q9SJP2	reviewed	FUT4_ARATH	Probable fucosyltransferase 4 (AtFUT4) (EC 2.4.1.-)	FUT4 At2g15390 F26H6.9	Arabidopsis thaliana (Mouse-ear cress)	535		AT2G15390;
+Q9SJQ1	reviewed	PXC1_ARATH	Leucine-rich repeat receptor-like protein kinase PXC1 (Protein PXY/TDR-CORRELATED 1)	PXC1 At2g36570	Arabidopsis thaliana (Mouse-ear cress)	672		AT2G36570;
+Q9SKJ5	reviewed	CESAA_ARATH	Probable cellulose synthase A catalytic subunit 10 [UDP-forming] (AtCesA10) (AtCesA13) (EC 2.4.1.12)	CESA10 CESA13 At2g25540 F13B15.20	Arabidopsis thaliana (Mouse-ear cress)	1065	CESA13	AT2G25540;
+Q9SMP1	reviewed	XTH11_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 11 (At-XTH11) (XTH-11) (EC 2.4.1.207)	XTH11 At3g48580 T8P19.90	Arabidopsis thaliana (Mouse-ear cress)	277		AT3G48580;
+Q9SN35	reviewed	RAA1D_ARATH	Ras-related protein RABA1d (AtRABA1d) (Ras-related protein Rab11B) (AtRab11B) (Ras-related protein SGBP) (AthSGBP)	RABA1D RAB11B SGBP At4g18800 F28A21.210	Arabidopsis thaliana (Mouse-ear cress)	214	RAB11B SGBP	AT4G18800;
+Q9SPG3	reviewed	MYB26_ARATH	Transcription factor MYB26 (Myb-related protein 26) (AtMYB26) (Protein MALE STERILE 35)	MYB26 MS35 At3g13890 MDC16.1	Arabidopsis thaliana (Mouse-ear cress)	367	MS35	AT3G13890;
+Q9SRL3	reviewed	TBL32_ARATH	Protein trichome birefringence-like 32	TBL32 At3g11030 F9F8.15	Arabidopsis thaliana (Mouse-ear cress)	451		AT3G11030;
+Q9SV61	reviewed	XTH1_ARATH	Putative xyloglucan endotransglucosylase/hydrolase protein 1 (At-XTH1) (XTH-1) (EC 2.4.1.207)	XTH1 At4g13080 F25G13.170	Arabidopsis thaliana (Mouse-ear cress)	295		AT4G13080;
+Q9SV87	reviewed	BRN2_ARATH	Protein BEARSKIN2 (NAC domain-containing protein 70) (ANAC070)	BRN2 NAC070 At4g10350 F24G24.150	Arabidopsis thaliana (Mouse-ear cress)	341	NAC070	AT4G10350;
+Q9SVV2	reviewed	XTH26_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 26 (At-XTH26) (XTH-26) (EC 2.4.1.207)	XTH26 XTR18 At4g28850 F16A16.40	Arabidopsis thaliana (Mouse-ear cress)	292	XTR18	AT4G28850;
+Q9T045	reviewed	CBL11_ARATH	COBRA-like protein 11 (Protein POLLEN SPECIFIC GENE 4)	COBL11 PSG4 At4g27110 T24A18.60	Arabidopsis thaliana (Mouse-ear cress)	668	PSG4	AT4G27110;
+Q9XIW1	reviewed	XTH5_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 5 (At-XTH5) (XTH-5) (EC 2.4.1.207)	XTH5 EXGT-A4 XTR12 At5g13870 MAC12.33	Arabidopsis thaliana (Mouse-ear cress)	293	EXGT-A4 XTR12	AT5G13870;
+Q9ZVK1	reviewed	XTH10_ARATH	Probable xyloglucan endotransglucosylase/hydrolase protein 10 (At-XTH10) (XTH-10) (EC 2.4.1.207)	XTH10 XTR14 At2g14620 T6B13.14	Arabidopsis thaliana (Mouse-ear cress)	299	XTR14	AT2G14620;
+A0A068FHR7	unreviewed	A0A068FHR7_ARATH	Cellulose synthase (EC 2.4.1.12)	AT4G18780	Arabidopsis thaliana (Mouse-ear cress)	985		AT4G18780;
+A0A178U9X5	unreviewed	A0A178U9X5_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At5g46590	Arabidopsis thaliana (Mouse-ear cress)	282		
+A0A178UD61	unreviewed	A0A178UD61_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At5g56800 AN1_LOCUS26042 AT9943_LOCUS22426 C24_LOCUS25867	Arabidopsis thaliana (Mouse-ear cress)	284		
+A0A178UHJ4	unreviewed	A0A178UHJ4_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At5g65610 AN1_LOCUS26904	Arabidopsis thaliana (Mouse-ear cress)	292		
+A0A178UMJ6	unreviewed	A0A178UMJ6_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At5g56780 AN1_LOCUS26039 AT9943_LOCUS22424 C24_LOCUS25864	Arabidopsis thaliana (Mouse-ear cress)	285		
+A0A178UQX4	unreviewed	A0A178UQX4_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At5g56810 AN1_LOCUS26043 AT9943_LOCUS22427 C24_LOCUS25868	Arabidopsis thaliana (Mouse-ear cress)	284		
+A0A178URX5	unreviewed	A0A178URX5_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At4g33190 AN1_LOCUS19675 C24_LOCUS19568	Arabidopsis thaliana (Mouse-ear cress)	292		
+A0A178US76	unreviewed	A0A178US76_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At5g56790	Arabidopsis thaliana (Mouse-ear cress)	284		
+A0A178UTG4	unreviewed	A0A178UTG4_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At4g29790 AN1_LOCUS19328 AT9943_LOCUS16675 C24_LOCUS19228	Arabidopsis thaliana (Mouse-ear cress)	287		
+A0A178UU22	unreviewed	A0A178UU22_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At4g34730 AT9943_LOCUS17111 C24_LOCUS19721	Arabidopsis thaliana (Mouse-ear cress)	277		
+A0A178UV66	unreviewed	A0A178UV66_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At4g16200 AT9943_LOCUS15539 C24_LOCUS17925	Arabidopsis thaliana (Mouse-ear cress)	289		
+A0A178UZR9	unreviewed	A0A178UZR9_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At4g34720 AN1_LOCUS19826 AT9943_LOCUS17110 C24_LOCUS19720	Arabidopsis thaliana (Mouse-ear cress)	282		
+A0A178V2Q3	unreviewed	A0A178V2Q3_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At4g43070 AN1_LOCUS20636	Arabidopsis thaliana (Mouse-ear cress)	293		
+A0A178VQ29	unreviewed	A0A178VQ29_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At2g14140	Arabidopsis thaliana (Mouse-ear cress)	305		
+A0A178VUP5	unreviewed	A0A178VUP5_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At2g05630 AN1_LOCUS7632 AT9943_LOCUS6480 C24_LOCUS7503	Arabidopsis thaliana (Mouse-ear cress)	296		
+A0A178VVU5	unreviewed	A0A178VVU5_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At2g00850 AN1_LOCUS7232 AT9943_LOCUS6139	Arabidopsis thaliana (Mouse-ear cress)	333		
+A0A178W0W2	unreviewed	A0A178W0W2_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At1g11850 AN1_LOCUS1252 AT9943_LOCUS979 C24_LOCUS1164	Arabidopsis thaliana (Mouse-ear cress)	305		
+A0A178W8R3	unreviewed	A0A178W8R3_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At1g32890 C24_LOCUS3175	Arabidopsis thaliana (Mouse-ear cress)	345		
+A0A178W9E1	unreviewed	A0A178W9E1_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At1g15390 AN1_LOCUS1598	Arabidopsis thaliana (Mouse-ear cress)	332		
+A0A178W9Z0	unreviewed	A0A178W9Z0_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At1g58920	Arabidopsis thaliana (Mouse-ear cress)	282		
+A0A1P8AQT8	unreviewed	A0A1P8AQT8_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	XTH17 ATXTH17 At1g65310 T8F5.9 T8F5_9	Arabidopsis thaliana (Mouse-ear cress)	304	ATXTH17	AT1G65310;
+A0A1P8B1L1	unreviewed	A0A1P8B1L1_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	XTH10 At2g14620 T6B13.14 T6B13_14	Arabidopsis thaliana (Mouse-ear cress)	249		AT2G14620;
+A0A1P8B288	unreviewed	A0A1P8B288_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	XTH4 ENDOXYLOGLUCAN TRANSFERASE endoxyloglucan transferase A1 EXGT-A1 EXT At2g06850 T9F8.4 T9F8_4	Arabidopsis thaliana (Mouse-ear cress)	236	ENDOXYLOGLUCAN TRANSFERASE endoxyloglucan transferase A1 EXGT-A1 EXT	AT2G06850;
+A0A384KH19	unreviewed	A0A384KH19_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At4g04000 C24_LOCUS17001	Arabidopsis thaliana (Mouse-ear cress)	290		
+A0A384L761	unreviewed	A0A384L761_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At5g13300 AN1_LOCUS22154 AT9943_LOCUS19076 C24_LOCUS22045	Arabidopsis thaliana (Mouse-ear cress)	293		
+A0A384LJI9	unreviewed	A0A384LJI9_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At3g25620 AN1_LOCUS13840 C24_LOCUS13678	Arabidopsis thaliana (Mouse-ear cress)	291		
+A0A384LKB4	unreviewed	A0A384LKB4_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At4g34700 AN1_LOCUS19825 AT9943_LOCUS17109 C24_LOCUS19719	Arabidopsis thaliana (Mouse-ear cress)	269		
+A0A5S9UHP0	unreviewed	A0A5S9UHP0_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	C24_LOCUS1515	Arabidopsis thaliana (Mouse-ear cress)	332		
+A0A5S9WWE7	unreviewed	A0A5S9WWE7_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	C24_LOCUS7115	Arabidopsis thaliana (Mouse-ear cress)	333		
+A0A5S9XVU4	unreviewed	A0A5S9XVU4_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	C24_LOCUS19227	Arabidopsis thaliana (Mouse-ear cress)	286		
+A0A5S9Y080	unreviewed	A0A5S9Y080_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	C24_LOCUS20534	Arabidopsis thaliana (Mouse-ear cress)	293		
+A0A5S9YC22	unreviewed	A0A5S9YC22_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AN1_LOCUS25044 C24_LOCUS24873	Arabidopsis thaliana (Mouse-ear cress)	282		
+A0A5S9YHI8	unreviewed	A0A5S9YHI8_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	C24_LOCUS26728	Arabidopsis thaliana (Mouse-ear cress)	292		
+A0A654EFX5	unreviewed	A0A654EFX5_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AN1_LOCUS3260	Arabidopsis thaliana (Mouse-ear cress)	345		
+A0A654EL73	unreviewed	A0A654EL73_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AN1_LOCUS5537 AT9943_LOCUS4670 C24_LOCUS5424	Arabidopsis thaliana (Mouse-ear cress)	282		
+A0A654EU21	unreviewed	A0A654EU21_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AN1_LOCUS8240 AT9943_LOCUS7075 C24_LOCUS8086	Arabidopsis thaliana (Mouse-ear cress)	305		
+A0A654FLJ2	unreviewed	A0A654FLJ2_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AN1_LOCUS17128	Arabidopsis thaliana (Mouse-ear cress)	290		
+A0A654FPF9	unreviewed	A0A654FPF9_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AN1_LOCUS18039	Arabidopsis thaliana (Mouse-ear cress)	289		
+A0A654FQM6	unreviewed	A0A654FQM6_ARATH	Cellulose synthase (EC 2.4.1.12)	AN1_LOCUS18598 C24_LOCUS18490	Arabidopsis thaliana (Mouse-ear cress)	985		
+A0A654FQR3	unreviewed	A0A654FQR3_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AN1_LOCUS18622 C24_LOCUS18513	Arabidopsis thaliana (Mouse-ear cress)	343		
+A0A654FSY0	unreviewed	A0A654FSY0_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AN1_LOCUS19327 AT9943_LOCUS16674	Arabidopsis thaliana (Mouse-ear cress)	286		
+A0A654FUB2	unreviewed	A0A654FUB2_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AN1_LOCUS19827	Arabidopsis thaliana (Mouse-ear cress)	277		
+A0A654GC38	unreviewed	A0A654GC38_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AN1_LOCUS26041 AT9943_LOCUS22425 C24_LOCUS25866	Arabidopsis thaliana (Mouse-ear cress)	284		
+A0A7G2DXM1	unreviewed	A0A7G2DXM1_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AT9943_LOCUS2718	Arabidopsis thaliana (Mouse-ear cress)	345		
+A0A7G2ERH9	unreviewed	A0A7G2ERH9_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AT9943_LOCUS11872	Arabidopsis thaliana (Mouse-ear cress)	291		
+A0A7G2FEP1	unreviewed	A0A7G2FEP1_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AT9943_LOCUS21601	Arabidopsis thaliana (Mouse-ear cress)	269		
+A2RVL7	unreviewed	A2RVL7_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)		Arabidopsis thaliana (Mouse-ear cress)	282		AT1G65310;
+A8MRC4	unreviewed	A8MRC4_ARATH	Translation elongation factor EF1B/ribosomal protein S6 family protein	EEF-1BB1 eEF-1Bb1 EF1Bb elongation factor 1B beta At1g30230 F12P21.12 F12P21_12	Arabidopsis thaliana (Mouse-ear cress)	260	eEF-1Bb1 EF1Bb elongation factor 1B beta	AT1G30230;
+B9DH97	unreviewed	B9DH97_ARATH	AT2G33120 protein (Synaptobrevin-related protein 1)	SAR1 ATVAMP722 VAMP722 At2g33120 F25I18.14 F25I18_14	Arabidopsis thaliana (Mouse-ear cress)	229	ATVAMP722 VAMP722	AT2G33120;
+C0SVH2	unreviewed	C0SVH2_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	At4g03210	Arabidopsis thaliana (Mouse-ear cress)	290		AT4G03210;
+F4HVN0	unreviewed	F4HVN0_ARATH	Fucosyltransferase (EC 2.4.1.-)	FUT3 ATFUT3 fucosyltransferase 3 At1g74420 F1M20.10 F1M20_10	Arabidopsis thaliana (Mouse-ear cress)	525	ATFUT3 fucosyltransferase 3	AT1G74420;
+F4I6V0	reviewed	RAY1_ARATH	Beta-arabinofuranosyltransferase RAY1 (EC 2.4.2.-) (Protein REDUCED ARABINOSE YARIV 1)	RAY1 At1g70630 F24J13.20 F5A18.19	Arabidopsis thaliana (Mouse-ear cress)	537		AT1G70630;
+F4IH21	reviewed	TBL33_ARATH	Protein trichome birefringence-like 33	TBL33 At2g40320 T07M07.22 T7M7.12	Arabidopsis thaliana (Mouse-ear cress)	425		AT2G40320;
+F4JI68	unreviewed	F4JI68_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	XTH9 At4g03210 F4C21.14 F4C21_14	Arabidopsis thaliana (Mouse-ear cress)	262		AT4G03210;
+F4K8F7	unreviewed	F4K8F7_ARATH	GPI mannosyltransferase 1 (EC 2.4.1.-) (GPI mannosyltransferase I)	PNT1 PEANUT 1 At5g22130	Arabidopsis thaliana (Mouse-ear cress)	470	PEANUT 1	AT5G22130;
+O23386	reviewed	CSLB6_ARATH	Cellulose synthase-like protein B6 (AtCslB6) (EC 2.4.1.-)	CSLB6 At4g15320 dl3705c FCAALL.268	Arabidopsis thaliana (Mouse-ear cress)	757		AT4G15320;
+O81053	reviewed	FUT2_ARATH	Fucosyltransferase 2 (AtFUT2) (EC 2.4.1.-)	FUT2 At2g03210 T18E12.12	Arabidopsis thaliana (Mouse-ear cress)	539		AT2G03210;
+Q0WLB0	unreviewed	Q0WLB0_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	At4g30270	Arabidopsis thaliana (Mouse-ear cress)	269		AT4G30270;
+Q0WUU2	unreviewed	Q0WUU2_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	At5g65730	Arabidopsis thaliana (Mouse-ear cress)	292		AT5G65730;
+Q67Z90	unreviewed	Q67Z90_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	At5g13870	Arabidopsis thaliana (Mouse-ear cress)	293		AT5G13870;
+Q680R2	unreviewed	Q680R2_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	At3g23730	Arabidopsis thaliana (Mouse-ear cress)	291		AT3G23730;
+Q8GZ17	reviewed	COBL7_ARATH	COBRA-like protein 7	COBL7 SEB1 At4g16120 dl4100c	Arabidopsis thaliana (Mouse-ear cress)	661	SEB1	AT4G16120;
+Q8LEE9	reviewed	FLA12_ARATH	Fasciclin-like arabinogalactan protein 12	FLA12 At5g60490 MUF9.12	Arabidopsis thaliana (Mouse-ear cress)	249		AT5G60490;
+Q8LEJ6	reviewed	FLA11_ARATH	Fasciclin-like arabinogalactan protein 11	FLA11 At5g03170 F15A17_200 MOK16.8	Arabidopsis thaliana (Mouse-ear cress)	246		AT5G03170;
+Q8RWQ4	reviewed	RGAP7_ARATH	Rho GTPase-activating protein 7 (Rho-type GTPase-activating protein 7)	ROPGAP7 At5g19390 F7K24.140	Arabidopsis thaliana (Mouse-ear cress)	870		AT5G19390;
+Q93WY4	reviewed	WRK12_ARATH	Probable WRKY transcription factor 12 (WRKY DNA-binding protein 12)	WRKY12 At2g44745 F16B22.46	Arabidopsis thaliana (Mouse-ear cress)	218		AT2G44745;
+Q9FH92	reviewed	IX15L_ARATH	Protein IRX15-LIKE	IRX15-L At5g67210 K21H1.17	Arabidopsis thaliana (Mouse-ear cress)	317		AT5G67210;
+Q9FJ13	reviewed	COBL9_ARATH	COBRA-like protein 9	COBL9 At5g49270 K21P3.15	Arabidopsis thaliana (Mouse-ear cress)	663		AT5G49270;
+Q9FJN8	reviewed	RAA4A_ARATH	Ras-related protein RABA4a (AtRABA4a)	RABA4A At5g65270 MQN23.22	Arabidopsis thaliana (Mouse-ear cress)	226		AT5G65270;
+Q9FK68	reviewed	RAA1C_ARATH	Ras-related protein RABA1c (AtRABA1c)	RABA1C At5g45750 MRA19.18	Arabidopsis thaliana (Mouse-ear cress)	216		AT5G45750;
+Q9FMP8	reviewed	RGAP6_ARATH	Rho GTPase-activating protein 6 (Rho-type GTPase-activating protein 6)	ROPGAP6 At5g12150 MXC9.11	Arabidopsis thaliana (Mouse-ear cress)	827		AT5G12150;
+Q9LFW3	reviewed	COBL4_ARATH	COBRA-like protein 4	COBL4 At5g15630 F14F8_10	Arabidopsis thaliana (Mouse-ear cress)	431		AT5G15630;
+Q9M274	reviewed	NAC66_ARATH	NAC domain-containing protein 66 (ANAC066) (Protein NAC SECONDARY WALL THICKENING PROMOTING FACTOR 2)	NAC066 NST2 At3g61910 F21F14.80	Arabidopsis thaliana (Mouse-ear cress)	334	NST2	AT3G61910;
+Q9S810	reviewed	RAA1I_ARATH	Ras-related protein RABA1i (AtRABA1i)	RABA1I At1g28550 F1K23.21 F3M18.2	Arabidopsis thaliana (Mouse-ear cress)	218		AT1G28550;
+Q9SI58	unreviewed	Q9SI58_ARATH	60S ribosomal export protein NMD3	NMD3 AtNMD3 Nonsense-Mediated mRNA Decay 3 At2g03820 T18C20.2 T18C20_2	Arabidopsis thaliana (Mouse-ear cress)	516	AtNMD3 Nonsense-Mediated mRNA Decay 3	AT2G03820;
+Q9SJP4	reviewed	FUT5_ARATH	Probable fucosyltransferase 5 (AtFUT5) (EC 2.4.1.-)	FUT5 At2g15370 F26H6.11	Arabidopsis thaliana (Mouse-ear cress)	533		AT2G15370;
+Q9SJP6	reviewed	FUT10_ARATH	Putative fucosyltransferase 10 (AtFUT10) (EC 2.4.1.-)	FUT10 At2g15350 F26H6.13	Arabidopsis thaliana (Mouse-ear cress)	514		AT2G15350;
+Q9SNE5	reviewed	IRX15_ARATH	Protein IRREGULAR XYLEM 15 (AtIRX15)	IRX15 At3g50220 F11C160	Arabidopsis thaliana (Mouse-ear cress)	322		AT3G50220;
+Q9SV60	reviewed	XTH2_ARATH	Xyloglucan endotransglucosylase/hydrolase protein 2 (At-XTH2) (XTH-2) (EC 2.4.1.207)	XTH2 At4g13090 F25G13.180	Arabidopsis thaliana (Mouse-ear cress)	292		AT4G13090;
+Q9XI77	reviewed	FUT9_ARATH	Probable fucosyltransferase 9 (AtFUT9) (EC 2.4.1.-)	FUT9 At1g14110 F7A19.19	Arabidopsis thaliana (Mouse-ear cress)	474		AT1G14110;
+Q9XI78	reviewed	FUT8_ARATH	Probable fucosyltransferase 8 (AtFUT8) (EC 2.4.1.-)	FUT8 At1g14100 F7A19.18	Arabidopsis thaliana (Mouse-ear cress)	516		AT1G14100;
+Q9XI80	reviewed	FUT6_ARATH	Fucosyltransferase 6 (AtFUT6) (EC 2.4.1.-)	FUT6 At1g14080 F16A14.28 F7A19.16	Arabidopsis thaliana (Mouse-ear cress)	537		AT1G14080;
+Q9XI81	reviewed	FUT7_ARATH	Probable fucosyltransferase 7 (AtFUT7) (EC 2.4.1.-)	FUT7 At1g14070 F16A14.19 F16A14.28 F7A19.15	Arabidopsis thaliana (Mouse-ear cress)	526		AT1G14070;
+Q9ZQP3	reviewed	ERF38_ARATH	Ethylene-responsive transcription factor ERF038	ERF038 At2g35700 T20F21.11	Arabidopsis thaliana (Mouse-ear cress)	194		AT2G35700;
+A0A178U838	unreviewed	A0A178U838_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At5g56820	Arabidopsis thaliana (Mouse-ear cress)	254		
+A0A178UDR7	unreviewed	A0A178UDR7_ARATH	UDP-arabinopyranose mutase (EC 5.4.99.30)	AXX17_At5g16120	Arabidopsis thaliana (Mouse-ear cress)	348		
+A0A178UFZ7	unreviewed	A0A178UFZ7_ARATH	COBRA-like protein	AXX17_At5g60390 AN1_LOCUS26398 AT9943_LOCUS22724 C24_LOCUS26220	Arabidopsis thaliana (Mouse-ear cress)	456		
+A0A178V2N3	unreviewed	A0A178V2N3_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At4g14750	Arabidopsis thaliana (Mouse-ear cress)	295		
+A0A178V4A2	unreviewed	A0A178V4A2_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At4g14760	Arabidopsis thaliana (Mouse-ear cress)	292		
+A0A178V5N3	unreviewed	A0A178V5N3_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At4g22330	Arabidopsis thaliana (Mouse-ear cress)	357		
+A0A178V5R7	unreviewed	A0A178V5R7_ARATH	UDP-arabinopyranose mutase (EC 5.4.99.30)	AXX17_At3g08470	Arabidopsis thaliana (Mouse-ear cress)	374		
+A0A178V8S3	unreviewed	A0A178V8S3_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At3g27050	Arabidopsis thaliana (Mouse-ear cress)	290		
+A0A178VH62	unreviewed	A0A178VH62_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At3g38810 C24_LOCUS14708	Arabidopsis thaliana (Mouse-ear cress)	293		
+A0A178VK37	unreviewed	A0A178VK37_ARATH	UDP-arabinopyranose mutase (EC 5.4.99.30)	AXX17_At3g01420 AN1_LOCUS11487 AT9943_LOCUS9877 C24_LOCUS11326	Arabidopsis thaliana (Mouse-ear cress)	357		
+A0A178VNF9	unreviewed	A0A178VNF9_ARATH	Fucosyltransferase (EC 2.4.1.-)	AXX17_At2g10600	Arabidopsis thaliana (Mouse-ear cress)	534		
+A0A178VQ72	unreviewed	A0A178VQ72_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At2g09760	Arabidopsis thaliana (Mouse-ear cress)	299		
+A0A178VTN3	unreviewed	A0A178VTN3_ARATH	Fucosyltransferase (EC 2.4.1.-)	AXX17_At2g10580	Arabidopsis thaliana (Mouse-ear cress)	514		
+A0A178VUA3	unreviewed	A0A178VUA3_ARATH	Fucosyltransferase (EC 2.4.1.-)	AXX17_At2g02180	Arabidopsis thaliana (Mouse-ear cress)	558		
+A0A178VVD8	unreviewed	A0A178VVD8_ARATH	Fucosyltransferase (EC 2.4.1.-)	AXX17_At2g10580	Arabidopsis thaliana (Mouse-ear cress)	533		
+A0A178VWG1	unreviewed	A0A178VWG1_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At2g33590 AN1_LOCUS10141 AT9943_LOCUS8694 C24_LOCUS9988	Arabidopsis thaliana (Mouse-ear cress)	299		
+A0A178VZ78	unreviewed	A0A178VZ78_ARATH	Fucosyltransferase (EC 2.4.1.-)	AXX17_At2g10560 AN1_LOCUS7906	Arabidopsis thaliana (Mouse-ear cress)	514		
+A0A178W0N3	unreviewed	A0A178W0N3_ARATH	Fucosyltransferase (EC 2.4.1.-)	AXX17_At2g02170 AT9943_LOCUS6245 C24_LOCUS7242	Arabidopsis thaliana (Mouse-ear cress)	572		
+A0A178W536	unreviewed	A0A178W536_ARATH	Fucosyltransferase (EC 2.4.1.-)	AXX17_At1g14610	Arabidopsis thaliana (Mouse-ear cress)	519		
+A0A178W7W3	unreviewed	A0A178W7W3_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AXX17_At1g10650	Arabidopsis thaliana (Mouse-ear cress)	310		
+A0A178WEP9	unreviewed	A0A178WEP9_ARATH	Fucosyltransferase (EC 2.4.1.-)	AXX17_At1g14600	Arabidopsis thaliana (Mouse-ear cress)	432		
+A0A178WGB9	unreviewed	A0A178WGB9_ARATH	Fucosyltransferase (EC 2.4.1.-)	AXX17_At1g14600	Arabidopsis thaliana (Mouse-ear cress)	526		
+A0A178WNK9	unreviewed	A0A178WNK9_ARATH	Fucosyltransferase (EC 2.4.1.-)	AXX17_At1g68780 AN1_LOCUS6483 AT9943_LOCUS5477	Arabidopsis thaliana (Mouse-ear cress)	563		
+A0A178WQD1	unreviewed	A0A178WQD1_ARATH	Fucosyltransferase (EC 2.4.1.-)	AXX17_At1g68780	Arabidopsis thaliana (Mouse-ear cress)	559		
+A0A1P8AN91	unreviewed	A0A1P8AN91_ARATH	Fucosyltransferase (EC 2.4.1.-)	FUT3 ATFUT3 fucosyltransferase 3 At1g74420 F1M20.10 F1M20_10	Arabidopsis thaliana (Mouse-ear cress)	559	ATFUT3 fucosyltransferase 3	AT1G74420;
+A0A1P8ANB1	unreviewed	A0A1P8ANB1_ARATH	Fucosyltransferase (EC 2.4.1.-)	FUT3 ATFUT3 fucosyltransferase 3 At1g74420 F1M20.10 F1M20_10	Arabidopsis thaliana (Mouse-ear cress)	563	ATFUT3 fucosyltransferase 3	AT1G74420;
+A0A1P8AU31	unreviewed	A0A1P8AU31_ARATH	COBRA-like protein	COBL6 COBRA-like protein 6 precursor At1g09790 F21M12.17 F21M12_17	Arabidopsis thaliana (Mouse-ear cress)	443	COBRA-like protein 6 precursor	AT1G09790;
+A0A1P8B1J8	unreviewed	A0A1P8B1J8_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	XTH10 At2g14620 T6B13.14 T6B13_14	Arabidopsis thaliana (Mouse-ear cress)	238		AT2G14620;
+A0A1P8B2Z3	unreviewed	A0A1P8B2Z3_ARATH	Fucosyltransferase (EC 2.4.1.-)	FUT2 ATFUT2 fucosyltransferase 2 At2g03210 T18E12.12 T18E12_12	Arabidopsis thaliana (Mouse-ear cress)	573	ATFUT2 fucosyltransferase 2	AT2G03210;
+A0A1P8B2Z4	unreviewed	A0A1P8B2Z4_ARATH	Fucosyltransferase (EC 2.4.1.-)	FUT2 ATFUT2 fucosyltransferase 2 At2g03210 T18E12.12 T18E12_12	Arabidopsis thaliana (Mouse-ear cress)	570	ATFUT2 fucosyltransferase 2	AT2G03210;
+A0A1P8BCB5	unreviewed	A0A1P8BCB5_ARATH	COBRA-like protein	COB COBRA MSL3.40 MSL3_40 At5g60920	Arabidopsis thaliana (Mouse-ear cress)	409	COBRA MSL3.40 MSL3_40	AT5G60920;
+A0A1P8BE64	unreviewed	A0A1P8BE64_ARATH	COBRA-like extracellular glycosyl-phosphatidyl inositol-anchored protein family	IRX6 COBL4 COBRA-LIKE4 IRREGULAR XYLEM 6 At5g15630 F14F8.10 F14F8_10	Arabidopsis thaliana (Mouse-ear cress)	341	COBL4 COBRA-LIKE4 IRREGULAR XYLEM 6	AT5G15630;
+A0A1W6AK05	unreviewed	A0A1W6AK05_ARATH	Fucosyltransferase (EC 2.4.1.-)	AT2G15350.1	Arabidopsis thaliana (Mouse-ear cress)	440		
+A0A1W6AK11	unreviewed	A0A1W6AK11_ARATH	Fucosyltransferase (EC 2.4.1.-)	AT2G15370.1	Arabidopsis thaliana (Mouse-ear cress)	533		AT2G15370;
+A0A384KVV6	unreviewed	A0A384KVV6_ARATH	UDP-arabinopyranose mutase (EC 5.4.99.30)	AXX17_At5g49550 AN1_LOCUS25320 AT9943_LOCUS21831 C24_LOCUS25152	Arabidopsis thaliana (Mouse-ear cress)	364		
+A0A384L2V5	unreviewed	A0A384L2V5_ARATH	UDP-arabinopyranose mutase (EC 5.4.99.30)	AXX17_At5g15170 AN1_LOCUS22336 AT9943_LOCUS19231 C24_LOCUS22227	Arabidopsis thaliana (Mouse-ear cress)	360		
+A0A384L8V8	unreviewed	A0A384L8V8_ARATH	Fucosyltransferase (EC 2.4.1.-)	AXX17_At1g14640	Arabidopsis thaliana (Mouse-ear cress)	516		
+A0A5S9TPC5	unreviewed	A0A5S9TPC5_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	C24_LOCUS1055	Arabidopsis thaliana (Mouse-ear cress)	310		
+A0A5S9UAF0	unreviewed	A0A5S9UAF0_ARATH	Fucosyltransferase (EC 2.4.1.-)	C24_LOCUS1438	Arabidopsis thaliana (Mouse-ear cress)	537		
+A0A5S9UAM9	unreviewed	A0A5S9UAM9_ARATH	Fucosyltransferase (EC 2.4.1.-)	C24_LOCUS1442	Arabidopsis thaliana (Mouse-ear cress)	488		
+A0A5S9UBE5	unreviewed	A0A5S9UBE5_ARATH	Fucosyltransferase (EC 2.4.1.-)	C24_LOCUS1441	Arabidopsis thaliana (Mouse-ear cress)	500		
+A0A5S9WUB0	unreviewed	A0A5S9WUB0_ARATH	Fucosyltransferase (EC 2.4.1.-)	C24_LOCUS6371	Arabidopsis thaliana (Mouse-ear cress)	563		
+A0A5S9WWT0	unreviewed	A0A5S9WWT0_ARATH	Fucosyltransferase (EC 2.4.1.-)	C24_LOCUS7243	Arabidopsis thaliana (Mouse-ear cress)	558		
+A0A5S9WY74	unreviewed	A0A5S9WY74_ARATH	Fucosyltransferase (EC 2.4.1.-)	C24_LOCUS7764	Arabidopsis thaliana (Mouse-ear cress)	514		
+A0A5S9WYB1	unreviewed	A0A5S9WYB1_ARATH	Fucosyltransferase (EC 2.4.1.-)	C24_LOCUS7765	Arabidopsis thaliana (Mouse-ear cress)	515		
+A0A5S9XBF9	unreviewed	A0A5S9XBF9_ARATH	UDP-arabinopyranose mutase (EC 5.4.99.30)	AN1_LOCUS12183 AT9943_LOCUS10472 C24_LOCUS12014	Arabidopsis thaliana (Mouse-ear cress)	373		
+A0A5S9XH05	unreviewed	A0A5S9XH05_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AN1_LOCUS13972 C24_LOCUS13816	Arabidopsis thaliana (Mouse-ear cress)	290		
+A0A5S9XJV0	unreviewed	A0A5S9XJV0_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	C24_LOCUS15082	Arabidopsis thaliana (Mouse-ear cress)	274		
+A0A5S9XRV6	unreviewed	A0A5S9XRV6_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	C24_LOCUS17802	Arabidopsis thaliana (Mouse-ear cress)	295		
+A0A5S9XSG7	unreviewed	A0A5S9XSG7_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	C24_LOCUS17803	Arabidopsis thaliana (Mouse-ear cress)	276		
+A0A5S9YH97	unreviewed	A0A5S9YH97_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	C24_LOCUS25869	Arabidopsis thaliana (Mouse-ear cress)	254		
+A0A654E8H2	unreviewed	A0A654E8H2_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AN1_LOCUS1140	Arabidopsis thaliana (Mouse-ear cress)	310		
+A0A654EAG2	unreviewed	A0A654EAG2_ARATH	Fucosyltransferase (EC 2.4.1.-)	AN1_LOCUS1525	Arabidopsis thaliana (Mouse-ear cress)	500		
+A0A654EAQ4	unreviewed	A0A654EAQ4_ARATH	Fucosyltransferase (EC 2.4.1.-)	AN1_LOCUS1526	Arabidopsis thaliana (Mouse-ear cress)	516		
+A0A654EKG0	unreviewed	A0A654EKG0_ARATH	Fucosyltransferase (EC 2.4.1.-)	AN1_LOCUS1522	Arabidopsis thaliana (Mouse-ear cress)	537		
+A0A654ET10	unreviewed	A0A654ET10_ARATH	Fucosyltransferase (EC 2.4.1.-)	AN1_LOCUS7908	Arabidopsis thaliana (Mouse-ear cress)	533		
+A0A654ET17	unreviewed	A0A654ET17_ARATH	Fucosyltransferase (EC 2.4.1.-)	AN1_LOCUS7909 C24_LOCUS7766	Arabidopsis thaliana (Mouse-ear cress)	534		
+A0A654ET36	unreviewed	A0A654ET36_ARATH	Fucosyltransferase (EC 2.4.1.-)	AN1_LOCUS7365	Arabidopsis thaliana (Mouse-ear cress)	573		
+A0A654EXY6	unreviewed	A0A654EXY6_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AN1_LOCUS7844 C24_LOCUS7702	Arabidopsis thaliana (Mouse-ear cress)	299		
+A0A654F2D1	unreviewed	A0A654F2D1_ARATH	Fucosyltransferase (EC 2.4.1.-)	AN1_LOCUS7366	Arabidopsis thaliana (Mouse-ear cress)	558		
+A0A654FD14	unreviewed	A0A654FD14_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AN1_LOCUS14825	Arabidopsis thaliana (Mouse-ear cress)	293		
+A0A654FFW9	unreviewed	A0A654FFW9_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AN1_LOCUS15203	Arabidopsis thaliana (Mouse-ear cress)	277		
+A0A654FNM3	unreviewed	A0A654FNM3_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AN1_LOCUS17915	Arabidopsis thaliana (Mouse-ear cress)	272		
+A0A654FNP0	unreviewed	A0A654FNP0_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AN1_LOCUS17914	Arabidopsis thaliana (Mouse-ear cress)	295		
+A0A654G1R1	unreviewed	A0A654G1R1_ARATH	UDP-arabinopyranose mutase (EC 5.4.99.30)	AN1_LOCUS22429 AT9943_LOCUS19313 C24_LOCUS22319	Arabidopsis thaliana (Mouse-ear cress)	348		
+A0A7G2DSP9	unreviewed	A0A7G2DSP9_ARATH	Fucosyltransferase (EC 2.4.1.-)	AT9943_LOCUS1200	Arabidopsis thaliana (Mouse-ear cress)	509		
+A0A7G2DTE7	unreviewed	A0A7G2DTE7_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AT9943_LOCUS879	Arabidopsis thaliana (Mouse-ear cress)	310		
+A0A7G2DTK5	unreviewed	A0A7G2DTK5_ARATH	Fucosyltransferase (EC 2.4.1.-)	AT9943_LOCUS1201	Arabidopsis thaliana (Mouse-ear cress)	519		
+A0A7G2DUR9	unreviewed	A0A7G2DUR9_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AT9943_LOCUS1266	Arabidopsis thaliana (Mouse-ear cress)	299		
+A0A7G2E685	unreviewed	A0A7G2E685_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AT9943_LOCUS6737	Arabidopsis thaliana (Mouse-ear cress)	292		
+A0A7G2E6I4	unreviewed	A0A7G2E6I4_ARATH	Fucosyltransferase (EC 2.4.1.-)	AT9943_LOCUS6796	Arabidopsis thaliana (Mouse-ear cress)	378		
+A0A7G2E849	unreviewed	A0A7G2E849_ARATH	Fucosyltransferase (EC 2.4.1.-)	AT9943_LOCUS6246	Arabidopsis thaliana (Mouse-ear cress)	486		
+A0A7G2E8J4	unreviewed	A0A7G2E8J4_ARATH	Fucosyltransferase (EC 2.4.1.-)	AT9943_LOCUS6794	Arabidopsis thaliana (Mouse-ear cress)	515		
+A0A7G2EA97	unreviewed	A0A7G2EA97_ARATH	Fucosyltransferase (EC 2.4.1.-)	AT9943_LOCUS6793	Arabidopsis thaliana (Mouse-ear cress)	514		
+A0A7G2EPJ4	unreviewed	A0A7G2EPJ4_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AT9943_LOCUS13080	Arabidopsis thaliana (Mouse-ear cress)	238		
+A0A7G2EUS9	unreviewed	A0A7G2EUS9_ARATH	xyloglucan:xyloglucosyl transferase (EC 2.4.1.207)	AT9943_LOCUS14720	Arabidopsis thaliana (Mouse-ear cress)	746		
+A0A7G2EXS8	unreviewed	A0A7G2EXS8_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AT9943_LOCUS15439	Arabidopsis thaliana (Mouse-ear cress)	295		
+A0A7G2EZ76	unreviewed	A0A7G2EZ76_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AT9943_LOCUS15441	Arabidopsis thaliana (Mouse-ear cress)	276		
+A0A7G2F0R1	unreviewed	A0A7G2F0R1_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AT9943_LOCUS16046	Arabidopsis thaliana (Mouse-ear cress)	279		
+A0A7G2F3R2	unreviewed	A0A7G2F3R2_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AT9943_LOCUS17792	Arabidopsis thaliana (Mouse-ear cress)	261		
+A0A7G2F6G4	unreviewed	A0A7G2F6G4_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS16987	Arabidopsis thaliana (Mouse-ear cress)	687		
+A0A7G2F7U5	unreviewed	A0A7G2F7U5_ARATH	Eukaryotic translation initiation factor 3 subunit M (eIF3m)	AT9943_LOCUS19229	Arabidopsis thaliana (Mouse-ear cress)	919		
+A0A7G2FN09	unreviewed	A0A7G2FN09_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	AT9943_LOCUS23165	Arabidopsis thaliana (Mouse-ear cress)	269		
+A0MEY2	unreviewed	A0MEY2_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)		Arabidopsis thaliana (Mouse-ear cress)	291		
+F4I2W6	unreviewed	F4I2W6_ARATH	3-deoxy-8-phosphooctulonate synthase (EC 2.5.1.55)	ATKDSA2 AtKDO8PS ATKSDA At1g16340 F3O9.14 F3O9_14	Arabidopsis thaliana (Mouse-ear cress)	293	AtKDO8PS ATKSDA	AT1G16340;
+F4IA77	unreviewed	F4IA77_ARATH	Pectin lyase-like superfamily protein	PGX2 At1g78400 F3F9.9 F3F9_9	Arabidopsis thaliana (Mouse-ear cress)	404		AT1G78400;
+F4J9G0	unreviewed	F4J9G0_ARATH	SacI homology domain-containing protein / WW domain-containing protein	SAC9 AtSAC9 SUPPRESSOR OF ACTIN 9 At3g59770	Arabidopsis thaliana (Mouse-ear cress)	1646	AtSAC9 SUPPRESSOR OF ACTIN 9	AT3G59770;
+F4JF30	unreviewed	F4JF30_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	XTH11 At3g48580	Arabidopsis thaliana (Mouse-ear cress)	257		AT3G48580;
+O04500	reviewed	COBL6_ARATH	COBRA-like protein 6	COBL6 At1g09790 F21M12.17 F21M12_18	Arabidopsis thaliana (Mouse-ear cress)	454		AT1G09790;
+Q56X65	unreviewed	Q56X65_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	At3g48580	Arabidopsis thaliana (Mouse-ear cress)	267		AT3G48580;
+Q56YH9	unreviewed	Q56YH9_ARATH	Fucosyltransferase (EC 2.4.1.-)	At1g74420	Arabidopsis thaliana (Mouse-ear cress)	493		AT1G74420;
+Q56ZK8	unreviewed	Q56ZK8_ARATH	Xyloglucan endotransglucosylase/hydrolase (EC 2.4.1.207)	At3g48580	Arabidopsis thaliana (Mouse-ear cress)	267		
+Q9FME5	reviewed	COBL5_ARATH	COBRA-like protein 5	COBL5 At5g60950 MSL3.7	Arabidopsis thaliana (Mouse-ear cress)	204		AT5G60950;
+Q9LIB6	reviewed	COBL8_ARATH	COBRA-like protein 8	COBL8 SEB2 At3g16860 MUH15.2	Arabidopsis thaliana (Mouse-ear cress)	653	SEB2	AT3G16860;
+Q9LK99	reviewed	RAA1G_ARATH	Ras-related protein RABA1g (AtRABA1g)	RABA1G At3g15060 K15M2.21	Arabidopsis thaliana (Mouse-ear cress)	217		AT3G15060;
+Q9SRT7	reviewed	COBL1_ARATH	COBRA-like protein 1	COBL1 At3g02210 F14P3.14	Arabidopsis thaliana (Mouse-ear cress)	452		AT3G02210;
+W8PV36	unreviewed	W8PV36_ARATH	Fucosyltransferase (EC 2.4.1.-)	AT2G03220	Arabidopsis thaliana (Mouse-ear cress)	558		AT2G03220;
+W8PVC8	unreviewed	W8PVC8_ARATH	Fucosyltransferase (EC 2.4.1.-)	AT1G14100	Arabidopsis thaliana (Mouse-ear cress)	516		AT1G14100;
+W8Q3H6	unreviewed	W8Q3H6_ARATH	Fucosyltransferase (EC 2.4.1.-)	AT2G15390	Arabidopsis thaliana (Mouse-ear cress)	535		
+W8Q3K1	unreviewed	W8Q3K1_ARATH	Fucosyltransferase (EC 2.4.1.-)	AT1G74420	Arabidopsis thaliana (Mouse-ear cress)	521		AT1G74420;
+W8Q7D0	unreviewed	W8Q7D0_ARATH	Fucosyltransferase (EC 2.4.1.-)	AT1G14070	Arabidopsis thaliana (Mouse-ear cress)	509		
+W8QP07	unreviewed	W8QP07_ARATH	Fucosyltransferase (EC 2.4.1.-)	AT2G03210	Arabidopsis thaliana (Mouse-ear cress)	536		
+W8QPA3	unreviewed	W8QPA3_ARATH	Fucosyltransferase (EC 2.4.1.-)	AT1G14080	Arabidopsis thaliana (Mouse-ear cress)	519		
+A0A178UD56	unreviewed	A0A178UD56_ARATH	(thale cress) hypothetical protein (COBL5)	AXX17_At5g60420 AN1_LOCUS26402 AT9943_LOCUS22727 C24_LOCUS26224	Arabidopsis thaliana (Mouse-ear cress)	204		
+A0A178UIP2	unreviewed	A0A178UIP2_ARATH	TED7	AXX17_At5g47600 AN1_LOCUS25137 C24_LOCUS24968	Arabidopsis thaliana (Mouse-ear cress)	205		
+A0A178UK60	unreviewed	A0A178UK60_ARATH	COBRA-like extracellular glycosyl-phosphatidyl inositol-anchored protein family	IRX6 COBL4 COBRA-LIKE4 IRREGULAR XYLEM 6 At5g15630 F14F8.10 F14F8_10	Arabidopsis thaliana (Mouse-ear cress)	395	COBL4 COBRA-LIKE4 IRREGULAR XYLEM 6	AT5G15630;
+A0A178UZ70	unreviewed	A0A178UZ70_ARATH	SEB1	AXX17_At4g18880	Arabidopsis thaliana (Mouse-ear cress)	661		
+A0A178V4R6	unreviewed	A0A178V4R6_ARATH	COBL11	AXX17_At4g31260 C24_LOCUS19375	Arabidopsis thaliana (Mouse-ear cress)	668		
+A0A178V7T6	unreviewed	A0A178V7T6_ARATH	COBL10	AXX17_At3g21950	Arabidopsis thaliana (Mouse-ear cress)	672		
+A0A178VBK2	unreviewed	A0A178VBK2_ARATH	COBL8	AXX17_At3g17740 AN1_LOCUS13076	Arabidopsis thaliana (Mouse-ear cress)	653		
+A0A178VC80	unreviewed	A0A178VC80_ARATH	Uncharacterized protein	AXX17_At3g09850	Arabidopsis thaliana (Mouse-ear cress)	254		
+A0A178VHK7	unreviewed	A0A178VHK7_ARATH	COBRA-like protein	AXX17_At3g01400 AN1_LOCUS11485 C24_LOCUS11324	Arabidopsis thaliana (Mouse-ear cress)	452		
+A0A178VK56	unreviewed	A0A178VK56_ARATH	COBRA-like protein	AXX17_At3g33000	Arabidopsis thaliana (Mouse-ear cress)	441		
+A0A178W0Q5	unreviewed	A0A178W0Q5_ARATH	COBRA-like protein	AXX17_At2g06650	Arabidopsis thaliana (Mouse-ear cress)	90		
+A0A178WCP9	unreviewed	A0A178WCP9_ARATH	COBRA-like protein	AXX17_At1g09750 AN1_LOCUS1060	Arabidopsis thaliana (Mouse-ear cress)	443		
+A0A178WFN7	unreviewed	A0A178WFN7_ARATH	(thale cress) hypothetical protein (TED6)	AXX17_At1g39740 AT9943_LOCUS3141 C24_LOCUS3618	Arabidopsis thaliana (Mouse-ear cress)	116		
+A0A1P8BE86	unreviewed	A0A1P8BE86_ARATH	COBRA-like extracellular glycosyl-phosphatidyl inositol-anchored protein family	IRX6 COBL4 COBRA-LIKE4 IRREGULAR XYLEM 6 At5g15630 F14F8.10 F14F8_10	Arabidopsis thaliana (Mouse-ear cress)	382	COBL4 COBRA-LIKE4 IRREGULAR XYLEM 6	AT5G15630;
+A0A384L0N7	unreviewed	A0A384L0N7_ARATH	SHV2	AXX17_At5g48000 AN1_LOCUS25175 C24_LOCUS25006	Arabidopsis thaliana (Mouse-ear cress)	663		
+A0A384LH43	unreviewed	A0A384LH43_ARATH	IRX6	AXX17_At5g15150	Arabidopsis thaliana (Mouse-ear cress)	395		
+A0A5S9TIZ5	unreviewed	A0A5S9TIZ5_ARATH	COBRA-like protein	C24_LOCUS974	Arabidopsis thaliana (Mouse-ear cress)	443		
+A0A5S9XAQ6	unreviewed	A0A5S9XAQ6_ARATH	Uncharacterized protein	C24_LOCUS12148	Arabidopsis thaliana (Mouse-ear cress)	158		
+A0A5S9XE02	unreviewed	A0A5S9XE02_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS11584 C24_LOCUS13325	Arabidopsis thaliana (Mouse-ear cress)	672		
+A0A5S9XEB9	unreviewed	A0A5S9XEB9_ARATH	COBRA-like protein 8	C24_LOCUS12908	Arabidopsis thaliana (Mouse-ear cress)	653		
+A0A5S9XGW6	unreviewed	A0A5S9XGW6_ARATH	COBRA-like protein	AN1_LOCUS14498 C24_LOCUS14347	Arabidopsis thaliana (Mouse-ear cress)	441		
+A0A5S9XSW3	unreviewed	A0A5S9XSW3_ARATH	COBRA-like protein 7	C24_LOCUS18179	Arabidopsis thaliana (Mouse-ear cress)	661		
+A0A5S9Y4Z5	unreviewed	A0A5S9Y4Z5_ARATH	COBRA-like protein	AN1_LOCUS22334 C24_LOCUS22225	Arabidopsis thaliana (Mouse-ear cress)	431		
+A0A654EG42	unreviewed	A0A654EG42_ARATH	Transmembrane protein	AN1_LOCUS3720	Arabidopsis thaliana (Mouse-ear cress)	116		
+A0A654F7D8	unreviewed	A0A654F7D8_ARATH	Uncharacterized protein	AN1_LOCUS12316	Arabidopsis thaliana (Mouse-ear cress)	145		
+A0A654FA06	unreviewed	A0A654FA06_ARATH	COBRA-like protein 10	AN1_LOCUS13487	Arabidopsis thaliana (Mouse-ear cress)	672		
+A0A654FPV3	unreviewed	A0A654FPV3_ARATH	COBRA-like protein 7	AN1_LOCUS18292	Arabidopsis thaliana (Mouse-ear cress)	661		
+A0A654FT91	unreviewed	A0A654FT91_ARATH	(thale cress) hypothetical protein	AN1_LOCUS19481 AT9943_LOCUS16817	Arabidopsis thaliana (Mouse-ear cress)	668		
+A0A7G2DPK5	unreviewed	A0A7G2DPK5_ARATH	COBRA-like protein	AT9943_LOCUS807	Arabidopsis thaliana (Mouse-ear cress)	460		
+A0A7G2DWP4	unreviewed	A0A7G2DWP4_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS1203	Arabidopsis thaliana (Mouse-ear cress)	1010		
+A0A7G2EIJ0	unreviewed	A0A7G2EIJ0_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS9876	Arabidopsis thaliana (Mouse-ear cress)	661		
+A0A7G2EJE3	unreviewed	A0A7G2EJE3_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS10589	Arabidopsis thaliana (Mouse-ear cress)	226		
+A0A7G2EMJ8	unreviewed	A0A7G2EMJ8_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS11255	Arabidopsis thaliana (Mouse-ear cress)	653		
+A0A7G2EUC1	unreviewed	A0A7G2EUC1_ARATH	COBRA-like protein	AT9943_LOCUS12420	Arabidopsis thaliana (Mouse-ear cress)	438		
+A0A7G2EZZ8	unreviewed	A0A7G2EZZ8_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS15756	Arabidopsis thaliana (Mouse-ear cress)	661		
+F4J2J7	unreviewed	F4J2J7_ARATH	COBRA-like extracellular glycosyl-phosphatidyl inositol-anchored protein family	At3g10116	Arabidopsis thaliana (Mouse-ear cress)	170		AT3G10116;
+Q0WRJ1	unreviewed	Q0WRJ1_ARATH	Predicted GPI-anchored protein	At5g49270	Arabidopsis thaliana (Mouse-ear cress)	663		AT5G49270;

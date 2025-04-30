@@ -1,0 +1,33 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length	Gene Names (synonym)	TAIR
+O49523	reviewed	DSEL_ARATH	Phospholipase A1-IIgamma (EC 3.1.1.-) (DAD1-like seedling establishment-related lipase) (AtDSEL) (Phospholipase DSEL)	DSEL At4g18550 F28J12.210	Arabidopsis thaliana (Mouse-ear cress)	419		AT4G18550;
+Q8GWG0	reviewed	GPAT9_ARATH	Glycerol-3-phosphate acyltransferase 9 (AtGPAT9) (EC 2.3.1.15)	GPAT9 At5g60620 MUP24.4	Arabidopsis thaliana (Mouse-ear cress)	376		AT5G60620;
+Q93V56	reviewed	IPYR1_ARATH	Soluble inorganic pyrophosphatase 1 (EC 3.6.1.1) (Pyrophosphate phospho-hydrolase 1) (PPase 1)	PPA1 At1g01050 T25K16.5	Arabidopsis thaliana (Mouse-ear cress)	212		AT1G01050;
+Q9FFD9	reviewed	SEI1_ARATH	Seipin-1 (AtSEIPIN1)	SEI1 At5g16460 MQK4.19	Arabidopsis thaliana (Mouse-ear cress)	368		AT5G16460;
+Q9ZPV8	reviewed	COAD_ARATH	Phosphopantetheine adenylyltransferase (EC 2.7.7.3) (AtCoaD) (Dephospho-CoA pyrophosphorylase) (Pantetheine-phosphate adenylyltransferase)	COAD PPAT At2g18250 T30D6.24	Arabidopsis thaliana (Mouse-ear cress)	176	PPAT	AT2G18250;
+F4I340	reviewed	SEI2_ARATH	Seipin-2 (AtSEIPIN2)	SEI2 At1g29760 F1N18.1	Arabidopsis thaliana (Mouse-ear cress)	526		AT1G29760;
+P29525	reviewed	OLEO1_ARATH	Oleosin 18.5 kDa	At4g25140 F13M23.280	Arabidopsis thaliana (Mouse-ear cress)	173		AT4G25140;
+Q39165	reviewed	OLEO2_ARATH	Oleosin 21.2 kDa (Oleosin type 2)	At5g40420 MPO12.17	Arabidopsis thaliana (Mouse-ear cress)	199		AT5G40420;
+Q8L615	reviewed	SEI3_ARATH	Seipin-3 (AtSEIPIN3)	SEI3 At2g34380 F13P17.31 T31E10	Arabidopsis thaliana (Mouse-ear cress)	509		AT2G34380;
+Q9MA63	reviewed	Y3550_ARATH	REF/SRPP-like protein At3g05500	At3g05500 F22F7.5	Arabidopsis thaliana (Mouse-ear cress)	246		AT3G05500;
+Q9ZVY7	reviewed	OBP1A_ARATH	Oil body-associated protein 1A	OBAP1A At1g05510 T25N20.16	Arabidopsis thaliana (Mouse-ear cress)	241		AT1G05510;
+A0A178ULM1	unreviewed	A0A178ULM1_ARATH	Seipin-1	AXX17_At5g16060	Arabidopsis thaliana (Mouse-ear cress)	368		
+A0A5S9Y582	unreviewed	A0A5S9Y582_ARATH	Seipin-1	AN1_LOCUS22424 C24_LOCUS22315	Arabidopsis thaliana (Mouse-ear cress)	360		
+A0A654EJ39	unreviewed	A0A654EJ39_ARATH	Seipin-2	AN1_LOCUS3019	Arabidopsis thaliana (Mouse-ear cress)	526		
+A0A7G2FD07	unreviewed	A0A7G2FD07_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS19307	Arabidopsis thaliana (Mouse-ear cress)	395		
+O82308	unreviewed	O82308_ARATH	Oleosin	At2g25890 F17H15.8 F17H15_8	Arabidopsis thaliana (Mouse-ear cress)	174		AT2G25890;
+Q9FFC9	unreviewed	Q9FFC9_ARATH	Voltage-dependent L-type calcium channel subunit	LDIP MQK4.30 MQK4_30 At5g16550	Arabidopsis thaliana (Mouse-ear cress)	249	MQK4.30 MQK4_30	AT5G16550;
+A0A178V9X6	unreviewed	A0A178V9X6_ARATH	Alpha/beta-Hydrolases superfamily protein	At3g11620	Arabidopsis thaliana (Mouse-ear cress)	287		AT3G11620;
+A0A178VY05	unreviewed	A0A178VY05_ARATH	(thale cress) hypothetical protein	AXX17_At2g30920 AN1_LOCUS9880 AT9943_LOCUS8466 C24_LOCUS9726	Arabidopsis thaliana (Mouse-ear cress)	509		
+A0A178WNK1	unreviewed	A0A178WNK1_ARATH	Seipin-2	AXX17_At1g30120	Arabidopsis thaliana (Mouse-ear cress)	526		
+A0A1I9LR49	unreviewed	A0A1I9LR49_ARATH	Alpha/beta-Hydrolases superfamily protein	At3g11620	Arabidopsis thaliana (Mouse-ear cress)	280		AT3G11620;
+A0A384KHB3	unreviewed	A0A384KHB3_ARATH	(thale cress) hypothetical protein	At3g11620 AXX17_At3g11550 AN1_LOCUS12484 AT9943_LOCUS10734	Arabidopsis thaliana (Mouse-ear cress)	312		
+A0A384LKX1	unreviewed	A0A384LKX1_ARATH	Alpha/beta-Hydrolases superfamily protein	AXX17_At3g11550	Arabidopsis thaliana (Mouse-ear cress)	287		
+A0A5S9WBY2	unreviewed	A0A5S9WBY2_ARATH	Seipin-2	C24_LOCUS2926	Arabidopsis thaliana (Mouse-ear cress)	526		
+A0A5S9XBD3	unreviewed	A0A5S9XBD3_ARATH	Alpha/beta-Hydrolases superfamily protein	C24_LOCUS12314	Arabidopsis thaliana (Mouse-ear cress)	312		
+A0A7G2DWW5	unreviewed	A0A7G2DWW5_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS2484	Arabidopsis thaliana (Mouse-ear cress)	526		
+A0A7G2FF10	unreviewed	A0A7G2FF10_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS19307	Arabidopsis thaliana (Mouse-ear cress)	329		
+F4J7E1	unreviewed	F4J7E1_ARATH	Alpha/beta-Hydrolases superfamily protein	At3g11620	Arabidopsis thaliana (Mouse-ear cress)	239		AT3G11620;
+Q0WPD9	unreviewed	Q0WPD9_ARATH	Alpha/beta-Hydrolases superfamily protein	At3g11620	Arabidopsis thaliana (Mouse-ear cress)	312		AT3G11620;
+Q8LFP3	unreviewed	Q8LFP3_ARATH	Alpha/beta-Hydrolases superfamily protein		Arabidopsis thaliana (Mouse-ear cress)	312		
+Q9CAW8	unreviewed	Q9CAW8_ARATH	Uncharacterized protein F24K9.27	F24K9.27	Arabidopsis thaliana (Mouse-ear cress)	250		
+Q9SRN3	unreviewed	Q9SRN3_ARATH	T19F11.2 protein	T19F11.2	Arabidopsis thaliana (Mouse-ear cress)	190		

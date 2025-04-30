@@ -1,0 +1,250 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length	Gene Names (synonym)	TAIR
+A1A6H3	reviewed	RBSK_ARATH	Ribokinase (AtRBSK) (RK) (EC 2.7.1.15)	RBSK At1g17160 F20D23.14	Arabidopsis thaliana (Mouse-ear cress)	379		AT1G17160;
+,
+O65896	reviewed	CDA1_ARATH	Cytidine deaminase 1 (At-CDA1) (EC 3.5.4.5)	CDA1 CDD DESZ At2g19570 F3P11	Arabidopsis thaliana (Mouse-ear cress)	301	CDD DESZ	AT2G19570;
+,
+P31166	reviewed	APT1_ARATH	Adenine phosphoribosyltransferase 1, chloroplastic (APRT 1) (AtAPT1) (EC 2.4.2.7)	APT1 APT At1g27450 F17L21.24	Arabidopsis thaliana (Mouse-ear cress)	243	APT	AT1G27450;
+,
+Q7XA67	reviewed	MTN2_ARATH	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase (MTA/SAH nucleosidase) (EC 3.2.2.9) (5'-methylthioadenosine nucleosidase 2) (AtMTAN2) (MTA nucleosidase 2) (S-adenosylhomocysteine nucleosidase) (AdoHcy nucleosidase) (SAH nucleosidase) (SRH nucleosidase)	MTN2 MTAN2 At4g34840 T11I11.80	Arabidopsis thaliana (Mouse-ear cress)	254	MTAN2	AT4G34840;
+,
+Q8LAC4	reviewed	URH2_ARATH	Probable uridine nucleosidase 2 (EC 3.2.2.3) (Inosine nucleosidase) (EC 3.2.2.2) (Nucleoside hydrolase 2) (Uridine ribohydrolase 2) (Xanthosine nucleosidase) (EC 3.2.2.-)	URH2 NSH2 At1g05620 F3F20.7	Arabidopsis thaliana (Mouse-ear cress)	322	NSH2	AT1G05620;
+,
+Q8RY23	reviewed	NSH3_ARATH	Nucleoside hydrolase 3 (Adenosine nucleosidase) (EC 3.2.2.7) (Inosine nucleosidase) (EC 3.2.2.2) (Purine nucleosidase) (EC 3.2.2.1)	NSH3 At5g18860 F17K4.110	Arabidopsis thaliana (Mouse-ear cress)	890		AT5G18860;
+,
+Q94BU8	reviewed	GSDA_ARATH	Guanosine deaminase (EC 3.5.4.15) (tRNA-specific adenosine deaminase TAD4) (AtTAD4)	GSDA TAD4 At5g28050	Arabidopsis thaliana (Mouse-ear cress)	185	TAD4	AT5G28050;
+,
+Q9LZG0	reviewed	ADK2_ARATH	Adenosine kinase 2 (AK 2) (EC 2.7.1.20) (Adenosine 5'-phosphotransferase 2)	ADK2 At5g03300 F12E4.30 MOK16.21	Arabidopsis thaliana (Mouse-ear cress)	345		AT5G03300;
+,
+Q9SF85	reviewed	ADK1_ARATH	Adenosine kinase 1 (AK 1) (EC 2.7.1.20) (Adenosine 5'-phosphotransferase 1)	ADK1 At3g09820 F8A24.13	Arabidopsis thaliana (Mouse-ear cress)	344		AT3G09820;
+,
+Q9SJM7	reviewed	URH1_ARATH	Uridine nucleosidase 1 (EC 3.2.2.3) (Adenosine nucleosidase) (EC 3.2.2.7) (Inosine nucleosidase) (EC 3.2.2.2) (Nucleoside hydrolase 1) (Uridine ribohydrolase 1) (Xanthosine nucleosidase) (EC 3.2.2.-)	URH1 NSH1 At2g36310 F2H17.8	Arabidopsis thaliana (Mouse-ear cress)	336	NSH1	AT2G36310;
+,
+Q9SUW2	reviewed	APT3_ARATH	Adenine phosphoribosyltransferase 3 (EC 2.4.2.7)	APT3 At4g22570 F7K2.150	Arabidopsis thaliana (Mouse-ear cress)	183		AT4G22570;
+,
+Q9T0I8	reviewed	MTN1_ARATH	5'-methylthioadenosine nucleosidase (MTA nucleosidase) (EC 3.2.2.16) (5'-methylthioadenosine nucleosidase 1) (AtMTAN1) (MTA nucleosidase 1)	MTN1 MTAN MTAN1 At4g38800 T9A14.80	Arabidopsis thaliana (Mouse-ear cress)	267	MTAN MTAN1	AT4G38800;
+,
+Q9XIE2	reviewed	AB36G_ARATH	ABC transporter G family member 36 (ABC transporter ABCG.36) (AtABCG36) (Pleiotropic drug resistance protein 8) (AtPDR8) (Protein PENETRATION 3)	ABCG36 PDR8 PEN3 At1g59870 F23H11.19	Arabidopsis thaliana (Mouse-ear cress)	1469	PDR8 PEN3	AT1G59870;
+,
+F4HSX1	unreviewed	F4HSX1_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	APT1 ATAPT1 At1g27450 F17L21.24 F17L21_24	Arabidopsis thaliana (Mouse-ear cress)	284	ATAPT1	AT1G27450;
+,
+Q42563	reviewed	APT2_ARATH	Adenine phosphoribosyltransferase 2 (APRT 2) (AtAPT2) (EC 2.4.2.7)	APT2 At1g80050 F18B13.14	Arabidopsis thaliana (Mouse-ear cress)	192		AT1G80050;
+,
+Q9C998	reviewed	RPI1_ARATH	Probable ribose-5-phosphate isomerase 1 (EC 5.3.1.6) (Phosphoriboisomerase 1) (Protein RADIAL SWELLING 10)	RPI1 RSW10 At1g71100 F23N20.9	Arabidopsis thaliana (Mouse-ear cress)	267	RSW10	AT1G71100;
+,
+Q9FK02	reviewed	DIM1B_ARATH	Ribosomal RNA small subunit methyltransferase, mitochondrial (EC 2.1.1.-) (18S mitochondrial rRNA (adenine(1914)-N(6)/adenine(1915)-N(6))-dimethyltransferase) (Adenosine dimethyl transferase 1B) (Dimethyladenosine transferase 1B)	DIM1B At5g66360 K1L20.14	Arabidopsis thaliana (Mouse-ear cress)	380		AT5G66360;
+,
+Q9SU38	reviewed	APT4_ARATH	Adenine phosphoribosyltransferase 4 (AtAPT4) (EC 2.4.2.7)	APT4 At4g12440 T1P17.30	Arabidopsis thaliana (Mouse-ear cress)	182		AT4G12440;
+,
+A0A1P8B9C5	unreviewed	A0A1P8B9C5_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	APT5 At5g11160 F2I11.50 F2I11_50	Arabidopsis thaliana (Mouse-ear cress)	167		AT5G11160;
+,
+A0A1P8BAP0	unreviewed	A0A1P8BAP0_ARATH	Adenosine kinase (AK) (EC 2.7.1.20) (Adenosine 5'-phosphotransferase)	ADK2 ADENOSINE KINASE 2 adenosine kinase 2 At5g03300 F12E4.30 F12E4_30	Arabidopsis thaliana (Mouse-ear cress)	292	ADENOSINE KINASE 2 adenosine kinase 2	AT5G03300;
+,
+A0A7G2F5E9	unreviewed	A0A7G2F5E9_ARATH	adenosine kinase (EC 2.7.1.20)	AT9943_LOCUS18202	Arabidopsis thaliana (Mouse-ear cress)	700		
+,
+F4IA25	unreviewed	F4IA25_ARATH	Hypoxanthine phosphoribosyltransferase (EC 2.4.2.8)	HGPT At1g71750 F14O23.13 F14O23_13	Arabidopsis thaliana (Mouse-ear cress)	198		AT1G71750;
+,
+O65571	reviewed	CDA2_ARATH	Cytidine deaminase 2 (EC 3.5.4.5)	CDA2 DESE At4g29620 T16L4.130	Arabidopsis thaliana (Mouse-ear cress)	337	DESE	AT4G29620;
+,
+Q93WD7	unreviewed	Q93WD7_ARATH	tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit (WD repeat-containing protein 4 homolog)	TRM82 AtTRM82 tRNA modification 82 At1g03110 F10O3.6 F10O3_6	Arabidopsis thaliana (Mouse-ear cress)	427	AtTRM82 tRNA modification 82	AT1G03110;
+,
+Q9FGI9	unreviewed	Q9FGI9_ARATH	tRNA (guanine(9)-N(1))-methyltransferase (EC 2.1.1.221)	TRM10 AtTRM MNJ7.27 MNJ7_27 tRNA modification 10 At5g47680	Arabidopsis thaliana (Mouse-ear cress)	344	AtTRM MNJ7.27 MNJ7_27 tRNA modification 10	AT5G47680;
+,
+Q9LFP0	reviewed	APT5_ARATH	Adenine phosphoribosyltransferase 5 (AtAPT5) (EC 2.4.2.7)	APT5 At5g11160 F2I11.50	Arabidopsis thaliana (Mouse-ear cress)	191		AT5G11160;
+,
+Q9S789	reviewed	CDA9_ARATH	Probable inactive cytidine deaminase 9	CDA9 DESB At4g29580 T16L4.90	Arabidopsis thaliana (Mouse-ear cress)	298	DESB	AT4G29580;
+,
+Q9S7L8	reviewed	CDA5_ARATH	Cytidine deaminase 5 (EC 3.5.4.5)	CDA5 DESG At4g29640 T16L4.150	Arabidopsis thaliana (Mouse-ear cress)	346	DESG	AT4G29640;
+,
+Q9S847	reviewed	CDA3_ARATH	Cytidine deaminase 3 (EC 3.5.4.5)	CDA3 DESF At4g29630 T16L4.140	Arabidopsis thaliana (Mouse-ear cress)	223	DESF	AT4G29630;
+,
+Q9SKY5	unreviewed	Q9SKY5_ARATH	At2g32150/F22D22.10 (Haloacid dehalogenase-like hydrolase (HAD) superfamily protein) (Putative hydrolase)	At2g32150 At2g32150/F22D22.10 F22D22.10 F22D22_10	Arabidopsis thaliana (Mouse-ear cress)	263		AT2G32150;
+,
+Q9SU86	reviewed	CDA6_ARATH	Cytidine deaminase 6 (EC 3.5.4.5)	CDA6 DESD At4g29610 T16L4.120	Arabidopsis thaliana (Mouse-ear cress)	293	DESD	AT4G29610;
+,
+Q9SU87	reviewed	CDA7_ARATH	Cytidine deaminase 7 (EC 3.5.4.5)	CDA7 DESC At4g29600 T16L4.110	Arabidopsis thaliana (Mouse-ear cress)	307	DESC	AT4G29600;
+,
+Q9XEX4	reviewed	CDA8_ARATH	Cytidine deaminase 8 (EC 3.5.4.5)	CDA8 DESA At4g29570 T16L4.80	Arabidopsis thaliana (Mouse-ear cress)	293	DESA	AT4G29570;
+,
+A0A178U8V4	unreviewed	A0A178U8V4_ARATH	HTH tetR-type domain-containing protein	AXX17_ATUG04680	Arabidopsis thaliana (Mouse-ear cress)	2547		
+,
+A0A178UGH7	unreviewed	A0A178UGH7_ARATH	Adenosine kinase (AK) (EC 2.7.1.20) (Adenosine 5'-phosphotransferase)	AXX17_At5g02520 AN1_LOCUS21123	Arabidopsis thaliana (Mouse-ear cress)	345		
+,
+A0A178UPD1	unreviewed	A0A178UPD1_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	AXX17_At5g10840 AN1_LOCUS21910 C24_LOCUS21801	Arabidopsis thaliana (Mouse-ear cress)	191		
+,
+A0A178URQ7	unreviewed	A0A178URQ7_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	AXX17_At4g14010 AN1_LOCUS17844 C24_LOCUS17733	Arabidopsis thaliana (Mouse-ear cress)	182		
+,
+A0A178USY0	unreviewed	A0A178USY0_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	AXX17_At4g14010	Arabidopsis thaliana (Mouse-ear cress)	45		
+,
+A0A178UUA4	unreviewed	A0A178UUA4_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	AXX17_At4g14010	Arabidopsis thaliana (Mouse-ear cress)	152		
+,
+A0A178UUN4	unreviewed	A0A178UUN4_ARATH	cytidine deaminase (EC 3.5.4.5)	AXX17_At4g34000	Arabidopsis thaliana (Mouse-ear cress)	322		
+,
+A0A178UVG1	unreviewed	A0A178UVG1_ARATH	CMP/dCMP-type deaminase domain-containing protein	AXX17_At4g33950	Arabidopsis thaliana (Mouse-ear cress)	298		
+,
+A0A178UXX8	unreviewed	A0A178UXX8_ARATH	CMP/dCMP-type deaminase domain-containing protein	AXX17_At4g33980 C24_LOCUS19646	Arabidopsis thaliana (Mouse-ear cress)	293		
+,
+A0A178UYF9	unreviewed	A0A178UYF9_ARATH	CMP/dCMP-type deaminase domain-containing protein	AXX17_At4g34020	Arabidopsis thaliana (Mouse-ear cress)	251		
+,
+A0A178UZM1	unreviewed	A0A178UZM1_ARATH	CMP/dCMP-type deaminase domain-containing protein	AXX17_At4g33970 C24_LOCUS19645	Arabidopsis thaliana (Mouse-ear cress)	329		
+,
+A0A178UZN1	unreviewed	A0A178UZN1_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	AXX17_At4g26200	Arabidopsis thaliana (Mouse-ear cress)	90		
+,
+A0A178UZZ2	unreviewed	A0A178UZZ2_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	AXX17_At4g26200	Arabidopsis thaliana (Mouse-ear cress)	123		
+,
+A0A178V002	unreviewed	A0A178V002_ARATH	cytidine deaminase (EC 3.5.4.5)	AXX17_At4g34010	Arabidopsis thaliana (Mouse-ear cress)	389		
+,
+A0A178V1I0	unreviewed	A0A178V1I0_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	AXX17_At4g26200 AN1_LOCUS18981 C24_LOCUS18880	Arabidopsis thaliana (Mouse-ear cress)	183		
+,
+A0A178V1I6	unreviewed	A0A178V1I6_ARATH	cytidine deaminase (EC 3.5.4.5)	AXX17_At4g33990	Arabidopsis thaliana (Mouse-ear cress)	337		
+,
+A0A178V3X5	unreviewed	A0A178V3X5_ARATH	cytidine deaminase (EC 3.5.4.5)	AXX17_At4g33940	Arabidopsis thaliana (Mouse-ear cress)	293		
+,
+A0A178VJX9	unreviewed	A0A178VJX9_ARATH	Adenosine kinase (AK) (EC 2.7.1.20) (Adenosine 5'-phosphotransferase)	AXX17_At3g09490 AN1_LOCUS12281 AT9943_LOCUS10558 C24_LOCUS12114	Arabidopsis thaliana (Mouse-ear cress)	344		
+,
+A0A178VLA3	unreviewed	A0A178VLA3_ARATH	cytidine deaminase (EC 3.5.4.5)	AXX17_At2g14910 C24_LOCUS8165	Arabidopsis thaliana (Mouse-ear cress)	301		
+,
+A0A178W1K2	unreviewed	A0A178W1K2_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	AXX17_At1g74900 AN1_LOCUS7051	Arabidopsis thaliana (Mouse-ear cress)	192		
+,
+A0A178W2H2	unreviewed	A0A178W2H2_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	AXX17_At1g27890 AN1_LOCUS2807	Arabidopsis thaliana (Mouse-ear cress)	259		
+,
+A0A178W2J6	unreviewed	A0A178W2J6_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	AXX17_At1g27890 C24_LOCUS2712	Arabidopsis thaliana (Mouse-ear cress)	243		
+,
+A0A178WFM2	unreviewed	A0A178WFM2_ARATH	Hypoxanthine phosphoribosyltransferase (EC 2.4.2.8)	AXX17_At1g65870 AN1_LOCUS6204 AT9943_LOCUS5243 C24_LOCUS6092	Arabidopsis thaliana (Mouse-ear cress)	188		
+,
+A0A1P8AN73	unreviewed	A0A1P8AN73_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	APT2 ATAPT2 PHT1.1 At1g80050 F18B13.14 F18B13_14	Arabidopsis thaliana (Mouse-ear cress)	160	ATAPT2 PHT1.1	AT1G80050;
+,
+A0A1P8B6N4	unreviewed	A0A1P8B6N4_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	APT3 At4g22570 F7K2.150 F7K2_150	Arabidopsis thaliana (Mouse-ear cress)	105		AT4G22570;
+,
+A0A1P8B8G8	unreviewed	A0A1P8B8G8_ARATH	Phosphorylase superfamily protein	MTN2 ATMTAN2 ATMTN2 MTAN2 At4g34840 F11I11.80 F11I11_80	Arabidopsis thaliana (Mouse-ear cress)	193	ATMTAN2 ATMTN2 MTAN2	AT4G34840;
+,
+A0A1P8B8Z4	unreviewed	A0A1P8B8Z4_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	APT4 At4g12440 T1P17.30 T1P17_30	Arabidopsis thaliana (Mouse-ear cress)	96		AT4G12440;
+,
+A0A5S9WVX8	unreviewed	A0A5S9WVX8_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	C24_LOCUS6937	Arabidopsis thaliana (Mouse-ear cress)	192		
+,
+A0A5S9XX02	unreviewed	A0A5S9XX02_ARATH	CMP/dCMP-type deaminase domain-containing protein	C24_LOCUS19643	Arabidopsis thaliana (Mouse-ear cress)	298		
+,
+A0A5S9XX09	unreviewed	A0A5S9XX09_ARATH	cytidine deaminase (EC 3.5.4.5)	C24_LOCUS19642	Arabidopsis thaliana (Mouse-ear cress)	293		
+,
+A0A5S9XX26	unreviewed	A0A5S9XX26_ARATH	cytidine deaminase (EC 3.5.4.5)	C24_LOCUS19648	Arabidopsis thaliana (Mouse-ear cress)	322		
+,
+A0A5S9XX41	unreviewed	A0A5S9XX41_ARATH	CMP/dCMP-type deaminase domain-containing protein	C24_LOCUS19650	Arabidopsis thaliana (Mouse-ear cress)	251		
+,
+A0A5S9XXD9	unreviewed	A0A5S9XXD9_ARATH	cytidine deaminase (EC 3.5.4.5)	C24_LOCUS19647	Arabidopsis thaliana (Mouse-ear cress)	337		
+,
+A0A5S9XXG2	unreviewed	A0A5S9XXG2_ARATH	cytidine deaminase (EC 3.5.4.5)	C24_LOCUS19649	Arabidopsis thaliana (Mouse-ear cress)	389		
+,
+A0A5S9Y1N5	unreviewed	A0A5S9Y1N5_ARATH	Adenosine kinase (AK) (EC 2.7.1.20) (Adenosine 5'-phosphotransferase)	C24_LOCUS21020	Arabidopsis thaliana (Mouse-ear cress)	345		
+,
+A0A654EU82	unreviewed	A0A654EU82_ARATH	cytidine deaminase (EC 3.5.4.5)	AN1_LOCUS8315 AT9943_LOCUS7142	Arabidopsis thaliana (Mouse-ear cress)	301		
+,
+A0A654FTZ8	unreviewed	A0A654FTZ8_ARATH	cytidine deaminase (EC 3.5.4.5)	AN1_LOCUS19752	Arabidopsis thaliana (Mouse-ear cress)	317		
+,
+A0A654FU01	unreviewed	A0A654FU01_ARATH	CMP/dCMP-type deaminase domain-containing protein	AN1_LOCUS19750	Arabidopsis thaliana (Mouse-ear cress)	293		
+,
+A0A654FU03	unreviewed	A0A654FU03_ARATH	CMP/dCMP-type deaminase domain-containing protein	AN1_LOCUS19749	Arabidopsis thaliana (Mouse-ear cress)	307		
+,
+A0A654FU06	unreviewed	A0A654FU06_ARATH	cytidine deaminase (EC 3.5.4.5)	AN1_LOCUS19753 AT9943_LOCUS17048	Arabidopsis thaliana (Mouse-ear cress)	389		
+,
+A0A654FU18	unreviewed	A0A654FU18_ARATH	cytidine deaminase (EC 3.5.4.5)	AN1_LOCUS19751	Arabidopsis thaliana (Mouse-ear cress)	337		
+,
+A0A654FU28	unreviewed	A0A654FU28_ARATH	cytidine deaminase (EC 3.5.4.5)	AN1_LOCUS19747	Arabidopsis thaliana (Mouse-ear cress)	293		
+,
+A0A7G2DWB6	unreviewed	A0A7G2DWB6_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	At1g27450 AT9943_LOCUS2308	Arabidopsis thaliana (Mouse-ear cress)	183		
+,
+A0A7G2EA91	unreviewed	A0A7G2EA91_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	AT9943_LOCUS5974	Arabidopsis thaliana (Mouse-ear cress)	167		
+,
+A0A7G2EXG9	unreviewed	A0A7G2EXG9_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	AT9943_LOCUS15379	Arabidopsis thaliana (Mouse-ear cress)	167		
+,
+A0A7G2F048	unreviewed	A0A7G2F048_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	AT9943_LOCUS16362	Arabidopsis thaliana (Mouse-ear cress)	165		
+,
+A0A7G2F735	unreviewed	A0A7G2F735_ARATH	cytidine deaminase (EC 3.5.4.5)	AT9943_LOCUS17046	Arabidopsis thaliana (Mouse-ear cress)	337		
+,
+A0A7G2F8F1	unreviewed	A0A7G2F8F1_ARATH	cytidine deaminase (EC 3.5.4.5)	AT9943_LOCUS17047	Arabidopsis thaliana (Mouse-ear cress)	322		
+,
+A0A7G2F9T5	unreviewed	A0A7G2F9T5_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)	AT9943_LOCUS18864	Arabidopsis thaliana (Mouse-ear cress)	200		
+,
+F4K5T6	unreviewed	F4K5T6_ARATH	Cytidine/deoxycytidylate deaminase family protein	GSDA guanosine deaminase At5g28050 F15F15.120 F15F15_120	Arabidopsis thaliana (Mouse-ear cress)	204	guanosine deaminase	AT5G28050;
+,
+Q56ZW2	unreviewed	Q56ZW2_ARATH	Adenosine kinase (AK) (EC 2.7.1.20) (Adenosine 5'-phosphotransferase)	At3g09820	Arabidopsis thaliana (Mouse-ear cress)	179		
+,
+Q682L7	unreviewed	Q682L7_ARATH	Hypoxanthine phosphoribosyltransferase (EC 2.4.2.8)	At1g71750	Arabidopsis thaliana (Mouse-ear cress)	188		
+,
+Q8H0Y4	unreviewed	Q8H0Y4_ARATH	adenine phosphoribosyltransferase (EC 2.4.2.7)		Arabidopsis thaliana (Mouse-ear cress)	178		
+,
+Q8L8L7	unreviewed	Q8L8L7_ARATH	Hypoxanthine phosphoribosyltransferase (EC 2.4.2.8)	HGPT At1g71750 F14O23.13 F14O23_13	Arabidopsis thaliana (Mouse-ear cress)	188		AT1G71750;
+,
+Q9FNV6	unreviewed	Q9FNV6_ARATH	Hypoxanthine phosphoribosyltransferase (EC 2.4.2.8)	HPRT1	Arabidopsis thaliana (Mouse-ear cress)	181		
+,
+Q9LEA8	unreviewed	Q9LEA8_ARATH	cytidine deaminase (EC 3.5.4.5)	cda1	Arabidopsis thaliana (Mouse-ear cress)	237		
+,
+Q9LIN4	unreviewed	Q9LIN4_ARATH	tRNA modification 11 protein	TRM11 AtTRM11 tRNA modification 11 At3g26410	Arabidopsis thaliana (Mouse-ear cress)	477	AtTRM11 tRNA modification 11	AT3G26410;
+,
+Q9S7S2	reviewed	CDA4_ARATH	Probable inactive cytidine deaminase 4	CDA4 DESH At4g29650 T16L4.160	Arabidopsis thaliana (Mouse-ear cress)	251	DESH	AT4G29650;
+,
+Q9SPU8	unreviewed	Q9SPU8_ARATH	cytidine deaminase (EC 3.5.4.5)	cda1	Arabidopsis thaliana (Mouse-ear cress)	288		
+,
+A0A178UVP0	unreviewed	A0A178UVP0_ARATH	Nucleoside phosphorylase domain-containing protein	AXX17_At4g28220	Arabidopsis thaliana (Mouse-ear cress)	293		
+,
+A0A178UWX7	unreviewed	A0A178UWX7_ARATH	Nucleoside phosphorylase domain-containing protein	AXX17_At4g28220	Arabidopsis thaliana (Mouse-ear cress)	336		
+,
+A0A178UXV8	unreviewed	A0A178UXV8_ARATH	(thale cress) hypothetical protein (MTN1)	AXX17_At4g44120 AN1_LOCUS20741 AT9943_LOCUS17882	Arabidopsis thaliana (Mouse-ear cress)	267		
+,
+A0A178V122	unreviewed	A0A178V122_ARATH	Nucleoside phosphorylase domain-containing protein	AXX17_At4g28210 AN1_LOCUS19175 C24_LOCUS19075	Arabidopsis thaliana (Mouse-ear cress)	339		
+,
+A0A178V169	unreviewed	A0A178V169_ARATH	(thale cress) hypothetical protein (MTN2)	AXX17_At4g39820 AN1_LOCUS20323 AT9943_LOCUS17527 C24_LOCUS20217	Arabidopsis thaliana (Mouse-ear cress)	254		
+,
+A0A178V3P4	unreviewed	A0A178V3P4_ARATH	Nucleoside phosphorylase domain-containing protein	At4g28940 AXX17_At4g33280 AN1_LOCUS19682 C24_LOCUS19575	Arabidopsis thaliana (Mouse-ear cress)	348		
+,
+A0A1P8B6Q4	unreviewed	A0A1P8B6Q4_ARATH	Phosphorylase superfamily protein	At4g24350 T22A6.180 T22A6_180	Arabidopsis thaliana (Mouse-ear cress)	199		AT4G24350;
+,
+A0A1P8B6Q8	unreviewed	A0A1P8B6Q8_ARATH	Phosphorylase superfamily protein	At4g24350 T22A6.180 T22A6_180	Arabidopsis thaliana (Mouse-ear cress)	225		AT4G24350;
+,
+A0A1P8B8G4	unreviewed	A0A1P8B8G4_ARATH	Phosphorylase superfamily protein	MTN2 ATMTAN2 ATMTN2 MTAN2 At4g34840 F11I11.80 F11I11_80	Arabidopsis thaliana (Mouse-ear cress)	233	ATMTAN2 ATMTN2 MTAN2	AT4G34840;
+,
+A0A1P8B8H6	unreviewed	A0A1P8B8H6_ARATH	Phosphorylase superfamily protein	MTN2 ATMTAN2 ATMTN2 MTAN2 At4g34840 F11I11.80 F11I11_80	Arabidopsis thaliana (Mouse-ear cress)	204	ATMTAN2 ATMTN2 MTAN2	AT4G34840;
+,
+A0A1P8B8I4	unreviewed	A0A1P8B8I4_ARATH	Phosphorylase superfamily protein	At4g28940 F25O24.60 F25O24_60	Arabidopsis thaliana (Mouse-ear cress)	256		AT4G28940;
+,
+A0A5S9XZW6	unreviewed	A0A5S9XZW6_ARATH	Nucleoside phosphorylase domain-containing protein	C24_LOCUS20638	Arabidopsis thaliana (Mouse-ear cress)	267		
+,
+A0A654FSB3	unreviewed	A0A654FSB3_ARATH	Nucleoside phosphorylase domain-containing protein	AN1_LOCUS19176 C24_LOCUS19076	Arabidopsis thaliana (Mouse-ear cress)	336		
+,
+A0A654FUG4	unreviewed	A0A654FUG4_ARATH	(thale cress) hypothetical protein	AN1_LOCUS19754 AT9943_LOCUS17049	Arabidopsis thaliana (Mouse-ear cress)	251		
+,
+A0A7G2F0J1	unreviewed	A0A7G2F0J1_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS16537	Arabidopsis thaliana (Mouse-ear cress)	625		
+,
+A0A7G2F1T2	unreviewed	A0A7G2F1T2_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS16993	Arabidopsis thaliana (Mouse-ear cress)	348		
+,
+A0A7G2F1X5	unreviewed	A0A7G2F1X5_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS17043	Arabidopsis thaliana (Mouse-ear cress)	429		
+,
+A0A7G2F3E3	unreviewed	A0A7G2F3E3_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS17042	Arabidopsis thaliana (Mouse-ear cress)	293		
+,
+A0A7G2F4M4	unreviewed	A0A7G2F4M4_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS17045	Arabidopsis thaliana (Mouse-ear cress)	590		
+,
+C0Z287	unreviewed	C0Z287_ARATH	AT4G24350 protein	At4g24350	Arabidopsis thaliana (Mouse-ear cress)	192		AT4G24350;
+,
+F4JM51	unreviewed	F4JM51_ARATH	Phosphorylase superfamily protein	At4g28940 F25O24.60 F25O24_60	Arabidopsis thaliana (Mouse-ear cress)	348		AT4G28940;
+,
+F4JNN8	unreviewed	F4JNN8_ARATH	Cytidine/deoxycytidylate deaminase family protein	At4g29580 T16L4.90 T16L4_90	Arabidopsis thaliana (Mouse-ear cress)	445		AT4G29580;
+,
+F4JQV8	unreviewed	F4JQV8_ARATH	Phosphorylase superfamily protein	At4g24350 T22A6.180 T22A6_180	Arabidopsis thaliana (Mouse-ear cress)	293		AT4G24350;
+,
+Q67XV5	unreviewed	Q67XV5_ARATH	Uncharacterized protein At4g24350	At4g24350	Arabidopsis thaliana (Mouse-ear cress)	313		
+,
+Q84WA4	unreviewed	Q84WA4_ARATH	Putative cytidine deaminase	At4g29570	Arabidopsis thaliana (Mouse-ear cress)	134		
+,
+Q8GW53	unreviewed	Q8GW53_ARATH	At4g24340 (Phosphorylase superfamily protein)	At4g24340 At4g24340/T22A6_170 T22A6.170 T22A6_170	Arabidopsis thaliana (Mouse-ear cress)	338		AT4G24340;
+,
+Q8L945	unreviewed	Q8L945_ARATH	Nucleoside phosphorylase domain-containing protein		Arabidopsis thaliana (Mouse-ear cress)	338		
+,
+Q8LA48	unreviewed	Q8LA48_ARATH	Nucleoside phosphorylase domain-containing protein		Arabidopsis thaliana (Mouse-ear cress)	336		
+,
+Q94K59	unreviewed	Q94K59_ARATH	Phosphorylase superfamily protein	At4g24350 T22A6.180 T22A6_180	Arabidopsis thaliana (Mouse-ear cress)	336		AT4G24350;
+,
+Q9STV8	unreviewed	Q9STV8_ARATH	Uncharacterized protein AT4g24360 (Uncharacterized protein T22A6.190)	T22A6.190 At4g24360	Arabidopsis thaliana (Mouse-ear cress)	111		AT4G24350;
+,
+Q9STV9	unreviewed	Q9STV9_ARATH	Uncharacterized protein AT4g24350 (Uncharacterized protein T22A6.180)	T22A6.180 At4g24350	Arabidopsis thaliana (Mouse-ear cress)	232		AT4G24350;
+,
+Q9STW0	unreviewed	Q9STW0_ARATH	Uncharacterized protein AT4g24340 (Uncharacterized protein T22A6.170)	T22A6.170 At4g24340	Arabidopsis thaliana (Mouse-ear cress)	329		
+,
+Q9SV52	unreviewed	Q9SV52_ARATH	At4g28940	At4g28940	Arabidopsis thaliana (Mouse-ear cress)	95		AT4G28940;

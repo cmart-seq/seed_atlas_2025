@@ -1,0 +1,17 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length	Gene Names (synonym)	TAIR
+A8R7E6	reviewed	CERK1_ARATH	Chitin elicitor receptor kinase 1 (AtCERK1) (EC 2.7.11.1) (LysM domain receptor-like kinase 1) (LysM RLK1) (LysM-containing receptor-like kinase 1)	CERK1 LYK1 RLK1 At3g21630 MIL23.20	Arabidopsis thaliana (Mouse-ear cress)	617	LYK1 RLK1	AT3G21630;
+O64763	reviewed	ATL9_ARATH	E3 ubiquitin-protein ligase ATL9 (EC 2.3.2.27) (RING-H2 finger protein ATL9) (RING-type E3 ubiquitin transferase ATL9)	ATL9 At2g35000 F19I3.23	Arabidopsis thaliana (Mouse-ear cress)	378		AT2G35000;
+O64825	reviewed	LYK4_ARATH	LysM domain receptor-like kinase 4 (LysM-containing receptor-like kinase 4) (EC 2.7.11.1)	LYK4 At2g23770 F27L4.5	Arabidopsis thaliana (Mouse-ear cress)	612		AT2G23770;
+Q1PDV6	reviewed	PBL27_ARATH	Serine/threonine-protein kinase PBL27 (EC 2.7.11.1) (PBS1-like protein 27) (Receptor-like cytoplasmic kinase PBL27)	PBL27 At5g18610 T28N17.90	Arabidopsis thaliana (Mouse-ear cress)	513		AT5G18610;
+Q39023	reviewed	MPK3_ARATH	Mitogen-activated protein kinase 3 (AtMPK3) (MAP kinase 3) (EC 2.7.11.24)	MPK3 At3g45640 F9K21.220 T6D9.4	Arabidopsis thaliana (Mouse-ear cress)	370		AT3G45640;
+Q42410	reviewed	ZAT12_ARATH	Zinc finger protein ZAT12 (Protein RESPONSIVE TO HIGH LIGHT 41)	ZAT12 RHL41 At5g59820 MMN10.11	Arabidopsis thaliana (Mouse-ear cress)	162	RHL41	AT5G59820;
+Q96289	reviewed	ZAT10_ARATH	Zinc finger protein ZAT10 (Salt-tolerance zinc finger)	ZAT10 STZ At1g27730 T22C5.18	Arabidopsis thaliana (Mouse-ear cress)	227	STZ	AT1G27730;
+Q9C8I6	reviewed	IOS1_ARATH	LRR receptor-like serine/threonine-protein kinase IOS1 (EC 2.7.11.-) (Protein IMPAIRED OOMYCETE SUSCEPTIBILITY 1)	IOS1 At1g51800 F19C24.3	Arabidopsis thaliana (Mouse-ear cress)	894		AT1G51800;
+Q9XIE2	reviewed	AB36G_ARATH	ABC transporter G family member 36 (ABC transporter ABCG.36) (AtABCG36) (Pleiotropic drug resistance protein 8) (AtPDR8) (Protein PENETRATION 3)	ABCG36 PDR8 PEN3 At1g59870 F23H11.19	Arabidopsis thaliana (Mouse-ear cress)	1469	PDR8 PEN3	AT1G59870;
+O22808	reviewed	LYK5_ARATH	Protein LYK5 (LysM domain receptor-like kinase 5) (LysM-containing receptor-like kinase 5)	LYK5 At2g33580 F4P9.35	Arabidopsis thaliana (Mouse-ear cress)	664		AT2G33580;
+Q7FZR1	reviewed	RLP52_ARATH	Receptor-like protein 52 (AtRLP52)	RLP52 At5g25910 T1N24.21	Arabidopsis thaliana (Mouse-ear cress)	811		AT5G25910;
+Q9LJR2	reviewed	LECT2_ARATH	Lectin-like protein LEC (AtLEC) (Ath.lec2)	LEC At3g15356 K7L4.17	Arabidopsis thaliana (Mouse-ear cress)	271		AT3G15356;
+Q9XF92	reviewed	BRH1_ARATH	Brassinosteroid-responsive RING protein 1	BRH1 At3g61460 F2A19.60	Arabidopsis thaliana (Mouse-ear cress)	170		AT3G61460;
+Q9LK72	reviewed	LECT5_ARATH	Lectin-like protein At3g16530	At3g16530 MDC8.16	Arabidopsis thaliana (Mouse-ear cress)	276		AT3G16530;
+Q9FJG5	unreviewed	Q9FJG5_ARATH	CHP-rich zinc finger protein-like (Cysteine/Histidine-rich C1 domain family protein)	MCM23.3 MCM23_3 At5g17960	Arabidopsis thaliana (Mouse-ear cress)	599	MCM23_3	AT5G17960;
+Q9SKP2	unreviewed	Q9SKP2_ARATH	At2g21210 (Putative auxin-regulated protein) (SAUR-like auxin-responsive protein family)	SAUR6 SMALL AUXIN UPREGULATED RNA 6 At2g21210 F26H11.3 F26H11_3	Arabidopsis thaliana (Mouse-ear cress)	98	SMALL AUXIN UPREGULATED RNA 6	AT2G21210;

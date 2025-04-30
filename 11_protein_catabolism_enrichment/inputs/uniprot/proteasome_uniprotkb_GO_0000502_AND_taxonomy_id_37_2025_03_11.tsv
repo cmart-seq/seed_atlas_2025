@@ -1,0 +1,245 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length	Gene Names (synonym)	TAIR
+O04019	reviewed	PS6AB_ARATH	26S proteasome regulatory subunit 6A homolog B (26S proteasome AAA-ATPase subunit RPT5b) (Proteasome 26S subunit 6A homolog B) (Regulatory particle triple-A ATPase subunit 5b) (Tat-binding protein 1 homolog B) (TBP-1 homolog B)	RPT5B TBP1 At1g09100 F7G19.2	Arabidopsis thaliana (Mouse-ear cress)	423	TBP1	AT1G09100;
+O23710	reviewed	PSB7A_ARATH	Proteasome subunit beta type-7-A (EC 3.4.25.1) (20S proteasome beta subunit B-1) (Proteasome component FA) (Proteasome component FB) (Proteasome subunit beta type-2)	PBB1 PRCFA PRCFB At3g27430 K1G2.15	Arabidopsis thaliana (Mouse-ear cress)	273	PRCFA PRCFB	AT3G27430;
+O23712	reviewed	PSA1B_ARATH	Proteasome subunit alpha type-1-B (20S proteasome alpha subunit F-2) (Proteasome component 2B) (Proteasome subunit alpha type-6)	PAF2 PRC2B PRS1 At1g47250 F8G22.3	Arabidopsis thaliana (Mouse-ear cress)	277	PRC2B PRS1	AT1G47250;
+O23715	reviewed	PSA3_ARATH	Proteasome subunit alpha type-3 (20S proteasome alpha subunit G-1) (DiDi 17A-2a) (Proteasome component 8) (Proteasome subunit alpha type-7)	PAG1 PRC8 At2g27020 T20P8.7	Arabidopsis thaliana (Mouse-ear cress)	249	PRC8	AT2G27020;
+O24412	reviewed	PSD7A_ARATH	26S proteasome non-ATPase regulatory subunit 7 homolog A (26S proteasome regulatory subunit RPN8a) (AtRPN8a) (Protein ASYMMETRIC LEAVES ENHANCER 3) (Protein MOV34) (AtMOV34)	RPN8A AE3 MOV34 At5g05780 MJJ3.19	Arabidopsis thaliana (Mouse-ear cress)	308	AE3 MOV34	AT5G05780;
+O81148	reviewed	PSA4A_ARATH	Proteasome subunit alpha type-4-A (20S proteasome alpha subunit C-1) (Proteasome 27 kDa subunit) (Proteasome component 9) (Proteasome subunit alpha type-3)	PAC1 PRC9 PRS1 At3g22110 MKA23.2	Arabidopsis thaliana (Mouse-ear cress)	250	PRC9 PRS1	AT3G22110;
+O81149	reviewed	PSA5A_ARATH	Proteasome subunit alpha type-5-A (20S proteasome alpha subunit E-1)	PAE1 At1g53850 T18A20.8	Arabidopsis thaliana (Mouse-ear cress)	237		AT1G53850;
+P30186	reviewed	PSA7A_ARATH	Proteasome subunit alpha type-7-A (20S proteasome alpha subunit D-1) (Proteasome component 6A) (Proteasome subunit alpha type-4) (TAS-G64)	PAD1 PRC6A At3g51260 F24M12.300	Arabidopsis thaliana (Mouse-ear cress)	250	PRC6A	AT3G51260;
+P34066	reviewed	PSA1A_ARATH	Proteasome subunit alpha type-1-A (20S proteasome alpha subunit F-1) (Proteasome 30 kDa subunit) (Proteasome component 2A) (AtPSM30) (Proteasome subunit alpha type-6) (Protein ARSENIC TOLERANCE 5)	PAF1 ARS5 PRC2A PRS1 PSM30 At5g42790 MJB21.17	Arabidopsis thaliana (Mouse-ear cress)	278	ARS5 PRC2A PRS1 PSM30	AT5G42790;
+P42742	reviewed	PSB1_ARATH	Proteasome subunit beta type-1 (20S proteasome beta subunit F-1) (Proteasome component 5) (Proteasome subunit beta type-6) (TAS-F22/FAFP98) (TAS-G39.20)	PBF1 PRC5 At3g60820 T4C21_230	Arabidopsis thaliana (Mouse-ear cress)	223	PRC5	AT3G60820;
+P55034	reviewed	PSMD4_ARATH	26S proteasome non-ATPase regulatory subunit 4 homolog (26S proteasome regulatory subunit RPN10) (AtRPN10) (26S proteasome regulatory subunit S5A homolog) (Multiubiquitin chain-binding protein 1) (AtMCB1)	RPN10 MBP1 MCB1 At4g38630 F20M13.190 T9A14.7	Arabidopsis thaliana (Mouse-ear cress)	386	MBP1 MCB1	AT4G38630;
+Q42134	reviewed	PSA5B_ARATH	Proteasome subunit alpha type-5-B (20S proteasome alpha subunit E-2) (Proteasome component Z)	PAE2 PRCZ At3g14290 MLN21.8	Arabidopsis thaliana (Mouse-ear cress)	237	PRCZ	AT3G14290;
+Q8VWK0	reviewed	PS12B_ARATH	26S proteasome non-ATPase regulatory subunit 12 homolog B (26S proteasome regulatory subunit RPN5b) (AtRPN5b) (26S proteasome regulatory subunit p55 homolog B)	RPN5B At5g64760 MVP7.9	Arabidopsis thaliana (Mouse-ear cress)	442		AT5G64760;
+Q9C5Z3	reviewed	EIF3E_ARATH	Eukaryotic translation initiation factor 3 subunit E (AtEIF3E-1) (eIF3e) (p48) (Eukaryotic translation initiation factor 3 subunit 6) (AtINT6) (INT-6)	TIF3E1 INT6 At3g57290 F28O9.140	Arabidopsis thaliana (Mouse-ear cress)	441	INT6	AT3G57290;
+Q9SEI2	reviewed	PS6AA_ARATH	26S proteasome regulatory subunit 6A homolog A (26S proteasome AAA-ATPase subunit RPT5a) (Proteasome 26S subunit 6A homolog A) (Regulatory particle triple-A ATPase subunit 5a) (Tat-binding protein 1 homolog A) (TBP-1 homolog A)	RPT5A ATS6A.2 TBP1 At3g05530 F22F7.1	Arabidopsis thaliana (Mouse-ear cress)	424	ATS6A.2 TBP1	AT3G05530;
+Q9SGW3	reviewed	PSD8A_ARATH	26S proteasome non-ATPase regulatory subunit 8 homolog A (26S proteasome regulatory subunit RPN12a) (AtRPN12a) (26S proteasome regulatory subunit S14 homolog A)	RPN12A At1g64520 F1N19.9	Arabidopsis thaliana (Mouse-ear cress)	267		AT1G64520;
+Q9SIV2	reviewed	PSD2A_ARATH	26S proteasome non-ATPase regulatory subunit 2 homolog A (26S proteasome regulatory subunit RPN1a) (AtRPN1a) (26S proteasome regulatory subunit S2 homolog A)	RPN1A At2g20580 F23N11.10	Arabidopsis thaliana (Mouse-ear cress)	891		AT2G20580;
+Q9SL67	reviewed	PRS4B_ARATH	26S proteasome regulatory subunit 4 homolog B (26S proteasome AAA-ATPase subunit RPT2b) (26S proteasome subunit 4 homolog B) (Regulatory particle triple-A ATPase subunit 2b)	RPT2B At2g20140 T2G17.6	Arabidopsis thaliana (Mouse-ear cress)	443		AT2G20140;
+Q9SZD4	reviewed	PRS4A_ARATH	26S proteasome regulatory subunit 4 homolog A (26S proteasome AAA-ATPase subunit RPT2a) (26S proteasome subunit 4 homolog A) (Protein HALTED ROOT) (Regulatory particle triple-A ATPase subunit 2a)	RPT2A HLR At4g29040 F19B15.70 F25O24.6	Arabidopsis thaliana (Mouse-ear cress)	443	HLR	AT4G29040;
+F4JRY2	unreviewed	F4JRY2_ARATH	Proteasome subunit beta	PBA1 20S PROTEASOME SUBUNIT PBA1 At4g31300 F8F16.120 F8F16_120	Arabidopsis thaliana (Mouse-ear cress)	234	20S PROTEASOME SUBUNIT PBA1	AT4G31300;
+O23708	reviewed	PSA2A_ARATH	Proteasome subunit alpha type-2-A (20S proteasome alpha subunit B-1) (Proteasome component 3)	PAB1 PRC3 At1g16470 F3O9.27	Arabidopsis thaliana (Mouse-ear cress)	235	PRC3	AT1G16470;
+O23714	reviewed	PSB2A_ARATH	Proteasome subunit beta type-2-A (20S proteasome beta subunit D-1) (Proteasome component GB) (Proteasome subunit beta type-4)	PBD1 PRCGB At3g22630 F16J14.18	Arabidopsis thaliana (Mouse-ear cress)	204	PRCGB	AT3G22630;
+O23717	reviewed	PSB5A_ARATH	Proteasome subunit beta type-5-A (EC 3.4.25.1) (20S proteasome beta subunit E-1) (Proteasome component E) (Proteasome epsilon-1 chain)	PBE1 PRCE At1g13060 F3F19.8	Arabidopsis thaliana (Mouse-ear cress)	274	PRCE	AT1G13060;
+O24616	reviewed	PSA7B_ARATH	Proteasome subunit alpha type-7-B (20S proteasome alpha subunit D-2) (Proteasome component 6B) (Proteasome component 6C) (Proteasome subunit alpha type-4)	PAD2 PRC6B PRC6C PRS1 At5g66140 K2A18.22	Arabidopsis thaliana (Mouse-ear cress)	250	PRC6B PRC6C PRS1	AT5G66140;
+O24633	reviewed	PSB2B_ARATH	Proteasome subunit beta type-2-B (20S proteasome beta subunit D-2) (Proteasome component GA) (Proteasome subunit beta type-4)	PBD2 PRCGA At4g14800 dl3440w FCAALL.135	Arabidopsis thaliana (Mouse-ear cress)	199	PRCGA	AT4G14800;
+O48726	reviewed	RPN13_ARATH	26S proteasome regulatory subunit RPN13 (AtRPN13) (26S proteasome non-ATPase regulatory subunit 13)	RPN13 At2g26590 T9J22.26	Arabidopsis thaliana (Mouse-ear cress)	300		AT2G26590;
+O81146	reviewed	PSA6A_ARATH	Proteasome subunit alpha type-6-A (20S proteasome subunit alpha A-1) (Proteasome component 1) (Proteasome subunit alpha type-1)	PAA1 PRC1 At5g35590 K2K18.4	Arabidopsis thaliana (Mouse-ear cress)	246	PRC1	AT5G35590;
+O81147	reviewed	PSA6B_ARATH	Proteasome subunit alpha type-6-B (20S proteasome subunit alpha A-2) (Proteasome subunit alpha type-1)	PAA2 At2g05840 T6P5.4	Arabidopsis thaliana (Mouse-ear cress)	246		AT2G05840;
+Q6XJG8	reviewed	PSD2B_ARATH	26S proteasome non-ATPase regulatory subunit 2 homolog B (26S proteasome regulatory subunit RPN1b) (AtRPN1b) (26S proteasome regulatory subunit S2 homolog B)	RPN1B At4g28470 F20O9.150	Arabidopsis thaliana (Mouse-ear cress)	891		AT4G28470;
+Q7DLR9	reviewed	PSB4_ARATH	Proteasome subunit beta type-4 (20S proteasome beta subunit G-1) (Proteasome component H) (Proteasome subunit beta type-7)	PBG1 PRCH At1g56450 F13N6.3	Arabidopsis thaliana (Mouse-ear cress)	246	PRCH	AT1G56450;
+Q7DLS1	reviewed	PSB7B_ARATH	Proteasome subunit beta type-7-B (EC 3.4.25.1) (20S proteasome beta subunit B-2) (Proteasome component FC) (Proteasome subunit beta type-2)	PBB2 PRCFC At5g40580 MNF13.10	Arabidopsis thaliana (Mouse-ear cress)	274	PRCFC	AT5G40580;
+Q8LD27	reviewed	PSB6_ARATH	Proteasome subunit beta type-6 (EC 3.4.25.1) (20S proteasome beta subunit A-1) (Proteasome component D) (Proteasome subunit beta type-1)	PBA1 PRCD At4g31300 F8F16.120	Arabidopsis thaliana (Mouse-ear cress)	233	PRCD	AT4G31300;
+Q8W4N3	reviewed	UBP2_ARATH	Ubiquitin carboxyl-terminal hydrolase 2 (EC 3.4.19.12) (Deubiquitinating enzyme 2) (AtUBP2) (Ubiquitin thioesterase 2) (Ubiquitin-specific-processing protease 2)	UBP2 At1g04860 F13M7.15	Arabidopsis thaliana (Mouse-ear cress)	961		AT1G04860;
+Q93Y35	reviewed	PSMD6_ARATH	26S proteasome non-ATPase regulatory subunit 6 homolog (26S proteasome regulatory subunit RPN7) (AtRPN7) (26S proteasome regulatory subunit S10 homolog)	RPN7 At4g24820 F6I7.30	Arabidopsis thaliana (Mouse-ear cress)	387		AT4G24820;
+Q94BQ2	reviewed	PRS8B_ARATH	26S proteasome regulatory subunit 8 homolog B (26S proteasome AAA-ATPase subunit RPT6b) (26S proteasome subunit 8 homolog B) (Regulatory particle triple-A ATPase subunit 6b)	RPT6B SUG1 At5g20000 F28I16.150	Arabidopsis thaliana (Mouse-ear cress)	419	SUG1	AT5G20000;
+Q9C5U3	reviewed	PRS8A_ARATH	26S proteasome regulatory subunit 8 homolog A (26S proteasome AAA-ATPase subunit RPT6a) (26S proteasome subunit 8 homolog A) (Regulatory particle triple-A ATPase subunit 6a)	RPT6A SUG1 At5g19990 F28I16.140	Arabidopsis thaliana (Mouse-ear cress)	419	SUG1	AT5G19990;
+Q9C774	reviewed	PSD7B_ARATH	26S proteasome non-ATPase regulatory subunit 7 homolog B (26S proteasome regulatory subunit RPN8b) (AtRPN8b) (Protein MATERNAL EFFECT EMBRYO ARREST 34)	RPN8B MEE34 At3g11270 F11B9.19	Arabidopsis thaliana (Mouse-ear cress)	310	MEE34	AT3G11270;
+Q9FIB6	reviewed	PS12A_ARATH	26S proteasome non-ATPase regulatory subunit 12 homolog A (26S proteasome regulatory subunit RPN5a) (AtRPN5a) (26S proteasome regulatory subunit p55 homolog A) (Protein EMBRYO DEFECTIVE 2107) (Protein MARIPOSA)	RPN5A EMB2107 MSA At5g09900 MYH9.11	Arabidopsis thaliana (Mouse-ear cress)	442	EMB2107 MSA	AT5G09900;
+Q9LIP2	reviewed	PSB5B_ARATH	Proteasome subunit beta type-5-B (EC 3.4.25.1) (20S proteasome beta subunit E-2) (Proteasome epsilon-2 chain)	PBE2 At3g26340 F20C19.6	Arabidopsis thaliana (Mouse-ear cress)	273		AT3G26340;
+Q9LNU4	reviewed	PSD3A_ARATH	26S proteasome non-ATPase regulatory subunit 3 homolog A (26S proteasome regulatory subunit RPN3a) (AtRPN3a) (26S proteasome regulatory subunit S3 homolog A) (Protein EMBRYO DEFECTIVE 2719) (Protein HAPLESS 15)	RPN3A EMB2719 HAP15 At1g20200 T20H2.3	Arabidopsis thaliana (Mouse-ear cress)	488	EMB2719 HAP15	AT1G20200;
+Q9LP45	reviewed	PSD11_ARATH	26S proteasome non-ATPase regulatory subunit 11 homolog (19S proteosome subunit 9) (AtS9) (26S proteasome regulatory subunit RPN6) (AtRPN6) (26S proteasome regulatory subunit S9 homolog)	RPN6 ATS9 RPN6A At1g29150 F28N24.15	Arabidopsis thaliana (Mouse-ear cress)	419	ATS9 RPN6A	AT1G29150;
+Q9LQR8	reviewed	PSD3B_ARATH	26S proteasome non-ATPase regulatory subunit 3 homolog B (26S proteasome regulatory subunit RPN3b) (AtRPN3b) (26S proteasome regulatory subunit S3 homolog B)	RPN3B At1g75990 T4O12.21	Arabidopsis thaliana (Mouse-ear cress)	487		AT1G75990;
+Q9LT08	reviewed	PSDE_ARATH	26S proteasome non-ATPase regulatory subunit 14 homolog (EC 3.4.19.-) (26S proteasome regulatory subunit RPN11) (AtRPN11)	RPN11 At5g23540 MQM1.19	Arabidopsis thaliana (Mouse-ear cress)	308		AT5G23540;
+Q9MAK9	reviewed	PS10B_ARATH	26S proteasome regulatory subunit S10B homolog B (26S proteasome AAA-ATPase subunit RPT4b) (26S proteasome subunit S10B homolog B) (Regulatory particle triple-A ATPase subunit 4b)	RPT4B At1g45000 F27F5.8	Arabidopsis thaliana (Mouse-ear cress)	399		AT1G45000;
+Q9MAT0	reviewed	PSD1B_ARATH	26S proteasome non-ATPase regulatory subunit 1 homolog B (26S proteasome regulatory subunit RPN2b) (AtRPN2b) (26S proteasome regulatory subunit S1 homolog B)	RPN2B At1g04810 F13M7.20	Arabidopsis thaliana (Mouse-ear cress)	1001		AT1G04810;
+Q9SEI3	reviewed	PS10A_ARATH	26S proteasome regulatory subunit 10B homolog A (26S proteasome AAA-ATPase subunit RPT4a) (26S proteasome subunit 10B homolog A) (Regulatory particle triple-A ATPase subunit 4a)	RPT4A At5g43010 MBD2.21	Arabidopsis thaliana (Mouse-ear cress)	399		AT5G43010;
+Q9SEI4	reviewed	PRS6B_ARATH	26S proteasome regulatory subunit 6B homolog (26S protease subunit 6B homolog) (26S proteasome AAA-ATPase subunit RPT3) (Protein BMAA insensitive morphology 409) (Regulatory particle triple-A ATPase subunit 3)	RPT3 BIM409 At5g58290 MCK7.16	Arabidopsis thaliana (Mouse-ear cress)	408	BIM409	AT5G58290;
+Q9SSB4	reviewed	PRS7B_ARATH	26S proteasome regulatory subunit 7 homolog B (26S proteasome AAA-ATPase subunit RPT1b) (26S proteasome subunit 7 homolog B) (Regulatory particle triple-A ATPase subunit 1b)	RPT1B At1g53780 T18A20.2	Arabidopsis thaliana (Mouse-ear cress)	464		AT1G53780;
+Q9SSB5	reviewed	PRS7A_ARATH	26S proteasome regulatory subunit 7 homolog A (26S proteasome AAA-ATPase subunit RPT1a) (26S proteasome subunit 7 homolog A) (Regulatory particle triple-A ATPase subunit 1a)	RPT1A At1g53750 F22G10.2 T18A20.1	Arabidopsis thaliana (Mouse-ear cress)	426		AT1G53750;
+Q9XI05	reviewed	PSB3A_ARATH	Proteasome subunit beta type-3-A (20S proteasome beta subunit C-1) (Proteasome component T)	PBC1 PRCT At1g21720 F8K7.15	Arabidopsis thaliana (Mouse-ear cress)	204	PRCT	AT1G21720;
+A0A7G2EPP1	unreviewed	A0A7G2EPP1_ARATH	Uridine kinase (EC 2.7.1.48)	AT9943_LOCUS12204	Arabidopsis thaliana (Mouse-ear cress)	727		
+B3H6B0	unreviewed	B3H6B0_ARATH	26S proteasome regulatory subunit, putative (RPN5)	EMB2107 EMBRYO DEFECTIVE 2107 MARIPOSA MSA MYH9.11 MYH9_11 RPN5A At5g09900	Arabidopsis thaliana (Mouse-ear cress)	462	EMBRYO DEFECTIVE 2107 MARIPOSA MSA MYH9.11 MYH9_11 RPN5A	AT5G09900;
+F4JC97	reviewed	PSME4_ARATH	Proteasome activator subunit 4 (Proteasome activator PA200)	PA200 At3g13330 MDC11.16	Arabidopsis thaliana (Mouse-ear cress)	1811		AT3G13330;
+F4JIF9	unreviewed	F4JIF9_ARATH	Proteasome subunit beta	PBD2 20S proteasome beta subunit D2 DL3440W At4g14800 FCAALL.135	Arabidopsis thaliana (Mouse-ear cress)	215	20S proteasome beta subunit D2 DL3440W	AT4G14800;
+F4JJE5	reviewed	PSA4B_ARATH	Putative proteasome subunit alpha type-4-B (20S proteasome alpha subunit C-2) (Proteasome subunit alpha type-3)	PAC2 At4g15165 dl3625w FCAALL.211	Arabidopsis thaliana (Mouse-ear cress)	208		AT4G15165;
+O48844	reviewed	PSD1A_ARATH	26S proteasome non-ATPase regulatory subunit 1 homolog A (26S proteasome regulatory subunit RPN2a) (AtRPN2a) (26S proteasome regulatory subunit S1 homolog A)	RPN2A At2g32730 F24L7.13	Arabidopsis thaliana (Mouse-ear cress)	1004		AT2G32730;
+O81153	reviewed	PSB3B_ARATH	Proteasome subunit beta type-3-B (20S proteasome beta subunit C-2)	PBC2 At1g77440 T5M16.3	Arabidopsis thaliana (Mouse-ear cress)	204		AT1G77440;
+Q8GYA6	reviewed	PS13B_ARATH	26S proteasome non-ATPase regulatory subunit 13 homolog B (26S proteasome regulatory subunit RPN9b) (AtRNP9b) (26S proteasome regulatory subunit S11 homolog B)	RPN9B At4g19006 F13C5.4	Arabidopsis thaliana (Mouse-ear cress)	386		AT4G19006;
+Q8L4A7	reviewed	PSA2B_ARATH	Proteasome subunit alpha type-2-B (20S proteasome alpha subunit B-2)	PAB2 At1g79210 YUP8H12R.19	Arabidopsis thaliana (Mouse-ear cress)	235		AT1G79210;
+Q8RWF0	reviewed	PS13A_ARATH	26S proteasome non-ATPase regulatory subunit 13 homolog A (26S proteasome regulatory subunit RPN9a) (AtRNP9a) (26S proteasome regulatory subunit S11 homolog A)	RPN9A At5g45620 MRA19.2	Arabidopsis thaliana (Mouse-ear cress)	386		AT5G45620;
+Q9FHY0	reviewed	PSD8B_ARATH	Putative 26S proteasome non-ATPase regulatory subunit 8 homolog B (26S proteasome regulatory subunit RPN12b) (AtRPN12b) (26S proteasome regulatory subunit S14 homolog B)	RPN12B At5g42040 MJC20.14	Arabidopsis thaliana (Mouse-ear cress)	233		AT5G42040;
+Q9FL96	reviewed	SEM12_ARATH	Protein DSS1 HOMOLOG ON CHROMOSOME V (AtDSS1(V)) (Probable 26S proteasome complex subunit sem1-2)	DSS1(V) At5g45010 K21C13.20	Arabidopsis thaliana (Mouse-ear cress)	73		AT5G45010;
+Q9M330	reviewed	PSMF1_ARATH	Probable proteasome inhibitor	At3g53970 F5K20_270	Arabidopsis thaliana (Mouse-ear cress)	302		AT3G53970;
+Q9XIR8	reviewed	SEM11_ARATH	Protein DELETION OF SUV3 SUPPRESSOR 1(I) (AtDSS1(I)) (Probable 26S proteasome complex subunit sem1-1)	DSS1(I) At1g64750 F13O11.6	Arabidopsis thaliana (Mouse-ear cress)	74		AT1G64750;
+A0A178U8E1	unreviewed	A0A178U8E1_ARATH	Proteasome subunit alpha type	AXX17_At5g32760 AN1_LOCUS23737 C24_LOCUS23586	Arabidopsis thaliana (Mouse-ear cress)	246		
+A0A178U901	unreviewed	A0A178U901_ARATH	AAA+ ATPase domain-containing protein	AXX17_At5g19950 AN1_LOCUS22800 C24_LOCUS22685	Arabidopsis thaliana (Mouse-ear cress)	419		
+A0A178UFX8	unreviewed	A0A178UFX8_ARATH	Proteasome subunit alpha type	AXX17_At5g40700 C24_LOCUS24294	Arabidopsis thaliana (Mouse-ear cress)	278		
+A0A178UKG7	unreviewed	A0A178UKG7_ARATH	Proteasome subunit beta	AXX17_At5g38300 AN1_LOCUS24230 C24_LOCUS24053	Arabidopsis thaliana (Mouse-ear cress)	274		
+A0A178UMI1	unreviewed	A0A178UMI1_ARATH	Proteasome subunit alpha type	AXX17_At5g66070 C24_LOCUS26773	Arabidopsis thaliana (Mouse-ear cress)	250		
+A0A178UV78	unreviewed	A0A178UV78_ARATH	26S proteasome non-ATPase regulatory subunit 2 homolog	AXX17_At4g32780	Arabidopsis thaliana (Mouse-ear cress)	891		
+A0A178UVU0	unreviewed	A0A178UVU0_ARATH	Proteasome subunit beta	AXX17_At4g17120 AN1_LOCUS18132 C24_LOCUS18013	Arabidopsis thaliana (Mouse-ear cress)	199		
+A0A178V2B3	unreviewed	A0A178V2B3_ARATH	Proteasome subunit beta	AXX17_At4g35830 AN1_LOCUS19933 C24_LOCUS19827	Arabidopsis thaliana (Mouse-ear cress)	233		
+A0A178V2X9	unreviewed	A0A178V2X9_ARATH	Proteasome subunit alpha type	AXX17_At4g17600 AT9943_LOCUS15655	Arabidopsis thaliana (Mouse-ear cress)	250		
+A0A178V3V3	unreviewed	A0A178V3V3_ARATH	(thale cress) hypothetical protein (RPT2a)	AXX17_At4g33370 AN1_LOCUS19693 AT9943_LOCUS17000 C24_LOCUS19586	Arabidopsis thaliana (Mouse-ear cress)	443		
+A0A178V6R9	unreviewed	A0A178V6R9_ARATH	Proteasome subunit beta	AXX17_At3g55190 AN1_LOCUS16463 AT9943_LOCUS14160 C24_LOCUS16345	Arabidopsis thaliana (Mouse-ear cress)	223		
+A0A178VCF7	unreviewed	A0A178VCF7_ARATH	Proteasome subunit beta	AXX17_At3g29940 AN1_LOCUS14245 C24_LOCUS14085	Arabidopsis thaliana (Mouse-ear cress)	273		
+A0A178VCX2	unreviewed	A0A178VCX2_ARATH	Proteasome subunit alpha type	AXX17_At3g14880 AT9943_LOCUS11012 C24_LOCUS12626	Arabidopsis thaliana (Mouse-ear cress)	237		
+A0A178VFG8	unreviewed	A0A178VFG8_ARATH	Proteasome subunit beta	AXX17_At3g28560 AN1_LOCUS14115 C24_LOCUS13953	Arabidopsis thaliana (Mouse-ear cress)	273		
+A0A178VJ65	unreviewed	A0A178VJ65_ARATH	Proteasome subunit alpha type	AXX17_At3g23780 AN1_LOCUS13656 AT9943_LOCUS11728 C24_LOCUS13495	Arabidopsis thaliana (Mouse-ear cress)	250		
+A0A178VMP5	unreviewed	A0A178VMP5_ARATH	Proteasome subunit beta	AXX17_At3g24390 AN1_LOCUS13714 AT9943_LOCUS11779 C24_LOCUS13555	Arabidopsis thaliana (Mouse-ear cress)	204		
+A0A178VPE4	unreviewed	A0A178VPE4_ARATH	Proteasome subunit alpha type	AXX17_At3g45530 AN1_LOCUS15486 AT9943_LOCUS13318 C24_LOCUS15369	Arabidopsis thaliana (Mouse-ear cress)	250		
+A0A178VUX1	unreviewed	A0A178VUX1_ARATH	Proteasome subunit alpha type	AXX17_At2g04910 AN1_LOCUS7593 C24_LOCUS7467	Arabidopsis thaliana (Mouse-ear cress)	246		
+A0A178VXR9	unreviewed	A0A178VXR9_ARATH	Proteasome subunit alpha type	AXX17_At2g22920 AN1_LOCUS9096 AT9943_LOCUS7798 C24_LOCUS8946	Arabidopsis thaliana (Mouse-ear cress)	249		
+A0A178VZ49	unreviewed	A0A178VZ49_ARATH	26S proteasome non-ATPase regulatory subunit 1 homolog	AXX17_At2g29090 AT9943_LOCUS8309	Arabidopsis thaliana (Mouse-ear cress)	1004		
+A0A178VZC8	unreviewed	A0A178VZC8_ARATH	26S proteasome non-ATPase regulatory subunit 2 homolog	AXX17_At2g15920 AN1_LOCUS8420 AT9943_LOCUS7229 C24_LOCUS8271	Arabidopsis thaliana (Mouse-ear cress)	891		
+A0A178W2F8	unreviewed	A0A178W2F8_ARATH	Proteasome subunit alpha type	AXX17_At1g73950 AN1_LOCUS6970 AT9943_LOCUS5897 C24_LOCUS6856	Arabidopsis thaliana (Mouse-ear cress)	235		
+A0A178W2Z6	unreviewed	A0A178W2Z6_ARATH	AAA+ ATPase domain-containing protein	AXX17_At1g40670 AN1_LOCUS3783 C24_LOCUS3677	Arabidopsis thaliana (Mouse-ear cress)	399		
+A0A178W3Q0	unreviewed	A0A178W3Q0_ARATH	Proteasome subunit alpha type	AXX17_At1g41200	Arabidopsis thaliana (Mouse-ear cress)	277		
+A0A178W7J8	unreviewed	A0A178W7J8_ARATH	PCI domain-containing protein	AXX17_At1g70440 AN1_LOCUS6636	Arabidopsis thaliana (Mouse-ear cress)	487		
+A0A178W977	unreviewed	A0A178W977_ARATH	Proteasome subunit alpha type	AXX17_At1g48310 AT9943_LOCUS3845 C24_LOCUS4398	Arabidopsis thaliana (Mouse-ear cress)	237		
+A0A178W9X1	unreviewed	A0A178W9X1_ARATH	AAA+ ATPase domain-containing protein	AXX17_At1g48210	Arabidopsis thaliana (Mouse-ear cress)	346		
+A0A178WA13	unreviewed	A0A178WA13_ARATH	Proteasome subunit alpha type	AXX17_At1g17250 AN1_LOCUS1779 AT9943_LOCUS1420 C24_LOCUS1693	Arabidopsis thaliana (Mouse-ear cress)	235		
+A0A178WAU4	unreviewed	A0A178WAU4_ARATH	AAA+ ATPase domain-containing protein	AXX17_At1g48210	Arabidopsis thaliana (Mouse-ear cress)	349		
+A0A178WCQ3	unreviewed	A0A178WCQ3_ARATH	Proteasome subunit beta	AXX17_At1g13480 AN1_LOCUS1416 AT9943_LOCUS1113	Arabidopsis thaliana (Mouse-ear cress)	274		
+A0A178WEG0	unreviewed	A0A178WEG0_ARATH	26S proteasome non-ATPase regulatory subunit 1 homolog	AXX17_At1g04140	Arabidopsis thaliana (Mouse-ear cress)	1001		
+A0A178WJT5	unreviewed	A0A178WJT5_ARATH	Proteasome subunit beta	AXX17_At1g51160 AN1_LOCUS4794 C24_LOCUS4680	Arabidopsis thaliana (Mouse-ear cress)	246		
+A0A178WJZ7	unreviewed	A0A178WJZ7_ARATH	Proteasome subunit beta	AXX17_At1g22810 AT9943_LOCUS1893 C24_LOCUS2222	Arabidopsis thaliana (Mouse-ear cress)	204		
+A0A1P8AX55	unreviewed	A0A1P8AX55_ARATH	20S proteasome alpha subunit G1	PAG1 20S PROTEASOME SUBUNIT PAG1 At2g27020 T20P8.7 T20P8_7	Arabidopsis thaliana (Mouse-ear cress)	351	20S PROTEASOME SUBUNIT PAG1	AT2G27020;
+A0A1P8B073	unreviewed	A0A1P8B073_ARATH	Proteasome subunit alpha type	PAA2 20S proteasome subunit PAA2 At2g05840 T6P5.4 T6P5_4	Arabidopsis thaliana (Mouse-ear cress)	205	20S proteasome subunit PAA2	AT2G05840;
+A0A1P8BA81	unreviewed	A0A1P8BA81_ARATH	26S proteasome regulatory subunit	MTI20.21 MTI20_21 At5g57950	Arabidopsis thaliana (Mouse-ear cress)	256	MTI20_21	AT5G57950;
+A0A384KQL4	unreviewed	A0A384KQL4_ARATH	26S proteasome complex subunit SEM1	AXX17_At5g43210 AN1_LOCUS24716 AT9943_LOCUS21319 C24_LOCUS24550	Arabidopsis thaliana (Mouse-ear cress)	73		
+A0A384KR55	unreviewed	A0A384KR55_ARATH	26S proteasome complex subunit SEM1	AXX17_At1g58340 AT9943_LOCUS4620	Arabidopsis thaliana (Mouse-ear cress)	74		
+A0A5S9SMG8	unreviewed	A0A5S9SMG8_ARATH	26S proteasome non-ATPase regulatory subunit 1 homolog	C24_LOCUS438	Arabidopsis thaliana (Mouse-ear cress)	1001		
+A0A5S9U5K5	unreviewed	A0A5S9U5K5_ARATH	Proteasome subunit beta	C24_LOCUS1333	Arabidopsis thaliana (Mouse-ear cress)	279		
+A0A5S9V8W3	unreviewed	A0A5S9V8W3_ARATH	PCI domain-containing protein	AN1_LOCUS2156 C24_LOCUS2067	Arabidopsis thaliana (Mouse-ear cress)	488		
+A0A5S9WPR2	unreviewed	A0A5S9WPR2_ARATH	PPIase cyclophilin-type domain-containing protein	C24_LOCUS4391	Arabidopsis thaliana (Mouse-ear cress)	692		
+A0A5S9WVA0	unreviewed	A0A5S9WVA0_ARATH	Proteasome subunit beta	AN1_LOCUS6788 AT9943_LOCUS5740 C24_LOCUS6674	Arabidopsis thaliana (Mouse-ear cress)	204		
+A0A5S9WZI7	unreviewed	A0A5S9WZI7_ARATH	AAA+ ATPase domain-containing protein	C24_LOCUS8222	Arabidopsis thaliana (Mouse-ear cress)	443		
+A0A5S9X3M3	unreviewed	A0A5S9X3M3_ARATH	26S proteasome non-ATPase regulatory subunit 1 homolog	C24_LOCUS9545	Arabidopsis thaliana (Mouse-ear cress)	1004		
+A0A5S9XA09	unreviewed	A0A5S9XA09_ARATH	AAA+ ATPase domain-containing protein	AN1_LOCUS11856 C24_LOCUS11690	Arabidopsis thaliana (Mouse-ear cress)	424		
+A0A5S9XLC1	unreviewed	A0A5S9XLC1_ARATH	PI31 proteasome regulator N-terminal domain-containing protein	C24_LOCUS15652	Arabidopsis thaliana (Mouse-ear cress)	302		
+A0A5S9XSS7	unreviewed	A0A5S9XSS7_ARATH	Proteasome subunit alpha type	C24_LOCUS18060	Arabidopsis thaliana (Mouse-ear cress)	250		
+A0A654E6S2	unreviewed	A0A654E6S2_ARATH	26S proteasome non-ATPase regulatory subunit 1 homolog	AN1_LOCUS526	Arabidopsis thaliana (Mouse-ear cress)	1001		
+A0A654EC28	unreviewed	A0A654EC28_ARATH	Proteasome subunit beta	AN1_LOCUS2310	Arabidopsis thaliana (Mouse-ear cress)	204		
+A0A654EG76	unreviewed	A0A654EG76_ARATH	Proteasome subunit alpha type	AN1_LOCUS3832 AT9943_LOCUS3251 C24_LOCUS3727	Arabidopsis thaliana (Mouse-ear cress)	277		
+A0A654EI79	unreviewed	A0A654EI79_ARATH	PPIase cyclophilin-type domain-containing protein	AN1_LOCUS4503	Arabidopsis thaliana (Mouse-ear cress)	672		
+A0A654EIU6	unreviewed	A0A654EIU6_ARATH	AAA+ ATPase domain-containing protein	AN1_LOCUS984	Arabidopsis thaliana (Mouse-ear cress)	423		
+A0A654EJY3	unreviewed	A0A654EJY3_ARATH	Proteasome subunit alpha type	AN1_LOCUS4510	Arabidopsis thaliana (Mouse-ear cress)	242		
+A0A654F8R2	unreviewed	A0A654F8R2_ARATH	Proteasome subunit alpha type	AN1_LOCUS12794	Arabidopsis thaliana (Mouse-ear cress)	237		
+A0A654F8W6	unreviewed	A0A654F8W6_ARATH	26S proteasome non-ATPase regulatory subunit 1 homolog	AN1_LOCUS9698	Arabidopsis thaliana (Mouse-ear cress)	1004		
+A0A654FPL0	unreviewed	A0A654FPL0_ARATH	Proteasome subunit alpha type	AN1_LOCUS18177	Arabidopsis thaliana (Mouse-ear cress)	208		
+A0A654FTN7	unreviewed	A0A654FTN7_ARATH	26S proteasome non-ATPase regulatory subunit 2 homolog	AN1_LOCUS19631 C24_LOCUS19524	Arabidopsis thaliana (Mouse-ear cress)	891		
+A0A654G7B2	unreviewed	A0A654G7B2_ARATH	Proteasome subunit alpha type	AN1_LOCUS24468 AT9943_LOCUS21121	Arabidopsis thaliana (Mouse-ear cress)	278		
+A0A654G7H5	unreviewed	A0A654G7H5_ARATH	AAA+ ATPase domain-containing protein	AN1_LOCUS24492	Arabidopsis thaliana (Mouse-ear cress)	399		
+A0A654GEJ7	unreviewed	A0A654GEJ7_ARATH	Proteasome subunit alpha type	AN1_LOCUS26947	Arabidopsis thaliana (Mouse-ear cress)	250		
+A0A7G2E2R1	unreviewed	A0A7G2E2R1_ARATH	Proteasome subunit beta	AT9943_LOCUS4082	Arabidopsis thaliana (Mouse-ear cress)	216		
+A0A7G2E3Q1	unreviewed	A0A7G2E3Q1_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS3836	Arabidopsis thaliana (Mouse-ear cress)	1195		
+A0A7G2E4D2	unreviewed	A0A7G2E4D2_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS3836	Arabidopsis thaliana (Mouse-ear cress)	1194		
+A0A7G2E5J5	unreviewed	A0A7G2E5J5_ARATH	Proteasome subunit alpha type	AT9943_LOCUS6437	Arabidopsis thaliana (Mouse-ear cress)	284		
+A0A7G2EDI7	unreviewed	A0A7G2EDI7_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS7190	Arabidopsis thaliana (Mouse-ear cress)	658		
+A0A7G2EG37	unreviewed	A0A7G2EG37_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS10190	Arabidopsis thaliana (Mouse-ear cress)	598		
+A0A7G2EQN0	unreviewed	A0A7G2EQN0_ARATH	Proteasome subunit beta	AT9943_LOCUS12099	Arabidopsis thaliana (Mouse-ear cress)	268		
+A0A7G2EY26	unreviewed	A0A7G2EY26_ARATH	Proteasome subunit beta	AT9943_LOCUS15617	Arabidopsis thaliana (Mouse-ear cress)	176		
+A0A7G2F214	unreviewed	A0A7G2F214_ARATH	proteasome endopeptidase complex (EC 3.4.25.1)	AT9943_LOCUS17201	Arabidopsis thaliana (Mouse-ear cress)	390		
+A0A7G2FBV7	unreviewed	A0A7G2FBV7_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS19623	Arabidopsis thaliana (Mouse-ear cress)	620		
+A0A7G2FDQ8	unreviewed	A0A7G2FDQ8_ARATH	Proteasome subunit alpha type	AT9943_LOCUS20538	Arabidopsis thaliana (Mouse-ear cress)	246		
+A0A7G2FK63	unreviewed	A0A7G2FK63_ARATH	Alpha-mannosidase (EC 3.2.1.-)	AT9943_LOCUS23204	Arabidopsis thaliana (Mouse-ear cress)	1249		
+C0Z2Q3	unreviewed	C0Z2Q3_ARATH	Proteasome subunit beta	At3g27430	Arabidopsis thaliana (Mouse-ear cress)	254		AT3G27430;
+F4HP14	unreviewed	F4HP14_ARATH	20S proteasome beta subunit E1	PBE1 20S proteasome beta subunit E1 At1g13060 F3F19.8 F3F19_8	Arabidopsis thaliana (Mouse-ear cress)	298	20S proteasome beta subunit E1	AT1G13060;
+F4HVW0	unreviewed	F4HVW0_ARATH	Proteasome component (PCI) domain protein	FUS5 ATCSN7 COP15 COP9 SIGNALOSOME SUBUNIT 7 CSN7 FUSCA 5 At1g02090 T7I23.25 T7I23_25	Arabidopsis thaliana (Mouse-ear cress)	237	ATCSN7 COP15 COP9 SIGNALOSOME SUBUNIT 7 CSN7 FUSCA 5	AT1G02090;
+F4I886	unreviewed	F4I886_ARATH	26S proteasome complex subunit SEM1	DSS1(I) ATDSS1(I) At1g64750 F13O11.6 F13O11_6	Arabidopsis thaliana (Mouse-ear cress)	115	ATDSS1(I)	AT1G64750;
+F4IIA5	unreviewed	F4IIA5_ARATH	Proteasome subunit alpha type	PAA2 20S proteasome subunit PAA2 At2g05840 T6P5.4 T6P5_4	Arabidopsis thaliana (Mouse-ear cress)	220	20S proteasome subunit PAA2	AT2G05840;
+F4IWI5	unreviewed	F4IWI5_ARATH	proteasome endopeptidase complex (EC 3.4.25.1)	PBB1 At3g27430	Arabidopsis thaliana (Mouse-ear cress)	267		AT3G27430;
+F4JD01	unreviewed	F4JD01_ARATH	Proteasome subunit beta	PBF1 At3g60820	Arabidopsis thaliana (Mouse-ear cress)	223		AT3G60820;
+F4K0U3	unreviewed	F4K0U3_ARATH	RP non-ATPase subunit 8A	RPN8A AE3 ASYMMETRIC LEAVES ENHANCER 3 ATHMOV34 MJJ3.19 MJJ3_19 RP non-ATPase subunit 8A At5g05780	Arabidopsis thaliana (Mouse-ear cress)	305	AE3 ASYMMETRIC LEAVES ENHANCER 3 ATHMOV34 MJJ3.19 MJJ3_19 RP non-ATPase subunit 8A	AT5G05780;
+F4K5I3	unreviewed	F4K5I3_ARATH	COP9 signalosome complex subunit 3	COP13 COP9 SIGNALOSOME SUBUNIT 3 CSN3 FUS11 FUSCA 11 At5g14250 F18O22.40 F18O22_40	Arabidopsis thaliana (Mouse-ear cress)	356	COP9 SIGNALOSOME SUBUNIT 3 CSN3 FUS11 FUSCA 11	AT5G14250;
+F4KFD7	unreviewed	F4KFD7_ARATH	26S proteasome regulatory subunit, putative (RPN5)	EMB2107 EMBRYO DEFECTIVE 2107 MARIPOSA MSA MYH9.11 MYH9_11 RPN5A At5g09900	Arabidopsis thaliana (Mouse-ear cress)	442	EMBRYO DEFECTIVE 2107 MARIPOSA MSA MYH9.11 MYH9_11 RPN5A	AT5G09900;
+F4KIN7	unreviewed	F4KIN7_ARATH	proteasome endopeptidase complex (EC 3.4.25.1)	PBB2 MNF13.100 MNF13_100 At5g40580	Arabidopsis thaliana (Mouse-ear cress)	268	MNF13.100 MNF13_100	AT5G40580;
+Q0WSE9	unreviewed	Q0WSE9_ARATH	Eukaryotic translation initiation factor 3 subunit M (eIF3m)	At5g15610 T20K14.220 T20K14_220	Arabidopsis thaliana (Mouse-ear cress)	413		AT5G15610;
+Q2PDG4	unreviewed	Q2PDG4_ARATH	26S proteasome complex subunit SEM1	dss1-2	Arabidopsis thaliana (Mouse-ear cress)	73		AT5G45010;
+Q2PDG5	unreviewed	Q2PDG5_ARATH	26S proteasome complex subunit SEM1	dss1-1	Arabidopsis thaliana (Mouse-ear cress)	74		AT1G64750;
+Q2V3Q0	unreviewed	Q2V3Q0_ARATH	Proteasome subunit alpha type	PAD1 At3g51260	Arabidopsis thaliana (Mouse-ear cress)	243		AT3G51260;
+Q8W4A0	unreviewed	Q8W4A0_ARATH	Eukaryotic translation initiation factor 3 subunit M (eIF3m)	F14P3.15 At3g02200 F1C9.1	Arabidopsis thaliana (Mouse-ear cress)	417		AT3G02200;
+Q9FJC9	unreviewed	Q9FJC9_ARATH	26S proteasome regulatory particle chain RPT6-like protein (AT5g53540/MNC6_8) (P-loop containing nucleoside triphosphate hydrolases superfamily protein)	APP1 MNC6.8 MNC6_8 At5g53540	Arabidopsis thaliana (Mouse-ear cress)	403	MNC6.8 MNC6_8	AT5G53540;
+Q9LF21	unreviewed	Q9LF21_ARATH	Eukaryotic translation initiation factor 3 subunit M (eIF3m)	At5g15610 T20K14.220 T20K14_220	Arabidopsis thaliana (Mouse-ear cress)	442		AT5G15610;
+A0A097PSZ6	unreviewed	A0A097PSZ6_ARATH	Regulatory particle non-ATPase 13		Arabidopsis thaliana (Mouse-ear cress)	294		
+A0A178UAH2	unreviewed	A0A178UAH2_ARATH	RPT3	AXX17_At5g57630 AN1_LOCUS26123 C24_LOCUS25948	Arabidopsis thaliana (Mouse-ear cress)	408		
+A0A178UB80	unreviewed	A0A178UB80_ARATH	(thale cress) hypothetical protein (RPN12b)	AXX17_At5g39860 AT9943_LOCUS21055	Arabidopsis thaliana (Mouse-ear cress)	159		
+A0A178UEY9	unreviewed	A0A178UEY9_ARATH	Tr-type G domain-containing protein	AXX17_At5g37190	Arabidopsis thaliana (Mouse-ear cress)	94		
+A0A178UGS0	unreviewed	A0A178UGS0_ARATH	RPN5B	AXX17_At5g64430	Arabidopsis thaliana (Mouse-ear cress)	442		
+A0A178UGX7	unreviewed	A0A178UGX7_ARATH	(thale cress) hypothetical protein (RPT6A)	AXX17_At5g19940 AN1_LOCUS22799 AT9943_LOCUS19622 C24_LOCUS22684	Arabidopsis thaliana (Mouse-ear cress)	419		
+A0A178UH21	unreviewed	A0A178UH21_ARATH	Tr-type G domain-containing protein	AXX17_At5g37190	Arabidopsis thaliana (Mouse-ear cress)	80		
+A0A178UH77	unreviewed	A0A178UH77_ARATH	RPT4A	AXX17_At5g40950 C24_LOCUS24322	Arabidopsis thaliana (Mouse-ear cress)	399		
+A0A178UQ20	unreviewed	A0A178UQ20_ARATH	(thale cress) hypothetical protein	AXX17_At5g44010 AN1_LOCUS24788 AT9943_LOCUS21375	Arabidopsis thaliana (Mouse-ear cress)	386		
+A0A178UR80	unreviewed	A0A178UR80_ARATH	(thale cress) hypothetical protein	AXX17_At5g09480 AT9943_LOCUS18752	Arabidopsis thaliana (Mouse-ear cress)	442		
+A0A178UUL4	unreviewed	A0A178UUL4_ARATH	(thale cress) hypothetical protein	AXX17_At4g28720 AN1_LOCUS19225 AT9943_LOCUS16581 C24_LOCUS19124	Arabidopsis thaliana (Mouse-ear cress)	387		
+A0A178UW25	unreviewed	A0A178UW25_ARATH	(thale cress) hypothetical protein	AXX17_At4g22380 AN1_LOCUS18625 AT9943_LOCUS16049 C24_LOCUS18516	Arabidopsis thaliana (Mouse-ear cress)	386		
+A0A178V0J7	unreviewed	A0A178V0J7_ARATH	AAA+ ATPase domain-containing protein	AXX17_At4g06290	Arabidopsis thaliana (Mouse-ear cress)	961		
+A0A178V4I4	unreviewed	A0A178V4I4_ARATH	26S proteasome regulatory subunit RPN10	AXX17_At4g43970 AN1_LOCUS20724 C24_LOCUS20621	Arabidopsis thaliana (Mouse-ear cress)	386		
+A0A178VB57	unreviewed	A0A178VB57_ARATH	(thale cress) hypothetical protein	AXX17_At3g48370 AN1_LOCUS15768 AT9943_LOCUS13568	Arabidopsis thaliana (Mouse-ear cress)	302		
+A0A178VEP3	unreviewed	A0A178VEP3_ARATH	RPT5A	AXX17_At3g05090	Arabidopsis thaliana (Mouse-ear cress)	420		
+A0A178VM16	unreviewed	A0A178VM16_ARATH	RPT2b	AXX17_At2g15450 AN1_LOCUS8370	Arabidopsis thaliana (Mouse-ear cress)	443		
+A0A178VTM0	unreviewed	A0A178VTM0_ARATH	Proteasome component Ecm29 N-terminal domain-containing protein	AXX17_At2g22670	Arabidopsis thaliana (Mouse-ear cress)	1812		
+A0A178VY31	unreviewed	A0A178VY31_ARATH	RPN13	AXX17_At2g22450 AN1_LOCUS9052 C24_LOCUS8904	Arabidopsis thaliana (Mouse-ear cress)	300		
+A0A178VY44	unreviewed	A0A178VY44_ARATH	RPN13	AXX17_At2g22450	Arabidopsis thaliana (Mouse-ear cress)	199		
+A0A178W3N8	unreviewed	A0A178W3N8_ARATH	(thale cress) hypothetical protein (RPT1A)	AXX17_At1g48180 AN1_LOCUS4500 AT9943_LOCUS3834 C24_LOCUS4388	Arabidopsis thaliana (Mouse-ear cress)	426		
+A0A178WAB2	unreviewed	A0A178WAB2_ARATH	Proteasome subunit beta	AXX17_At1g72000	Arabidopsis thaliana (Mouse-ear cress)	191		
+A0A178WAE7	unreviewed	A0A178WAE7_ARATH	(thale cress) hypothetical protein (RPN6)	AXX17_At1g29460 AT9943_LOCUS2431	Arabidopsis thaliana (Mouse-ear cress)	419		
+A0A178WGC9	unreviewed	A0A178WGC9_ARATH	PI31 proteasome regulator N-terminal domain-containing protein	At1g48530 AXX17_At1g42630	Arabidopsis thaliana (Mouse-ear cress)	175		
+A0A178WH62	unreviewed	A0A178WH62_ARATH	RPN12a	AXX17_At1g58020 AN1_LOCUS5454 C24_LOCUS5338	Arabidopsis thaliana (Mouse-ear cress)	267		
+A0A178WHJ4	unreviewed	A0A178WHJ4_ARATH	RPT5B	AXX17_At1g08920 C24_LOCUS899	Arabidopsis thaliana (Mouse-ear cress)	423		
+A0A178WL99	unreviewed	A0A178WL99_ARATH	HAP15	AXX17_At1g21180	Arabidopsis thaliana (Mouse-ear cress)	488		
+A0A1P8APR7	unreviewed	A0A1P8APR7_ARATH	26S proteasome regulatory complex ATPase	At1g53780 T18A20.2 T18A20_2	Arabidopsis thaliana (Mouse-ear cress)	599		AT1G53780;
+A0A1P8AX98	unreviewed	A0A1P8AX98_ARATH	ARM repeat superfamily protein	At2g26780 F18A8.15 F18A8_15	Arabidopsis thaliana (Mouse-ear cress)	1812		AT2G26780;
+A0A1P8B105	unreviewed	A0A1P8B105_ARATH	Proteasome family protein	EER5 AtTHP1 ENHANCED ETHYLENE RESPONSE 5 ESSP1 At2g19560 F3P11.16 F3P11_16	Arabidopsis thaliana (Mouse-ear cress)	314	AtTHP1 ENHANCED ETHYLENE RESPONSE 5 ESSP1	AT2G19560;
+A0A1P8B2X5	unreviewed	A0A1P8B2X5_ARATH	Regulatory particle non-ATPase 13	RPN13 At2g26590 T9J22.26 T9J22_26	Arabidopsis thaliana (Mouse-ear cress)	296		AT2G26590;
+A0A1P8B6G3	unreviewed	A0A1P8B6G3_ARATH	Proteasome component (PCI) domain protein	At4g19006	Arabidopsis thaliana (Mouse-ear cress)	439		AT4G19006;
+A0A1P8B7N0	unreviewed	A0A1P8B7N0_ARATH	P-loop containing nucleoside triphosphate hydrolases superfamily protein	At4g04180 T27D20.13 T27D20_13	Arabidopsis thaliana (Mouse-ear cress)	595		AT4G04180;
+A0A1P8BCJ5	unreviewed	A0A1P8BCJ5_ARATH	Regulatory particle triple-A ATPase 6A	RPT6A ATSUG1 At5g19990 F28I16.140 F28I16_140	Arabidopsis thaliana (Mouse-ear cress)	361	ATSUG1	AT5G19990;
+A0A1P8BHB1	unreviewed	A0A1P8BHB1_ARATH	Regulatory particle non-ATPase subunit 5B	RPN5B MVP7.9 MVP7_9 At5g64760	Arabidopsis thaliana (Mouse-ear cress)	422	MVP7.9 MVP7_9	AT5G64760;
+A0A384KYJ5	unreviewed	A0A384KYJ5_ARATH	PI31 proteasome regulator N-terminal domain-containing protein	At3g53970 AXX17_At3g48370	Arabidopsis thaliana (Mouse-ear cress)	252		
+A0A5S9WBS8	unreviewed	A0A5S9WBS8_ARATH	PCI domain-containing protein	AN1_LOCUS2960 C24_LOCUS2863	Arabidopsis thaliana (Mouse-ear cress)	419		
+A0A5S9WK39	unreviewed	A0A5S9WK39_ARATH	PI31 proteasome regulator N-terminal domain-containing protein	C24_LOCUS3852	Arabidopsis thaliana (Mouse-ear cress)	137		
+A0A5S9WUQ6	unreviewed	A0A5S9WUQ6_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS5607 C24_LOCUS6522	Arabidopsis thaliana (Mouse-ear cress)	487		
+A0A5S9X1Z6	unreviewed	A0A5S9X1Z6_ARATH	Proteasome component Ecm29 N-terminal domain-containing protein	C24_LOCUS8922	Arabidopsis thaliana (Mouse-ear cress)	1825		
+A0A5S9XQC7	unreviewed	A0A5S9XQC7_ARATH	AAA+ ATPase domain-containing protein	C24_LOCUS17186	Arabidopsis thaliana (Mouse-ear cress)	600		
+A0A5S9YA65	unreviewed	A0A5S9YA65_ARATH	PCI domain-containing protein	C24_LOCUS24210	Arabidopsis thaliana (Mouse-ear cress)	184		
+A0A5S9YBC8	unreviewed	A0A5S9YBC8_ARATH	PCI domain-containing protein	C24_LOCUS24624	Arabidopsis thaliana (Mouse-ear cress)	386		
+A0A654EGM0	unreviewed	A0A654EGM0_ARATH	PI31 proteasome regulator N-terminal domain-containing protein	AN1_LOCUS3970	Arabidopsis thaliana (Mouse-ear cress)	164		
+A0A654EWG2	unreviewed	A0A654EWG2_ARATH	Proteasome component Ecm29 N-terminal domain-containing protein	AN1_LOCUS9071	Arabidopsis thaliana (Mouse-ear cress)	1821		
+A0A654F7S1	unreviewed	A0A654F7S1_ARATH	MPN domain-containing protein	AN1_LOCUS12446 C24_LOCUS12275	Arabidopsis thaliana (Mouse-ear cress)	310		
+A0A654FMD4	unreviewed	A0A654FMD4_ARATH	AAA+ ATPase domain-containing protein	AN1_LOCUS17312	Arabidopsis thaliana (Mouse-ear cress)	600		
+A0A654FYV3	unreviewed	A0A654FYV3_ARATH	MPN domain-containing protein	AN1_LOCUS21391 C24_LOCUS21286	Arabidopsis thaliana (Mouse-ear cress)	308		
+A0A654FZY5	unreviewed	A0A654FZY5_ARATH	PCI domain-containing protein	AN1_LOCUS21781 C24_LOCUS21672	Arabidopsis thaliana (Mouse-ear cress)	459		
+A0A654G7N3	unreviewed	A0A654G7N3_ARATH	PCI domain-containing protein	AN1_LOCUS24383	Arabidopsis thaliana (Mouse-ear cress)	185		
+A0A654GE34	unreviewed	A0A654GE34_ARATH	PCI domain-containing protein	AN1_LOCUS26793 C24_LOCUS26617	Arabidopsis thaliana (Mouse-ear cress)	465		
+A0A7G2DT24	unreviewed	A0A7G2DT24_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS738	Arabidopsis thaliana (Mouse-ear cress)	351		
+A0A7G2DUN1	unreviewed	A0A7G2DUN1_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS1748	Arabidopsis thaliana (Mouse-ear cress)	787		
+A0A7G2DVW4	unreviewed	A0A7G2DVW4_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS3199	Arabidopsis thaliana (Mouse-ear cress)	406		
+A0A7G2E2H7	unreviewed	A0A7G2E2H7_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS3364	Arabidopsis thaliana (Mouse-ear cress)	169		
+A0A7G2E9A8	unreviewed	A0A7G2E9A8_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS7776	Arabidopsis thaliana (Mouse-ear cress)	1812		
+A0A7G2EBB2	unreviewed	A0A7G2EBB2_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS7758	Arabidopsis thaliana (Mouse-ear cress)	300		
+A0A7G2EDL3	unreviewed	A0A7G2EDL3_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS7190	Arabidopsis thaliana (Mouse-ear cress)	514		
+A0A7G2EFU3	unreviewed	A0A7G2EFU3_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS10191	Arabidopsis thaliana (Mouse-ear cress)	432		
+A0A7G2EXL6	unreviewed	A0A7G2EXL6_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS14886	Arabidopsis thaliana (Mouse-ear cress)	577		
+A0A7G2F5D8	unreviewed	A0A7G2F5D8_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS18428	Arabidopsis thaliana (Mouse-ear cress)	446		
+A0A7G2F961	unreviewed	A0A7G2F961_ARATH	26S proteasome regulatory subunit RPN10	AT9943_LOCUS17868	Arabidopsis thaliana (Mouse-ear cress)	383		
+A0A7G2FCM2	unreviewed	A0A7G2FCM2_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS20933	Arabidopsis thaliana (Mouse-ear cress)	248		
+A0A7G2FH31	unreviewed	A0A7G2FH31_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS22499	Arabidopsis thaliana (Mouse-ear cress)	450		
+A0A7G2FJ03	unreviewed	A0A7G2FJ03_ARATH	(thale cress) hypothetical protein	AT9943_LOCUS23072	Arabidopsis thaliana (Mouse-ear cress)	533		
+B3H533	unreviewed	B3H533_ARATH	AAA-type ATPase family protein	At1g45000 F27F5.8 F27F5_8	Arabidopsis thaliana (Mouse-ear cress)	335		AT1G45000;
+F4HTC3	unreviewed	F4HTC3_ARATH	26S proteasome regulatory complex ATPase	At1g53780 T18A20.2 T18A20_2	Arabidopsis thaliana (Mouse-ear cress)	620		AT1G53780;
+F4HTC5	unreviewed	F4HTC5_ARATH	26S proteasome regulatory complex ATPase	At1g53780 T18A20.2 T18A20_2	Arabidopsis thaliana (Mouse-ear cress)	598		AT1G53780;
+F4I0E9	unreviewed	F4I0E9_ARATH	Proteasome maturation factor	At1g62920 F16P17.25 F16P17_25	Arabidopsis thaliana (Mouse-ear cress)	260		AT1G62920;
+F4IVJ8	unreviewed	F4IVJ8_ARATH	ARM repeat superfamily protein	At2g26780 F18A8.15 F18A8_15	Arabidopsis thaliana (Mouse-ear cress)	1826		AT2G26780;
+F4J2B4	unreviewed	F4J2B4_ARATH	Proteasome component (PCI) domain protein	At3g02200 F1C9.1	Arabidopsis thaliana (Mouse-ear cress)	364		AT3G02200;
+F4J683	unreviewed	F4J683_ARATH	Mov34/MPN/PAD-1 family protein	MEE34 At3g11270	Arabidopsis thaliana (Mouse-ear cress)	307		AT3G11270;
+F4JBP8	unreviewed	F4JBP8_ARATH	Proteasome inhibitor-like protein	PTRE1 At3g53970	Arabidopsis thaliana (Mouse-ear cress)	252		AT3G53970;
+F4JGS0	unreviewed	F4JGS0_ARATH	P-loop containing nucleoside triphosphate hydrolases superfamily protein	At4g04180 T27D20.13 T27D20_13	Arabidopsis thaliana (Mouse-ear cress)	600		AT4G04180;
+F4KEK8	unreviewed	F4KEK8_ARATH	Proteasome component (PCI) domain protein	MRA19.2 MRA19_2 At5g45620	Arabidopsis thaliana (Mouse-ear cress)	350	MRA19_2	AT5G45620;
+F4KF39	unreviewed	F4KF39_ARATH	Regulatory particle non-ATPase subunit 5B	RPN5B MVP7.9 MVP7_9 At5g64760	Arabidopsis thaliana (Mouse-ear cress)	442	MVP7.9 MVP7_9	AT5G64760;
+O81459	unreviewed	O81459_ARATH	Putative vesicle transfer ATPase (T27D20.13 protein)	T27D20.13 At4g04180	Arabidopsis thaliana (Mouse-ear cress)	536		
+Q0WRE8	unreviewed	Q0WRE8_ARATH	Uncharacterized protein At2g26590	At2g26590	Arabidopsis thaliana (Mouse-ear cress)	124		AT2G26590;
+Q5XVJ3	unreviewed	Q5XVJ3_ARATH	Proteasome inhibitor-like protein	At1g48530 T1N15.15 T1N15_15	Arabidopsis thaliana (Mouse-ear cress)	175		AT1G48530;
+Q8LAJ4	unreviewed	Q8LAJ4_ARATH	26S proteasome regulatory subunit (At5g57950)	MTI20.21 MTI20_21 At5g57950 At5g57950/MTI20_21	Arabidopsis thaliana (Mouse-ear cress)	227	MTI20_21	AT5G57950;
+Q8S8S6	unreviewed	Q8S8S6_ARATH	Uncharacterized protein At2g26780	At2g26780	Arabidopsis thaliana (Mouse-ear cress)	1732		
+Q8VYQ0	unreviewed	Q8VYQ0_ARATH	Proteasome assembly chaperone	At1g48170 F21D18.10	Arabidopsis thaliana (Mouse-ear cress)	153		AT1G48170;
+Q94B05	unreviewed	Q94B05_ARATH	At1g67250 (Proteasome maturation factor UMP1)	UMP1A F1N21.15 At1g67250 At1g67250/F1N21_7 F1N21.7	Arabidopsis thaliana (Mouse-ear cress)	141	F1N21.15	AT1G67250;
+Q9FFV7	unreviewed	Q9FFV7_ARATH	Gb|AAB95243.1 (Proteasome maturation factor UMP1)	UMP1B MBB18.20 MBB18_20 At5g38650	Arabidopsis thaliana (Mouse-ear cress)	141	MBB18.20 MBB18_20	AT5G38650;
+Q9LER5	unreviewed	Q9LER5_ARATH	Proteasome assembly chaperone-like protein	At5g14710 At5g14710/T9L3_10 T9L3.10 T9L3_10	Arabidopsis thaliana (Mouse-ear cress)	124		AT5G14710;
+Q9LP71	unreviewed	Q9LP71_ARATH	T1N15.15		Arabidopsis thaliana (Mouse-ear cress)	164		AT1G48530;
+Q9SYE4	unreviewed	Q9SYE4_ARATH	26S proteasome non-ATPase regulatory subunit-like protein	At4g08140 F9M13.6 F9M13_6	Arabidopsis thaliana (Mouse-ear cress)	84		AT4G08140;
+Q9T090	unreviewed	Q9T090_ARATH	26S proteasome regulatory particle chain RPT6-like protein (P-loop containing nucleoside triphosphate hydrolases superfamily protein)	At4g27680 T29A15.170 T29A15_170	Arabidopsis thaliana (Mouse-ear cress)	398		AT4G27680;
+Q9ZQR1	unreviewed	Q9ZQR1_ARATH	Uncharacterized protein At2g14490	At2g14490	Arabidopsis thaliana (Mouse-ear cress)	142		
