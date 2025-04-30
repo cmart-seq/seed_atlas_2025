@@ -2,7 +2,7 @@
 
 Below are the command line arguments for running all of the scripts implemented in Martin et al 2025.
 Steps 1-11 are for snRNA-seq data preprocessing analysis, while step 12 and 13 are for genome-wide dN/dS and codeml analysis. 
-Steps 1-11 have to be run sequentially, and all of the scripts assume a file structure like the one in this repository. 
+Steps 1-11 have to be run sequentially, and all of the scripts assume a file structure like the one in this repository. This repository is under active development.
 
 ### Step 1a: perform initial SoupX background correction, low quality cell removal, and clustering
 ```
