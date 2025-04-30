@@ -56,7 +56,7 @@ for f in *alignment.fasta; do
   echo "perl ../../../pal2nal.pl $f ${base}.Araport11.447_pruned.tree_CDSs.fasta -output paml -nogap > ${f}_pal2nal" 
 done > pal2nal.sh
 
-# Split the script into chunks of 100 lines each for parallelization
+#Splitting the script into chunks of 100 lines each for parallelization
 split -l 100 pal2nal.sh pal2nal_batch_
 
 #wrap each in a SLURM script
@@ -168,7 +168,5 @@ chmod +x codeml_batch_*.slurm
 for f in codeml_batch_*.slurm; do
   sbatch -p 20 $f
 done
-
-#get all stats with parse_codeml_lrt.R
 
 
