@@ -4,7 +4,7 @@ Below are the command line arguments for running all of the scripts implemented 
 Steps 1-11 are for snRNA-seq data preprocessing analysis, while step 12 and 13 are for genome-wide dN/dS and codeml analysis. 
 Steps 1-11 have to be run sequentially, and all of the scripts assume a file structure like the one in this repository. 
 
-### Step 1: perform initial SoupX background correction, low quality cell removal, and clustering
+### Step 1a: perform initial SoupX background correction, low quality cell removal, and clustering
 ```
 cd 01_per_library_QCs
 Rscript per_library_QCs.R --wd . --sample DAP7_2 --tenXlibname DAP7_colcol_4 --ccGenes inputs/Menges2005_Mphase_Sphase.csv
@@ -15,7 +15,7 @@ Rscript per_library_QCs.R --wd . --sample DAP3_1a --tenXlibname DAP3_colcol_1 --
 Rscript per_library_QCs.R --wd . --sample DAP3_1b --tenXlibname DAP3_colcol_2 --ccGenes inputs/Menges2005_Mphase_Sphase.csv
 Rscript per_library_QCs.R --wd . --sample DAP3_2 --tenXlibname DAP3_colcol_3 --ccGenes inputs/Menges2005_Mphase_Sphase.csv
 ```
-### Step 2: after inspecting clusters, remove low quality cells and detect doublets for each library
+### Step 1b: after inspecting clusters, remove low quality cells and detect doublets for each library
 ```
 Rscript score_doublets.R --wd . --seu_path outputs/DAP3_1a/DAP3_1asoupx.rds --sample DAP3_1a --rm_clusters 16
 Rscript score_doublets.R --wd . --seu_path outputs/DAP3_1b/DAP3_1bsoupx.rds --sample DAP3_1b --rm_clusters 0
@@ -25,7 +25,7 @@ Rscript score_doublets.R --wd . --seu_path outputs/DAP5_3/DAP5_3soupx.rds --samp
 Rscript score_doublets.R --wd . --seu_path outputs/DAP7_2/DAP7_2soupx.rds --sample DAP7_2 --rm_clusters 16
 Rscript score_doublets.R --wd . --seu_path outputs/DAP7_3/DAP7_3soupx.rds --sample DAP7_3
 ```
-### Step 3: merge libraries into timepoint datasets and determine an appropriate # PCs and whether they should be integrated by timepoint 
+### Step 2: merge libraries into timepoint datasets and determine an appropriate # PCs and whether they should be integrated by timepoint 
 ```
 cd ../02_merge_libraries_filtering_and_batch_effects
 
@@ -49,21 +49,21 @@ Rscript merge_libraries_and_batch_effects_harmony.R --wd . --round 2 --merge_onl
 #DAP7, no integration
 Rscript merge_libraries_and_batch_effects_harmony.R --wd . --round 2 --merge_only TRUE --dataset DAP7 --n_VarGenes 3000 --ndims 57
 ```
-### Step 4: clustering parameter sweep
+### Step 3: clustering parameter sweep
 ```
 cd ../03_clustering
 Rscript clustering.R --wd . --integrated FALSE --timepoint DAP3 --dataname DAP3 --low_res 1 --high_res 2 --inc 0.1 --cze_marks inputs
 Rscript clustering.R --wd . --integrated TRUE --timepoint DAP5 --dataname DAP5 --low_res 1 --high_res 2 --inc 0.1 --cze_marks inputs
 Rscript clustering.R --wd . --integrated FALSE --timepoint DAP7 --dataname DAP7 --low_res 1 --high_res 2 --inc 0.1 --cze_marks inputs
 ```
-### Step 5: apply manual annotation to the de novo clusters to generate the L3 annotations
+### Step 4a: apply manual annotation to the de novo clusters to generate the L3 annotations
 ```
 cd  ../04_manual_annotation
 Rscript manual_annotation.R  --wd . --dataset DAP3  --harmony FALSE --seupath ../03_clustering/outputs/DAP3/DAP3_clustered.rds --mpath inputs/DAP3_level_3_manual_metadata.csv
 Rscript manual_annotation.R  --wd . --dataset DAP5  --harmony TRUE --seupath ../03_clustering/outputs/DAP5/DAP5_clustered.rds --mpath inputs/DAP5_level_3_manual_metadata.csv
 Rscript manual_annotation.R  --wd . --dataset DAP7  --harmony FALSE --seupath ../03_clustering/outputs/DAP7/DAP7_clustered.rds --mpath inputs/DAP7_level_3_manual_metadata.csv
 ```
-### Step 6: subclustering to ID endosperm subtupes
+### Step 4b: subclustering to ID endosperm subtupes
 ```
 cd  subclustering_for_CZE_subtypes
 #IDing the nodule, nodule-like, apical cyst, and basal cyst
@@ -74,18 +74,31 @@ cd  ../
 Rscript manual_annotation.R  --wd . --dataset DAP3_wcze_subs  --harmony FALSE --seupath subclustering_for_CZE_subtypes/DAP3_clustered_wcze_subs.rds --mpath inputs/DAP3_level_3_wcze_subs.csv
 Rscript manual_annotation.R  --wd . --dataset DAP5_wcze_subs  --harmony TRUE --seupath subclustering_for_CZE_subtypes/DAP5_clustered_wcze_subs.rds --mpath inputs/DAP5_level_3_wcze_subs.csv
 ```
-### Step 7: merge tissues across timepoints to enable pseudotime analysis
+### Step 5a: merge tissues across timepoints to enable pseudotime analysis
 ```
 #peforming integration by timepoint and regressing out cell cycle genes
 cd ../05_across_timepoints/01_merging
 sbatch -p 20 --mem=180gb --mail-type=ALL --job-name l2merging --wrap "Rscript level_2_merging_harmony.R"
 ```
-### Step 8: merge all annotated timepoints into one atlas dataset
+### Step 5b: Pseudotime, identify root after merging (step 5a)
+```
+#for MCE, CZE, EMB
+cd ../05_across_timepoints/02_pseudotime
+Rscript level_2_pseudotime_merged_timepoints.R
+
+#The chalazal cyst and PEN 5 DAP pseudotime analysis had to be performed separetely, since it involved two L2 annotations
+#relies only on the 5 DAP object
+cd ../../02_pseudotime/czen_spectrum_pseudo
+Rscript harmony_chalazal_endosperm_trajectory.R
+```
+
+### Step 6: merge all annotated timepoints into one atlas dataset
 ```
 cd ../../06_atlas_merging
 Rscript atlas_merging_rpca.R --wd . --dataset ATLAS --n_VarGenes 4000
 ```
-### Step 9: differential expression for all annotated timepoints 
+
+### Step 7: differential expression for all annotated timepoints 
 ```
 cd ../07_differential_expression
 Rscript differential_expression.R --wd .  --sample DAP3
@@ -93,7 +106,7 @@ Rscript differential_expression.R --wd .  --sample DAP5
 Rscript differential_expression.R --wd .  --sample DAP7
 Rscript differential_expression.R --wd .  --sample ATLAS
 ```
-### Step 10: GO analysis for all DE genes for all clusters
+### Step 8: GO analysis for all DE genes for all clusters
 ```
 cd ../08_GO_analysis
 #intermediate filtering
@@ -111,18 +124,7 @@ Rscript clusterprofiler_intermediate.R --mks ../07_differential_expression/outpu
 
 Rscript clusterprofiler_intermediate.R --mks ../07_differential_expression/outputs/ATLAS/ATLAS_level_2_annotation_timed_final_markers.csv --sample ATLAS_level_2_timed_intermediate --wd .
 ```
-### Step 11: Pseudotime, identify root after merging (step 3)
-```
-#for MCE, CZE, EMB
-cd ../05_across_timepoints/02_pseudotime
-Rscript level_2_pseudotime_merged_timepoints.R
-
-#The chalazal cyst and PEN 5 DAP pseudotime analysis had to be performed separetely, since it involved two L2 annotations
-#relies only on the 5 DAP object
-cd ../../02_pseudotime/czen_spectrum_pseudo
-Rscript harmony_chalazal_endosperm_trajectory.R
-```
-### Step 12: Enrichment analysis 
+### Step 9-11: Enrichment analysis 
 ```
 #Signalling GO term enrichment
 cd ../../09_signalling_transport_gene_enrichment
