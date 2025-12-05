@@ -94,10 +94,9 @@ Rscript level_2_merging_harmony.R
 cd ../05_across_timepoints/02_pseudotime
 Rscript level_2_pseudotime_merged_timepoints.R
 
-#The chalazal cyst and PEN 5 DAP pseudotime analysis had to be performed separetely, since it involved two L2 annotations
-#relies only on the 5 DAP object
-cd ../../02_pseudotime/czen_spectrum_pseudo
-Rscript harmony_chalazal_endosperm_trajectory.R
+#The chalazal cyst and PEN 3-5 DAP pseudotime analysis had to be performed separetely, since it involved two timepoints and two L2 annotations. In the first version of this manuscript, we only performed this analysis on 5 DAP endosperm
+cd ../../02_pseudotime/czen_spectrum_pseudo_DAP3_DAP5
+Rscript harmony_chalazal_endosperm_trajectory_35.R
 ```
 
 ### Step 6: merge all annotated timepoints into one atlas dataset
@@ -146,16 +145,12 @@ Rscript peptide_enrichment.R
 cd ../11_protein_catabolism_enrichment
 Rscript protein_catabolism_enrichment.R
 ```
-### Step 12: dN/dS analysis ###
+### Step 12: codeml analysis on single-copy orthologs ###
 ```
-cd ../12_orthologr
-Rscript orthologr.R
-
-```
-### Step 13: genome-wide codeml ###
 see the ```orthofinder_to_codeml.sh``` script for generating alignments and gene trees for codeml analysis
 
 
+```
 
 
 
