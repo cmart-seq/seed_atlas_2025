@@ -1,7 +1,7 @@
 ## snRNA-seq and evolutionary analysis code for Martin et al. 2025, _"A transcriptional atlas of early Arabidopsis seed development suggests mechanisms for inter-tissue coordination"_
 
 Below are the command line arguments for running all of the scripts implemented in Martin et al 2025.
-Steps 1-11 are for snRNA-seq data preprocessing and analysis, while step 12 and 13 are for genome-wide dN/dS and codeml analysis. 
+Steps 1-11 are for snRNA-seq data preprocessing and analysis, while step 12 is for codeml analysis on single copy orthologs. 
 Steps 1-11 have to be run sequentially, and all of the scripts assume a file structure like the one in this repository. This repository is under active development.
 
 ### Step 1a: perform initial SoupX background correction, low quality cell removal, and clustering
@@ -146,11 +146,9 @@ cd ../11_protein_catabolism_enrichment
 Rscript protein_catabolism_enrichment.R
 ```
 ### Step 12: codeml analysis on single-copy orthologs ###
-```
+
 see the ```orthofinder_to_codeml.sh``` script for generating alignments and gene trees for codeml analysis
 
-
-```
 
 
 
