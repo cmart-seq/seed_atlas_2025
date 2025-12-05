@@ -1,0 +1,23 @@
+﻿optimal_clusters_res_1.6,level_1_annotation,level_2_annotation,level_3_annotation_abbr,level_3_annotation_full,timepoint
+3,Embryo,EMB,EMB upp proto,EMB upper protoderm (PDF1),DAP7
+16,Embryo,EMB,EMB low proto,EMB lower protoderm (PDF1 and KAN1),DAP7
+0,Embryo,EMB,EMB inn cotyl,EMB inner cotyledon (XYL4),DAP7
+7,Embryo,EMB,EMB vasc prim,EMB vascular primordium (SHR and JUL1),DAP7
+13,Embryo,EMB,EMB gro tiss init,EMB ground tissue initials (JKD and SCR),DAP7
+17,Embryo,EMB,EMB cort init,EMB cortical initials (JKD),DAP7
+22,Embryo,EMB,EMB hypoph,EMB hypophysis (SMB),DAP7
+19,Embryo,EMB,EMB  s-phase,EMB S-phase (HMGB6),DAP7
+18,Embryo,EMB,EMB g2/m-phase,EMB G2M-phase (MAD2),DAP7
+26,Embryo,EMB,EMB g2/m-phase,EMB G2M-phase (MAD2),DAP7
+0,Embryo,EMB,EMB low proto,EMB lower protoderm (PDF1 and KAN1),DAP5
+1,Embryo,EMB,EMB upp proto I,EMB upper protoderm I (PDF1 and KRATOS),DAP5
+2,Embryo,EMB,EMB upp proto II,EMB upper protoderm II (PDF1 and AS2),DAP5
+5,Embryo,EMB,EMB vasc prim,EMB vascular primordium and hypophysis (SHR and PIN4),DAP5
+3,Embryo,EMB,EMB cort init,EMB cortical initials (XYL4 and JKD),DAP5
+4,Embryo,EMB,EMB unknown,EMB unknown (IMK2),DAP5
+0,Embryo,EMB,EMB low proto,EMB lower protoderm (PDF1 and KAN1),DAP3
+3,Embryo,EMB,EMB upp proto,EMB upper protoderm (PDF1),DAP3
+2,Embryo,EMB,EMB unknown I,"EMB unknown I, (PME5)",DAP3
+4,Embryo,EMB,EMB unknown II,"EMB unknown II, potential pre- or early-globular (AGP18 and PME5)",DAP3
+5,Embryo,EMB,EMB sus,EMB suspensor (PIN7),DAP3
+1,Seed coat,oi1,oi1 flav synth,oi1 flavinol synthesizing (MYB11),DAP3
