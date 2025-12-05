@@ -74,6 +74,14 @@ cd  ../
 Rscript manual_annotation.R  --wd . --dataset DAP3_wcze_subs  --harmony FALSE --seupath subclustering_for_CZE_subtypes/DAP3_clustered_wcze_subs.rds --mpath inputs/DAP3_level_3_wcze_subs.csv
 Rscript manual_annotation.R  --wd . --dataset DAP5_wcze_subs  --harmony TRUE --seupath subclustering_for_CZE_subtypes/DAP5_clustered_wcze_subs.rds --mpath inputs/DAP5_level_3_wcze_subs.csv
 ```
+### Step 4c: subclustering to ID embryo subtypes
+```
+cd  review_embryo_subclustering
+#IDing embryo subtypes at 3 and 5 DAP
+04_manual_annotation/review_embryo_subclustering/subclustering_emb_reviews.R
+
+```
+
 ### Step 5a: merge L2 clusters across timepoints to enable pseudotime analysis
 ```
 #peforming integration by timepoint and regressing out cell cycle genes
